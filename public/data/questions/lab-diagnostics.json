@@ -1,0 +1,162 @@
+{
+  "categoryId": "lab-diagnostics",
+  "categoryName": "Lab & Diagnostics",
+  "questions": [
+    {
+      "id": "bopic-002",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This table compares copper studies in Wilson disease and Menkes disease. Ceruloplasmin is low in BOTH conditions. What is the shared mechanistic reason?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal loss of ceruloplasmin occurs in both diseases"
+        },
+        {
+          "label": "B",
+          "text": "Both diseases cause hepatic failure that halts all protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Both diseases increase ceruloplasmin degradation by the spleen"
+        },
+        {
+          "label": "D",
+          "text": "Autoantibodies against ceruloplasmin are produced in both"
+        },
+        {
+          "label": "E",
+          "text": "Impaired incorporation of copper into apoceruloplasmin destabilizes the protein, lowering circulating ceruloplasmin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ceruloplasmin must be loaded with copper to be stable and secreted. In Menkes, defective ATP7A limits copper delivery; in Wilson, defective ATP7B impairs copper incorporation and biliary export. In both, apoceruloplasmin without copper is rapidly degraded, so serum ceruloplasmin is low.",
+        "whyCorrect": "Ceruloplasmin must be loaded with copper to be stable and secreted. In Menkes, defective ATP7A limits copper delivery; in Wilson, defective ATP7B impairs copper incorporation and biliary export. In both, apoceruloplasmin without copper is rapidly degraded, so serum ceruloplasmin is low.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-002_31_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-003",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Each row shows the pattern of iron studies (serum iron, ferritin, TIBC, transferrin saturation). Which row (A-D) is most consistent with hereditary hemochromatosis (iron overload)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Row D"
+        },
+        {
+          "label": "B",
+          "text": "Row A"
+        },
+        {
+          "label": "C",
+          "text": "Row C"
+        },
+        {
+          "label": "D",
+          "text": "Row B"
+        },
+        {
+          "label": "E",
+          "text": "None of the rows"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Iron overload raises serum iron, ferritin, and transferrin saturation while lowering TIBC (transferrin production falls as stores rise). Row C shows iron up, ferritin up, TIBC down, saturation up. Row D (iron down, ferritin up, TIBC down) fits anemia of chronic disease.",
+        "whyCorrect": "Iron overload raises serum iron, ferritin, and transferrin saturation while lowering TIBC (transferrin production falls as stores rise). Row C shows iron up, ferritin up, TIBC down, saturation up. Row D (iron down, ferritin up, TIBC down) fits anemia of chronic disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-003_36_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-004",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this fundoscopic (retinal) photograph, identify the bright, well-demarcated structure where the retinal vessels converge and exit the eye.",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Optic disc"
+        },
+        {
+          "label": "B",
+          "text": "Fovea centralis"
+        },
+        {
+          "label": "C",
+          "text": "Lamina cribrosa"
+        },
+        {
+          "label": "D",
+          "text": "Macula"
+        },
+        {
+          "label": "E",
+          "text": "Central retinal artery"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The optic disc is the pale, round region where retinal ganglion cell axons leave the eye as the optic nerve and where central retinal vessels enter/exit. It lacks photoreceptors (the physiologic blind spot). The darker temporal area is the macula/fovea.",
+        "whyCorrect": "The optic disc is the pale, round region where retinal ganglion cell axons leave the eye as the optic nerve and where central retinal vessels enter/exit. It lacks photoreceptors (the physiologic blind spot). The darker temporal area is the macula/fovea.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-004_39_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-005",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This karyotype shows three copies of chromosome 21 (circled). Which clinical condition does it establish?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patau syndrome (trisomy 13)"
+        },
+        {
+          "label": "B",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Edwards syndrome (trisomy 18)"
+        },
+        {
+          "label": "D",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "An extra chromosome 21 (trisomy 21) is diagnostic of Down syndrome, the most common autosomal trisomy, typically arising from maternal meiotic nondisjunction. Features include intellectual disability, flat facies, and increased risk of endocardial cushion defects and early Alzheimer disease.",
+        "whyCorrect": "An extra chromosome 21 (trisomy 21) is diagnostic of Down syndrome, the most common autosomal trisomy, typically arising from maternal meiotic nondisjunction. Features include intellectual disability, flat facies, and increased risk of endocardial cushion defects and early Alzheimer disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-005_40_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

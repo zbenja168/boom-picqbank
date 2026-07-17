@@ -1,0 +1,45 @@
+{
+  "categoryId": "histology-cell-biology",
+  "categoryName": "Histology & Cell Biology",
+  "questions": [
+    {
+      "id": "bopic-001",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "A fatty acid consists of a long hydrocarbon chain ending in a carboxylate group, as shown. Because it has both nonpolar and polar regions, how do fatty acids behave in water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They dissolve completely and evenly as single free molecules"
+        },
+        {
+          "label": "B",
+          "text": "They fully repel water and cannot interact with it at all"
+        },
+        {
+          "label": "C",
+          "text": "They sink and remain as an inert solid at the bottom"
+        },
+        {
+          "label": "D",
+          "text": "They are amphipathic and self-assemble with tails inward and heads facing water (e.g., micelles)"
+        },
+        {
+          "label": "E",
+          "text": "They spontaneously polymerize into rigid protein-like fibers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hydrophobic hydrocarbon tail avoids water while the hydrophilic carboxylate head interacts with it. This amphipathic character drives fatty acids and related lipids to form micelles and bilayers, the basis of biological membranes.",
+        "whyCorrect": "The hydrophobic hydrocarbon tail avoids water while the hydrophilic carboxylate head interacts with it. This amphipathic character drives fatty acids and related lipids to form micelles and bilayers, the basis of biological membranes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-001_22_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

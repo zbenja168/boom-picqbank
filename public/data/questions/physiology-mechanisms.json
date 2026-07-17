@@ -1,0 +1,669 @@
+{
+  "categoryId": "physiology-mechanisms",
+  "categoryName": "Physiology & Mechanisms",
+  "questions": [
+    {
+      "id": "bopic-010",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This figure shows a replication fork with helicase and DNA polymerase acting on parental DNA. In which direction does DNA polymerase synthesize the new strands?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "5' to 3' only, adding nucleotides to the 3'-OH end"
+        },
+        {
+          "label": "B",
+          "text": "Either direction, depending on which strand is the template"
+        },
+        {
+          "label": "C",
+          "text": "5' to 3' on the leading strand and 3' to 5' on the lagging strand"
+        },
+        {
+          "label": "D",
+          "text": "3' to 5' only, adding nucleotides to the 5'-phosphate end"
+        },
+        {
+          "label": "E",
+          "text": "Bidirectionally from an internal RNA primer"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "DNA polymerase can only add free nucleotides to a free 3'-hydroxyl group, so all new DNA is synthesized 5' to 3'. This is why the lagging strand must be made discontinuously as Okazaki fragments while helicase unwinds the parental duplex.",
+        "whyCorrect": "DNA polymerase can only add free nucleotides to a free 3'-hydroxyl group, so all new DNA is synthesized 5' to 3'. This is why the lagging strand must be made discontinuously as Okazaki fragments while helicase unwinds the parental duplex.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-010_10_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-011",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram shows a primary transcript associating with snRNPs to form a spliceosome, generating a lariat intermediate before joining Exon 1 to Exon 2. What is the purpose of this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyadenylation of the 3' end of the mRNA"
+        },
+        {
+          "label": "B",
+          "text": "Reverse transcription of mRNA back into DNA"
+        },
+        {
+          "label": "C",
+          "text": "Removal of introns and ligation of exons in the pre-mRNA"
+        },
+        {
+          "label": "D",
+          "text": "Addition of the 5' 7-methylguanosine cap to the transcript"
+        },
+        {
+          "label": "E",
+          "text": "Editing of individual bases to change codon identity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spliceosome (U1, U2, and other snRNPs) recognizes the 5' and 3' splice sites, cleaves at the 5' site to form a lariat via the branch-point adenosine, then cleaves at the 3' site to release the intron and join the flanking exons. This produces mature mRNA.",
+        "whyCorrect": "The spliceosome (U1, U2, and other snRNPs) recognizes the 5' and 3' splice sites, cleaves at the 5' site to form a lariat via the branch-point adenosine, then cleaves at the 3' site to release the intron and join the flanking exons. This produces mature mRNA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-011_11_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-012",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Using the sentence 'THE FAT CAT ATE THE RAT' (codons of three letters), why does the '3x deletion' at the bottom NOT scramble the downstream reading like the single insertion and single deletion above it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Three deletions cancel out to restore the original nucleotide count exactly"
+        },
+        {
+          "label": "B",
+          "text": "Removing three nucleotides deletes a whole codon while keeping the remaining codons in frame"
+        },
+        {
+          "label": "C",
+          "text": "The ribosome skips any region containing multiple adjacent deletions"
+        },
+        {
+          "label": "D",
+          "text": "Deletions in threes are always repaired before translation occurs"
+        },
+        {
+          "label": "E",
+          "text": "Three-base deletions convert the sequence into a silent (synonymous) change"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The reading frame is set in three-nucleotide codons. Insertions or deletions of one (or two) bases shift every downstream codon (frameshift). Removing three bases eliminates one full codon (one amino acid) but leaves all subsequent codons read correctly, so it is an in-frame mutation.",
+        "whyCorrect": "The reading frame is set in three-nucleotide codons. Insertions or deletions of one (or two) bases shift every downstream codon (frameshift). Removing three bases eliminates one full codon (one amino acid) but leaves all subsequent codons read correctly, so it is an in-frame mutation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-012_12_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-013",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This reaction (CO2 + H2O <-> H2CO3 <-> HCO3- + H+) is catalyzed by the enzyme shown in green. In red blood cells and renal tubules, what is the primary physiologic role of this reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fixation of atmospheric nitrogen into usable form"
+        },
+        {
+          "label": "B",
+          "text": "Detoxification of ammonia into urea"
+        },
+        {
+          "label": "C",
+          "text": "Reduction of oxygen to water at the end of the electron transport chain"
+        },
+        {
+          "label": "D",
+          "text": "Interconversion of CO2 and bicarbonate for CO2 transport and acid-base buffering"
+        },
+        {
+          "label": "E",
+          "text": "Generation of ATP by substrate-level phosphorylation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carbonic anhydrase rapidly interconverts CO2 and bicarbonate. This lets most CO2 be carried in blood as HCO3- and provides the bicarbonate buffer system that the kidney and lungs use to regulate blood pH.",
+        "whyCorrect": "Carbonic anhydrase rapidly interconverts CO2 and bicarbonate. This lets most CO2 be carried in blood as HCO3- and provides the bicarbonate buffer system that the kidney and lungs use to regulate blood pH.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-013_15_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-014",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this scheme, D-glucose is treated with an oxidizing agent to yield D-gluconate. What chemical change occurs at carbon 1?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The C1 aldehyde is reduced to a primary alcohol"
+        },
+        {
+          "label": "B",
+          "text": "The C1 aldehyde is oxidized to a carboxylic acid (carboxylate)"
+        },
+        {
+          "label": "C",
+          "text": "A phosphate group is added to C1"
+        },
+        {
+          "label": "D",
+          "text": "The C6 alcohol is oxidized to a carboxylic acid"
+        },
+        {
+          "label": "E",
+          "text": "The ring oxygen is replaced by a nitrogen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucose exists in equilibrium between its cyclic hemiacetal and open-chain aldehyde forms. Oxidation of the reactive C1 aldehyde group produces the carboxylate of gluconate, which is why glucose acts as a reducing sugar.",
+        "whyCorrect": "Glucose exists in equilibrium between its cyclic hemiacetal and open-chain aldehyde forms. Oxidation of the reactive C1 aldehyde group produces the carboxylate of gluconate, which is why glucose acts as a reducing sugar.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-014_18_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-015",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This structure shows a glycogen molecule with linear chains of alpha-1,4-linked glucose and branch points formed by alpha-1,6 linkages. What is the main functional advantage of the alpha-1,6 branching?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It converts glycogen into a structural fiber like cellulose"
+        },
+        {
+          "label": "B",
+          "text": "It prevents the molecule from being broken down by any enzyme"
+        },
+        {
+          "label": "C",
+          "text": "It multiplies the number of nonreducing ends, allowing rapid simultaneous synthesis and degradation"
+        },
+        {
+          "label": "D",
+          "text": "It makes glycogen insoluble so it can be stored as a crystalline solid"
+        },
+        {
+          "label": "E",
+          "text": "It allows glycogen to be exported directly into the bloodstream"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Each branch creates an additional nonreducing end where glycogen phosphorylase (degradation) and glycogen synthase (synthesis) act. Many ends let cells mobilize or store glucose very quickly, important for rapid energy demands.",
+        "whyCorrect": "Each branch creates an additional nonreducing end where glycogen phosphorylase (degradation) and glycogen synthase (synthesis) act. Many ends let cells mobilize or store glucose very quickly, important for rapid energy demands.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-015_19_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-016",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram shows the fates of pyruvate. Under anaerobic conditions (pathway #4, catalyzed by LDH), what is the key benefit of converting pyruvate to lactate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It regenerates NAD+ so glycolysis can continue producing ATP"
+        },
+        {
+          "label": "B",
+          "text": "It donates electrons directly to the electron transport chain"
+        },
+        {
+          "label": "C",
+          "text": "It generates acetyl-CoA to feed the TCA cycle"
+        },
+        {
+          "label": "D",
+          "text": "It produces large amounts of ATP directly from the reaction"
+        },
+        {
+          "label": "E",
+          "text": "It fixes CO2 into a new carbon skeleton"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+. Regenerating NAD+ keeps glyceraldehyde-3-phosphate dehydrogenase running, allowing glycolytic ATP production when oxygen (and oxidative phosphorylation) is unavailable.",
+        "whyCorrect": "Lactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+. Regenerating NAD+ keeps glyceraldehyde-3-phosphate dehydrogenase running, allowing glycolytic ATP production when oxygen (and oxidative phosphorylation) is unavailable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-016_20_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-017",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this pathway, a receptor signal converts Ras-GDP (inactive) to Ras-GTP (active), which triggers Raf -> MEK -> MAP kinase -> Erk and ultimately gene transcription. What is the direct role of the GEFs shown acting on Ras?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They hydrolyze GTP to GDP, turning Ras off"
+        },
+        {
+          "label": "B",
+          "text": "They catalyze exchange of GDP for GTP, switching Ras to its active state"
+        },
+        {
+          "label": "C",
+          "text": "They degrade Ras to terminate the signal"
+        },
+        {
+          "label": "D",
+          "text": "They anchor the receptor into the plasma membrane"
+        },
+        {
+          "label": "E",
+          "text": "They phosphorylate Erk so it can enter the nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Guanine nucleotide exchange factors (GEFs) promote release of GDP and loading of GTP onto Ras, activating it. Active Ras-GTP then drives the Raf/MEK/ERK cascade. GTP hydrolysis (via GAPs) later inactivates Ras; a mutation blocking this hydrolysis causes constitutive signaling and cancer.",
+        "whyCorrect": "Guanine nucleotide exchange factors (GEFs) promote release of GDP and loading of GTP onto Ras, activating it. Active Ras-GTP then drives the Raf/MEK/ERK cascade. GTP hydrolysis (via GAPs) later inactivates Ras; a mutation blocking this hydrolysis causes constitutive signaling and cancer.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-017_25_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-018",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Hormones are grouped here as water-soluble (polypeptides such as insulin, and catecholamine amines like epinephrine) versus lipid-soluble (steroids like cortisol, and thyroxine). Which group can diffuse across the plasma membrane to act on intracellular receptors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Only the largest hormones, based on molecular size"
+        },
+        {
+          "label": "B",
+          "text": "The lipid-soluble hormones (steroids and thyroxine)"
+        },
+        {
+          "label": "C",
+          "text": "The water-soluble polypeptides such as insulin"
+        },
+        {
+          "label": "D",
+          "text": "All hormones equally regardless of solubility"
+        },
+        {
+          "label": "E",
+          "text": "The catecholamine amines such as epinephrine"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lipid-soluble hormones cross the phospholipid bilayer and bind intracellular (cytoplasmic or nuclear) receptors to alter gene transcription. Water-soluble hormones (peptides, catecholamines) cannot cross the membrane and instead bind cell-surface receptors that use second messengers.",
+        "whyCorrect": "Lipid-soluble hormones cross the phospholipid bilayer and bind intracellular (cytoplasmic or nuclear) receptors to alter gene transcription. Water-soluble hormones (peptides, catecholamines) cannot cross the membrane and instead bind cell-surface receptors that use second messengers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-018_25_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-019",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This figure shows glycerol metabolism occurring in the liver. Why can glycerol released from adipose triglyceride only be metabolized (for gluconeogenesis or re-esterification) after reaching the liver?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adipose tissue lacks glycerol kinase, so it cannot phosphorylate glycerol"
+        },
+        {
+          "label": "B",
+          "text": "Adipose tissue converts all glycerol directly to DHAP"
+        },
+        {
+          "label": "C",
+          "text": "Adipose tissue lacks glycerol 3-phosphate dehydrogenase"
+        },
+        {
+          "label": "D",
+          "text": "Glycerol cannot cross the hepatocyte membrane"
+        },
+        {
+          "label": "E",
+          "text": "Adipocytes cannot export glycerol into the blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glycerol kinase is expressed almost exclusively in the liver (and kidney). Adipocytes release free glycerol during lipolysis because they cannot phosphorylate it; the liver traps glycerol as glycerol 3-phosphate for gluconeogenesis (glucagon state) or triglyceride/VLDL synthesis (insulin state).",
+        "whyCorrect": "Glycerol kinase is expressed almost exclusively in the liver (and kidney). Adipocytes release free glycerol during lipolysis because they cannot phosphorylate it; the liver traps glycerol as glycerol 3-phosphate for gluconeogenesis (glucagon state) or triglyceride/VLDL synthesis (insulin state).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-019_27_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-020",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Each row shows the direction of change of several metabolic parameters. Which row (A-D) is consistent with the fed, insulin-dominant state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Row B"
+        },
+        {
+          "label": "B",
+          "text": "None of the rows"
+        },
+        {
+          "label": "C",
+          "text": "Row D"
+        },
+        {
+          "label": "D",
+          "text": "Row A"
+        },
+        {
+          "label": "E",
+          "text": "Row C"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the fed state the insulin:glucagon ratio rises, hormone-sensitive lipase is inhibited (down), glycogen synthase is dephosphorylated so the phosphorylated (inactive) form falls, chylomicrons circulate after a meal (up), and hepatic PFK-2 kinase activity rises to drive glycolysis. Row A matches all five.",
+        "whyCorrect": "In the fed state the insulin:glucagon ratio rises, hormone-sensitive lipase is inhibited (down), glycogen synthase is dephosphorylated so the phosphorylated (inactive) form falls, chylomicrons circulate after a meal (up), and hepatic PFK-2 kinase activity rises to drive glycolysis. Row A matches all five.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-020_27_p27_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-021",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This pathway converts tryptophan into nicotinamide for NAD+. Given the step marked 'requires B6,' a deficiency of which vitamin can worsen pellagra by limiting endogenous niacin production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B1 (thiamine)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C (ascorbate)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tryptophan is a precursor for de novo NAD+/niacin synthesis, and a PLP (vitamin B6)-dependent step is required. B6 deficiency therefore impairs this conversion and can produce or aggravate pellagra-like symptoms even when dietary tryptophan is adequate.",
+        "whyCorrect": "Tryptophan is a precursor for de novo NAD+/niacin synthesis, and a PLP (vitamin B6)-dependent step is required. B6 deficiency therefore impairs this conversion and can produce or aggravate pellagra-like symptoms even when dietary tryptophan is adequate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-021_29_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-022",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Of the four ammonia-handling enzymes shown, which one catalyzes a reversible reaction that both fixes free ammonium into and releases it from an amino acid using NAD(P)+/NAD(P)H?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transaminase (aminotransferase)"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Glutaminase"
+        },
+        {
+          "label": "D",
+          "text": "Glutamine synthetase"
+        },
+        {
+          "label": "E",
+          "text": "Carbamoyl phosphate synthetase I"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glutamate dehydrogenase reversibly interconverts glutamate and a-ketoglutarate, releasing or fixing free NH4+ and using NAD(P)+/NAD(P)H. Transaminases move amino groups without freeing ammonia, glutamine synthetase only fixes ammonia (irreversibly, ATP-dependent), and glutaminase only releases it.",
+        "whyCorrect": "Glutamate dehydrogenase reversibly interconverts glutamate and a-ketoglutarate, releasing or fixing free NH4+ and using NAD(P)+/NAD(P)H. Transaminases move amino groups without freeing ammonia, glutamine synthetase only fixes ammonia (irreversibly, ATP-dependent), and glutaminase only releases it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-022_32_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-023",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this urea cycle diagram, which molecule supplies the second nitrogen atom that is incorporated into urea and is regenerated through the AST (aspartate transaminase) reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aspartate"
+        },
+        {
+          "label": "B",
+          "text": "Ornithine"
+        },
+        {
+          "label": "C",
+          "text": "Arginine"
+        },
+        {
+          "label": "D",
+          "text": "Glutamine"
+        },
+        {
+          "label": "E",
+          "text": "Glutamate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The first urea nitrogen enters as free ammonia (via carbamoyl phosphate); the second is donated by aspartate when it condenses with citrulline to form argininosuccinate. Aspartate is regenerated from oxaloacetate via AST, linking the urea cycle to the malate-aspartate/TCA intermediates.",
+        "whyCorrect": "The first urea nitrogen enters as free ammonia (via carbamoyl phosphate); the second is donated by aspartate when it condenses with citrulline to form argininosuccinate. Aspartate is regenerated from oxaloacetate via AST, linking the urea cycle to the malate-aspartate/TCA intermediates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-023_33_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-024",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram shows phenylalanine being converted to tyrosine by phenylalanine hydroxylase before branching to catecholamines and melanin. A deficiency of this first enzyme causes which disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albinism"
+        },
+        {
+          "label": "B",
+          "text": "Alkaptonuria"
+        },
+        {
+          "label": "C",
+          "text": "Homocystinuria"
+        },
+        {
+          "label": "D",
+          "text": "Phenylketonuria (PKU)"
+        },
+        {
+          "label": "E",
+          "text": "Maple syrup urine disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phenylalanine hydroxylase (or its BH4 cofactor) converts phenylalanine to tyrosine. Loss of this enzyme causes phenylketonuria, with accumulated phenylalanine, musty odor, intellectual disability, and reduced downstream tyrosine-derived products (hence lighter pigmentation).",
+        "whyCorrect": "Phenylalanine hydroxylase (or its BH4 cofactor) converts phenylalanine to tyrosine. Loss of this enzyme causes phenylketonuria, with accumulated phenylalanine, musty odor, intellectual disability, and reduced downstream tyrosine-derived products (hence lighter pigmentation).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-024_34_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-025",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This RBC metabolic map shows an enzyme (cytochrome b5 reductase) that reduces Fe3+-hemoglobin back to Fe2+-hemoglobin. Deficiency of this enzyme causes which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G6PD deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Sickle cell anemia"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Sideroblastic anemia"
+        },
+        {
+          "label": "E",
+          "text": "Methemoglobinemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cytochrome b5 reductase (NADH-methemoglobin reductase) keeps hemoglobin iron in the ferrous (Fe2+) oxygen-binding state. Its deficiency, or exposure to oxidants, leaves iron as ferric (Fe3+) methemoglobin, which cannot carry oxygen, producing cyanosis and chocolate-colored blood.",
+        "whyCorrect": "Cytochrome b5 reductase (NADH-methemoglobin reductase) keeps hemoglobin iron in the ferrous (Fe2+) oxygen-binding state. Its deficiency, or exposure to oxidants, leaves iron as ferric (Fe3+) methemoglobin, which cannot carry oxygen, producing cyanosis and chocolate-colored blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-025_37_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-026",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "Comparing normal meiosis with nondisjunction, how does a disomic gamete produced by nondisjunction in meiosis I differ from one produced by nondisjunction in meiosis II?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Meiosis I nondisjunction produces gametes with a normal chromosome number"
+        },
+        {
+          "label": "B",
+          "text": "Meiosis I nondisjunction never produces viable gametes, unlike meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "Only meiosis II nondisjunction can cause aneuploidy"
+        },
+        {
+          "label": "D",
+          "text": "Meiosis I nondisjunction yields a gamete with both different homologs, whereas meiosis II yields two copies of the same homolog"
+        },
+        {
+          "label": "E",
+          "text": "Meiosis II nondisjunction affects all four gametes, meiosis I affects only two"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Homologous chromosomes separate in meiosis I and sister chromatids in meiosis II. Failure in meiosis I sends both homologs (one maternal, one paternal) to the same gamete and leaves all four gametes abnormal; failure in meiosis II sends two identical sister chromatids to one gamete, leaving two of four gametes normal.",
+        "whyCorrect": "Homologous chromosomes separate in meiosis I and sister chromatids in meiosis II. Failure in meiosis I sends both homologs (one maternal, one paternal) to the same gamete and leaves all four gametes abnormal; failure in meiosis II sends two identical sister chromatids to one gamete, leaving two of four gametes normal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-026_42_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

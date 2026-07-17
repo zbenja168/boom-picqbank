@@ -1,0 +1,162 @@
+{
+  "categoryId": "pathology",
+  "categoryName": "Pathology",
+  "questions": [
+    {
+      "id": "bopic-006",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A tall patient can protrude the thumb beyond the ulnar border of a clenched fist (left) and can overlap the thumb and fifth finger around the opposite wrist (right). These maneuvers are classic bedside signs of which disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatoid arthritis"
+        },
+        {
+          "label": "B",
+          "text": "Dupuytren contracture"
+        },
+        {
+          "label": "C",
+          "text": "Marfan syndrome (fibrillin-1 connective tissue defect)"
+        },
+        {
+          "label": "D",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Osteoarthritis of the hand"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The thumb (Steinberg) sign and wrist (Walker-Murdoch) sign reflect the arachnodactyly and joint laxity of Marfan syndrome, caused by mutations in the FBN1 gene encoding fibrillin-1.",
+        "whyCorrect": "The thumb (Steinberg) sign and wrist (Walker-Murdoch) sign reflect the arachnodactyly and joint laxity of Marfan syndrome, caused by mutations in the FBN1 gene encoding fibrillin-1.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-006_14_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-007",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These scanning electron micrographs contrast a normal biconcave red cell (a) with the deformed crescent-shaped cell (b). The cell in (b) is characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Hereditary spherocytosis"
+        },
+        {
+          "label": "D",
+          "text": "Beta-thalassemia major"
+        },
+        {
+          "label": "E",
+          "text": "Sickle cell disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A point mutation (Glu->Val) in beta-globin produces HbS, which polymerizes when deoxygenated and distorts the erythrocyte into the rigid sickle shape shown in panel b, causing hemolysis and vaso-occlusion.",
+        "whyCorrect": "A point mutation (Glu->Val) in beta-globin produces HbS, which polymerizes when deoxygenated and distorts the erythrocyte into the rigid sickle shape shown in panel b, causing hemolysis and vaso-occlusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-007_17_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-008",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "An adult presents with the yellowish eyelid deposits, corneal arcus, and tendon nodules over the knuckles and Achilles tendon shown here. These findings together most strongly suggest what underlying abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Markedly elevated LDL cholesterol, as in familial hypercholesterolemia"
+        },
+        {
+          "label": "B",
+          "text": "Excess iron deposition (hemochromatosis)"
+        },
+        {
+          "label": "C",
+          "text": "Chronically elevated serum uric acid (gout)"
+        },
+        {
+          "label": "D",
+          "text": "Elevated serum calcium (hyperparathyroidism)"
+        },
+        {
+          "label": "E",
+          "text": "Copper accumulation (Wilson disease)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Xanthelasma, corneal arcus, and tendon xanthomas are lipid-laden macrophage deposits seen with high circulating LDL. Their presence, especially at a young age, points to familial hypercholesterolemia (LDL-receptor defect).",
+        "whyCorrect": "Xanthelasma, corneal arcus, and tendon xanthomas are lipid-laden macrophage deposits seen with high circulating LDL. Their presence, especially at a young age, points to familial hypercholesterolemia (LDL-receptor defect).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-008_23_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-009",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This heme synthesis pathway shows lead (Pb) blocking ferrochelatase. Because iron can no longer be inserted into the ring, which molecule accumulates and serves as a clinical screening marker for lead poisoning?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aminolevulinic acid (ALA)"
+        },
+        {
+          "label": "B",
+          "text": "Uroporphyrinogen III"
+        },
+        {
+          "label": "C",
+          "text": "Porphobilinogen"
+        },
+        {
+          "label": "D",
+          "text": "Protoporphyrin IX (elevated as zinc protoporphyrin)"
+        },
+        {
+          "label": "E",
+          "text": "Coproporphyrinogen III"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ferrochelatase normally inserts Fe2+ into protoporphyrin IX to make heme. Lead inhibits ferrochelatase (and ALA dehydratase), so protoporphyrin IX accumulates and zinc binds in place of iron, raising zinc/free erythrocyte protoporphyrin, a marker used to screen for lead toxicity.",
+        "whyCorrect": "Ferrochelatase normally inserts Fe2+ into protoporphyrin IX to make heme. Lead inhibits ferrochelatase (and ALA dehydratase), so protoporphyrin IX accumulates and zinc binds in place of iron, raising zinc/free erythrocyte protoporphyrin, a marker used to screen for lead toxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-009_35_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
