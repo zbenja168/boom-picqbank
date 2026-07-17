@@ -3,131 +3,911 @@
   "categoryName": "Lab & Diagnostics",
   "questions": [
     {
-      "id": "bopic-002",
+      "id": "bopic-018",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "This table compares copper studies in Wilson disease and Menkes disease. Ceruloplasmin is low in BOTH conditions. What is the shared mechanistic reason?",
+      "stem": "The lavender-topped blood collection tubes shown contain the additive depicted on the label. By what mechanism does that additive prevent the collected blood from clotting?",
       "choices": [
         {
           "label": "A",
-          "text": "Renal loss of ceruloplasmin occurs in both diseases"
+          "text": "It lyses red cells to release anticoagulant hemoglobin"
         },
         {
           "label": "B",
-          "text": "Both diseases cause hepatic failure that halts all protein synthesis"
+          "text": "It chelates calcium ions, blocking the calcium-dependent coagulation cascade"
         },
         {
           "label": "C",
-          "text": "Both diseases increase ceruloplasmin degradation by the spleen"
+          "text": "It activates antithrombin to inhibit thrombin and factor Xa"
         },
         {
           "label": "D",
-          "text": "Autoantibodies against ceruloplasmin are produced in both"
+          "text": "It coats platelets to prevent their aggregation"
         },
         {
           "label": "E",
-          "text": "Impaired incorporation of copper into apoceruloplasmin destabilizes the protein, lowering circulating ceruloplasmin"
+          "text": "It converts fibrinogen directly into soluble fragments"
         }
       ],
-      "correctAnswer": "E",
+      "correctAnswer": "B",
       "explanation": {
-        "summary": "Ceruloplasmin must be loaded with copper to be stable and secreted. In Menkes, defective ATP7A limits copper delivery; in Wilson, defective ATP7B impairs copper incorporation and biliary export. In both, apoceruloplasmin without copper is rapidly degraded, so serum ceruloplasmin is low.",
-        "whyCorrect": "Ceruloplasmin must be loaded with copper to be stable and secreted. In Menkes, defective ATP7A limits copper delivery; in Wilson, defective ATP7B impairs copper incorporation and biliary export. In both, apoceruloplasmin without copper is rapidly degraded, so serum ceruloplasmin is low.",
+        "summary": "Lavender-top tubes contain EDTA, which irreversibly binds (chelates) calcium. Because several coagulation steps require Ca2+, removing free calcium blocks clotting. EDTA preserves cell morphology well, making these tubes standard for CBCs and blood-cell counts.",
+        "whyCorrect": "Lavender-top tubes contain EDTA, which irreversibly binds (chelates) calcium. Because several coagulation steps require Ca2+, removing free calcium blocks clotting. EDTA preserves cell morphology well, making these tubes standard for CBCs and blood-cell counts.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-002_31_p14_1.png",
+      "imageRef": "bopic-018_13_p17_1.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "bopic-003",
+      "id": "bopic-019",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "Each row shows the pattern of iron studies (serum iron, ferritin, TIBC, transferrin saturation). Which row (A-D) is most consistent with hereditary hemochromatosis (iron overload)?",
+      "stem": "This supravitally stained blood smear shows red cells (arrows) containing small round inclusions clustered near the cell membrane. In the setting of oxidative stress, these inclusions are best identified as what?",
       "choices": [
         {
           "label": "A",
-          "text": "Row D"
+          "text": "Heinz bodies (denatured hemoglobin)"
         },
         {
           "label": "B",
-          "text": "Row A"
+          "text": "Malarial ring trophozoites"
         },
         {
           "label": "C",
-          "text": "Row C"
+          "text": "Howell-Jolly bodies"
         },
         {
           "label": "D",
-          "text": "Row B"
+          "text": "Pappenheimer bodies"
         },
         {
           "label": "E",
-          "text": "None of the rows"
-        }
-      ],
-      "correctAnswer": "C",
-      "explanation": {
-        "summary": "Iron overload raises serum iron, ferritin, and transferrin saturation while lowering TIBC (transferrin production falls as stores rise). Row C shows iron up, ferritin up, TIBC down, saturation up. Row D (iron down, ferritin up, TIBC down) fits anemia of chronic disease.",
-        "whyCorrect": "Iron overload raises serum iron, ferritin, and transferrin saturation while lowering TIBC (transferrin production falls as stores rise). Row C shows iron up, ferritin up, TIBC down, saturation up. Row D (iron down, ferritin up, TIBC down) fits anemia of chronic disease.",
-        "whyWrongByChoice": {}
-      },
-      "difficulty": "medium",
-      "imageRef": "bopic-003_36_p25_1.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "bopic-004",
-      "topicId": "lab-diagnostics",
-      "topicName": "Lab & Diagnostics",
-      "stem": "In this fundoscopic (retinal) photograph, identify the bright, well-demarcated structure where the retinal vessels converge and exit the eye.",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Optic disc"
-        },
-        {
-          "label": "B",
-          "text": "Fovea centralis"
-        },
-        {
-          "label": "C",
-          "text": "Lamina cribrosa"
-        },
-        {
-          "label": "D",
-          "text": "Macula"
-        },
-        {
-          "label": "E",
-          "text": "Central retinal artery"
+          "text": "Basophilic stippling"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The optic disc is the pale, round region where retinal ganglion cell axons leave the eye as the optic nerve and where central retinal vessels enter/exit. It lacks photoreceptors (the physiologic blind spot). The darker temporal area is the macula/fovea.",
-        "whyCorrect": "The optic disc is the pale, round region where retinal ganglion cell axons leave the eye as the optic nerve and where central retinal vessels enter/exit. It lacks photoreceptors (the physiologic blind spot). The darker temporal area is the macula/fovea.",
+        "summary": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyCorrect": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-004_39_p5_1.png",
+      "imageRef": "bopic-019_14_p5_1.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "bopic-005",
+      "id": "bopic-020",
       "topicId": "lab-diagnostics",
       "topicName": "Lab & Diagnostics",
-      "stem": "This karyotype shows three copies of chromosome 21 (circled). Which clinical condition does it establish?",
+      "stem": "This workflow uses a primary antibody, an HRP-polymer-linked secondary antibody, and DAB to produce a brown precipitate on a tissue section. What does the brown color localize in the final microscopy step?",
       "choices": [
         {
           "label": "A",
-          "text": "Patau syndrome (trisomy 13)"
+          "text": "Regions of highest DNA density in cell nuclei"
+        },
+        {
+          "label": "B",
+          "text": "Sites where the tissue was physically cut"
+        },
+        {
+          "label": "C",
+          "text": "The total protein content uniformly across the section"
+        },
+        {
+          "label": "D",
+          "text": "The location of the specific antigen recognized by the primary antibody within the tissue"
+        },
+        {
+          "label": "E",
+          "text": "Areas of dead or necrotic tissue only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In immunohistochemistry, the primary antibody binds its target antigen; an enzyme-conjugated secondary antibody then converts DAB into a brown insoluble precipitate at that site. The brown staining therefore marks where the specific antigen is located in the tissue.",
+        "whyCorrect": "In immunohistochemistry, the primary antibody binds its target antigen; an enzyme-conjugated secondary antibody then converts DAB into a brown insoluble precipitate at that site. The brown staining therefore marks where the specific antigen is located in the tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-020_17_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-021",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "On this hemoglobin electrophoresis, the three genotype lanes show bands migrating to different positions, and the peptide sequences below differ at position 6. What physical property allows this technique to separate normal Hb from the sickle variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A difference in heme iron oxidation state"
+        },
+        {
+          "label": "B",
+          "text": "A difference in the number of subunits in each hemoglobin tetramer"
+        },
+        {
+          "label": "C",
+          "text": "A large difference in molecular weight between the two hemoglobins"
+        },
+        {
+          "label": "D",
+          "text": "A change in net surface charge caused by replacing a negatively charged residue with a neutral one"
+        },
+        {
+          "label": "E",
+          "text": "Differences in the cell membrane lipids surrounding each hemoglobin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Glu-to-Val substitution at position 6 removes a negative charge, so HbS carries a different net charge than HbA and migrates differently in an electric field. Electrophoresis separates the variants by charge, not by size, since the two forms are nearly identical in mass.",
+        "whyCorrect": "The Glu-to-Val substitution at position 6 removes a negative charge, so HbS carries a different net charge than HbA and migrates differently in an electric field. Electrophoresis separates the variants by charge, not by size, since the two forms are nearly identical in mass.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-021_17_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-022",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this apparatus, a protein mixture is loaded into a porous gel and an electric field is applied. When run under denaturing conditions with SDS, proteins are separated primarily on the basis of what property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Their native enzymatic activity"
+        },
+        {
+          "label": "B",
+          "text": "Molecular size, with smaller proteins migrating farther through the gel"
+        },
+        {
+          "label": "C",
+          "text": "Their subcellular organelle of origin"
+        },
+        {
+          "label": "D",
+          "text": "Their isoelectric point only"
+        },
+        {
+          "label": "E",
+          "text": "Their lipid content"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SDS-PAGE coats proteins with uniform negative charge so that migration through the sieving polyacrylamide gel depends on size: smaller proteins move faster and travel farther, giving separation by molecular weight.",
+        "whyCorrect": "SDS-PAGE coats proteins with uniform negative charge so that migration through the sieving polyacrylamide gel depends on size: smaller proteins move faster and travel farther, giving separation by molecular weight.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-022_17_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-023",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This three-step technique separates proteins by electrophoresis, transfers them to a membrane, and then probes with primary and fluorophore-labeled secondary antibodies to reveal a single band. What does this method specifically confirm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The presence and approximate size of a specific target protein in the sample"
+        },
+        {
+          "label": "B",
+          "text": "The total lipid concentration in a cell lysate"
+        },
+        {
+          "label": "C",
+          "text": "The nucleotide sequence of a specific gene"
+        },
+        {
+          "label": "D",
+          "text": "The rate of an enzymatic reaction over time"
+        },
+        {
+          "label": "E",
+          "text": "The three-dimensional crystal structure of a protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Western blot: proteins are size-separated, transferred to a membrane, and detected with antibodies specific to the target. A band confirms that the specific protein is present and reports its molecular weight, but not its sequence or structure.",
+        "whyCorrect": "This is a Western blot: proteins are size-separated, transferred to a membrane, and detected with antibodies specific to the target. A band confirms that the specific protein is present and reports its molecular weight, but not its sequence or structure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-023_17_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-024",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this assay, an antigen is immobilized, bound by antibodies, and an enzyme linked to the detection antibody converts a substrate into a colored product; wells lacking the antigen stay clear. What does the intensity of the color change indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The nucleotide sequence of the target gene"
+        },
+        {
+          "label": "B",
+          "text": "The physical size of the antigen molecule"
+        },
+        {
+          "label": "C",
+          "text": "The number of live cells in the well"
+        },
+        {
+          "label": "D",
+          "text": "The amount of target antigen (or antibody) present in the sample"
+        },
+        {
+          "label": "E",
+          "text": "The pH of the buffer used"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This depicts an ELISA. A detectable enzyme conjugated to the antibody converts substrate into a colored product only where antigen-antibody binding occurred, so color intensity is proportional to the quantity of the target present, allowing quantification.",
+        "whyCorrect": "This depicts an ELISA. A detectable enzyme conjugated to the antibody converts substrate into a colored product only where antigen-antibody binding occurred, so color intensity is proportional to the quantity of the target present, allowing quantification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-024_17_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-025",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This microtiter plate shows serial two-fold dilutions of serum from four patients, with color developing in wells down to a certain dilution. What does the highest dilution still producing a positive color reaction represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The enzyme activity of the patient's own serum proteins"
+        },
+        {
+          "label": "B",
+          "text": "The molecular weight of the antibody"
+        },
+        {
+          "label": "C",
+          "text": "The blood group of the patient"
+        },
+        {
+          "label": "D",
+          "text": "The number of different antigens the patient was exposed to"
+        },
+        {
+          "label": "E",
+          "text": "The antibody titer, reflecting the concentration of specific antibody in that patient's serum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In a titration ELISA, the endpoint titer is the greatest serum dilution that still yields a positive signal. A higher endpoint dilution (e.g., Patient C) indicates more specific antibody, whereas a low endpoint (Patient D) indicates little antibody.",
+        "whyCorrect": "In a titration ELISA, the endpoint titer is the greatest serum dilution that still yields a positive signal. A higher endpoint dilution (e.g., Patient C) indicates more specific antibody, whereas a low endpoint (Patient D) indicates little antibody.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-025_17_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-026",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This dot-plot analysis separates a mixed blood-cell suspension by forward and side scatter and then by two surface markers. What laboratory technique generated these plots?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mass spectrometry"
+        },
+        {
+          "label": "B",
+          "text": "Light microscopy"
+        },
+        {
+          "label": "C",
+          "text": "Immunohistochemistry"
+        },
+        {
+          "label": "D",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "E",
+          "text": "Gel electrophoresis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The paired scatter plots (FSC vs SSC to distinguish granulocytes, monocytes and lymphocytes) and marker plots (CD4 vs CD8) are the hallmark output of flow cytometry, which measures scatter and fluorescence of single cells passing a laser.",
+        "whyCorrect": "The paired scatter plots (FSC vs SSC to distinguish granulocytes, monocytes and lymphocytes) and marker plots (CD4 vs CD8) are the hallmark output of flow cytometry, which measures scatter and fluorescence of single cells passing a laser.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-026_17_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-027",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "A urine microscopy specimen shows these colorless envelope- or pyramid-shaped crystals. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium oxalate crystals"
+        },
+        {
+          "label": "B",
+          "text": "Struvite (triple phosphate) crystals"
+        },
+        {
+          "label": "C",
+          "text": "Uric acid crystals"
+        },
+        {
+          "label": "D",
+          "text": "Cystine crystals"
+        },
+        {
+          "label": "E",
+          "text": "Cholesterol crystals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic envelope (Maltese-cross pyramid) morphology is characteristic of calcium oxalate dihydrate crystals, the most common urinary crystal and stone type, associated with hypercalciuria and ethylene glycol toxicity.",
+        "whyCorrect": "The classic envelope (Maltese-cross pyramid) morphology is characteristic of calcium oxalate dihydrate crystals, the most common urinary crystal and stone type, associated with hypercalciuria and ethylene glycol toxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-027_2_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-028",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Using this basic metabolic panel (Na+ 138, K+ 4.0, Cl- 102, HCO3- 10 mEq/L), what is the serum anion gap?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "40 mEq/L"
+        },
+        {
+          "label": "B",
+          "text": "16 mEq/L (normal)"
+        },
+        {
+          "label": "C",
+          "text": "12 mEq/L (normal)"
+        },
+        {
+          "label": "D",
+          "text": "8 mEq/L (low)"
+        },
+        {
+          "label": "E",
+          "text": "26 mEq/L (elevated)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Anion gap = Na+ - (Cl- + HCO3-) = 138 - (102 + 10) = 26 mEq/L. This markedly elevated gap with low bicarbonate indicates a high anion gap metabolic acidosis.",
+        "whyCorrect": "Anion gap = Na+ - (Cl- + HCO3-) = 138 - (102 + 10) = 26 mEq/L. This markedly elevated gap with low bicarbonate indicates a high anion gap metabolic acidosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-028_2_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-029",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "A patient's labs show serum pH 7.22, bicarbonate 14 mEq/L, sodium 140 mEq/L, and chloride 100 mEq/L. What acid-base disturbance do these values indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High anion gap metabolic acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Normal anion gap (hyperchloremic) metabolic acidosis"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anion gap = Na - (Cl + HCO3) = 140 - (100 + 14) = 26 mEq/L, well above the normal 8-12. Combined with a low pH and low bicarbonate, this indicates a high anion gap metabolic acidosis, typically from accumulation of unmeasured acids (e.g., ketoacids, lactate, toxins).",
+        "whyCorrect": "Anion gap = Na - (Cl + HCO3) = 140 - (100 + 14) = 26 mEq/L, well above the normal 8-12. Combined with a low pH and low bicarbonate, this indicates a high anion gap metabolic acidosis, typically from accumulation of unmeasured acids (e.g., ketoacids, lactate, toxins).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-029_31_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-030",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Using this diagnostic algorithm for urea cycle disorders, a patient with low/absent citrulline and markedly elevated urinary orotic acid is best explained by a deficiency of which enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Argininosuccinate lyase (argininosuccinic aciduria)"
+        },
+        {
+          "label": "B",
+          "text": "Arginase"
+        },
+        {
+          "label": "C",
+          "text": "Argininosuccinate synthetase (citrullinemia)"
+        },
+        {
+          "label": "D",
+          "text": "Ornithine transcarbamylase (OTC)"
+        },
+        {
+          "label": "E",
+          "text": "Carbamoyl phosphate synthetase I (CPS I)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In OTC deficiency, carbamoyl phosphate accumulates and spills into the pyrimidine pathway, raising orotic acid, while citrulline is low because it cannot be made. CPS I deficiency also gives low citrulline but with normal/low orotic acid, distinguishing the two.",
+        "whyCorrect": "In OTC deficiency, carbamoyl phosphate accumulates and spills into the pyrimidine pathway, raising orotic acid, while citrulline is low because it cannot be made. CPS I deficiency also gives low citrulline but with normal/low orotic acid, distinguishing the two.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-030_33_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-031",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These pathognomonic hexagonal crystals seen on urinalysis indicate which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Struvite (infection) stones"
+        },
+        {
+          "label": "B",
+          "text": "Primary hyperoxaluria"
+        },
+        {
+          "label": "C",
+          "text": "Gout (uric acid stones)"
+        },
+        {
+          "label": "D",
+          "text": "Calcium phosphate nephrocalcinosis"
+        },
+        {
+          "label": "E",
+          "text": "Cystinuria"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyCorrect": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-031_34_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-032",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this comparison, total iron-binding capacity (TIBC) moves opposite to serum iron, rising in iron deficiency and falling in overload. What accounts for the rise in TIBC when iron is deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The liver increases transferrin synthesis, raising the plasma capacity to bind iron"
+        },
+        {
+          "label": "B",
+          "text": "Red cells release stored transferrin into plasma"
+        },
+        {
+          "label": "C",
+          "text": "Hepcidin directly upregulates TIBC"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages secrete transferrin during iron overload"
+        },
+        {
+          "label": "E",
+          "text": "Ferritin is converted into circulating transferrin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "TIBC reflects circulating transferrin. In iron deficiency the liver upregulates transferrin production to scavenge scarce iron, so TIBC rises; in iron overload transferrin synthesis is suppressed and TIBC falls.",
+        "whyCorrect": "TIBC reflects circulating transferrin. In iron deficiency the liver upregulates transferrin production to scavenge scarce iron, so TIBC rises; in iron overload transferrin synthesis is suppressed and TIBC falls.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-032_36_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-033",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this table of iron studies, row C shows increased serum iron, increased ferritin, decreased TIBC, and increased transferrin saturation. Which clinical condition does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal iron studies"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Iron overload (hereditary hemochromatosis)"
+        },
+        {
+          "label": "D",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "E",
+          "text": "Acute blood loss"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Iron overload raises serum iron, ferritin (storage), and transferrin saturation, while suppressing transferrin synthesis so TIBC falls. This high-saturation, high-ferritin, low-TIBC pattern is characteristic of hemochromatosis.",
+        "whyCorrect": "Iron overload raises serum iron, ferritin (storage), and transferrin saturation, while suppressing transferrin synthesis so TIBC falls. This high-saturation, high-ferritin, low-TIBC pattern is characteristic of hemochromatosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-033_36_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-034",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The dark reddish-brown 'port-wine' urine on the right (compared with normal urine on the left) develops in porphyrias. Excretion of which substances produces this color change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Urobilinogen"
+        },
+        {
+          "label": "C",
+          "text": "Porphyrins and porphobilinogen"
+        },
+        {
+          "label": "D",
+          "text": "Free hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Conjugated bilirubin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Overproduced porphyrin precursors are excreted in urine and darken to a port-wine color on air/light exposure. This finding accompanies several porphyrias and reflects excess heme-pathway intermediates spilling into the urine.",
+        "whyCorrect": "Overproduced porphyrin precursors are excreted in urine and darken to a port-wine color on air/light exposure. This finding accompanies several porphyrias and reflects excess heme-pathway intermediates spilling into the urine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-034_36_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-035",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "A container of freshly voided urine from a patient after strenuous exercise appears dark reddish-brown as shown. In a patient with a muscle glycogenolysis defect, what does this coloration most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkaptonuria from homogentisic acid oxidation"
+        },
+        {
+          "label": "B",
+          "text": "Porphyrinuria from acute intermittent porphyria"
+        },
+        {
+          "label": "C",
+          "text": "Conjugated bilirubinuria from biliary obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Gross hematuria from a bladder tumor"
+        },
+        {
+          "label": "E",
+          "text": "Myoglobinuria from exercise-induced rhabdomyolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dark tea/cola-colored urine after exertion in disorders such as McArdle disease (muscle glycogen phosphorylase deficiency) reflects myoglobin released during rhabdomyolysis. Myoglobin is filtered and can precipitate in tubules, risking acute kidney injury; unlike hematuria, the urine is pigment-positive but shows few or no intact red cells on microscopy.",
+        "whyCorrect": "Dark tea/cola-colored urine after exertion in disorders such as McArdle disease (muscle glycogen phosphorylase deficiency) reflects myoglobin released during rhabdomyolysis. Myoglobin is filtered and can precipitate in tubules, risking acute kidney injury; unlike hematuria, the urine is pigment-positive but shows few or no intact red cells on microscopy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-035_37_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-036",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This image was obtained during an eye examination and shows the optic disc, retinal vessels, and macula. What examination technique produced it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fundoscopy (ophthalmoscopy) of the retina"
+        },
+        {
+          "label": "B",
+          "text": "Optical coherence tomography of the anterior segment"
+        },
+        {
+          "label": "C",
+          "text": "Gonioscopy of the anterior chamber angle"
+        },
+        {
+          "label": "D",
+          "text": "Fluorescein angiography of the conjunctiva"
+        },
+        {
+          "label": "E",
+          "text": "Slit-lamp examination of the cornea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A fundoscopic (ophthalmoscopic) exam visualizes the posterior pole of the eye: the optic disc, retinal vasculature, and macula. In lysosomal storage diseases such as Tay-Sachs and Niemann-Pick, this exam reveals the classic macular cherry-red spot.",
+        "whyCorrect": "A fundoscopic (ophthalmoscopic) exam visualizes the posterior pole of the eye: the optic disc, retinal vasculature, and macula. In lysosomal storage diseases such as Tay-Sachs and Niemann-Pick, this exam reveals the classic macular cherry-red spot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-036_39_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-037",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This laboratory study displays an individual's chromosomes arranged in numbered pairs plus the sex chromosomes. How many total chromosomes are present in this normal set?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "44"
+        },
+        {
+          "label": "B",
+          "text": "46"
+        },
+        {
+          "label": "C",
+          "text": "47"
+        },
+        {
+          "label": "D",
+          "text": "23"
+        },
+        {
+          "label": "E",
+          "text": "45"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A normal human somatic karyotype contains 46 chromosomes: 22 autosome pairs plus two sex chromosomes (XY shown here). Deviations such as 45 or 47 indicate aneuploidy (e.g., monosomy or trisomy).",
+        "whyCorrect": "A normal human somatic karyotype contains 46 chromosomes: 22 autosome pairs plus two sex chromosomes (XY shown here). Deviations such as 45 or 47 indicate aneuploidy (e.g., monosomy or trisomy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-037_40_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-038",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "What cytogenetic laboratory technique produced this image of chromosomes sorted and arranged by size and banding pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "B",
+          "text": "Western blot"
+        },
+        {
+          "label": "C",
+          "text": "Enzyme-linked immunosorbent assay (ELISA)"
+        },
+        {
+          "label": "D",
+          "text": "Karyotyping"
+        },
+        {
+          "label": "E",
+          "text": "Polymerase chain reaction (PCR)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Karyotyping arrests dividing cells in metaphase, stains the condensed chromosomes, and arranges them by size, centromere position, and banding pattern to detect numerical and large structural chromosomal abnormalities.",
+        "whyCorrect": "Karyotyping arrests dividing cells in metaphase, stains the condensed chromosomes, and arranges them by size, centromere position, and banding pattern to detect numerical and large structural chromosomal abnormalities.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-038_40_p13_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-039",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Based on the number and identity of the chromosomes shown, what does this karyotype represent clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal (euploid) male"
+        },
+        {
+          "label": "B",
+          "text": "A male with Klinefelter syndrome"
+        },
+        {
+          "label": "C",
+          "text": "A normal female"
+        },
+        {
+          "label": "D",
+          "text": "A male with Down syndrome"
+        },
+        {
+          "label": "E",
+          "text": "A female with Turner syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Twenty-two autosome pairs plus one X and one Y, with no numerical abnormality, defines a normal euploid male. Klinefelter (XXY), Turner (45,X), and Down syndrome would each show an abnormal count.",
+        "whyCorrect": "Twenty-two autosome pairs plus one X and one Y, with no numerical abnormality, defines a normal euploid male. Klinefelter (XXY), Turner (45,X), and Down syndrome would each show an abnormal count.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-039_40_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-040",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The highlighted group of chromosomes (13, 14, 15, 21, 22) whose centromeres sit very near one end are clinically emphasized because they characteristically participate in which event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "X-inactivation"
+        },
+        {
+          "label": "B",
+          "text": "Robertsonian translocations"
+        },
+        {
+          "label": "C",
+          "text": "Uniparental disomy"
+        },
+        {
+          "label": "D",
+          "text": "Ring chromosome formation"
+        },
+        {
+          "label": "E",
+          "text": "Pericentric inversions"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The acrocentric chromosomes have centromeres near one end with small short arms, allowing their long arms to fuse at the centromere in Robertsonian translocations, an important cause of translocation Down syndrome.",
+        "whyCorrect": "The acrocentric chromosomes have centromeres near one end with small short arms, allowing their long arms to fuse at the centromere in Robertsonian translocations, an important cause of translocation Down syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-040_40_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-041",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This karyotype shows the normal autosomes but an XXY sex-chromosome complement (47 chromosomes total). Which condition does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trisomy X"
         },
         {
           "label": "B",
@@ -135,25 +915,337 @@
         },
         {
           "label": "C",
-          "text": "Edwards syndrome (trisomy 18)"
+          "text": "Klinefelter syndrome"
         },
         {
           "label": "D",
-          "text": "Klinefelter syndrome"
+          "text": "Jacobs syndrome (XYY)"
         },
         {
           "label": "E",
           "text": "Turner syndrome"
         }
       ],
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": {
-        "summary": "An extra chromosome 21 (trisomy 21) is diagnostic of Down syndrome, the most common autosomal trisomy, typically arising from maternal meiotic nondisjunction. Features include intellectual disability, flat facies, and increased risk of endocardial cushion defects and early Alzheimer disease.",
-        "whyCorrect": "An extra chromosome 21 (trisomy 21) is diagnostic of Down syndrome, the most common autosomal trisomy, typically arising from maternal meiotic nondisjunction. Features include intellectual disability, flat facies, and increased risk of endocardial cushion defects and early Alzheimer disease.",
+        "summary": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyCorrect": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-005_40_p15_1.png",
+      "imageRef": "bopic-041_42_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-042",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This G-banded laboratory preparation arranges an individual's chromosomes into homologous pairs by size and banding pattern. What is this type of study called, and what does the pattern shown here represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pedigree of an affected family"
+        },
+        {
+          "label": "B",
+          "text": "A FISH probe showing a microdeletion"
+        },
+        {
+          "label": "C",
+          "text": "A karyotype showing trisomy 21"
+        },
+        {
+          "label": "D",
+          "text": "A Southern blot of genomic DNA"
+        },
+        {
+          "label": "E",
+          "text": "A karyotype showing a normal 46,XY male"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ordering stained metaphase chromosomes into 22 autosome pairs plus the sex chromosomes is a karyotype. Here there are 22 paired autosomes with one X and one Y, defining a normal 46,XY male complement with no numerical abnormality.",
+        "whyCorrect": "Ordering stained metaphase chromosomes into 22 autosome pairs plus the sex chromosomes is a karyotype. Here there are 22 paired autosomes with one X and one Y, defining a normal 46,XY male complement with no numerical abnormality.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-042_42_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-043",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In the depicted workflow, differentially fluorescently labeled test and reference DNA are co-hybridized to an array and the ratio at each spot is read out as a dosage plot. What class of genomic abnormality is this technique specifically designed to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Single-nucleotide point mutations"
+        },
+        {
+          "label": "B",
+          "text": "Balanced reciprocal translocations"
+        },
+        {
+          "label": "C",
+          "text": "Trinucleotide repeat expansions"
+        },
+        {
+          "label": "D",
+          "text": "Copy-number variants (gains and losses of chromosomal segments)"
+        },
+        {
+          "label": "E",
+          "text": "Epigenetic methylation changes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Comparative genomic hybridization measures the relative dosage of test versus reference DNA across the genome, revealing deletions (loss) and duplications (gain). It does not detect balanced rearrangements or single-base changes.",
+        "whyCorrect": "Comparative genomic hybridization measures the relative dosage of test versus reference DNA across the genome, revealing deletions (loss) and duplications (gain). It does not detect balanced rearrangements or single-base changes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-043_45_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-044",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The blot shown separates restriction-digested fragments by size (kb ladder at left) and detects them with a labeled probe, with a pedigree indicating the samples. What type of molecule is being size-separated and detected here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genomic DNA restriction fragments"
+        },
+        {
+          "label": "B",
+          "text": "Messenger RNA transcripts"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomal RNA subunits"
+        },
+        {
+          "label": "D",
+          "text": "Denatured proteins"
+        },
+        {
+          "label": "E",
+          "text": "Circulating polypeptide hormones"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Southern blot: genomic DNA is cut with restriction enzymes, size-separated, transferred to a membrane, and hybridized with a labeled probe. Fragment-size differences (kb) reveal variants such as insertions, deletions, or repeat expansions.",
+        "whyCorrect": "This is a Southern blot: genomic DNA is cut with restriction enzymes, size-separated, transferred to a membrane, and hybridized with a labeled probe. Fragment-size differences (kb) reveal variants such as insertions, deletions, or repeat expansions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-044_45_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-045",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The image shows an individual's chromosomes stained, paired, and arranged in numbered order including the sex chromosomes. What diagnostic study is this, and what is its principal limitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A PCR gel, which only amplifies a single locus"
+        },
+        {
+          "label": "B",
+          "text": "A FISH assay, which cannot show the whole genome at once"
+        },
+        {
+          "label": "C",
+          "text": "A Southern blot, which requires a radiolabeled probe"
+        },
+        {
+          "label": "D",
+          "text": "An array CGH, which cannot detect balanced translocations"
+        },
+        {
+          "label": "E",
+          "text": "A karyotype, which cannot resolve submicroscopic microdeletions"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A G-banded karyotype displays all chromosomes ordered by size and banding, ideal for detecting aneuploidy and large structural rearrangements. Its resolution (~5-10 Mb) is too low to detect microdeletions.",
+        "whyCorrect": "A G-banded karyotype displays all chromosomes ordered by size and banding, ideal for detecting aneuploidy and large structural rearrangements. Its resolution (~5-10 Mb) is too low to detect microdeletions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-045_45_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-046",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this metaphase spread, blue counterstained chromosomes are probed with fluorescent signals distinguishing a normal chromosome 22 from one missing a locus-specific signal. What technique is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G-banded karyotyping"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization (FISH)"
+        },
+        {
+          "label": "C",
+          "text": "Southern blotting"
+        },
+        {
+          "label": "D",
+          "text": "Polymerase chain reaction"
+        },
+        {
+          "label": "E",
+          "text": "Comparative genomic hybridization"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyCorrect": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-046_45_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-047",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "The arrow in this pedigree marks the proband (filled circle). The degree symbols (1°, 2°, 3°, 4°) placed on other individuals indicate what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Birth order within each sibship"
+        },
+        {
+          "label": "B",
+          "text": "The number of affected offspring"
+        },
+        {
+          "label": "C",
+          "text": "The generation number of each individual"
+        },
+        {
+          "label": "D",
+          "text": "Each relative's degree of genetic relationship to the proband"
+        },
+        {
+          "label": "E",
+          "text": "The age at diagnosis for each relative"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-degree relatives (parents, siblings, children) share ~50% of genes, second-degree ~25%, third-degree ~12.5%, and so on. Labeling relatives by degree relative to the proband is used to assess recurrence risk and inheritance pattern.",
+        "whyCorrect": "First-degree relatives (parents, siblings, children) share ~50% of genes, second-degree ~25%, third-degree ~12.5%, and so on. Labeling relatives by degree relative to the proband is used to assess recurrence risk and inheritance pattern.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-047_46_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-048",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Panel B of this chromosome 19 SNP array shows a region around JAK3 with normal total copy number (top trace stays at 2) but loss of the heterozygous B-allele band, unlike the biallelic pattern in panel A. What genetic mechanism does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemizygous deletion of the region"
+        },
+        {
+          "label": "B",
+          "text": "A balanced reciprocal translocation"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 19"
+        },
+        {
+          "label": "D",
+          "text": "Uniparental disomy (copy-neutral loss of heterozygosity)"
+        },
+        {
+          "label": "E",
+          "text": "Segmental duplication of JAK3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A stretch that keeps a copy number of 2 yet loses heterozygosity indicates both homologs came from one parent (uniparental isodisomy), i.e., copy-neutral LOH. This can unmask a recessive JAK3 mutation by making it homozygous without any change in total copy number.",
+        "whyCorrect": "A stretch that keeps a copy number of 2 yet loses heterozygosity indicates both homologs came from one parent (uniparental isodisomy), i.e., copy-neutral LOH. This can unmask a recessive JAK3 mutation by making it homozygous without any change in total copy number.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-048_48_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-049",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In the technique depicted, why is Taq polymerase used instead of a standard human DNA polymerase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It works only at body temperature (37 C)"
+        },
+        {
+          "label": "B",
+          "text": "It synthesizes RNA rather than DNA"
+        },
+        {
+          "label": "C",
+          "text": "It proofreads with high fidelity via 3'-to-5' exonuclease activity"
+        },
+        {
+          "label": "D",
+          "text": "It is thermostable and survives the repeated high-temperature denaturation steps"
+        },
+        {
+          "label": "E",
+          "text": "It can synthesize DNA without requiring primers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PCR cycles between ~95 C denaturation, annealing, and extension. Taq polymerase, from the thermophile Thermus aquaticus, withstands the denaturation heat, so fresh enzyme need not be added each cycle. This enables the automated thermal cycling shown.",
+        "whyCorrect": "PCR cycles between ~95 C denaturation, annealing, and extension. Taq polymerase, from the thermophile Thermus aquaticus, withstands the denaturation heat, so fresh enzyme need not be added each cycle. This enables the automated thermal cycling shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-049_48_p6_1.png",
       "tags": [
         "picture"
       ]

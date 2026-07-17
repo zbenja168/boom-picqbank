@@ -3,157 +3,1327 @@
   "categoryName": "Pathology",
   "questions": [
     {
-      "id": "bopic-006",
+      "id": "bopic-050",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "A tall patient can protrude the thumb beyond the ulnar border of a clenched fist (left) and can overlap the thumb and fifth finger around the opposite wrist (right). These maneuvers are classic bedside signs of which disorder?",
+      "stem": "This figure contrasts normal cells with cells in which lysosomal enzymes fail to reach the lysosome and are instead secreted, due to loss of a phosphotransferase. Which disorder does the right panel represent?",
       "choices": [
         {
           "label": "A",
-          "text": "Rheumatoid arthritis"
+          "text": "Zellweger syndrome"
         },
         {
           "label": "B",
-          "text": "Dupuytren contracture"
+          "text": "I-cell disease (mucolipidosis II)"
         },
         {
           "label": "C",
-          "text": "Marfan syndrome (fibrillin-1 connective tissue defect)"
+          "text": "Cystic fibrosis"
         },
         {
           "label": "D",
-          "text": "Carpal tunnel syndrome"
+          "text": "Tay-Sachs disease"
         },
         {
           "label": "E",
-          "text": "Osteoarthritis of the hand"
+          "text": "Familial hypercholesterolemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Deficiency of GlcNAc-1-phosphotransferase prevents mannose-6-phosphate tagging of lysosomal enzymes, so enzymes are secreted rather than trafficked to the lysosome, causing accumulation of inclusion bodies in I-cell disease (ML II).",
+        "whyCorrect": "Deficiency of GlcNAc-1-phosphotransferase prevents mannose-6-phosphate tagging of lysosomal enzymes, so enzymes are secreted rather than trafficked to the lysosome, causing accumulation of inclusion bodies in I-cell disease (ML II).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-050_14_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-051",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The right image shows a hand assuming carpopedal spasm (wrist/MCP flexion, finger extension, thumb adduction) after the arm is compressed. This clinical sign most strongly indicates which underlying abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypernatremia"
+        },
+        {
+          "label": "B",
+          "text": "Hypocalcemia (increased neuromuscular excitability)"
+        },
+        {
+          "label": "C",
+          "text": "Hyperglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Hypomagnesemia with hyperphosphatemia"
+        },
+        {
+          "label": "E",
+          "text": "Hyperkalemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is the Trousseau sign: inflating a blood-pressure cuff provokes carpopedal spasm in latent tetany. Low ionized calcium lowers the threshold for nerve depolarization, producing the characteristic spasm.",
+        "whyCorrect": "This is the Trousseau sign: inflating a blood-pressure cuff provokes carpopedal spasm in latent tetany. Low ionized calcium lowers the threshold for nerve depolarization, producing the characteristic spasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-051_14_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-052",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This infant shows short stature, coarse facial features, and a protuberant abdomen (organomegaly). This constellation is most characteristic of which category of inherited disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An acute intermittent porphyria"
+        },
+        {
+          "label": "B",
+          "text": "A lysosomal storage disease"
+        },
+        {
+          "label": "C",
+          "text": "A glycogen debranching defect limited to muscle"
+        },
+        {
+          "label": "D",
+          "text": "A vitamin K-dependent clotting deficiency"
+        },
+        {
+          "label": "E",
+          "text": "A urea cycle disorder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Progressive accumulation of undegraded substrate in lysosomal storage diseases (e.g., mucopolysaccharidoses, I-cell disease) produces coarse features, hepatosplenomegaly with protuberant abdomen, skeletal changes, and developmental delay.",
+        "whyCorrect": "Progressive accumulation of undegraded substrate in lysosomal storage diseases (e.g., mucopolysaccharidoses, I-cell disease) produces coarse features, hepatosplenomegaly with protuberant abdomen, skeletal changes, and developmental delay.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-052_14_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-053",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The electron micrographs contrast a normal biconcave cell (left) with the deformed crescent-shaped cell (right). The shape change on the right results directly from what molecular event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of excess iron within the cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Loss of the cell membrane cytoskeleton due to complement attack"
+        },
+        {
+          "label": "C",
+          "text": "Polymerization of deoxygenated hemoglobin S into rigid fibers"
+        },
+        {
+          "label": "D",
+          "text": "Antibody-mediated agglutination of the red cell surface"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic swelling from impaired sodium pumping"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The thumb (Steinberg) sign and wrist (Walker-Murdoch) sign reflect the arachnodactyly and joint laxity of Marfan syndrome, caused by mutations in the FBN1 gene encoding fibrillin-1.",
-        "whyCorrect": "The thumb (Steinberg) sign and wrist (Walker-Murdoch) sign reflect the arachnodactyly and joint laxity of Marfan syndrome, caused by mutations in the FBN1 gene encoding fibrillin-1.",
+        "summary": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyCorrect": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-006_14_p13_1.png",
+      "imageRef": "bopic-053_17_p13_1.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "bopic-007",
+      "id": "bopic-054",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "These scanning electron micrographs contrast a normal biconcave red cell (a) with the deformed crescent-shaped cell (b). The cell in (b) is characteristic of which condition?",
+      "stem": "In this individual, dietary lactose is not cleaved at the intestinal brush border and instead reaches colonic bacteria. What mechanism most directly produces the resulting watery diarrhea?",
       "choices": [
         {
           "label": "A",
-          "text": "Glucose-6-phosphate dehydrogenase deficiency"
+          "text": "Bacterial invasion of the intestinal wall causing inflammation"
         },
         {
           "label": "B",
-          "text": "Iron deficiency anemia"
+          "text": "Impaired bile acid reabsorption"
         },
         {
           "label": "C",
-          "text": "Hereditary spherocytosis"
+          "text": "Autoimmune destruction of the intestinal epithelium"
         },
         {
           "label": "D",
-          "text": "Beta-thalassemia major"
+          "text": "Direct toxin-mediated activation of enterocyte chloride secretion"
         },
         {
           "label": "E",
-          "text": "Sickle cell disease"
+          "text": "Unabsorbed lactose and its metabolites osmotically draw water into the gut lumen"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "A point mutation (Glu->Val) in beta-globin produces HbS, which polymerizes when deoxygenated and distorts the erythrocyte into the rigid sickle shape shown in panel b, causing hemolysis and vaso-occlusion.",
-        "whyCorrect": "A point mutation (Glu->Val) in beta-globin produces HbS, which polymerizes when deoxygenated and distorts the erythrocyte into the rigid sickle shape shown in panel b, causing hemolysis and vaso-occlusion.",
+        "summary": "Lactase deficiency leaves lactose undigested; bacterial fermentation yields gas and lactic acid, and the osmotically active undigested sugar plus metabolites pull water into the lumen, producing osmotic diarrhea, bloating and flatulence.",
+        "whyCorrect": "Lactase deficiency leaves lactose undigested; bacterial fermentation yields gas and lactic acid, and the osmotically active undigested sugar plus metabolites pull water into the lumen, producing osmotic diarrhea, bloating and flatulence.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-007_17_p13_1.png",
+      "imageRef": "bopic-054_19_p6_1.png",
       "tags": [
         "picture"
       ]
     },
     {
-      "id": "bopic-008",
+      "id": "bopic-055",
       "topicId": "pathology",
       "topicName": "Pathology",
-      "stem": "An adult presents with the yellowish eyelid deposits, corneal arcus, and tendon nodules over the knuckles and Achilles tendon shown here. These findings together most strongly suggest what underlying abnormality?",
+      "stem": "A child develops hypoglycemia, jaundice, and hepatomegaly after ingesting fruit. The figure illustrates the metabolic step that becomes toxic when a specific enzyme is deficient. Deficiency of which enzyme accounts for the accumulating intermediate that causes this cellular toxicity?",
       "choices": [
         {
           "label": "A",
-          "text": "Markedly elevated LDL cholesterol, as in familial hypercholesterolemia"
+          "text": "Glucokinase"
         },
         {
           "label": "B",
-          "text": "Excess iron deposition (hemochromatosis)"
+          "text": "Galactokinase"
         },
         {
           "label": "C",
-          "text": "Chronically elevated serum uric acid (gout)"
+          "text": "Galactose-1-phosphate uridyltransferase"
         },
         {
           "label": "D",
-          "text": "Elevated serum calcium (hyperparathyroidism)"
+          "text": "Aldolase B"
         },
         {
           "label": "E",
-          "text": "Copper accumulation (Wilson disease)"
-        }
-      ],
-      "correctAnswer": "A",
-      "explanation": {
-        "summary": "Xanthelasma, corneal arcus, and tendon xanthomas are lipid-laden macrophage deposits seen with high circulating LDL. Their presence, especially at a young age, points to familial hypercholesterolemia (LDL-receptor defect).",
-        "whyCorrect": "Xanthelasma, corneal arcus, and tendon xanthomas are lipid-laden macrophage deposits seen with high circulating LDL. Their presence, especially at a young age, points to familial hypercholesterolemia (LDL-receptor defect).",
-        "whyWrongByChoice": {}
-      },
-      "difficulty": "medium",
-      "imageRef": "bopic-008_23_p4_1.png",
-      "tags": [
-        "picture"
-      ]
-    },
-    {
-      "id": "bopic-009",
-      "topicId": "pathology",
-      "topicName": "Pathology",
-      "stem": "This heme synthesis pathway shows lead (Pb) blocking ferrochelatase. Because iron can no longer be inserted into the ring, which molecule accumulates and serves as a clinical screening marker for lead poisoning?",
-      "choices": [
-        {
-          "label": "A",
-          "text": "Aminolevulinic acid (ALA)"
-        },
-        {
-          "label": "B",
-          "text": "Uroporphyrinogen III"
-        },
-        {
-          "label": "C",
-          "text": "Porphobilinogen"
-        },
-        {
-          "label": "D",
-          "text": "Protoporphyrin IX (elevated as zinc protoporphyrin)"
-        },
-        {
-          "label": "E",
-          "text": "Coproporphyrinogen III"
+          "text": "Fructokinase"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "Ferrochelatase normally inserts Fe2+ into protoporphyrin IX to make heme. Lead inhibits ferrochelatase (and ALA dehydratase), so protoporphyrin IX accumulates and zinc binds in place of iron, raising zinc/free erythrocyte protoporphyrin, a marker used to screen for lead toxicity.",
-        "whyCorrect": "Ferrochelatase normally inserts Fe2+ into protoporphyrin IX to make heme. Lead inhibits ferrochelatase (and ALA dehydratase), so protoporphyrin IX accumulates and zinc binds in place of iron, raising zinc/free erythrocyte protoporphyrin, a marker used to screen for lead toxicity.",
+        "summary": "Fructokinase phosphorylates fructose to fructose 1-phosphate. In hereditary fructose intolerance, aldolase B deficiency prevents further metabolism, so fructose 1-phosphate accumulates and traps phosphate, depleting ATP and causing hypoglycemia, jaundice, and hepatomegaly.",
+        "whyCorrect": "Fructokinase phosphorylates fructose to fructose 1-phosphate. In hereditary fructose intolerance, aldolase B deficiency prevents further metabolism, so fructose 1-phosphate accumulates and traps phosphate, depleting ATP and causing hypoglycemia, jaundice, and hepatomegaly.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-009_35_p4_1.png",
+      "imageRef": "bopic-055_21_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-056",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A patient shows the eyelid deposits, corneal ring, and tendon nodules pictured. These findings together most strongly suggest which underlying disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Familial hypertriglyceridemia"
+        },
+        {
+          "label": "D",
+          "text": "Wilson disease"
+        },
+        {
+          "label": "E",
+          "text": "Familial hypercholesterolemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Xanthelasma, corneal arcus, and tendon xanthomas (Achilles, extensor tendons) reflect chronic marked LDL cholesterol elevation. In a young patient this constellation is classic for familial hypercholesterolemia (LDL-receptor pathway defect).",
+        "whyCorrect": "Xanthelasma, corneal arcus, and tendon xanthomas (Achilles, extensor tendons) reflect chronic marked LDL cholesterol elevation. In a young patient this constellation is classic for familial hypercholesterolemia (LDL-receptor pathway defect).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-056_23_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-057",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The figure depicts a reciprocal exchange between chromosomes 9 and 22 that fuses the ABL and BCR regions, producing the derivative small chromosome shown at right. This abnormality is the hallmark of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia (CML)"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Acute promyelocytic leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Ewing sarcoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyCorrect": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-057_26_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-058",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These clinical photographs show multiple large, flat, uniformly hyperpigmented macules with irregular borders on the trunk of a child. These skin findings, when numerous, are a diagnostic criterion for which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitiligo"
+        },
+        {
+          "label": "B",
+          "text": "Addison disease"
+        },
+        {
+          "label": "C",
+          "text": "Melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Tinea versicolor"
+        },
+        {
+          "label": "E",
+          "text": "Neurofibromatosis type 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The lesions are cafe-au-lait macules. Six or more measuring >5 mm (prepubertal) are a diagnostic criterion for neurofibromatosis type 1, a neurocutaneous disorder caused by mutation of the NF1 tumor-suppressor gene (neurofibromin).",
+        "whyCorrect": "The lesions are cafe-au-lait macules. Six or more measuring >5 mm (prepubertal) are a diagnostic criterion for neurofibromatosis type 1, a neurocutaneous disorder caused by mutation of the NF1 tumor-suppressor gene (neurofibromin).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-058_26_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-059",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient has velvety, hyperpigmented, thickened skin in the posterior neck folds. What condition is shown and what does it most commonly signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addisonian hyperpigmentation from cortisol deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Vitiligo, an autoimmune depigmentation"
+        },
+        {
+          "label": "C",
+          "text": "Acanthosis nigricans, associated with insulin resistance"
+        },
+        {
+          "label": "D",
+          "text": "Contact dermatitis from a necklace"
+        },
+        {
+          "label": "E",
+          "text": "Tinea versicolor, a superficial fungal infection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyCorrect": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-059_29_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-060",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This pediatric radiograph shows bowing of the long bones and widened, poorly mineralized metaphyses. What deficiency-related condition does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paget disease of bone"
+        },
+        {
+          "label": "B",
+          "text": "Achondroplasia"
+        },
+        {
+          "label": "C",
+          "text": "Osteogenesis imperfecta"
+        },
+        {
+          "label": "D",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "E",
+          "text": "Rickets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyCorrect": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-060_30_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-061",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This eye shows a brownish ring of pigment at the corneal limbus. It is most characteristic of which systemic disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Wilson disease (copper overload)"
+        },
+        {
+          "label": "C",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Hemochromatosis (iron overload)"
+        },
+        {
+          "label": "E",
+          "text": "Hyperlipidemia (arcus senilis)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ring is a Kayser-Fleischer ring, caused by copper deposition in Descemet membrane. It is a hallmark of Wilson disease, in which defective biliary copper excretion leads to copper accumulation in the cornea, liver, and brain.",
+        "whyCorrect": "The ring is a Kayser-Fleischer ring, caused by copper deposition in Descemet membrane. It is a hallmark of Wilson disease, in which defective biliary copper excretion leads to copper accumulation in the cornea, liver, and brain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-061_31_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-062",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This toddler presents with a well-demarcated erythematous, scaling rash around the mouth and other periorificial areas. Deficiency of which nutrient most classically produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zinc"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "C",
+          "text": "Niacin (B3)"
+        },
+        {
+          "label": "D",
+          "text": "Biotin (B7)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Periorificial and acral dermatitis, as seen here, is the hallmark of zinc deficiency (acrodermatitis enteropathica), which also causes alopecia and diarrhea. Zinc is a cofactor for numerous metalloenzymes, and rapidly dividing epithelium is highly sensitive to its lack.",
+        "whyCorrect": "Periorificial and acral dermatitis, as seen here, is the hallmark of zinc deficiency (acrodermatitis enteropathica), which also causes alopecia and diarrhea. Zinc is a cofactor for numerous metalloenzymes, and rapidly dividing epithelium is highly sensitive to its lack.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-062_31_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-063",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This patient shows bluish-black pigment deposition in the sclera and periocular tissue. In a patient with a tyrosine-catabolism enzyme deficiency and urine that darkens on standing, this finding is termed what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ochronosis (alkaptonuria)"
+        },
+        {
+          "label": "B",
+          "text": "Kayser-Fleischer ring (Wilson disease)"
+        },
+        {
+          "label": "C",
+          "text": "Argyria from silver deposition"
+        },
+        {
+          "label": "D",
+          "text": "Pinguecula"
+        },
+        {
+          "label": "E",
+          "text": "Scleral icterus from jaundice"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ochronosis is deposition of polymerized homogentisic acid pigment in connective tissue and sclera in alkaptonuria (homogentisate oxidase deficiency).",
+        "whyCorrect": "Ochronosis is deposition of polymerized homogentisic acid pigment in connective tissue and sclera in alkaptonuria (homogentisate oxidase deficiency).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-063_34_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-064",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This intraoperative image shows a strikingly dark, greenish-black liver. This appearance is characteristic of which inherited hyperbilirubinemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotor syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyCorrect": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-064_35_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-065",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A middle-aged patient with new-onset diabetes and cirrhosis develops this diffuse bronze-brown skin discoloration. Which disorder best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addison disease"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Porphyria cutanea tarda"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Iron overload from hemochromatosis deposits in skin and stimulates melanin production, producing the classic bronze/slate-gray hyperpigmentation. The combination of skin pigmentation, diabetes, and cirrhosis is the classic 'bronze diabetes' triad.",
+        "whyCorrect": "Iron overload from hemochromatosis deposits in skin and stimulates melanin production, producing the classic bronze/slate-gray hyperpigmentation. The combination of skin pigmentation, diabetes, and cirrhosis is the classic 'bronze diabetes' triad.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-065_36_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-066",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This pathway highlights a block at porphobilinogen deaminase, causing accumulation of ALA and porphobilinogen. What is the classic clinical presentation of the disorder produced by this enzyme deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Photosensitive blistering of sun-exposed skin"
+        },
+        {
+          "label": "B",
+          "text": "Isolated peripheral cyanosis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hemolytic anemia with jaundice"
+        },
+        {
+          "label": "D",
+          "text": "Acute neurovisceral attacks with abdominal pain and neuropsychiatric symptoms"
+        },
+        {
+          "label": "E",
+          "text": "Bronze skin pigmentation and cirrhosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Deficiency of porphobilinogen deaminase causes acute intermittent porphyria. Buildup of ALA and porphobilinogen produces episodic abdominal pain, neuropathy, and neuropsychiatric changes, typically without photosensitivity since no photosensitizing porphyrins accumulate.",
+        "whyCorrect": "Deficiency of porphobilinogen deaminase causes acute intermittent porphyria. Buildup of ALA and porphobilinogen produces episodic abdominal pain, neuropathy, and neuropsychiatric changes, typically without photosensitivity since no photosensitizing porphyrins accumulate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-066_36_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-067",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This inset marks a deficiency of uroporphyrinogen decarboxylase, the defect in the most common porphyria. How does this disorder typically present clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent acute abdominal pain attacks without skin findings"
+        },
+        {
+          "label": "C",
+          "text": "Photosensitive blistering and fragility of sun-exposed skin"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic cirrhosis with no cutaneous signs"
+        },
+        {
+          "label": "E",
+          "text": "Isolated ascending motor weakness"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, the most common porphyria. Accumulated photosensitizing uroporphyrins deposit in skin, producing blistering, fragility, and hyperpigmentation on sun-exposed areas; it is often associated with liver disease.",
+        "whyCorrect": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, the most common porphyria. Accumulated photosensitizing uroporphyrins deposit in skin, producing blistering, fragility, and hyperpigmentation on sun-exposed areas; it is often associated with liver disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-067_36_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-068",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These vesicles, erosions, hemorrhagic crusts, and scarring on the sun-exposed dorsal hands are characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Porphyria cutanea tarda"
+        },
+        {
+          "label": "B",
+          "text": "Acute intermittent porphyria"
+        },
+        {
+          "label": "C",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "E",
+          "text": "Pellagra"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyCorrect": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-068_36_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-069",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This sequence illustrates how a lipoprotein drives early plaque formation in an artery wall. Why do macrophages engulf so much of the modified lipoprotein that they become foam cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Native LDL receptors are upregulated by intracellular cholesterol"
+        },
+        {
+          "label": "B",
+          "text": "Insulin receptors stimulate cholesterol esterification in macrophages"
+        },
+        {
+          "label": "C",
+          "text": "HDL receptors actively pump cholesterol into the macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Scavenger receptors take up oxidized LDL without feedback downregulation, allowing unchecked lipid accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Chylomicron remnant receptors bind oxidized LDL in the intima"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After endothelial injury, monocytes enter the intima and become macrophages that take up oxidized LDL through scavenger receptors. Unlike the classic LDL receptor, scavenger receptors are not suppressed by rising intracellular cholesterol, so lipid loading continues until the cells become foam cells that release cytokines and recruit smooth muscle cells, forming the fatty streak.",
+        "whyCorrect": "After endothelial injury, monocytes enter the intima and become macrophages that take up oxidized LDL through scavenger receptors. Unlike the classic LDL receptor, scavenger receptors are not suppressed by rising intracellular cholesterol, so lipid loading continues until the cells become foam cells that release cytokines and recruit smooth muscle cells, forming the fatty streak.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-069_38_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-070",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The arrow points to a gray-white ring at the peripheral cornea in this eye. In a young or middle-aged patient, this finding is most strongly associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uncontrolled diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Chronic uremia"
+        },
+        {
+          "label": "D",
+          "text": "Wilson disease"
+        },
+        {
+          "label": "E",
+          "text": "Familial hypercholesterolemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyCorrect": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-070_38_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-071",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This skin shows crops of small yellow-red papules with erythematous bases. These lesions are most characteristic of which underlying metabolic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypertriglyceridemia"
+        },
+        {
+          "label": "B",
+          "text": "Hypercalcemia from hyperparathyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Hyperuricemia with tophaceous gout"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C deficiency with perifollicular hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Isolated hypercholesterolemia with normal triglycerides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyCorrect": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-071_38_p8_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-072",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The large central cell shows a characteristic 'crumpled tissue paper' cytoplasm. Deficiency of which enzyme produces this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "C",
+          "text": "Arylsulfatase A"
+        },
+        {
+          "label": "D",
+          "text": "Sphingomyelinase"
+        },
+        {
+          "label": "E",
+          "text": "Glucocerebrosidase (beta-glucosidase)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a Gaucher cell, a lipid-laden macrophage seen in Gaucher disease. Deficiency of glucocerebrosidase causes accumulation of glucocerebroside, giving the cytoplasm its wrinkled 'tissue paper' appearance; features include hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.",
+        "whyCorrect": "This is a Gaucher cell, a lipid-laden macrophage seen in Gaucher disease. Deficiency of glucocerebrosidase causes accumulation of glucocerebroside, giving the cytoplasm its wrinkled 'tissue paper' appearance; features include hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-072_39_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-073",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The arrow points to three copies of chromosome 21 in this karyotype. What clinical syndrome does this abnormality produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Patau syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Turner syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Edwards syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Klinefelter syndrome"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Three copies of chromosome 21 (trisomy 21) cause Down syndrome, characterized by intellectual disability, characteristic facies, and increased risk of congenital heart defects. Edwards (18) and Patau (13) are other autosomal trisomies.",
+        "whyCorrect": "Three copies of chromosome 21 (trisomy 21) cause Down syndrome, characterized by intellectual disability, characteristic facies, and increased risk of congenital heart defects. Edwards (18) and Patau (13) are other autosomal trisomies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-073_40_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-074",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A phenotypically normal person is found to be a balanced carrier of the chromosomal rearrangement fusing chromosomes 14 and 21 shown here. This carrier is at increased risk of having a child with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patau syndrome (trisomy 13)"
+        },
+        {
+          "label": "B",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Cri-du-chat syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Down syndrome (translocation trisomy 21)"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A rob(14;21) Robertsonian translocation carrier is balanced and healthy, but during gamete formation can produce unbalanced gametes carrying the extra chromosome 21 material, leading to translocation Down syndrome in offspring.",
+        "whyCorrect": "A rob(14;21) Robertsonian translocation carrier is balanced and healthy, but during gamete formation can produce unbalanced gametes carrying the extra chromosome 21 material, leading to translocation Down syndrome in offspring.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-074_40_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-075",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The upper structural chromosome abnormality depicted (loss of the terminal short arm of chromosome 5) produces which classic clinical syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DiGeorge syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Cri-du-chat syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Prader-Willi syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Angelman syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wolf-Hirschhorn syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Terminal deletion of the short arm of chromosome 5 (5p-) causes cri-du-chat syndrome, characterized by a high-pitched cat-like cry, microcephaly, and intellectual disability.",
+        "whyCorrect": "Terminal deletion of the short arm of chromosome 5 (5p-) causes cri-du-chat syndrome, characterized by a high-pitched cat-like cry, microcephaly, and intellectual disability.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-075_40_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-076",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A neonate shows the clenched fists with overlapping fingers, rocker-bottom/clubfeet, low-set ears, and cleft lip depicted here. The underlying extra whole chromosome most commonly arises by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uniparental disomy"
+        },
+        {
+          "label": "B",
+          "text": "Terminal chromosomal deletion"
+        },
+        {
+          "label": "C",
+          "text": "Single-gene point mutation"
+        },
+        {
+          "label": "D",
+          "text": "Robertsonian translocation"
+        },
+        {
+          "label": "E",
+          "text": "Meiotic nondisjunction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "These findings are those of trisomy 18 (Edwards syndrome); like most autosomal trisomies it usually results from maternal meiotic nondisjunction producing an extra copy of the chromosome.",
+        "whyCorrect": "These findings are those of trisomy 18 (Edwards syndrome); like most autosomal trisomies it usually results from maternal meiotic nondisjunction producing an extra copy of the chromosome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-076_41_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-077",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A short-statured adolescent girl shows the increased elbow carrying angle (cubitus valgus) demonstrated on the right. These features are characteristic of which chromosomal condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome (trisomy 21)"
+        },
+        {
+          "label": "B",
+          "text": "Trisomy X (47,XXX)"
+        },
+        {
+          "label": "C",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Turner syndrome (45,X)"
+        },
+        {
+          "label": "E",
+          "text": "Klinefelter syndrome (47,XXY)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Short stature and cubitus valgus (wide carrying angle), along with webbed neck and gonadal dysgenesis, are hallmarks of Turner syndrome (45,X).",
+        "whyCorrect": "Short stature and cubitus valgus (wide carrying angle), along with webbed neck and gonadal dysgenesis, are hallmarks of Turner syndrome (45,X).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-077_42_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-078",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "A phenotypically male patient shows the tall stature, gynecomastia, sparse body hair, female-type pubic hair pattern, small testes, and micropenis illustrated here. Which chromosomal complement best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "47,XXY"
+        },
+        {
+          "label": "B",
+          "text": "47,XXX"
+        },
+        {
+          "label": "C",
+          "text": "47,XYY"
+        },
+        {
+          "label": "D",
+          "text": "45,X"
+        },
+        {
+          "label": "E",
+          "text": "46,XY with 5-alpha-reductase deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyCorrect": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-078_42_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-079",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "The microdeletion marked on the long arm of chromosome 22 in this figure is most classically associated with which clinical syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wolf-Hirschhorn syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Prader-Willi syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Cri-du-chat syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Williams syndrome"
+        },
+        {
+          "label": "E",
+          "text": "DiGeorge (velocardiofacial) syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A hemizygous deletion at 22q11.2 causes DiGeorge/velocardiofacial syndrome, featuring conotruncal cardiac defects, thymic and parathyroid hypoplasia, palatal anomalies, and characteristic facies.",
+        "whyCorrect": "A hemizygous deletion at 22q11.2 causes DiGeorge/velocardiofacial syndrome, featuring conotruncal cardiac defects, thymic and parathyroid hypoplasia, palatal anomalies, and characteristic facies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-079_43_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-080",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "In this karyotype, red arrows highlight abnormal-length chromosomes 9 and 22, with material exchanged between the two. What abnormality is depicted and with which malignancy is it classically associated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 22q11 microdeletion, seen in DiGeorge syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Monosomy X, seen in Turner syndrome"
+        },
+        {
+          "label": "C",
+          "text": "A chromosome 5p deletion, seen in cri-du-chat syndrome"
+        },
+        {
+          "label": "D",
+          "text": "A reciprocal t(9;22) translocation (Philadelphia chromosome), seen in chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 21, seen in Down syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The arrows mark a shortened 22 (derivative 22) and altered 9 from the reciprocal t(9;22) translocation. This Philadelphia chromosome creates the BCR-ABL1 fusion characteristic of chronic myeloid leukemia.",
+        "whyCorrect": "The arrows mark a shortened 22 (derivative 22) and altered 9 from the reciprocal t(9;22) translocation. This Philadelphia chromosome creates the BCR-ABL1 fusion characteristic of chronic myeloid leukemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-080_45_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-081",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "An infant presents with the constellation of findings shown: mousy body odor, microcephaly, developmental delay, dry skin/eczema, and elevated serum phenylalanine. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homocystinuria"
+        },
+        {
+          "label": "B",
+          "text": "Tyrosinemia type I"
+        },
+        {
+          "label": "C",
+          "text": "Maple syrup urine disease"
+        },
+        {
+          "label": "D",
+          "text": "Phenylketonuria"
+        },
+        {
+          "label": "E",
+          "text": "Alkaptonuria"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phenylalanine hydroxylase deficiency causes phenylalanine accumulation, producing the classic mousy/musty odor, intellectual disability, microcephaly, seizures, eczema, and hypopigmentation. Management is dietary phenylalanine restriction.",
+        "whyCorrect": "Phenylalanine hydroxylase deficiency causes phenylalanine accumulation, producing the classic mousy/musty odor, intellectual disability, microcephaly, seizures, eczema, and hypopigmentation. Management is dietary phenylalanine restriction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-081_47_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-082",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This hand shows diffuse erythema, warmth, and swelling spreading across the dorsum and digits, with poorly demarcated borders. What is the most likely clinical diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acrocyanosis"
+        },
+        {
+          "label": "B",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "D",
+          "text": "Palmar erythema"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral cyanosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue producing warm, tender, erythematous, poorly demarcated swelling. It is distinguished from vascular conditions like Raynaud or cyanosis, which cause color change rather than warm inflammatory swelling.",
+        "whyCorrect": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue producing warm, tender, erythematous, poorly demarcated swelling. It is distinguished from vascular conditions like Raynaud or cyanosis, which cause color change rather than warm inflammatory swelling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-082_4_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-083",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This hand shows bluish discoloration confined to the distal fingers while the palm remains pink. What does this finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Palmar erythema"
+        },
+        {
+          "label": "B",
+          "text": "Erythromelalgia"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Central cyanosis"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral cyanosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Peripheral (acral) cyanosis reflects increased oxygen extraction and sluggish flow in the extremities, giving a bluish tint to the fingers/nail beds while mucous membranes stay pink. Central cyanosis, by contrast, involves the tongue/lips and reflects arterial desaturation.",
+        "whyCorrect": "Peripheral (acral) cyanosis reflects increased oxygen extraction and sluggish flow in the extremities, giving a bluish tint to the fingers/nail beds while mucous membranes stay pink. Central cyanosis, by contrast, involves the tongue/lips and reflects arterial desaturation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-083_4_p14_2.png",
       "tags": [
         "picture"
       ]

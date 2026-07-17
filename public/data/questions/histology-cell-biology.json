@@ -6,37 +6,661 @@
       "id": "bopic-001",
       "topicId": "histology-cell-biology",
       "topicName": "Histology & Cell Biology",
-      "stem": "A fatty acid consists of a long hydrocarbon chain ending in a carboxylate group, as shown. Because it has both nonpolar and polar regions, how do fatty acids behave in water?",
+      "stem": "As the incoming nucleotide is added to the growing chain (right), a two-phosphate molecule is released. What does hydrolysis of this released molecule provide?",
       "choices": [
         {
           "label": "A",
-          "text": "They dissolve completely and evenly as single free molecules"
+          "text": "The template information for base selection"
         },
         {
           "label": "B",
-          "text": "They fully repel water and cannot interact with it at all"
+          "text": "The hydrogen bonds holding the strands antiparallel"
         },
         {
           "label": "C",
-          "text": "They sink and remain as an inert solid at the bottom"
+          "text": "The signal that terminates strand synthesis"
         },
         {
           "label": "D",
-          "text": "They are amphipathic and self-assemble with tails inward and heads facing water (e.g., micelles)"
+          "text": "The thermodynamic driving force that makes chain elongation favorable"
         },
         {
           "label": "E",
-          "text": "They spontaneously polymerize into rigid protein-like fibers"
+          "text": "The methyl group added to the new base"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The hydrophobic hydrocarbon tail avoids water while the hydrophilic carboxylate head interacts with it. This amphipathic character drives fatty acids and related lipids to form micelles and bilayers, the basis of biological membranes.",
-        "whyCorrect": "The hydrophobic hydrocarbon tail avoids water while the hydrophilic carboxylate head interacts with it. This amphipathic character drives fatty acids and related lipids to form micelles and bilayers, the basis of biological membranes.",
+        "summary": "Nucleotides are added as triphosphates; cleavage and subsequent hydrolysis of the released pyrophosphate is highly exergonic and pulls the polymerization reaction forward.",
+        "whyCorrect": "Nucleotides are added as triphosphates; cleavage and subsequent hydrolysis of the released pyrophosphate is highly exergonic and pulls the polymerization reaction forward.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "bopic-001_22_p2_1.png",
+      "imageRef": "bopic-001_10_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-002",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The modified nucleotide joined by an unusual 5'-to-5' linkage at the start of the transcript serves what function for the mature mRNA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It provides the anticodon that reads the first codon"
+        },
+        {
+          "label": "B",
+          "text": "It signals the site where the poly-A tail is added"
+        },
+        {
+          "label": "C",
+          "text": "It creates the branch point for lariat formation"
+        },
+        {
+          "label": "D",
+          "text": "It marks introns for removal by the spliceosome"
+        },
+        {
+          "label": "E",
+          "text": "It protects the mRNA from degradation and promotes ribosome binding for translation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation.",
+        "whyCorrect": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-002_11_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-003",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The complex assembling on the primary transcript catalyzes which event, releasing the looped intermediate shown at the bottom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reverse transcription of RNA into DNA"
+        },
+        {
+          "label": "B",
+          "text": "Addition of the 5' cap to the transcript"
+        },
+        {
+          "label": "C",
+          "text": "Removal of the intron and joining of the flanking exons"
+        },
+        {
+          "label": "D",
+          "text": "Translation of the mRNA into protein"
+        },
+        {
+          "label": "E",
+          "text": "Attachment of the poly-A tail at the 3' end"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation.",
+        "whyCorrect": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-003_11_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-004",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The three different mRNAs and proteins produced from one hnRNA on the right illustrate a process that provides what benefit to the genome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It lets a single gene generate multiple distinct protein products"
+        },
+        {
+          "label": "B",
+          "text": "It corrects mutations before translation occurs"
+        },
+        {
+          "label": "C",
+          "text": "It converts introns directly into functional proteins"
+        },
+        {
+          "label": "D",
+          "text": "It permanently deletes exons from the genomic DNA"
+        },
+        {
+          "label": "E",
+          "text": "It doubles the amount of DNA before cell division"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity.",
+        "whyCorrect": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-004_11_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-005",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This chart maps triplets to amino acids. What key property of this code is demonstrated by several different triplets specifying the same amino acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ambiguity of the code"
+        },
+        {
+          "label": "B",
+          "text": "Degeneracy (redundancy) of the genetic code"
+        },
+        {
+          "label": "C",
+          "text": "Overlapping reading of the code"
+        },
+        {
+          "label": "D",
+          "text": "Non-universality of the code"
+        },
+        {
+          "label": "E",
+          "text": "Proofreading by the ribosome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because most amino acids are encoded by more than one codon (e.g., six for leucine), the code is described as degenerate/redundant, which buffers many point mutations against changing the protein.",
+        "whyCorrect": "Because most amino acids are encoded by more than one codon (e.g., six for leucine), the code is described as degenerate/redundant, which buffers many point mutations against changing the protein.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-005_11_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-006",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "During elongation on this structure, through which of the three internal sites does a charged tRNA first enter before peptide bond formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peptidyl (P) site"
+        },
+        {
+          "label": "B",
+          "text": "The exit (E) site"
+        },
+        {
+          "label": "C",
+          "text": "The aminoacyl (A) site"
+        },
+        {
+          "label": "D",
+          "text": "The mRNA-binding site of the large subunit"
+        },
+        {
+          "label": "E",
+          "text": "The 60S catalytic center"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site.",
+        "whyCorrect": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-006_11_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-007",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The molecule diagrammed on the left (with an acceptor stem, D loop, T loop, and anticodon loop) is shown 'charged' on the right. What does the charged form on the right directly enable during protein synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of a 5' cap to the growing mRNA"
+        },
+        {
+          "label": "B",
+          "text": "Splicing of introns out of the primary transcript"
+        },
+        {
+          "label": "C",
+          "text": "Synthesis of the mRNA template from a DNA strand"
+        },
+        {
+          "label": "D",
+          "text": "Formation of the small and large ribosomal subunits"
+        },
+        {
+          "label": "E",
+          "text": "Delivery of a specific amino acid to the ribosome via anticodon-codon base pairing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation.",
+        "whyCorrect": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-007_11_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-008",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The figure shows a ribosome whose emerging N-terminal sequence is bound by a cytosolic particle, docked to a receptor on the ER membrane, with the nascent chain threaded through a translocation channel and later cleaved. What is the functional purpose of the events shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Co-translational targeting and import of secretory/membrane proteins into the ER"
+        },
+        {
+          "label": "B",
+          "text": "Import of proteins into the mitochondrial matrix"
+        },
+        {
+          "label": "C",
+          "text": "Degradation of misfolded proteins by the proteasome"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear export of mature mRNA transcripts"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde transport of proteins from Golgi to ER"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The signal recognition particle (SRP) binds the hydrophobic signal peptide on the emerging chain, halts translation, and docks to the SRP receptor. Translation resumes through the translocon, threading the protein into the ER lumen; a signal peptidase then cleaves the signal sequence.",
+        "whyCorrect": "The signal recognition particle (SRP) binds the hydrophobic signal peptide on the emerging chain, halts translation, and docks to the SRP receptor. Translation resumes through the translocon, threading the protein into the ER lumen; a signal peptidase then cleaves the signal sequence.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-008_11_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-009",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The structure shows a central carbon bonded to a hydrogen, a positively charged amino group, a negatively charged carboxyl group, and an R group. What class of biological molecule is this the general structure of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A steroid"
+        },
+        {
+          "label": "B",
+          "text": "A monosaccharide"
+        },
+        {
+          "label": "C",
+          "text": "A nucleotide"
+        },
+        {
+          "label": "D",
+          "text": "An amino acid"
+        },
+        {
+          "label": "E",
+          "text": "A fatty acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH.",
+        "whyCorrect": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-009_13_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-010",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "Two amino acids combine to form the product on the right, releasing the small molecule shown at the bottom. What type of reaction links the two residues, and what is the byproduct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A condensation (dehydration) reaction that releases a molecule of water"
+        },
+        {
+          "label": "B",
+          "text": "A redox reaction that releases carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "A phosphorylation reaction that releases ADP"
+        },
+        {
+          "label": "D",
+          "text": "A hydrolysis reaction that consumes a molecule of water"
+        },
+        {
+          "label": "E",
+          "text": "A decarboxylation reaction that releases ammonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water.",
+        "whyCorrect": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-010_13_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-011",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This molecule pairs a nonpolar hydrocarbon chain with a charged carboxyl head group. What key physical property does this dual character give the molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is completely nonpolar and inert"
+        },
+        {
+          "label": "B",
+          "text": "It is a strong reducing agent"
+        },
+        {
+          "label": "C",
+          "text": "It is amphipathic"
+        },
+        {
+          "label": "D",
+          "text": "It is fully water-soluble"
+        },
+        {
+          "label": "E",
+          "text": "It is optically inactive"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A fatty acid has a hydrophobic tail and a hydrophilic (charged) carboxylate head, making it amphipathic. This property lets fatty acids and their derivatives form micelles and membrane bilayers.",
+        "whyCorrect": "A fatty acid has a hydrophobic tail and a hydrophilic (charged) carboxylate head, making it amphipathic. This property lets fatty acids and their derivatives form micelles and membrane bilayers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-011_22_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-012",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The molecule on the left has a straight chain while the one on the right is bent. What structural feature accounts for the bend, and how does it affect membrane packing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A trans double bond that tightens packing and raises melting point"
+        },
+        {
+          "label": "B",
+          "text": "A cis double bond causes a kink that loosens packing and increases fluidity"
+        },
+        {
+          "label": "C",
+          "text": "A branched methyl group added by chain elongation"
+        },
+        {
+          "label": "D",
+          "text": "A hydroxyl group that forms hydrogen bonds"
+        },
+        {
+          "label": "E",
+          "text": "An extra carboxyl group creating a second polar head"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The straight molecule is a saturated fatty acid; the bent one is unsaturated. A cis double bond introduces a rigid kink that prevents tight packing, lowering the melting point and increasing membrane fluidity.",
+        "whyCorrect": "The straight molecule is a saturated fatty acid; the bent one is unsaturated. A cis double bond introduces a rigid kink that prevents tight packing, lowering the melting point and increasing membrane fluidity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-012_22_p2_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-013",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "These three related molecules are the products of hepatic fatty acid overflow. Which of them is technically NOT a ketone despite being grouped with the others?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetone"
+        },
+        {
+          "label": "B",
+          "text": "All three are true ketones"
+        },
+        {
+          "label": "C",
+          "text": "None contains a carboxyl group"
+        },
+        {
+          "label": "D",
+          "text": "Beta-hydroxybutyrate"
+        },
+        {
+          "label": "E",
+          "text": "Acetoacetate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The three ketone bodies are acetoacetate, acetone, and beta-hydroxybutyrate. Beta-hydroxybutyrate carries a hydroxyl (not a carbonyl/ketone) group, so it is chemically not a ketone, even though it is counted as a ketone body.",
+        "whyCorrect": "The three ketone bodies are acetoacetate, acetone, and beta-hydroxybutyrate. Beta-hydroxybutyrate carries a hydroxyl (not a carbonyl/ketone) group, so it is chemically not a ketone, even though it is counted as a ketone body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-013_23_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-014",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This Prussian-blue-stained marrow shows the arrowed cell with a ring of blue iron granules encircling the nucleus. What is this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippled erythrocyte"
+        },
+        {
+          "label": "B",
+          "text": "Ringed sideroblast"
+        },
+        {
+          "label": "C",
+          "text": "Heinz body"
+        },
+        {
+          "label": "D",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "E",
+          "text": "Target cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyCorrect": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-014_35_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-015",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The two arms joined at the centromere on the right-hand chromosome are genetically identical copies. During the normal cell cycle they are generated by which event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transcription of chromosomal genes"
+        },
+        {
+          "label": "B",
+          "text": "Random assortment of homologs"
+        },
+        {
+          "label": "C",
+          "text": "DNA replication during S phase"
+        },
+        {
+          "label": "D",
+          "text": "Crossing over in prophase I"
+        },
+        {
+          "label": "E",
+          "text": "Nondisjunction in anaphase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sister chromatids are the two identical copies of a chromosome produced by DNA replication in S phase; they remain joined at the centromere until separated in anaphase.",
+        "whyCorrect": "Sister chromatids are the two identical copies of a chromosome produced by DNA replication in S phase; they remain joined at the centromere until separated in anaphase.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-015_40_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-016",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The complete division cycle diagrammed here yields daughter cells with which chromosomal content relative to the original parent cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two diploid cells genetically identical to the parent"
+        },
+        {
+          "label": "B",
+          "text": "Two triploid cells"
+        },
+        {
+          "label": "C",
+          "text": "Two haploid cells identical to the parent"
+        },
+        {
+          "label": "D",
+          "text": "Four haploid, genetically unique cells"
+        },
+        {
+          "label": "E",
+          "text": "Four diploid cells with recombination"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mitosis produces two daughter cells that are diploid (2n) and genetically identical to the parent, in contrast to meiosis which yields four genetically unique haploid cells.",
+        "whyCorrect": "Mitosis produces two daughter cells that are diploid (2n) and genetically identical to the parent, in contrast to meiosis which yields four genetically unique haploid cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-016_40_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-017",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "The two-stage division sequence shown, which includes pairing of homologous chromosomes and crossing over, ultimately produces which final products?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Two diploid identical cells"
+        },
+        {
+          "label": "B",
+          "text": "Four genetically unique haploid gametes"
+        },
+        {
+          "label": "C",
+          "text": "One diploid and one haploid cell"
+        },
+        {
+          "label": "D",
+          "text": "Four diploid unique cells"
+        },
+        {
+          "label": "E",
+          "text": "Two haploid identical cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Meiosis I separates homologous chromosomes (reductional) and meiosis II separates sister chromatids, yielding four haploid cells that are genetically unique due to crossing over and independent assortment.",
+        "whyCorrect": "Meiosis I separates homologous chromosomes (reductional) and meiosis II separates sister chromatids, yielding four haploid cells that are genetically unique due to crossing over and independent assortment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-017_40_p9_1.png",
       "tags": [
         "picture"
       ]

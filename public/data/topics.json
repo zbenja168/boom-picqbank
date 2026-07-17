@@ -8,7 +8,7 @@
           "id": "histology-cell-biology",
           "name": "Histology & Cell Biology",
           "sourceFile": "boom bricks",
-          "questionCount": 1
+          "questionCount": 17
         }
       ]
     },
@@ -20,7 +20,7 @@
           "id": "lab-diagnostics",
           "name": "Lab & Diagnostics",
           "sourceFile": "boom bricks",
-          "questionCount": 4
+          "questionCount": 32
         }
       ]
     },
@@ -32,7 +32,19 @@
           "id": "pathology",
           "name": "Pathology",
           "sourceFile": "boom bricks",
-          "questionCount": 4
+          "questionCount": 34
+        }
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "topics": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "sourceFile": "boom bricks",
+          "questionCount": 9
         }
       ]
     },
@@ -44,10 +56,10 @@
           "id": "physiology-mechanisms",
           "name": "Physiology & Mechanisms",
           "sourceFile": "boom bricks",
-          "questionCount": 17
+          "questionCount": 184
         }
       ]
     }
   ],
-  "totalQuestions": 26
+  "totalQuestions": 276
 }
