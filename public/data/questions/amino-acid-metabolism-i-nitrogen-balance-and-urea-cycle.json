@@ -1,0 +1,591 @@
+{
+  "categoryId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+  "categoryName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+  "questions": [
+    {
+      "id": "bopic-030",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "Using this diagnostic algorithm for urea cycle disorders, a patient with low/absent citrulline and markedly elevated urinary orotic acid is best explained by a deficiency of which enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Argininosuccinate lyase (argininosuccinic aciduria)"
+        },
+        {
+          "label": "B",
+          "text": "Arginase"
+        },
+        {
+          "label": "C",
+          "text": "Argininosuccinate synthetase (citrullinemia)"
+        },
+        {
+          "label": "D",
+          "text": "Ornithine transcarbamylase (OTC)"
+        },
+        {
+          "label": "E",
+          "text": "Carbamoyl phosphate synthetase I (CPS I)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In OTC deficiency, carbamoyl phosphate accumulates and spills into the pyrimidine pathway, raising orotic acid, while citrulline is low because it cannot be made. CPS I deficiency also gives low citrulline but with normal/low orotic acid, distinguishing the two.",
+        "whyCorrect": "In OTC deficiency, carbamoyl phosphate accumulates and spills into the pyrimidine pathway, raising orotic acid, while citrulline is low because it cannot be made. CPS I deficiency also gives low citrulline but with normal/low orotic acid, distinguishing the two.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-030_33_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-091",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This reaction sequence—beta-oxidation of phenylbutyrate to phenylacetate, activation to its CoA thioester, and conjugation with glutamine—represents the mechanism of which therapeutic strategy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nitrogen scavenging to lower plasma ammonia in urea cycle disorders"
+        },
+        {
+          "label": "B",
+          "text": "Suppressing intestinal urease-producing bacteria"
+        },
+        {
+          "label": "C",
+          "text": "Supplying arginine to restart a stalled urea cycle"
+        },
+        {
+          "label": "D",
+          "text": "Chelating ammonium ions for biliary excretion"
+        },
+        {
+          "label": "E",
+          "text": "Inhibiting hepatic glutaminase to reduce ammonia production"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phenylacetate conjugates with glutamine to form phenylacetylglutamine, which is excreted renally and removes two nitrogen atoms per molecule, providing an alternate nitrogen-disposal route when the urea cycle is defective.",
+        "whyCorrect": "Phenylacetate conjugates with glutamine to form phenylacetylglutamine, which is excreted renally and removes two nitrogen atoms per molecule, providing an alternate nitrogen-disposal route when the urea cycle is defective.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-091_33_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-092",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "In this pathway benzoate is activated to benzoyl-CoA and then conjugated with an amino acid to form an excretable nitrogen-containing product. Which amino acid is consumed in this conjugation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glutamine"
+        },
+        {
+          "label": "B",
+          "text": "Arginine"
+        },
+        {
+          "label": "C",
+          "text": "Glycine"
+        },
+        {
+          "label": "D",
+          "text": "Alanine"
+        },
+        {
+          "label": "E",
+          "text": "Aspartate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Benzoate combines with glycine to form hippurate (benzoylglycine), which is excreted in urine; this consumes glycine's nitrogen and serves as an ammonia-scavenging therapy in urea cycle disorders.",
+        "whyCorrect": "Benzoate combines with glycine to form hippurate (benzoylglycine), which is excreted in urine; this consumes glycine's nitrogen and serves as an ammonia-scavenging therapy in urea cycle disorders.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-092_33_p21_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-210",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "In this scheme of interorgan nitrogen transport, peripheral tissues such as muscle package excess ammonia and export it to the liver primarily in the form of which molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glutamine"
+        },
+        {
+          "label": "B",
+          "text": "Urea"
+        },
+        {
+          "label": "C",
+          "text": "Free ammonium (NH4+)"
+        },
+        {
+          "label": "D",
+          "text": "Aspartate"
+        },
+        {
+          "label": "E",
+          "text": "Alpha-ketoglutarate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glutamine synthetase in muscle and peripheral tissue fixes NH4+ onto glutamate to form glutamine, the main nontoxic carrier of nitrogen in blood. In the liver, mitochondrial glutaminase releases the ammonia again for urea production, while in the kidney it supports acid-base balance.",
+        "whyCorrect": "Glutamine synthetase in muscle and peripheral tissue fixes NH4+ onto glutamate to form glutamine, the main nontoxic carrier of nitrogen in blood. In the liver, mitochondrial glutaminase releases the ammonia again for urea production, while in the kidney it supports acid-base balance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-210_32_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-211",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This figure summarizes the major sources feeding the body's ammonia pool. Which numbered source depends on bacterial urease acting on urea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gut metabolism (intestinal bacteria)"
+        },
+        {
+          "label": "B",
+          "text": "Adenosine deaminase activity"
+        },
+        {
+          "label": "C",
+          "text": "Deamination of histidine and threonine"
+        },
+        {
+          "label": "D",
+          "text": "Glutamate dehydrogenase in the liver"
+        },
+        {
+          "label": "E",
+          "text": "Purine and pyrimidine metabolism in muscle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Intestinal bacteria express urease, which hydrolyzes urea into two molecules of ammonia plus CO2 (source 2). This gut-derived ammonia is a major contributor to the systemic pool, which is why nonabsorbable antibiotics and lactulose are used to lower ammonia in hepatic encephalopathy.",
+        "whyCorrect": "Intestinal bacteria express urease, which hydrolyzes urea into two molecules of ammonia plus CO2 (source 2). This gut-derived ammonia is a major contributor to the systemic pool, which is why nonabsorbable antibiotics and lactulose are used to lower ammonia in hepatic encephalopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-211_32_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-212",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This figure shows how glutamine synthetase and glutamate dehydrogenase respond to rising ammonia. Why does sustained hyperammonemia impair neurotransmission in the brain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess NAD(P)H shuts down all mitochondrial ATP synthesis in neurons"
+        },
+        {
+          "label": "B",
+          "text": "Glutaminase overactivity floods the synapse with excess glutamate"
+        },
+        {
+          "label": "C",
+          "text": "Glutamate is continuously siphoned to make glutamine, depleting glutamate available as a neurotransmitter"
+        },
+        {
+          "label": "D",
+          "text": "Ammonia directly binds and blocks postsynaptic glutamate receptors"
+        },
+        {
+          "label": "E",
+          "text": "Ammonia is converted to urea within neurons, consuming acetylcholine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As ammonia rises, glutamine synthetase consumes glutamate (and ATP) to fix NH3 into glutamine. GDH is pushed toward glutamate formation to replenish it, at the expense of alpha-ketoglutarate, slowing the TCA cycle. The ongoing diversion of glutamate lowers the pool available for neurotransmission.",
+        "whyCorrect": "As ammonia rises, glutamine synthetase consumes glutamate (and ATP) to fix NH3 into glutamine. GDH is pushed toward glutamate formation to replenish it, at the expense of alpha-ketoglutarate, slowing the TCA cycle. The ongoing diversion of glutamate lowers the pool available for neurotransmission.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-212_32_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-213",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This diagram shows the three major fates of an amino acid. The amino (nitrogen) group removed during degradation is ultimately disposed of through which pathway shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion into fatty acids for storage"
+        },
+        {
+          "label": "B",
+          "text": "Synthesis of heme and nitrogenous bases"
+        },
+        {
+          "label": "C",
+          "text": "The urea cycle"
+        },
+        {
+          "label": "D",
+          "text": "Direct excretion as free ammonia in bile"
+        },
+        {
+          "label": "E",
+          "text": "Incorporation into carbon skeletons for energy storage"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "After transamination/deamination, the liberated nitrogen enters the urea cycle to form urea for excretion. The carbon skeleton is used for energy or storage, while the nitrogen atoms can also be reused to build nitrogen-containing biomolecules such as heme and nucleotide bases.",
+        "whyCorrect": "After transamination/deamination, the liberated nitrogen enters the urea cycle to form urea for excretion. The carbon skeleton is used for energy or storage, while the nitrogen atoms can also be reused to build nitrogen-containing biomolecules such as heme and nucleotide bases.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-213_32_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-214",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "Four key nitrogen-handling enzyme reactions are shown. Which of these reactions requires pyridoxal phosphate (vitamin B6) as its cofactor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glutaminase"
+        },
+        {
+          "label": "B",
+          "text": "Glutamate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Carbamoyl phosphate synthetase"
+        },
+        {
+          "label": "D",
+          "text": "Glutamine synthetase"
+        },
+        {
+          "label": "E",
+          "text": "Transaminase (aminotransferase)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transaminases transfer an amino group between an amino acid and an alpha-keto acid and depend on pyridoxal phosphate (PLP, from vitamin B6). Glutamate dehydrogenase uses NAD(P)+, glutamine synthetase uses ATP, and glutaminase simply hydrolyzes glutamine.",
+        "whyCorrect": "Transaminases transfer an amino group between an amino acid and an alpha-keto acid and depend on pyridoxal phosphate (PLP, from vitamin B6). Glutamate dehydrogenase uses NAD(P)+, glutamine synthetase uses ATP, and glutaminase simply hydrolyzes glutamine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-214_32_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-215",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This figure shows the liver's response to a hormone during fasting. Which hormone drives the coordinated increase in amino acid degradation, gluconeogenesis, and urea cycle flux depicted here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Cortisol"
+        },
+        {
+          "label": "C",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Insulin"
+        },
+        {
+          "label": "E",
+          "text": "Growth hormone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glucagon, released during fasting, stimulates hepatic amino acid degradation. The carbon skeletons feed gluconeogenesis to release glucose, while the liberated nitrogen (NH4+) is channeled into the urea cycle for disposal. Insulin would promote the opposite, anabolic state.",
+        "whyCorrect": "Glucagon, released during fasting, stimulates hepatic amino acid degradation. The carbon skeletons feed gluconeogenesis to release glucose, while the liberated nitrogen (NH4+) is channeled into the urea cycle for disposal. Insulin would promote the opposite, anabolic state.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-215_33_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-216",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This figure depicts a cycle in which muscle exports nitrogen and a three-carbon unit to the liver, which returns glucose. What is this cycle called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cori cycle"
+        },
+        {
+          "label": "B",
+          "text": "Glucose-alanine (Cahill) cycle"
+        },
+        {
+          "label": "C",
+          "text": "Urea cycle"
+        },
+        {
+          "label": "D",
+          "text": "Citric acid (Krebs) cycle"
+        },
+        {
+          "label": "E",
+          "text": "Malate-aspartate shuttle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
+        "whyCorrect": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-216_33_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-217",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This diagram overlays two muscle-liver shuttles. Compared with the other cycle shown, what distinguishes the Cahill cycle carrier?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It carries nitrogen (as alanine) from muscle to the liver, not just carbon"
+        },
+        {
+          "label": "B",
+          "text": "It delivers nitrogen from liver to muscle for protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It operates only under anaerobic conditions"
+        },
+        {
+          "label": "D",
+          "text": "It bypasses gluconeogenesis by supplying glucose directly"
+        },
+        {
+          "label": "E",
+          "text": "It transports lactate rather than an amino acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The Cahill cycle shuttles alanine, carrying the nitrogen (N) group along with a three-carbon skeleton from muscle to the liver, where the nitrogen enters urea. The Cori cycle instead shuttles lactate and moves no nitrogen. Both return glucose to the muscle.",
+        "whyCorrect": "The Cahill cycle shuttles alanine, carrying the nitrogen (N) group along with a three-carbon skeleton from muscle to the liver, where the nitrogen enters urea. The Cori cycle instead shuttles lactate and moves no nitrogen. Both return glucose to the muscle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-217_33_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-218",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This schematic shows why excess carbamoyl phosphate from a urea-cycle enzyme defect spills into pyrimidine synthesis, bypassing the negative-feedback point. Compared with hereditary orotic aciduria (UMP synthase deficiency), the disorder depicted here is distinguished by which additional finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum uric acid"
+        },
+        {
+          "label": "B",
+          "text": "Megaloblastic anemia responsive to uridine"
+        },
+        {
+          "label": "C",
+          "text": "Failure to respond to any dietary therapy"
+        },
+        {
+          "label": "D",
+          "text": "Hyperammonemia"
+        },
+        {
+          "label": "E",
+          "text": "Deficient pyrimidine salvage enzymes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In ornithine transcarbamylase (OTC) deficiency the blocked urea cycle raises carbamoyl phosphate, which diverts into pyrimidine synthesis and appears as orotic acid; unlike hereditary orotic aciduria it produces hyperammonemia and lacks megaloblastic anemia.",
+        "whyCorrect": "In ornithine transcarbamylase (OTC) deficiency the blocked urea cycle raises carbamoyl phosphate, which diverts into pyrimidine synthesis and appears as orotic acid; unlike hereditary orotic aciduria it produces hyperammonemia and lacks megaloblastic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-218_33_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-219",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This overview describes the free amino acid pool as 'dynamic but stable.' Which statement best explains that description?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents a one-way flow of dietary protein into tissue protein"
+        },
+        {
+          "label": "B",
+          "text": "It contains only essential amino acids maintained purely by dietary intake"
+        },
+        {
+          "label": "C",
+          "text": "Its composition is fixed because amino acids cannot be interconverted"
+        },
+        {
+          "label": "D",
+          "text": "Amino acids are held in a dedicated storage organelle and released only during starvation"
+        },
+        {
+          "label": "E",
+          "text": "It is continuously replenished by protein turnover and diet while being drained by biosynthesis and catabolism, keeping its size roughly constant"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The pool is in constant flux: inputs (protein turnover and dietary intake) are balanced by outputs (protein synthesis, nonprotein nitrogen compounds, and catabolism to fuels and urea), so its concentration stays stable despite ongoing exchange.",
+        "whyCorrect": "The pool is in constant flux: inputs (protein turnover and dietary intake) are balanced by outputs (protein synthesis, nonprotein nitrogen compounds, and catabolism to fuels and urea), so its concentration stays stable despite ongoing exchange.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-219_33_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-220",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This diagram localizes the urea cycle to hepatocyte mitochondria and cytosol. Deficiency of the enzyme that combines ornithine with carbamoyl phosphate to form citrulline (OTC) is inherited in which pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Y-linked"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial (maternal)"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "D",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ornithine transcarbamylase deficiency is the only X-linked urea cycle disorder; it produces hyperammonemia with elevated orotic acid and no megaloblastic anemia.",
+        "whyCorrect": "Ornithine transcarbamylase deficiency is the only X-linked urea cycle disorder; it produces hyperammonemia with elevated orotic acid and no megaloblastic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-220_33_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-221",
+      "topicId": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "topicName": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "stem": "This figure links the urea cycle to another pathway through fumarate produced by argininosuccinate lyase and the regeneration of aspartate via AST. Into which pathway does that fumarate feed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyrimidine synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Pentose phosphate pathway"
+        },
+        {
+          "label": "C",
+          "text": "Beta-oxidation"
+        },
+        {
+          "label": "D",
+          "text": "Glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Citric acid (TCA) cycle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fumarate from the urea cycle enters the TCA cycle and is converted to malate then oxaloacetate; transamination by AST regenerates aspartate, which donates the second nitrogen of urea, coupling the two cycles.",
+        "whyCorrect": "Fumarate from the urea cycle enters the TCA cycle and is converted to malate then oxaloacetate; transamination by AST regenerates aspartate, which donates the second nitrogen of urea, coupling the two cycles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-221_33_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

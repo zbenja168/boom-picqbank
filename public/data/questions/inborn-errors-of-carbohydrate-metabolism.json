@@ -1,0 +1,279 @@
+{
+  "categoryId": "inborn-errors-of-carbohydrate-metabolism",
+  "categoryName": "Inborn Errors of Carbohydrate Metabolism",
+  "questions": [
+    {
+      "id": "bopic-035",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "A container of freshly voided urine from a patient after strenuous exercise appears dark reddish-brown as shown. In a patient with a muscle glycogenolysis defect, what does this coloration most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alkaptonuria from homogentisic acid oxidation"
+        },
+        {
+          "label": "B",
+          "text": "Porphyrinuria from acute intermittent porphyria"
+        },
+        {
+          "label": "C",
+          "text": "Conjugated bilirubinuria from biliary obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Gross hematuria from a bladder tumor"
+        },
+        {
+          "label": "E",
+          "text": "Myoglobinuria from exercise-induced rhabdomyolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Dark tea/cola-colored urine after exertion in disorders such as McArdle disease (muscle glycogen phosphorylase deficiency) reflects myoglobin released during rhabdomyolysis. Myoglobin is filtered and can precipitate in tubules, risking acute kidney injury; unlike hematuria, the urine is pigment-positive but shows few or no intact red cells on microscopy.",
+        "whyCorrect": "Dark tea/cola-colored urine after exertion in disorders such as McArdle disease (muscle glycogen phosphorylase deficiency) reflects myoglobin released during rhabdomyolysis. Myoglobin is filtered and can precipitate in tubules, risking acute kidney injury; unlike hematuria, the urine is pigment-positive but shows few or no intact red cells on microscopy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-035_37_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-243",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "This diagram shows an enzyme acting on a glycogen molecule during its breakdown. What is the specific action of the debranching enzyme depicted here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It cleaves alpha-1,4 bonds to release glucose 1-phosphate"
+        },
+        {
+          "label": "B",
+          "text": "It creates alpha-1,6 branch points from a linear chain"
+        },
+        {
+          "label": "C",
+          "text": "It adds UDP-glucose to create new alpha-1,4 linkages"
+        },
+        {
+          "label": "D",
+          "text": "It phosphorylates terminal glucose residues at branch points"
+        },
+        {
+          "label": "E",
+          "text": "It transfers a block of glucose units to another chain and hydrolyzes the remaining alpha-1,6 linkage"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glycogen phosphorylase cannot cleave near branch points, so the bifunctional debranching enzyme has 4-alpha-glucanotransferase activity (moves a set of glucose units to a neighboring chain) and alpha-1,6-glucosidase activity (hydrolyzes the exposed branch linkage), freeing the residues for continued phosphorylase action.",
+        "whyCorrect": "Glycogen phosphorylase cannot cleave near branch points, so the bifunctional debranching enzyme has 4-alpha-glucanotransferase activity (moves a set of glucose units to a neighboring chain) and alpha-1,6-glucosidase activity (hydrolyzes the exposed branch linkage), freeing the residues for continued phosphorylase action.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-243_37_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-244",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "The figure shows glycogen phosphorylase releasing glucose 1-phosphate but stalling to leave a shortened, branched core. What is the metabolic significance of this stalled residual structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It represents lysosomal glycogen resistant to all cytosolic enzymes"
+        },
+        {
+          "label": "B",
+          "text": "It is the substrate for branching enzyme to add new chains"
+        },
+        {
+          "label": "C",
+          "text": "It marks glycogen that will be exported intact into blood"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylase halts about four residues from a branch, requiring debranching enzyme to continue degradation"
+        },
+        {
+          "label": "E",
+          "text": "It signals that glycogen synthesis has been fully completed"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glycogen phosphorylase can only cleave alpha-1,4 bonds until roughly four glucose units remain before an alpha-1,6 branch, producing the truncated limit dextrin. Further breakdown then depends on the debranching enzyme, illustrating why its deficiency (Cori disease) causes abnormal glycogen with short outer branches.",
+        "whyCorrect": "Glycogen phosphorylase can only cleave alpha-1,4 bonds until roughly four glucose units remain before an alpha-1,6 branch, producing the truncated limit dextrin. Further breakdown then depends on the debranching enzyme, illustrating why its deficiency (Cori disease) causes abnormal glycogen with short outer branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-244_37_p10_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-245",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "This erythrocyte pathway diagram illustrates the defect underlying G6PD deficiency and the resulting oxidative injury. Aside from the Heinz bodies noted here, what characteristic red-cell morphology appears on the peripheral smear?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sickle cells"
+        },
+        {
+          "label": "B",
+          "text": "Schistocytes"
+        },
+        {
+          "label": "C",
+          "text": "Target cells"
+        },
+        {
+          "label": "D",
+          "text": "Bite cells"
+        },
+        {
+          "label": "E",
+          "text": "Spherocytes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Loss of G6PD reduces NADPH, so glutathione cannot be regenerated to detoxify peroxides, and hemoglobin oxidizes into Heinz bodies. Splenic macrophages pluck these inclusions from the membrane, leaving bite cells. Hemolysis is episodic and triggered by oxidant drugs, infections, or fava beans.",
+        "whyCorrect": "Loss of G6PD reduces NADPH, so glutathione cannot be regenerated to detoxify peroxides, and hemoglobin oxidizes into Heinz bodies. Splenic macrophages pluck these inclusions from the membrane, leaving bite cells. Hemolysis is episodic and triggered by oxidant drugs, infections, or fava beans.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-245_37_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-246",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "This figure depicts a glycolytic enzyme defect that lowers red-cell ATP and produces spiculated, fragile cells. What is the inheritance pattern of this deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "B",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial (maternal)"
+        },
+        {
+          "label": "D",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pyruvate kinase deficiency is autosomal recessive. Because mature RBCs lack mitochondria, they depend on glycolysis for ATP; without pyruvate kinase, ATP falls, membrane ion pumps fail, and cells become rigid, echinocytic, and prone to extravascular hemolysis. (Contrast with X-linked recessive G6PD deficiency.)",
+        "whyCorrect": "Pyruvate kinase deficiency is autosomal recessive. Because mature RBCs lack mitochondria, they depend on glycolysis for ATP; without pyruvate kinase, ATP falls, membrane ion pumps fail, and cells become rigid, echinocytic, and prone to extravascular hemolysis. (Contrast with X-linked recessive G6PD deficiency.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-246_37_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-247",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "This red-cell metabolic map highlights a side branch off 1,3-bisphosphoglycerate (the Rapoport-Luebering shunt). What is the functional purpose of the product generated by this shunt?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reduces methemoglobin back to functional hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "It generates ATP to power the Na/K-ATPase directly"
+        },
+        {
+          "label": "C",
+          "text": "It generates NADPH to protect against oxidative stress"
+        },
+        {
+          "label": "D",
+          "text": "It produces lactate to regenerate NAD+ for glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "It generates 2,3-BPG, which lowers hemoglobin's oxygen affinity to promote tissue oxygen unloading"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Rapoport-Luebering shunt diverts 1,3-BPG to 2,3-bisphosphoglycerate via bisphosphoglycerate mutase, at the cost of net ATP from that step. 2,3-BPG binds deoxyhemoglobin and stabilizes the T state, shifting the oxygen dissociation curve rightward to enhance oxygen delivery to tissues, especially at altitude or in chronic anemia.",
+        "whyCorrect": "The Rapoport-Luebering shunt diverts 1,3-BPG to 2,3-bisphosphoglycerate via bisphosphoglycerate mutase, at the cost of net ATP from that step. 2,3-BPG binds deoxyhemoglobin and stabilizes the T state, shifting the oxygen dissociation curve rightward to enhance oxygen delivery to tissues, especially at altitude or in chronic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-247_37_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-248",
+      "topicId": "inborn-errors-of-carbohydrate-metabolism",
+      "topicName": "Inborn Errors of Carbohydrate Metabolism",
+      "stem": "This numbered map of glycogen metabolism marks the enzyme (1) that converts glucose 6-phosphate to free glucose for export via GLUT2. Deficiency of this enzyme causes which classic disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cori disease (type III)"
+        },
+        {
+          "label": "B",
+          "text": "McArdle disease (type V)"
+        },
+        {
+          "label": "C",
+          "text": "Andersen disease (type IV)"
+        },
+        {
+          "label": "D",
+          "text": "Pompe disease (type II)"
+        },
+        {
+          "label": "E",
+          "text": "Von Gierke disease (type I glycogen storage disease)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Enzyme (1) is glucose-6-phosphatase, the only step allowing the liver to release free glucose from both glycogenolysis and gluconeogenesis. Its deficiency (von Gierke, type I) causes severe fasting hypoglycemia, hepatomegaly, lactic acidosis, hyperuricemia, and hyperlipidemia, since glucose 6-phosphate cannot be dephosphorylated for export.",
+        "whyCorrect": "Enzyme (1) is glucose-6-phosphatase, the only step allowing the liver to release free glucose from both glycogenolysis and gluconeogenesis. Its deficiency (von Gierke, type I) causes severe fasting hypoglycemia, hepatomegaly, lactic acidosis, hyperuricemia, and hyperlipidemia, since glucose 6-phosphate cannot be dephosphorylated for export.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-248_37_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

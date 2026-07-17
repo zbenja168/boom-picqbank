@@ -1,0 +1,513 @@
+{
+  "categoryId": "basic-nutritional-requirements-for-metabolism",
+  "categoryName": "Basic Nutritional Requirements for Metabolism",
+  "questions": [
+    {
+      "id": "bopic-059",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This patient has velvety, hyperpigmented, thickened skin in the posterior neck folds. What condition is shown and what does it most commonly signal?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addisonian hyperpigmentation from cortisol deficiency"
+        },
+        {
+          "label": "B",
+          "text": "Vitiligo, an autoimmune depigmentation"
+        },
+        {
+          "label": "C",
+          "text": "Acanthosis nigricans, associated with insulin resistance"
+        },
+        {
+          "label": "D",
+          "text": "Contact dermatitis from a necklace"
+        },
+        {
+          "label": "E",
+          "text": "Tinea versicolor, a superficial fungal infection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyCorrect": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-059_29_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-060",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This pediatric radiograph shows bowing of the long bones and widened, poorly mineralized metaphyses. What deficiency-related condition does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Paget disease of bone"
+        },
+        {
+          "label": "B",
+          "text": "Achondroplasia"
+        },
+        {
+          "label": "C",
+          "text": "Osteogenesis imperfecta"
+        },
+        {
+          "label": "D",
+          "text": "Osteopetrosis"
+        },
+        {
+          "label": "E",
+          "text": "Rickets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyCorrect": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-060_30_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-090",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "In this cycle, the drug shown blocks epoxide reductase, preventing regeneration of the reduced vitamin needed by the carboxylase. What is the direct consequence for the coagulation proteins?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accelerated hepatic synthesis of clotting factors"
+        },
+        {
+          "label": "B",
+          "text": "Direct proteolytic cleavage of fibrinogen"
+        },
+        {
+          "label": "C",
+          "text": "Increased calcium binding and hyperactive factors"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced membrane anchoring of active factors"
+        },
+        {
+          "label": "E",
+          "text": "Impaired gamma-carboxylation of glutamate residues, yielding inactive factors"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Warfarin inhibits vitamin K epoxide reductase, so reduced vitamin K cannot be regenerated. Without it, gamma-glutamyl carboxylase cannot carboxylate Glu residues to Gla, leaving factors II, VII, IX, X unable to bind Ca2+ and membranes, so they remain inactive.",
+        "whyCorrect": "Warfarin inhibits vitamin K epoxide reductase, so reduced vitamin K cannot be regenerated. Without it, gamma-glutamyl carboxylase cannot carboxylate Glu residues to Gla, leaving factors II, VII, IX, X unable to bind Ca2+ and membranes, so they remain inactive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-090_30_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-196",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "The pathway shown converts an amino acid into nicotinamide for NAD+. Which vitamin is required at the step that also releases alanine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin C (ascorbate)"
+        },
+        {
+          "label": "B",
+          "text": "Biotin"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "D",
+          "text": "Thiamine (B1)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin B6 (pyridoxal phosphate)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tryptophan can be catabolized to yield nicotinamide for NAD+ synthesis. A step in this pathway is pyridoxal phosphate (vitamin B6)-dependent and releases alanine; B6 deficiency impairs endogenous niacin production.",
+        "whyCorrect": "Tryptophan can be catabolized to yield nicotinamide for NAD+ synthesis. A step in this pathway is pyridoxal phosphate (vitamin B6)-dependent and releases alanine; B6 deficiency impairs endogenous niacin production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-196_29_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-197",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "Both branches of this figure share a common cofactor requirement at their initial hydroxylation steps. What cofactor is regenerated as BH2 in phenylalanine, tyrosine, and tryptophan hydroxylation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyridoxal phosphate (PLP)"
+        },
+        {
+          "label": "B",
+          "text": "S-adenosylmethionine (SAM)"
+        },
+        {
+          "label": "C",
+          "text": "Biotin"
+        },
+        {
+          "label": "D",
+          "text": "Thiamine pyrophosphate (TPP)"
+        },
+        {
+          "label": "E",
+          "text": "Tetrahydrobiopterin (BH4)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Phenylalanine, tyrosine, and tryptophan hydroxylases are all tetrahydrobiopterin (BH4)-dependent monooxygenases; BH4 is oxidized to BH2 during each reaction. These initial hydroxylations lead to dopamine (via Dopa) and serotonin (via 5-hydroxytryptophan).",
+        "whyCorrect": "Phenylalanine, tyrosine, and tryptophan hydroxylases are all tetrahydrobiopterin (BH4)-dependent monooxygenases; BH4 is oxidized to BH2 during each reaction. These initial hydroxylations lead to dopamine (via Dopa) and serotonin (via 5-hydroxytryptophan).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-197_29_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-198",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "The carboxylation reaction shown converts pyruvate to oxaloacetate. Which vitamin-derived cofactor is essential for this enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetrahydrofolate"
+        },
+        {
+          "label": "B",
+          "text": "Pyridoxal phosphate (B6)"
+        },
+        {
+          "label": "C",
+          "text": "Biotin (vitamin B7)"
+        },
+        {
+          "label": "D",
+          "text": "Thiamine pyrophosphate (B1)"
+        },
+        {
+          "label": "E",
+          "text": "Lipoic acid"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pyruvate carboxylase is a biotin-dependent enzyme that uses ATP to fix CO2 onto pyruvate, forming oxaloacetate. This anaplerotic/gluconeogenic step replenishes TCA intermediates and initiates gluconeogenesis.",
+        "whyCorrect": "Pyruvate carboxylase is a biotin-dependent enzyme that uses ATP to fix CO2 onto pyruvate, forming oxaloacetate. This anaplerotic/gluconeogenic step replenishes TCA intermediates and initiates gluconeogenesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-198_29_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-199",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "The post-translational modifications shown add hydroxyl groups to proline and lysine residues. Which vitamin is required as the cofactor (shown here as the reductant) for these reactions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B6 (pyridoxal phosphate)"
+        },
+        {
+          "label": "B",
+          "text": "Niacin (NAD+)"
+        },
+        {
+          "label": "C",
+          "text": "Biotin"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C (ascorbate)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Prolyl and lysyl hydroxylases require ascorbate (vitamin C) to keep the active-site iron reduced, using O2 and alpha-ketoglutarate. Hydroxyproline and hydroxylysine stabilize collagen triple helices and cross-links; deficiency causes scurvy.",
+        "whyCorrect": "Prolyl and lysyl hydroxylases require ascorbate (vitamin C) to keep the active-site iron reduced, using O2 and alpha-ketoglutarate. Hydroxyproline and hydroxylysine stabilize collagen triple helices and cross-links; deficiency causes scurvy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-199_29_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-200",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "In the methionine/homocysteine cycle shown, methionine synthase transfers a methyl group from methyl-FH4 to homocysteine. Which vitamin is the essential cofactor for this transfer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "B",
+          "text": "Thiamine (B1)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "D",
+          "text": "Pyridoxal phosphate (B6)"
+        },
+        {
+          "label": "E",
+          "text": "Biotin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Methionine synthase uses methylcobalamin (B12) to remethylate homocysteine to methionine, simultaneously regenerating tetrahydrofolate. B12 deficiency traps folate as methyl-FH4 and elevates homocysteine; the alternate cystathionine beta-synthase route is PLP (B6)-dependent.",
+        "whyCorrect": "Methionine synthase uses methylcobalamin (B12) to remethylate homocysteine to methionine, simultaneously regenerating tetrahydrofolate. B12 deficiency traps folate as methyl-FH4 and elevates homocysteine; the alternate cystathionine beta-synthase route is PLP (B6)-dependent.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-200_29_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-201",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This pathway produces three catecholamines from tyrosine. Which final product is made predominantly in the adrenal medulla via a SAM-dependent methylation step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Norepinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "L-Dopa"
+        },
+        {
+          "label": "D",
+          "text": "Dopamine"
+        },
+        {
+          "label": "E",
+          "text": "Serotonin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tyrosine yields dopamine, then norepinephrine (via dopamine beta-hydroxylase, requiring vitamin C), and finally epinephrine when phenylethanolamine N-methyltransferase adds a methyl group from S-adenosylmethionine. This last step occurs mainly in the adrenal medulla.",
+        "whyCorrect": "Tyrosine yields dopamine, then norepinephrine (via dopamine beta-hydroxylase, requiring vitamin C), and finally epinephrine when phenylethanolamine N-methyltransferase adds a methyl group from S-adenosylmethionine. This last step occurs mainly in the adrenal medulla.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-201_29_p27_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-202",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This pathway synthesizes a neurotransmitter from tryptophan via 5-hydroxytryptophan. Besides regulating mood and sleep in the brain, where else is this product predominantly formed and what does it do there?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "In adrenal medulla, where it raises blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "In skeletal muscle, where it enhances contraction"
+        },
+        {
+          "label": "C",
+          "text": "In platelets, where it promotes aggregation and vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "In hepatocytes, where it drives gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "In pancreatic beta-cells, where it triggers insulin release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Serotonin is synthesized from tryptophan via tryptophan hydroxylase (BH4) and a PLP-dependent decarboxylase. In the brain it regulates sleep, mood, and appetite; in platelets it is stored and released to promote aggregation and vasoconstriction, and it also stimulates smooth muscle contraction.",
+        "whyCorrect": "Serotonin is synthesized from tryptophan via tryptophan hydroxylase (BH4) and a PLP-dependent decarboxylase. In the brain it regulates sleep, mood, and appetite; in platelets it is stored and released to promote aggregation and vasoconstriction, and it also stimulates smooth muscle contraction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-202_29_p28_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-203",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This reaction produces the signaling molecule shown on the right. What is its principal physiologic effect on vascular smooth muscle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smooth muscle hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Endothelial cell apoptosis"
+        },
+        {
+          "label": "C",
+          "text": "Relaxation causing vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Increased platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "Contraction causing vasoconstriction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nitric oxide synthase converts arginine to citrulline plus nitric oxide (NO). NO diffuses into vascular smooth muscle and activates guanylate cyclase, raising cGMP and causing relaxation and vasodilation.",
+        "whyCorrect": "Nitric oxide synthase converts arginine to citrulline plus nitric oxide (NO). NO diffuses into vascular smooth muscle and activates guanylate cyclase, raising cGMP and causing relaxation and vasodilation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-203_29_p29_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-204",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This curve plots risk of inadequacy and risk of adverse effects against nutrient intake, marking several reference points. What overall framework does the figure illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hardy-Weinberg equilibrium"
+        },
+        {
+          "label": "B",
+          "text": "Glomerular filtration rate staging"
+        },
+        {
+          "label": "C",
+          "text": "Body mass index classification"
+        },
+        {
+          "label": "D",
+          "text": "Pharmacokinetic dose-response curve"
+        },
+        {
+          "label": "E",
+          "text": "Dietary Reference Intakes (DRIs)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure depicts the Dietary Reference Intake framework, showing how the EAR, RDA, AI, and UL relate risk of inadequacy (left) and risk of adverse effects (right) across increasing nutrient intake.",
+        "whyCorrect": "The figure depicts the Dietary Reference Intake framework, showing how the EAR, RDA, AI, and UL relate risk of inadequacy (left) and risk of adverse effects (right) across increasing nutrient intake.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-204_29_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-207",
+      "topicId": "basic-nutritional-requirements-for-metabolism",
+      "topicName": "Basic Nutritional Requirements for Metabolism",
+      "stem": "This pathway shows vitamin D activation across several organs. Which organ carries out the final 1-alpha-hydroxylation step that produces the active hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Skin"
+        },
+        {
+          "label": "B",
+          "text": "Liver"
+        },
+        {
+          "label": "C",
+          "text": "Kidney"
+        },
+        {
+          "label": "D",
+          "text": "Adrenal gland"
+        },
+        {
+          "label": "E",
+          "text": "Small intestine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The skin/diet supply D3, the liver adds a 25-hydroxyl group (calcidiol), and the kidney performs the tightly regulated 1-alpha-hydroxylation to form 1,25-OH D3 (calcitriol), the active hormone.",
+        "whyCorrect": "The skin/diet supply D3, the liver adds a 25-hydroxyl group (calcidiol), and the kidney performs the tightly regulated 1-alpha-hydroxylation to form 1,25-OH D3 (calcitriol), the active hormone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-207_30_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

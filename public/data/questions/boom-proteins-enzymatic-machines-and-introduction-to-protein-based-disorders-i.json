@@ -1,0 +1,474 @@
+{
+  "categoryId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+  "categoryName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+  "questions": [
+    {
+      "id": "bopic-009",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "The structure shows a central carbon bonded to a hydrogen, a positively charged amino group, a negatively charged carboxyl group, and an R group. What class of biological molecule is this the general structure of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A steroid"
+        },
+        {
+          "label": "B",
+          "text": "A monosaccharide"
+        },
+        {
+          "label": "C",
+          "text": "A nucleotide"
+        },
+        {
+          "label": "D",
+          "text": "An amino acid"
+        },
+        {
+          "label": "E",
+          "text": "A fatty acid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH.",
+        "whyCorrect": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-009_13_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-010",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "Two amino acids combine to form the product on the right, releasing the small molecule shown at the bottom. What type of reaction links the two residues, and what is the byproduct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A condensation (dehydration) reaction that releases a molecule of water"
+        },
+        {
+          "label": "B",
+          "text": "A redox reaction that releases carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "A phosphorylation reaction that releases ADP"
+        },
+        {
+          "label": "D",
+          "text": "A hydrolysis reaction that consumes a molecule of water"
+        },
+        {
+          "label": "E",
+          "text": "A decarboxylation reaction that releases ammonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water.",
+        "whyCorrect": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-010_13_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-018",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "The lavender-topped blood collection tubes shown contain the additive depicted on the label. By what mechanism does that additive prevent the collected blood from clotting?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It lyses red cells to release anticoagulant hemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "It chelates calcium ions, blocking the calcium-dependent coagulation cascade"
+        },
+        {
+          "label": "C",
+          "text": "It activates antithrombin to inhibit thrombin and factor Xa"
+        },
+        {
+          "label": "D",
+          "text": "It coats platelets to prevent their aggregation"
+        },
+        {
+          "label": "E",
+          "text": "It converts fibrinogen directly into soluble fragments"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Lavender-top tubes contain EDTA, which irreversibly binds (chelates) calcium. Because several coagulation steps require Ca2+, removing free calcium blocks clotting. EDTA preserves cell morphology well, making these tubes standard for CBCs and blood-cell counts.",
+        "whyCorrect": "Lavender-top tubes contain EDTA, which irreversibly binds (chelates) calcium. Because several coagulation steps require Ca2+, removing free calcium blocks clotting. EDTA preserves cell morphology well, making these tubes standard for CBCs and blood-cell counts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-018_13_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-019",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This supravitally stained blood smear shows red cells (arrows) containing small round inclusions clustered near the cell membrane. In the setting of oxidative stress, these inclusions are best identified as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Heinz bodies (denatured hemoglobin)"
+        },
+        {
+          "label": "B",
+          "text": "Malarial ring trophozoites"
+        },
+        {
+          "label": "C",
+          "text": "Howell-Jolly bodies"
+        },
+        {
+          "label": "D",
+          "text": "Pappenheimer bodies"
+        },
+        {
+          "label": "E",
+          "text": "Basophilic stippling"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyCorrect": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-019_14_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-050",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This figure contrasts normal cells with cells in which lysosomal enzymes fail to reach the lysosome and are instead secreted, due to loss of a phosphotransferase. Which disorder does the right panel represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zellweger syndrome"
+        },
+        {
+          "label": "B",
+          "text": "I-cell disease (mucolipidosis II)"
+        },
+        {
+          "label": "C",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Tay-Sachs disease"
+        },
+        {
+          "label": "E",
+          "text": "Familial hypercholesterolemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Deficiency of GlcNAc-1-phosphotransferase prevents mannose-6-phosphate tagging of lysosomal enzymes, so enzymes are secreted rather than trafficked to the lysosome, causing accumulation of inclusion bodies in I-cell disease (ML II).",
+        "whyCorrect": "Deficiency of GlcNAc-1-phosphotransferase prevents mannose-6-phosphate tagging of lysosomal enzymes, so enzymes are secreted rather than trafficked to the lysosome, causing accumulation of inclusion bodies in I-cell disease (ML II).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-050_14_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-051",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "The right image shows a hand assuming carpopedal spasm (wrist/MCP flexion, finger extension, thumb adduction) after the arm is compressed. This clinical sign most strongly indicates which underlying abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypernatremia"
+        },
+        {
+          "label": "B",
+          "text": "Hypocalcemia (increased neuromuscular excitability)"
+        },
+        {
+          "label": "C",
+          "text": "Hyperglycemia"
+        },
+        {
+          "label": "D",
+          "text": "Hypomagnesemia with hyperphosphatemia"
+        },
+        {
+          "label": "E",
+          "text": "Hyperkalemia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is the Trousseau sign: inflating a blood-pressure cuff provokes carpopedal spasm in latent tetany. Low ionized calcium lowers the threshold for nerve depolarization, producing the characteristic spasm.",
+        "whyCorrect": "This is the Trousseau sign: inflating a blood-pressure cuff provokes carpopedal spasm in latent tetany. Low ionized calcium lowers the threshold for nerve depolarization, producing the characteristic spasm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-051_14_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-052",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This infant shows short stature, coarse facial features, and a protuberant abdomen (organomegaly). This constellation is most characteristic of which category of inherited disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An acute intermittent porphyria"
+        },
+        {
+          "label": "B",
+          "text": "A lysosomal storage disease"
+        },
+        {
+          "label": "C",
+          "text": "A glycogen debranching defect limited to muscle"
+        },
+        {
+          "label": "D",
+          "text": "A vitamin K-dependent clotting deficiency"
+        },
+        {
+          "label": "E",
+          "text": "A urea cycle disorder"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Progressive accumulation of undegraded substrate in lysosomal storage diseases (e.g., mucopolysaccharidoses, I-cell disease) produces coarse features, hepatosplenomegaly with protuberant abdomen, skeletal changes, and developmental delay.",
+        "whyCorrect": "Progressive accumulation of undegraded substrate in lysosomal storage diseases (e.g., mucopolysaccharidoses, I-cell disease) produces coarse features, hepatosplenomegaly with protuberant abdomen, skeletal changes, and developmental delay.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-052_14_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-109",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This chart groups the 20 standard amino acids into three boxes. What chemical property of the amino acid is used to assign each one to its group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The identity of the alpha-carboxyl group"
+        },
+        {
+          "label": "B",
+          "text": "Whether it is a D- or L-stereoisomer"
+        },
+        {
+          "label": "C",
+          "text": "The molecular weight of the whole amino acid"
+        },
+        {
+          "label": "D",
+          "text": "The chemistry (polarity/charge) of the R-group side chain"
+        },
+        {
+          "label": "E",
+          "text": "The number of peptide bonds it can form"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Amino acids share a common backbone (amino group, carboxyl group, alpha carbon); they are classified by their distinguishing side chain (R-group) into nonpolar, polar-uncharged, and electrically charged (acidic/basic) categories.",
+        "whyCorrect": "Amino acids share a common backbone (amino group, carboxyl group, alpha carbon); they are classified by their distinguishing side chain (R-group) into nonpolar, polar-uncharged, and electrically charged (acidic/basic) categories.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-109_13_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-110",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This figure shows four hierarchical organizational levels of a protein. Which single feature ultimately dictates all of the higher levels of folding shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The linear amino acid sequence"
+        },
+        {
+          "label": "B",
+          "text": "The presence of a lipid bilayer"
+        },
+        {
+          "label": "C",
+          "text": "The number of subunits present"
+        },
+        {
+          "label": "D",
+          "text": "The concentration of free ribosomes"
+        },
+        {
+          "label": "E",
+          "text": "The ambient temperature of the cytosol"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The primary sequence (order of amino acids) encodes the information that determines how the chain folds into secondary, tertiary, and quaternary structure; Anfinsen's principle shows sequence dictates native conformation.",
+        "whyCorrect": "The primary sequence (order of amino acids) encodes the information that determines how the chain folds into secondary, tertiary, and quaternary structure; Anfinsen's principle shows sequence dictates native conformation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-110_13_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-111",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This pathway shows homocysteine being converted onward by a vitamin B6-dependent enzyme. A deficiency of the boxed enzyme causes which inherited disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homocystinuria"
+        },
+        {
+          "label": "B",
+          "text": "Maple syrup urine disease"
+        },
+        {
+          "label": "C",
+          "text": "Cystinuria"
+        },
+        {
+          "label": "D",
+          "text": "Alkaptonuria"
+        },
+        {
+          "label": "E",
+          "text": "Phenylketonuria"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cystathionine beta-synthase (vitamin B6 dependent) converts homocysteine to cystathionine. Its deficiency causes homocystinuria, with elevated homocysteine, marfanoid habitus, lens dislocation, and thrombosis risk.",
+        "whyCorrect": "Cystathionine beta-synthase (vitamin B6 dependent) converts homocysteine to cystathionine. Its deficiency causes homocystinuria, with elevated homocysteine, marfanoid habitus, lens dislocation, and thrombosis risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-111_14_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-112",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This diagram shows how NADPH regenerates reduced glutathione to protect red cells from oxidative injury. Which metabolic pathway supplies the NADPH that drives this cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The citric acid (Krebs) cycle"
+        },
+        {
+          "label": "B",
+          "text": "Beta-oxidation of fatty acids"
+        },
+        {
+          "label": "C",
+          "text": "Oxidative phosphorylation"
+        },
+        {
+          "label": "D",
+          "text": "Glycolysis (Embden-Meyerhof pathway)"
+        },
+        {
+          "label": "E",
+          "text": "The pentose phosphate (HMP shunt) pathway"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucose-6-phosphate dehydrogenase is the rate-limiting enzyme of the pentose phosphate pathway, which generates the NADPH needed to keep glutathione reduced; loss of this NADPH source leaves RBCs vulnerable to oxidative hemolysis.",
+        "whyCorrect": "Glucose-6-phosphate dehydrogenase is the rate-limiting enzyme of the pentose phosphate pathway, which generates the NADPH needed to keep glutathione reduced; loss of this NADPH source leaves RBCs vulnerable to oxidative hemolysis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-112_14_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-113",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "stem": "This reaction shows the labeled enzyme converting one amino acid to another using BH4 and O2. Deficiency of this enzyme (or of its BH4 cofactor) causes which inherited disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phenylketonuria (PKU)"
+        },
+        {
+          "label": "B",
+          "text": "Homocystinuria"
+        },
+        {
+          "label": "C",
+          "text": "Alkaptonuria"
+        },
+        {
+          "label": "D",
+          "text": "Maple syrup urine disease"
+        },
+        {
+          "label": "E",
+          "text": "Albinism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phenylalanine hydroxylase converts phenylalanine to tyrosine using tetrahydrobiopterin (BH4). Its deficiency causes phenylketonuria, with phenylalanine accumulation, intellectual disability, and a musty odor if untreated.",
+        "whyCorrect": "Phenylalanine hydroxylase converts phenylalanine to tyrosine using tetrahydrobiopterin (BH4). Its deficiency causes phenylketonuria, with phenylalanine accumulation, intellectual disability, and a musty odor if untreated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-113_14_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

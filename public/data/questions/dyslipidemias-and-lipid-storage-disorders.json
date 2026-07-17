@@ -1,0 +1,240 @@
+{
+  "categoryId": "dyslipidemias-and-lipid-storage-disorders",
+  "categoryName": "Dyslipidemias and Lipid Storage Disorders",
+  "questions": [
+    {
+      "id": "bopic-036",
+      "topicId": "dyslipidemias-and-lipid-storage-disorders",
+      "topicName": "Dyslipidemias and Lipid Storage Disorders",
+      "stem": "This image was obtained during an eye examination and shows the optic disc, retinal vessels, and macula. What examination technique produced it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fundoscopy (ophthalmoscopy) of the retina"
+        },
+        {
+          "label": "B",
+          "text": "Optical coherence tomography of the anterior segment"
+        },
+        {
+          "label": "C",
+          "text": "Gonioscopy of the anterior chamber angle"
+        },
+        {
+          "label": "D",
+          "text": "Fluorescein angiography of the conjunctiva"
+        },
+        {
+          "label": "E",
+          "text": "Slit-lamp examination of the cornea"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A fundoscopic (ophthalmoscopic) exam visualizes the posterior pole of the eye: the optic disc, retinal vasculature, and macula. In lysosomal storage diseases such as Tay-Sachs and Niemann-Pick, this exam reveals the classic macular cherry-red spot.",
+        "whyCorrect": "A fundoscopic (ophthalmoscopic) exam visualizes the posterior pole of the eye: the optic disc, retinal vasculature, and macula. In lysosomal storage diseases such as Tay-Sachs and Niemann-Pick, this exam reveals the classic macular cherry-red spot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-036_39_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-069",
+      "topicId": "dyslipidemias-and-lipid-storage-disorders",
+      "topicName": "Dyslipidemias and Lipid Storage Disorders",
+      "stem": "This sequence illustrates how a lipoprotein drives early plaque formation in an artery wall. Why do macrophages engulf so much of the modified lipoprotein that they become foam cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Native LDL receptors are upregulated by intracellular cholesterol"
+        },
+        {
+          "label": "B",
+          "text": "Insulin receptors stimulate cholesterol esterification in macrophages"
+        },
+        {
+          "label": "C",
+          "text": "HDL receptors actively pump cholesterol into the macrophage"
+        },
+        {
+          "label": "D",
+          "text": "Scavenger receptors take up oxidized LDL without feedback downregulation, allowing unchecked lipid accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Chylomicron remnant receptors bind oxidized LDL in the intima"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After endothelial injury, monocytes enter the intima and become macrophages that take up oxidized LDL through scavenger receptors. Unlike the classic LDL receptor, scavenger receptors are not suppressed by rising intracellular cholesterol, so lipid loading continues until the cells become foam cells that release cytokines and recruit smooth muscle cells, forming the fatty streak.",
+        "whyCorrect": "After endothelial injury, monocytes enter the intima and become macrophages that take up oxidized LDL through scavenger receptors. Unlike the classic LDL receptor, scavenger receptors are not suppressed by rising intracellular cholesterol, so lipid loading continues until the cells become foam cells that release cytokines and recruit smooth muscle cells, forming the fatty streak.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-069_38_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-070",
+      "topicId": "dyslipidemias-and-lipid-storage-disorders",
+      "topicName": "Dyslipidemias and Lipid Storage Disorders",
+      "stem": "The arrow points to a gray-white ring at the peripheral cornea in this eye. In a young or middle-aged patient, this finding is most strongly associated with which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uncontrolled diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Chronic uremia"
+        },
+        {
+          "label": "D",
+          "text": "Wilson disease"
+        },
+        {
+          "label": "E",
+          "text": "Familial hypercholesterolemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyCorrect": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-070_38_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-071",
+      "topicId": "dyslipidemias-and-lipid-storage-disorders",
+      "topicName": "Dyslipidemias and Lipid Storage Disorders",
+      "stem": "This skin shows crops of small yellow-red papules with erythematous bases. These lesions are most characteristic of which underlying metabolic abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypertriglyceridemia"
+        },
+        {
+          "label": "B",
+          "text": "Hypercalcemia from hyperparathyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Hyperuricemia with tophaceous gout"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C deficiency with perifollicular hemorrhage"
+        },
+        {
+          "label": "E",
+          "text": "Isolated hypercholesterolemia with normal triglycerides"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyCorrect": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-071_38_p8_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-072",
+      "topicId": "dyslipidemias-and-lipid-storage-disorders",
+      "topicName": "Dyslipidemias and Lipid Storage Disorders",
+      "stem": "The large central cell shows a characteristic 'crumpled tissue paper' cytoplasm. Deficiency of which enzyme produces this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexosaminidase A"
+        },
+        {
+          "label": "B",
+          "text": "Alpha-galactosidase A"
+        },
+        {
+          "label": "C",
+          "text": "Arylsulfatase A"
+        },
+        {
+          "label": "D",
+          "text": "Sphingomyelinase"
+        },
+        {
+          "label": "E",
+          "text": "Glucocerebrosidase (beta-glucosidase)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is a Gaucher cell, a lipid-laden macrophage seen in Gaucher disease. Deficiency of glucocerebrosidase causes accumulation of glucocerebroside, giving the cytoplasm its wrinkled 'tissue paper' appearance; features include hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.",
+        "whyCorrect": "This is a Gaucher cell, a lipid-laden macrophage seen in Gaucher disease. Deficiency of glucocerebrosidase causes accumulation of glucocerebroside, giving the cytoplasm its wrinkled 'tissue paper' appearance; features include hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-072_39_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-249",
+      "topicId": "dyslipidemias-and-lipid-storage-disorders",
+      "topicName": "Dyslipidemias and Lipid Storage Disorders",
+      "stem": "This lipoprotein transport map shows where PCSK9 acts on the hepatic LDL receptor. What is the consequence of PCSK9 binding the LDL receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It enhances ApoE receptor uptake of chylomicron remnants"
+        },
+        {
+          "label": "B",
+          "text": "It stimulates HMG-CoA reductase to increase cholesterol synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It recycles the LDL receptor to the surface, lowering plasma LDL"
+        },
+        {
+          "label": "D",
+          "text": "It activates lipoprotein lipase to hydrolyze VLDL triglycerides"
+        },
+        {
+          "label": "E",
+          "text": "It promotes lysosomal degradation of the LDL receptor, reducing LDL clearance and raising plasma LDL"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PCSK9 binds the hepatic LDL receptor and targets it for lysosomal destruction rather than recycling, so fewer receptors return to the surface and LDL clearance falls, raising plasma LDL. PCSK9 inhibitors block this degradation, increasing receptor availability and lowering LDL, explaining the diagram's role for familial hypercholesterolemia.",
+        "whyCorrect": "PCSK9 binds the hepatic LDL receptor and targets it for lysosomal destruction rather than recycling, so fewer receptors return to the surface and LDL clearance falls, raising plasma LDL. PCSK9 inhibitors block this degradation, increasing receptor availability and lowering LDL, explaining the diagram's role for familial hypercholesterolemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-249_38_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "categoryId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+  "categoryName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+  "questions": [
+    {
+      "id": "bopic-055",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "A child develops hypoglycemia, jaundice, and hepatomegaly after ingesting fruit. The figure illustrates the metabolic step that becomes toxic when a specific enzyme is deficient. Deficiency of which enzyme accounts for the accumulating intermediate that causes this cellular toxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "B",
+          "text": "Galactokinase"
+        },
+        {
+          "label": "C",
+          "text": "Galactose-1-phosphate uridyltransferase"
+        },
+        {
+          "label": "D",
+          "text": "Aldolase B"
+        },
+        {
+          "label": "E",
+          "text": "Fructokinase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Fructokinase phosphorylates fructose to fructose 1-phosphate. In hereditary fructose intolerance, aldolase B deficiency prevents further metabolism, so fructose 1-phosphate accumulates and traps phosphate, depleting ATP and causing hypoglycemia, jaundice, and hepatomegaly.",
+        "whyCorrect": "Fructokinase phosphorylates fructose to fructose 1-phosphate. In hereditary fructose intolerance, aldolase B deficiency prevents further metabolism, so fructose 1-phosphate accumulates and traps phosphate, depleting ATP and causing hypoglycemia, jaundice, and hepatomegaly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-055_21_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-140",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "This hepatic pathway is upregulated under a low insulin/glucagon ratio and uses unique enzymes to bypass the irreversible steps of glycolysis. What is the primary physiologic purpose of the depicted pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generating NADPH for reductive biosynthesis"
+        },
+        {
+          "label": "B",
+          "text": "Synthesizing glucose de novo to maintain blood glucose during fasting"
+        },
+        {
+          "label": "C",
+          "text": "Storing excess glucose as glycogen after a meal"
+        },
+        {
+          "label": "D",
+          "text": "Producing ribose-5-phosphate for nucleotide synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Oxidizing fatty acids for ketone body production"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure depicts gluconeogenesis, using glucose-6-phosphatase, fructose-1,6-bisphosphatase, PEP carboxykinase, and pyruvate carboxylase to circumvent glycolytic irreversible steps. A low insulin/glucagon ratio (fasting) drives this pathway to keep blood glucose stable.",
+        "whyCorrect": "The figure depicts gluconeogenesis, using glucose-6-phosphatase, fructose-1,6-bisphosphatase, PEP carboxykinase, and pyruvate carboxylase to circumvent glycolytic irreversible steps. A low insulin/glucagon ratio (fasting) drives this pathway to keep blood glucose stable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-140_20_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-141",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The figure shows cytosolic NADH from glycolysis being converted into a form that can hand electrons across the mitochondrial membrane to the ETC via a carrier shuttle. Why is such a shuttle system necessary?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "NADH is too unstable to exist in the cytosol"
+        },
+        {
+          "label": "B",
+          "text": "The ETC cannot accept electrons from any reduced carrier"
+        },
+        {
+          "label": "C",
+          "text": "NAD+ cannot be regenerated in the cytosol by any means"
+        },
+        {
+          "label": "D",
+          "text": "Glycolysis occurs inside the mitochondrial matrix"
+        },
+        {
+          "label": "E",
+          "text": "The inner mitochondrial membrane is impermeable to NADH itself"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cytosolic NADH generated in glycolysis cannot cross the inner mitochondrial membrane. Shuttle systems (malate-aspartate or glycerol-3-phosphate) transfer the reducing equivalents into the matrix so electrons reach the ETC while regenerating cytosolic NAD+.",
+        "whyCorrect": "Cytosolic NADH generated in glycolysis cannot cross the inner mitochondrial membrane. Shuttle systems (malate-aspartate or glycerol-3-phosphate) transfer the reducing equivalents into the matrix so electrons reach the ETC while regenerating cytosolic NAD+.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-141_20_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-142",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "In the shuttle shown, cytosolic electrons are ultimately delivered to the ETC via FAD(2H) rather than NADH. Compared with the malate-aspartate shuttle, what is the consequence for ATP yield?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No ATP is produced because FAD cannot enter the ETC"
+        },
+        {
+          "label": "B",
+          "text": "ATP yield doubles due to two FAD molecules used"
+        },
+        {
+          "label": "C",
+          "text": "More ATP because FADH2 bypasses proton pumping"
+        },
+        {
+          "label": "D",
+          "text": "Identical ATP yield since both feed complex I"
+        },
+        {
+          "label": "E",
+          "text": "Fewer ATP per cytosolic NADH because electrons enter at complex II via FADH2"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The glycerol-3-phosphate shuttle transfers electrons to mitochondrial FAD, forming FADH2 that enters the chain at complex II/CoQ. This bypasses complex I, pumping fewer protons and yielding less ATP per cytosolic NADH than the malate-aspartate shuttle.",
+        "whyCorrect": "The glycerol-3-phosphate shuttle transfers electrons to mitochondrial FAD, forming FADH2 that enters the chain at complex II/CoQ. This bypasses complex I, pumping fewer protons and yielding less ATP per cytosolic NADH than the malate-aspartate shuttle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-142_20_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-143",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The figure shows the branching fates of a central three-carbon metabolite. Which enzyme step regenerates cytosolic NAD+ under anaerobic conditions to sustain continued glycolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Lactate dehydrogenase (LDH)"
+        },
+        {
+          "label": "C",
+          "text": "Alanine aminotransferase (ALT)"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate dehydrogenase (PDH)"
+        },
+        {
+          "label": "E",
+          "text": "Acetyl-CoA carboxylase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pyruvate sits at a metabolic crossroads. When oxygen is limited, LDH reduces pyruvate to lactate while oxidizing NADH to NAD+, replenishing the NAD+ needed for glyceraldehyde-3-phosphate dehydrogenase so glycolysis can continue.",
+        "whyCorrect": "Pyruvate sits at a metabolic crossroads. When oxygen is limited, LDH reduces pyruvate to lactate while oxidizing NADH to NAD+, replenishing the NAD+ needed for glyceraldehyde-3-phosphate dehydrogenase so glycolysis can continue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-143_20_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-144",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The figure shows covalent regulation of this enzyme complex. A buildup of ATP, acetyl-CoA, and NADH shifts the complex toward its inactive form. What does this signal about the cell's status?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen is absent and anaerobic metabolism dominates"
+        },
+        {
+          "label": "B",
+          "text": "Insulin is high and glucose uptake is maximal"
+        },
+        {
+          "label": "C",
+          "text": "The cell is energy-replete, so pyruvate oxidation is downregulated"
+        },
+        {
+          "label": "D",
+          "text": "The cell is energy-depleted and needs more acetyl-CoA"
+        },
+        {
+          "label": "E",
+          "text": "Calcium is low and muscle contraction has ceased"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "High ATP, acetyl-CoA, and NADH indicate abundant energy and reducing equivalents. These activate PDH kinase, phosphorylating the complex to its inactive form and slowing conversion of pyruvate to acetyl-CoA, sparing pyruvate for gluconeogenesis.",
+        "whyCorrect": "High ATP, acetyl-CoA, and NADH indicate abundant energy and reducing equivalents. These activate PDH kinase, phosphorylating the complex to its inactive form and slowing conversion of pyruvate to acetyl-CoA, sparing pyruvate for gluconeogenesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-144_20_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-145",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The figure divides this pathway into an early phase that consumes ATP and a later phase that generates ATP and NADH. What is the net ATP and NADH yield per glucose molecule shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Net 0 ATP and 2 NADH"
+        },
+        {
+          "label": "B",
+          "text": "Net 4 ATP and 4 NADH"
+        },
+        {
+          "label": "C",
+          "text": "Net 2 ATP and 4 NADH"
+        },
+        {
+          "label": "D",
+          "text": "Net 2 ATP and 2 NADH"
+        },
+        {
+          "label": "E",
+          "text": "Net 6 ATP and 2 NADH"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The investment phase uses 2 ATP; the production phase makes 4 ATP and 2 NADH. The net is therefore 2 ATP and 2 NADH per glucose, along with 2 pyruvate that can feed acetyl-CoA production for the TCA cycle.",
+        "whyCorrect": "The investment phase uses 2 ATP; the production phase makes 4 ATP and 2 NADH. The net is therefore 2 ATP and 2 NADH per glucose, along with 2 pyruvate that can feed acetyl-CoA production for the TCA cycle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-145_20_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-146",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The three highlighted steps of this pathway are its irreversible, rate-controlling reactions. Which of these enzymes is the single most important committed rate-limiting step, activated by fructose-2,6-bisphosphate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hexokinase"
+        },
+        {
+          "label": "B",
+          "text": "Glucokinase"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "D",
+          "text": "Phosphofructokinase-1"
+        },
+        {
+          "label": "E",
+          "text": "Pyruvate carboxylase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PFK-1 catalyzes the committed, rate-limiting step of glycolysis. It is allosterically activated by AMP and fructose-2,6-bisphosphate and inhibited by ATP and citrate, making it the principal control point of the pathway.",
+        "whyCorrect": "PFK-1 catalyzes the committed, rate-limiting step of glycolysis. It is allosterically activated by AMP and fructose-2,6-bisphosphate and inhibited by ATP and citrate, making it the principal control point of the pathway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-146_20_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-147",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "This pathway is shown as the mechanism behind chronic hyperglycemic tissue damage. In a poorly controlled diabetic patient, which downstream consequence of this pathway is most directly responsible for lens swelling and diabetic cataract formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depletion of NADPH impairing glutathione-mediated antioxidant defense"
+        },
+        {
+          "label": "B",
+          "text": "Accelerated flux through the pentose phosphate pathway"
+        },
+        {
+          "label": "C",
+          "text": "Intracellular sorbitol accumulation drawing water in by osmosis"
+        },
+        {
+          "label": "D",
+          "text": "Non-enzymatic glycation of long-lived structural proteins"
+        },
+        {
+          "label": "E",
+          "text": "Increased conversion of fructose back to glucose"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In the polyol pathway aldose reductase converts glucose to sorbitol using NADPH; sorbitol is poorly membrane-permeable and osmotically active, so its accumulation (e.g., in the lens) draws in water and causes osmotic stress leading to cataracts. NADPH consumption separately promotes oxidative stress by limiting GSH regeneration.",
+        "whyCorrect": "In the polyol pathway aldose reductase converts glucose to sorbitol using NADPH; sorbitol is poorly membrane-permeable and osmotically active, so its accumulation (e.g., in the lens) draws in water and causes osmotic stress leading to cataracts. NADPH consumption separately promotes oxidative stress by limiting GSH regeneration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-147_21_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-148",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The figure contrasts the entry of fructose and glucose into hepatic metabolism. Which feature explains why dietary fructose is metabolized more rapidly and less controllably than glucose, driving lipogenesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fructose is phosphorylated by hexokinase with a very high Km"
+        },
+        {
+          "label": "B",
+          "text": "Fructose directly inhibits glucokinase to slow glucose entry"
+        },
+        {
+          "label": "C",
+          "text": "Fructose is trapped as fructose 1-phosphate and cleaved by aldolase B, bypassing the PFK-1 regulatory step"
+        },
+        {
+          "label": "D",
+          "text": "Fructose must first be converted to galactose before entering glycolysis"
+        },
+        {
+          "label": "E",
+          "text": "Fructose enters cells only via insulin-dependent GLUT4 transporters"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fructokinase (low Km, high Vmax) rapidly traps fructose as fructose 1-phosphate, which aldolase B splits into triose phosphates downstream of PFK-1. Because it bypasses the rate-limiting PFK-1 control point, fructose flux is unregulated and readily feeds lipogenesis.",
+        "whyCorrect": "Fructokinase (low Km, high Vmax) rapidly traps fructose as fructose 1-phosphate, which aldolase B splits into triose phosphates downstream of PFK-1. Because it bypasses the rate-limiting PFK-1 control point, fructose flux is unregulated and readily feeds lipogenesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-148_21_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-149",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "stem": "The figure compares how glucose and fructose feed into the pathway that generates acetyl-CoA and citrate for lipid synthesis. What is the key significance of fructose entering below the indicated regulatory step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It allows fructose to be stored directly as glycogen"
+        },
+        {
+          "label": "B",
+          "text": "It activates PFK-1 to increase glycolytic control"
+        },
+        {
+          "label": "C",
+          "text": "It slows triglyceride production compared with glucose"
+        },
+        {
+          "label": "D",
+          "text": "It escapes PFK-1 negative feedback, aggressively promoting lipogenesis"
+        },
+        {
+          "label": "E",
+          "text": "It prevents citrate from being used for fatty acid synthesis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Glycolysis is regulated at PFK-1, which is inhibited by ATP/citrate to shunt intermediates elsewhere. Fructose enters distal to PFK-1, so it bypasses this feedback control and continuously supplies carbons for fatty acid and lipid synthesis.",
+        "whyCorrect": "Glycolysis is regulated at PFK-1, which is inhibited by ATP/citrate to shunt intermediates elsewhere. Fructose enters distal to PFK-1, so it bypasses this feedback control and continuously supplies carbons for fatty acid and lipid synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-149_21_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

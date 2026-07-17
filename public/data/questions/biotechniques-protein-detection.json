@@ -1,0 +1,318 @@
+{
+  "categoryId": "biotechniques-protein-detection",
+  "categoryName": "Biotechniques: Protein Detection",
+  "questions": [
+    {
+      "id": "bopic-020",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "This workflow uses a primary antibody, an HRP-polymer-linked secondary antibody, and DAB to produce a brown precipitate on a tissue section. What does the brown color localize in the final microscopy step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Regions of highest DNA density in cell nuclei"
+        },
+        {
+          "label": "B",
+          "text": "Sites where the tissue was physically cut"
+        },
+        {
+          "label": "C",
+          "text": "The total protein content uniformly across the section"
+        },
+        {
+          "label": "D",
+          "text": "The location of the specific antigen recognized by the primary antibody within the tissue"
+        },
+        {
+          "label": "E",
+          "text": "Areas of dead or necrotic tissue only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In immunohistochemistry, the primary antibody binds its target antigen; an enzyme-conjugated secondary antibody then converts DAB into a brown insoluble precipitate at that site. The brown staining therefore marks where the specific antigen is located in the tissue.",
+        "whyCorrect": "In immunohistochemistry, the primary antibody binds its target antigen; an enzyme-conjugated secondary antibody then converts DAB into a brown insoluble precipitate at that site. The brown staining therefore marks where the specific antigen is located in the tissue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-020_17_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-021",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "On this hemoglobin electrophoresis, the three genotype lanes show bands migrating to different positions, and the peptide sequences below differ at position 6. What physical property allows this technique to separate normal Hb from the sickle variant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A difference in heme iron oxidation state"
+        },
+        {
+          "label": "B",
+          "text": "A difference in the number of subunits in each hemoglobin tetramer"
+        },
+        {
+          "label": "C",
+          "text": "A large difference in molecular weight between the two hemoglobins"
+        },
+        {
+          "label": "D",
+          "text": "A change in net surface charge caused by replacing a negatively charged residue with a neutral one"
+        },
+        {
+          "label": "E",
+          "text": "Differences in the cell membrane lipids surrounding each hemoglobin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Glu-to-Val substitution at position 6 removes a negative charge, so HbS carries a different net charge than HbA and migrates differently in an electric field. Electrophoresis separates the variants by charge, not by size, since the two forms are nearly identical in mass.",
+        "whyCorrect": "The Glu-to-Val substitution at position 6 removes a negative charge, so HbS carries a different net charge than HbA and migrates differently in an electric field. Electrophoresis separates the variants by charge, not by size, since the two forms are nearly identical in mass.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-021_17_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-022",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "In this apparatus, a protein mixture is loaded into a porous gel and an electric field is applied. When run under denaturing conditions with SDS, proteins are separated primarily on the basis of what property?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Their native enzymatic activity"
+        },
+        {
+          "label": "B",
+          "text": "Molecular size, with smaller proteins migrating farther through the gel"
+        },
+        {
+          "label": "C",
+          "text": "Their subcellular organelle of origin"
+        },
+        {
+          "label": "D",
+          "text": "Their isoelectric point only"
+        },
+        {
+          "label": "E",
+          "text": "Their lipid content"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SDS-PAGE coats proteins with uniform negative charge so that migration through the sieving polyacrylamide gel depends on size: smaller proteins move faster and travel farther, giving separation by molecular weight.",
+        "whyCorrect": "SDS-PAGE coats proteins with uniform negative charge so that migration through the sieving polyacrylamide gel depends on size: smaller proteins move faster and travel farther, giving separation by molecular weight.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-022_17_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-023",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "This three-step technique separates proteins by electrophoresis, transfers them to a membrane, and then probes with primary and fluorophore-labeled secondary antibodies to reveal a single band. What does this method specifically confirm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The presence and approximate size of a specific target protein in the sample"
+        },
+        {
+          "label": "B",
+          "text": "The total lipid concentration in a cell lysate"
+        },
+        {
+          "label": "C",
+          "text": "The nucleotide sequence of a specific gene"
+        },
+        {
+          "label": "D",
+          "text": "The rate of an enzymatic reaction over time"
+        },
+        {
+          "label": "E",
+          "text": "The three-dimensional crystal structure of a protein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Western blot: proteins are size-separated, transferred to a membrane, and detected with antibodies specific to the target. A band confirms that the specific protein is present and reports its molecular weight, but not its sequence or structure.",
+        "whyCorrect": "This is a Western blot: proteins are size-separated, transferred to a membrane, and detected with antibodies specific to the target. A band confirms that the specific protein is present and reports its molecular weight, but not its sequence or structure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-023_17_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-024",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "In this assay, an antigen is immobilized, bound by antibodies, and an enzyme linked to the detection antibody converts a substrate into a colored product; wells lacking the antigen stay clear. What does the intensity of the color change indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The nucleotide sequence of the target gene"
+        },
+        {
+          "label": "B",
+          "text": "The physical size of the antigen molecule"
+        },
+        {
+          "label": "C",
+          "text": "The number of live cells in the well"
+        },
+        {
+          "label": "D",
+          "text": "The amount of target antigen (or antibody) present in the sample"
+        },
+        {
+          "label": "E",
+          "text": "The pH of the buffer used"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "This depicts an ELISA. A detectable enzyme conjugated to the antibody converts substrate into a colored product only where antigen-antibody binding occurred, so color intensity is proportional to the quantity of the target present, allowing quantification.",
+        "whyCorrect": "This depicts an ELISA. A detectable enzyme conjugated to the antibody converts substrate into a colored product only where antigen-antibody binding occurred, so color intensity is proportional to the quantity of the target present, allowing quantification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-024_17_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-025",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "This microtiter plate shows serial two-fold dilutions of serum from four patients, with color developing in wells down to a certain dilution. What does the highest dilution still producing a positive color reaction represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The enzyme activity of the patient's own serum proteins"
+        },
+        {
+          "label": "B",
+          "text": "The molecular weight of the antibody"
+        },
+        {
+          "label": "C",
+          "text": "The blood group of the patient"
+        },
+        {
+          "label": "D",
+          "text": "The number of different antigens the patient was exposed to"
+        },
+        {
+          "label": "E",
+          "text": "The antibody titer, reflecting the concentration of specific antibody in that patient's serum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In a titration ELISA, the endpoint titer is the greatest serum dilution that still yields a positive signal. A higher endpoint dilution (e.g., Patient C) indicates more specific antibody, whereas a low endpoint (Patient D) indicates little antibody.",
+        "whyCorrect": "In a titration ELISA, the endpoint titer is the greatest serum dilution that still yields a positive signal. A higher endpoint dilution (e.g., Patient C) indicates more specific antibody, whereas a low endpoint (Patient D) indicates little antibody.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-025_17_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-026",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "This dot-plot analysis separates a mixed blood-cell suspension by forward and side scatter and then by two surface markers. What laboratory technique generated these plots?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mass spectrometry"
+        },
+        {
+          "label": "B",
+          "text": "Light microscopy"
+        },
+        {
+          "label": "C",
+          "text": "Immunohistochemistry"
+        },
+        {
+          "label": "D",
+          "text": "Flow cytometry"
+        },
+        {
+          "label": "E",
+          "text": "Gel electrophoresis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The paired scatter plots (FSC vs SSC to distinguish granulocytes, monocytes and lymphocytes) and marker plots (CD4 vs CD8) are the hallmark output of flow cytometry, which measures scatter and fluorescence of single cells passing a laser.",
+        "whyCorrect": "The paired scatter plots (FSC vs SSC to distinguish granulocytes, monocytes and lymphocytes) and marker plots (CD4 vs CD8) are the hallmark output of flow cytometry, which measures scatter and fluorescence of single cells passing a laser.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-026_17_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-053",
+      "topicId": "biotechniques-protein-detection",
+      "topicName": "Biotechniques: Protein Detection",
+      "stem": "The electron micrographs contrast a normal biconcave cell (left) with the deformed crescent-shaped cell (right). The shape change on the right results directly from what molecular event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of excess iron within the cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Loss of the cell membrane cytoskeleton due to complement attack"
+        },
+        {
+          "label": "C",
+          "text": "Polymerization of deoxygenated hemoglobin S into rigid fibers"
+        },
+        {
+          "label": "D",
+          "text": "Antibody-mediated agglutination of the red cell surface"
+        },
+        {
+          "label": "E",
+          "text": "Osmotic swelling from impaired sodium pumping"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyCorrect": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-053_17_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

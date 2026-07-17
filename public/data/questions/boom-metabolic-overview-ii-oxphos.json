@@ -1,0 +1,162 @@
+{
+  "categoryId": "boom-metabolic-overview-ii-oxphos",
+  "categoryName": "BOOM: Metabolic Overview II: OXPHOS",
+  "questions": [
+    {
+      "id": "bopic-082",
+      "topicId": "boom-metabolic-overview-ii-oxphos",
+      "topicName": "BOOM: Metabolic Overview II: OXPHOS",
+      "stem": "This hand shows diffuse erythema, warmth, and swelling spreading across the dorsum and digits, with poorly demarcated borders. What is the most likely clinical diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acrocyanosis"
+        },
+        {
+          "label": "B",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "D",
+          "text": "Palmar erythema"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral cyanosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue producing warm, tender, erythematous, poorly demarcated swelling. It is distinguished from vascular conditions like Raynaud or cyanosis, which cause color change rather than warm inflammatory swelling.",
+        "whyCorrect": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue producing warm, tender, erythematous, poorly demarcated swelling. It is distinguished from vascular conditions like Raynaud or cyanosis, which cause color change rather than warm inflammatory swelling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-082_4_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-083",
+      "topicId": "boom-metabolic-overview-ii-oxphos",
+      "topicName": "BOOM: Metabolic Overview II: OXPHOS",
+      "stem": "This hand shows bluish discoloration confined to the distal fingers while the palm remains pink. What does this finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Palmar erythema"
+        },
+        {
+          "label": "B",
+          "text": "Erythromelalgia"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "D",
+          "text": "Central cyanosis"
+        },
+        {
+          "label": "E",
+          "text": "Peripheral cyanosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Peripheral (acral) cyanosis reflects increased oxygen extraction and sluggish flow in the extremities, giving a bluish tint to the fingers/nail beds while mucous membranes stay pink. Central cyanosis, by contrast, involves the tongue/lips and reflects arterial desaturation.",
+        "whyCorrect": "Peripheral (acral) cyanosis reflects increased oxygen extraction and sluggish flow in the extremities, giving a bluish tint to the fingers/nail beds while mucous membranes stay pink. Central cyanosis, by contrast, involves the tongue/lips and reflects arterial desaturation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-083_4_p14_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-250",
+      "topicId": "boom-metabolic-overview-ii-oxphos",
+      "topicName": "BOOM: Metabolic Overview II: OXPHOS",
+      "stem": "What is the primary metabolic function carried out by the organelle diagrammed here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ribosome assembly and rRNA synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Lysosomal degradation of macromolecules"
+        },
+        {
+          "label": "C",
+          "text": "ATP synthesis via oxidative phosphorylation"
+        },
+        {
+          "label": "D",
+          "text": "Detoxification and lipid synthesis on smooth ER"
+        },
+        {
+          "label": "E",
+          "text": "Protein glycosylation and packaging for secretion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The mitochondrion carries out oxidative phosphorylation along the electron transport chain located on the cristae of the inner membrane, generating the bulk of cellular ATP; the matrix also houses the TCA cycle and fatty acid beta-oxidation.",
+        "whyCorrect": "The mitochondrion carries out oxidative phosphorylation along the electron transport chain located on the cristae of the inner membrane, generating the bulk of cellular ATP; the matrix also houses the TCA cycle and fatty acid beta-oxidation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-250_3_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-276",
+      "topicId": "boom-metabolic-overview-ii-oxphos",
+      "topicName": "BOOM: Metabolic Overview II: OXPHOS",
+      "stem": "In this diagram of the electron transport chain, 2,4-dinitrophenol and aspirin overdose are shown acting on the inner mitochondrial membrane. By what mechanism do these agents disrupt ATP production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block cytochrome c oxidase (Complex IV)"
+        },
+        {
+          "label": "B",
+          "text": "They uncouple oxidation from phosphorylation by dissipating the proton gradient"
+        },
+        {
+          "label": "C",
+          "text": "They deplete the pool of NADH and FADH2"
+        },
+        {
+          "label": "D",
+          "text": "They inhibit Complex I electron transfer"
+        },
+        {
+          "label": "E",
+          "text": "They inhibit ATP synthase (Complex V) directly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Uncouplers act as proton ionophores, letting H+ leak back into the matrix without passing through ATP synthase. Electron transport and oxygen consumption continue (even accelerate), but the energy is released as heat rather than captured as ATP, causing hyperthermia.",
+        "whyCorrect": "Uncouplers act as proton ionophores, letting H+ leak back into the matrix without passing through ATP synthase. Electron transport and oxygen consumption continue (even accelerate), but the energy is released as heat rather than captured as ATP, causing hyperthermia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-276_4_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "categoryId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+  "categoryName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+  "questions": [
+    {
+      "id": "bopic-054",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "In this individual, dietary lactose is not cleaved at the intestinal brush border and instead reaches colonic bacteria. What mechanism most directly produces the resulting watery diarrhea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial invasion of the intestinal wall causing inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Impaired bile acid reabsorption"
+        },
+        {
+          "label": "C",
+          "text": "Autoimmune destruction of the intestinal epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Direct toxin-mediated activation of enterocyte chloride secretion"
+        },
+        {
+          "label": "E",
+          "text": "Unabsorbed lactose and its metabolites osmotically draw water into the gut lumen"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lactase deficiency leaves lactose undigested; bacterial fermentation yields gas and lactic acid, and the osmotically active undigested sugar plus metabolites pull water into the lumen, producing osmotic diarrhea, bloating and flatulence.",
+        "whyCorrect": "Lactase deficiency leaves lactose undigested; bacterial fermentation yields gas and lactic acid, and the osmotically active undigested sugar plus metabolites pull water into the lumen, producing osmotic diarrhea, bloating and flatulence.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-054_19_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-128",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "An oxidizing agent acts on the open-chain form of glucose to yield the product shown at right. Which functional-group conversion has occurred?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A hydroxyl is reduced to an aldehyde"
+        },
+        {
+          "label": "B",
+          "text": "A phosphate is esterified to C6"
+        },
+        {
+          "label": "C",
+          "text": "The C1 aldehyde is oxidized to a carboxylic acid"
+        },
+        {
+          "label": "D",
+          "text": "The C6 alcohol is oxidized to a ketone"
+        },
+        {
+          "label": "E",
+          "text": "An amine is added to C2"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Oxidation of the exposed aldehyde carbonyl at C1 of glucose produces gluconate, a sugar acid; this reducing-sugar reaction underlies assays that detect glucose.",
+        "whyCorrect": "Oxidation of the exposed aldehyde carbonyl at C1 of glucose produces gluconate, a sugar acid; this reducing-sugar reaction underlies assays that detect glucose.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-128_18_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-129",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "Two forms of starch are shown: one is a linear chain and the other contains a periodic branch point. What is the functional consequence of the branching linkage that distinguishes amylopectin from amylose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It prevents the molecule from being stored intracellularly"
+        },
+        {
+          "label": "B",
+          "text": "It renders the polymer water-insoluble and structural"
+        },
+        {
+          "label": "C",
+          "text": "It converts the sugar units from glucose to galactose"
+        },
+        {
+          "label": "D",
+          "text": "It makes the polymer indigestible by human enzymes"
+        },
+        {
+          "label": "E",
+          "text": "It creates additional non-reducing ends that speed enzymatic release of glucose"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Amylose is joined only by α-1,4 bonds, while amylopectin adds α-1,6 branch points. Each branch adds a non-reducing terminus, allowing amylases and phosphorylases to mobilize glucose from many ends simultaneously.",
+        "whyCorrect": "Amylose is joined only by α-1,4 bonds, while amylopectin adds α-1,6 branch points. Each branch adds a non-reducing terminus, allowing amylases and phosphorylases to mobilize glucose from many ends simultaneously.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-129_18_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-130",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "This structural polysaccharide of plants is a linear glucose polymer joined by the linkage highlighted at right. Why can humans not derive energy from it despite its being pure glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is too highly branched for amylase to access"
+        },
+        {
+          "label": "B",
+          "text": "The glucose units are in the L-configuration and cannot be metabolized"
+        },
+        {
+          "label": "C",
+          "text": "It is covalently bound to protein and cannot be cleaved"
+        },
+        {
+          "label": "D",
+          "text": "Its glucose is permanently oxidized to gluconate"
+        },
+        {
+          "label": "E",
+          "text": "Humans lack an enzyme that can hydrolyze the β-1,4 glycosidic bond"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cellulose uses β-1,4 linkages; human digestive enzymes (amylases) cleave only α-1,4 bonds, so cellulose passes through as indigestible dietary fiber.",
+        "whyCorrect": "Cellulose uses β-1,4 linkages; human digestive enzymes (amylases) cleave only α-1,4 bonds, so cellulose passes through as indigestible dietary fiber.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-130_18_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-131",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "In this enterocyte, glucose is moved from the intestinal lumen across the apical membrane against its concentration gradient. What directly powers this uphill transport?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The concentration gradient of fructose"
+        },
+        {
+          "label": "B",
+          "text": "The inward Na+ electrochemical gradient maintained by the basolateral Na+/K+ ATPase"
+        },
+        {
+          "label": "C",
+          "text": "Direct ATP hydrolysis by the apical glucose carrier"
+        },
+        {
+          "label": "D",
+          "text": "GLUT-2 pumping glucose in from blood"
+        },
+        {
+          "label": "E",
+          "text": "Facilitated diffusion driven by glucose alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "SGLT-1 is a secondary active symporter: it couples glucose uptake to Na+ flowing down the gradient set up by the Na+/K+ ATPase. Glucose then exits basolaterally by facilitated diffusion through GLUT-2.",
+        "whyCorrect": "SGLT-1 is a secondary active symporter: it couples glucose uptake to Na+ flowing down the gradient set up by the Na+/K+ ATPase. Glucose then exits basolaterally by facilitated diffusion through GLUT-2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-131_18_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-132",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "Glucose and fructose are compared here. They share the molecular formula C6H12O6 but differ in the position of their carbonyl group. What is their structural relationship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are anomers"
+        },
+        {
+          "label": "B",
+          "text": "They are enantiomers"
+        },
+        {
+          "label": "C",
+          "text": "They are constitutional (structural) isomers"
+        },
+        {
+          "label": "D",
+          "text": "They are identical molecules in different conformations"
+        },
+        {
+          "label": "E",
+          "text": "They are epimers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Both are hexoses with formula C6H12O6, but glucose carries an aldehyde at C1 and fructose a ketone at C2. Different connectivity of the same atoms makes them constitutional isomers.",
+        "whyCorrect": "Both are hexoses with formula C6H12O6, but glucose carries an aldehyde at C1 and fructose a ketone at C2. Different connectivity of the same atoms makes them constitutional isomers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-132_18_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-133",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "The open-chain sugars at top spontaneously convert to the ring forms at bottom. What type of intramolecular reaction produces these cyclic structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dehydration to form a double bond"
+        },
+        {
+          "label": "B",
+          "text": "Oxidation of the carbonyl to a carboxylic acid"
+        },
+        {
+          "label": "C",
+          "text": "Peptide bond formation"
+        },
+        {
+          "label": "D",
+          "text": "Ester formation between two hydroxyls"
+        },
+        {
+          "label": "E",
+          "text": "Hemiacetal/hemiketal formation between the carbonyl and a distant hydroxyl"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An internal hydroxyl (C5 for glucose, C5 for fructose) attacks the carbonyl carbon, forming a cyclic hemiacetal (aldose) or hemiketal (ketose); this creates the new anomeric center marked with an asterisk.",
+        "whyCorrect": "An internal hydroxyl (C5 for glucose, C5 for fructose) attacks the carbonyl carbon, forming a cyclic hemiacetal (aldose) or hemiketal (ketose); this creates the new anomeric center marked with an asterisk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-133_18_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-134",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "Three common disaccharides are shown. One of them cannot act as a reducing sugar because both anomeric carbons are tied up in its glycosidic bond. Which one is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellobiose"
+        },
+        {
+          "label": "B",
+          "text": "Maltose"
+        },
+        {
+          "label": "C",
+          "text": "Isomaltose"
+        },
+        {
+          "label": "D",
+          "text": "Sucrose"
+        },
+        {
+          "label": "E",
+          "text": "Lactose"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Sucrose links glucose C1 to fructose C2 (α-1,2), engaging both anomeric carbons, so it has no free reducing end. Lactose and maltose each retain a free anomeric carbon and are reducing sugars.",
+        "whyCorrect": "Sucrose links glucose C1 to fructose C2 (α-1,2), engaging both anomeric carbons, so it has no free reducing end. Lactose and maltose each retain a free anomeric carbon and are reducing sugars.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-134_18_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-135",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "The open-chain glucose cyclizes into the two ring forms shown, which differ only in the orientation of the hydroxyl at the newly formed anomeric carbon. What are these two interconverting forms called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constitutional isomers"
+        },
+        {
+          "label": "B",
+          "text": "Diastereomeric aldoses and ketoses"
+        },
+        {
+          "label": "C",
+          "text": "Epimers"
+        },
+        {
+          "label": "D",
+          "text": "Enantiomers"
+        },
+        {
+          "label": "E",
+          "text": "Anomers"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ring closure creates a new stereocenter at C1 (the anomeric carbon); the α and β forms differ only in the configuration at that single carbon and are therefore anomers that interconvert by mutarotation.",
+        "whyCorrect": "Ring closure creates a new stereocenter at C1 (the anomeric carbon); the α and β forms differ only in the configuration at that single carbon and are therefore anomers that interconvert by mutarotation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-135_18_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-136",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "This disaccharide joins a six-membered pyranose ring to a five-membered furanose ring through their two anomeric carbons. Which sugar is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Maltose"
+        },
+        {
+          "label": "B",
+          "text": "Trehalose"
+        },
+        {
+          "label": "C",
+          "text": "Sucrose"
+        },
+        {
+          "label": "D",
+          "text": "Cellobiose"
+        },
+        {
+          "label": "E",
+          "text": "Lactose"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The molecule is a glucopyranose linked to a fructofuranose via an α-1,2 glycosidic bond joining both anomeric carbons, the defining structure of sucrose (table sugar).",
+        "whyCorrect": "The molecule is a glucopyranose linked to a fructofuranose via an α-1,2 glycosidic bond joining both anomeric carbons, the defining structure of sucrose (table sugar).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-136_18_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-137",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "This highly branched storage polymer of glucose uses α-1,4 bonds along its chains and α-1,6 bonds at branch points, with its single reducing end anchored to glycogenin. What molecule is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amylopectin"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen"
+        },
+        {
+          "label": "C",
+          "text": "Amylose"
+        },
+        {
+          "label": "D",
+          "text": "Cellulose"
+        },
+        {
+          "label": "E",
+          "text": "Dextran"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The dense branching pattern with α-1,4 chains, α-1,6 branch points, numerous non-reducing ends, and a reducing end attached to the primer protein glycogenin identifies mammalian glycogen.",
+        "whyCorrect": "The dense branching pattern with α-1,4 chains, α-1,6 branch points, numerous non-reducing ends, and a reducing end attached to the primer protein glycogenin identifies mammalian glycogen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-137_19_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-138",
+      "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "stem": "In this pathway, when galactose is present in excess the aldose reductase branch generates a poorly-metabolized sugar alcohol that accumulates. In which tissue does this accumulation most classically cause disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lens of the eye (cataracts)"
+        },
+        {
+          "label": "B",
+          "text": "Hepatic sinusoids"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "Renal proximal tubule"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac myocytes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The high-Km aldose reductase pathway becomes active when galactose accumulates, converting it to galactitol. Galactitol is osmotically trapped in the lens, drawing in water and producing cataracts, a hallmark of galactokinase deficiency and classic galactosemia.",
+        "whyCorrect": "The high-Km aldose reductase pathway becomes active when galactose accumulates, converting it to galactitol. Galactitol is osmotically trapped in the lens, drawing in water and producing cataracts, a hallmark of galactokinase deficiency and classic galactosemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-138_19_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

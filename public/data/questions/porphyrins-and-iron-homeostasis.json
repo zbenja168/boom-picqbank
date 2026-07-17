@@ -1,0 +1,786 @@
+{
+  "categoryId": "porphyrins-and-iron-homeostasis",
+  "categoryName": "Porphyrins and Iron Homeostasis",
+  "questions": [
+    {
+      "id": "bopic-014",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This Prussian-blue-stained marrow shows the arrowed cell with a ring of blue iron granules encircling the nucleus. What is this cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Basophilic stippled erythrocyte"
+        },
+        {
+          "label": "B",
+          "text": "Ringed sideroblast"
+        },
+        {
+          "label": "C",
+          "text": "Heinz body"
+        },
+        {
+          "label": "D",
+          "text": "Howell-Jolly body"
+        },
+        {
+          "label": "E",
+          "text": "Target cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyCorrect": "A ringed sideroblast is an erythroid precursor with iron-laden mitochondria forming a perinuclear ring (Prussian blue positive), diagnostic of sideroblastic anemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-014_35_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-032",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "In this comparison, total iron-binding capacity (TIBC) moves opposite to serum iron, rising in iron deficiency and falling in overload. What accounts for the rise in TIBC when iron is deficient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The liver increases transferrin synthesis, raising the plasma capacity to bind iron"
+        },
+        {
+          "label": "B",
+          "text": "Red cells release stored transferrin into plasma"
+        },
+        {
+          "label": "C",
+          "text": "Hepcidin directly upregulates TIBC"
+        },
+        {
+          "label": "D",
+          "text": "Macrophages secrete transferrin during iron overload"
+        },
+        {
+          "label": "E",
+          "text": "Ferritin is converted into circulating transferrin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "TIBC reflects circulating transferrin. In iron deficiency the liver upregulates transferrin production to scavenge scarce iron, so TIBC rises; in iron overload transferrin synthesis is suppressed and TIBC falls.",
+        "whyCorrect": "TIBC reflects circulating transferrin. In iron deficiency the liver upregulates transferrin production to scavenge scarce iron, so TIBC rises; in iron overload transferrin synthesis is suppressed and TIBC falls.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-032_36_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-033",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "In this table of iron studies, row C shows increased serum iron, increased ferritin, decreased TIBC, and increased transferrin saturation. Which clinical condition does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal iron studies"
+        },
+        {
+          "label": "B",
+          "text": "Iron deficiency anemia"
+        },
+        {
+          "label": "C",
+          "text": "Iron overload (hereditary hemochromatosis)"
+        },
+        {
+          "label": "D",
+          "text": "Anemia of chronic disease"
+        },
+        {
+          "label": "E",
+          "text": "Acute blood loss"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Iron overload raises serum iron, ferritin (storage), and transferrin saturation, while suppressing transferrin synthesis so TIBC falls. This high-saturation, high-ferritin, low-TIBC pattern is characteristic of hemochromatosis.",
+        "whyCorrect": "Iron overload raises serum iron, ferritin (storage), and transferrin saturation, while suppressing transferrin synthesis so TIBC falls. This high-saturation, high-ferritin, low-TIBC pattern is characteristic of hemochromatosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-033_36_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-034",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "The dark reddish-brown 'port-wine' urine on the right (compared with normal urine on the left) develops in porphyrias. Excretion of which substances produces this color change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Urobilinogen"
+        },
+        {
+          "label": "C",
+          "text": "Porphyrins and porphobilinogen"
+        },
+        {
+          "label": "D",
+          "text": "Free hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Conjugated bilirubin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Overproduced porphyrin precursors are excreted in urine and darken to a port-wine color on air/light exposure. This finding accompanies several porphyrias and reflects excess heme-pathway intermediates spilling into the urine.",
+        "whyCorrect": "Overproduced porphyrin precursors are excreted in urine and darken to a port-wine color on air/light exposure. This finding accompanies several porphyrias and reflects excess heme-pathway intermediates spilling into the urine.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-034_36_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-064",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This intraoperative image shows a strikingly dark, greenish-black liver. This appearance is characteristic of which inherited hyperbilirubinemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotor syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Dubin-Johnson syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Gilbert syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Crigler-Najjar syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyCorrect": "Dubin-Johnson syndrome (defective MRP2/canalicular transport of conjugated bilirubin) causes accumulation of dark pigment giving the liver a grossly black appearance, with conjugated hyperbilirubinemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-064_35_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-065",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "A middle-aged patient with new-onset diabetes and cirrhosis develops this diffuse bronze-brown skin discoloration. Which disorder best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addison disease"
+        },
+        {
+          "label": "B",
+          "text": "Hereditary hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Porphyria cutanea tarda"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive jaundice"
+        },
+        {
+          "label": "E",
+          "text": "Wilson disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Iron overload from hemochromatosis deposits in skin and stimulates melanin production, producing the classic bronze/slate-gray hyperpigmentation. The combination of skin pigmentation, diabetes, and cirrhosis is the classic 'bronze diabetes' triad.",
+        "whyCorrect": "Iron overload from hemochromatosis deposits in skin and stimulates melanin production, producing the classic bronze/slate-gray hyperpigmentation. The combination of skin pigmentation, diabetes, and cirrhosis is the classic 'bronze diabetes' triad.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-065_36_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-066",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This pathway highlights a block at porphobilinogen deaminase, causing accumulation of ALA and porphobilinogen. What is the classic clinical presentation of the disorder produced by this enzyme deficiency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Photosensitive blistering of sun-exposed skin"
+        },
+        {
+          "label": "B",
+          "text": "Isolated peripheral cyanosis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic hemolytic anemia with jaundice"
+        },
+        {
+          "label": "D",
+          "text": "Acute neurovisceral attacks with abdominal pain and neuropsychiatric symptoms"
+        },
+        {
+          "label": "E",
+          "text": "Bronze skin pigmentation and cirrhosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Deficiency of porphobilinogen deaminase causes acute intermittent porphyria. Buildup of ALA and porphobilinogen produces episodic abdominal pain, neuropathy, and neuropsychiatric changes, typically without photosensitivity since no photosensitizing porphyrins accumulate.",
+        "whyCorrect": "Deficiency of porphobilinogen deaminase causes acute intermittent porphyria. Buildup of ALA and porphobilinogen produces episodic abdominal pain, neuropathy, and neuropsychiatric changes, typically without photosensitivity since no photosensitizing porphyrins accumulate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-066_36_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-067",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This inset marks a deficiency of uroporphyrinogen decarboxylase, the defect in the most common porphyria. How does this disorder typically present clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Recurrent acute abdominal pain attacks without skin findings"
+        },
+        {
+          "label": "C",
+          "text": "Photosensitive blistering and fragility of sun-exposed skin"
+        },
+        {
+          "label": "D",
+          "text": "Hepatic cirrhosis with no cutaneous signs"
+        },
+        {
+          "label": "E",
+          "text": "Isolated ascending motor weakness"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, the most common porphyria. Accumulated photosensitizing uroporphyrins deposit in skin, producing blistering, fragility, and hyperpigmentation on sun-exposed areas; it is often associated with liver disease.",
+        "whyCorrect": "Uroporphyrinogen decarboxylase deficiency causes porphyria cutanea tarda, the most common porphyria. Accumulated photosensitizing uroporphyrins deposit in skin, producing blistering, fragility, and hyperpigmentation on sun-exposed areas; it is often associated with liver disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-067_36_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-068",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "These vesicles, erosions, hemorrhagic crusts, and scarring on the sun-exposed dorsal hands are characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Porphyria cutanea tarda"
+        },
+        {
+          "label": "B",
+          "text": "Acute intermittent porphyria"
+        },
+        {
+          "label": "C",
+          "text": "Allergic contact dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Bullous pemphigoid"
+        },
+        {
+          "label": "E",
+          "text": "Pellagra"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyCorrect": "Porphyria cutanea tarda causes skin fragility and blistering on sun-exposed skin (especially the dorsal hands) due to photosensitizing uroporphyrins from uroporphyrinogen decarboxylase deficiency. Lesions heal with scarring, milia, and hyperpigmentation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-068_36_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-232",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "In this degradation sequence, the enzyme that opens the porphyrin ring of heme, releasing carbon monoxide and Fe2+ while forming biliverdin, is which one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "UDP-glucuronosyltransferase"
+        },
+        {
+          "label": "B",
+          "text": "Biliverdin reductase"
+        },
+        {
+          "label": "C",
+          "text": "Ferrochelatase"
+        },
+        {
+          "label": "D",
+          "text": "ALA synthase"
+        },
+        {
+          "label": "E",
+          "text": "Heme oxygenase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Heme oxygenase cleaves the alpha-methene bridge of heme, releasing CO (the only endogenous source) and Fe2+ and producing green biliverdin, which is then reduced to bilirubin.",
+        "whyCorrect": "Heme oxygenase cleaves the alpha-methene bridge of heme, releasing CO (the only endogenous source) and Fe2+ and producing green biliverdin, which is then reduced to bilirubin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-232_35_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-233",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This overview traces senescent red cell breakdown. Which liver enzyme conjugates bilirubin with UDP-glucuronate to make it water soluble for biliary excretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Biliverdin reductase"
+        },
+        {
+          "label": "B",
+          "text": "UDP-glucuronosyltransferase (UGT1A1)"
+        },
+        {
+          "label": "C",
+          "text": "Glucose-6-phosphatase"
+        },
+        {
+          "label": "D",
+          "text": "Beta-glucuronidase"
+        },
+        {
+          "label": "E",
+          "text": "Heme oxygenase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hepatic UGT1A1 conjugates lipophilic unconjugated bilirubin with glucuronate, yielding water-soluble bilirubin diglucuronide that is secreted into bile.",
+        "whyCorrect": "Hepatic UGT1A1 conjugates lipophilic unconjugated bilirubin with glucuronate, yielding water-soluble bilirubin diglucuronide that is secreted into bile.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-233_35_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-234",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This jaundiced neonate is being treated with the blue light source shown. What is the primary purpose of this therapy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stimulate vitamin D synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Warm the infant to prevent hypothermia"
+        },
+        {
+          "label": "C",
+          "text": "Sterilize the skin to prevent sepsis"
+        },
+        {
+          "label": "D",
+          "text": "Destroy circulating red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "Photoisomerize unconjugated bilirubin into water-soluble isomers for excretion"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Phototherapy converts lipophilic unconjugated bilirubin in the skin into water-soluble photoisomers (lumirubin) that can be excreted in bile and urine without hepatic conjugation, lowering the risk of kernicterus.",
+        "whyCorrect": "Phototherapy converts lipophilic unconjugated bilirubin in the skin into water-soluble photoisomers (lumirubin) that can be excreted in bile and urine without hepatic conjugation, lowering the risk of kernicterus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-234_35_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-235",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This schematic explains why blue light (~460-490 nm) is used clinically in jaundiced newborns. By what mechanism does it lower bilirubin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It induces hepatic UGT1A1 conjugation enzymes"
+        },
+        {
+          "label": "B",
+          "text": "It converts bilirubin into water-soluble structural isomers (lumirubin) excreted in bile and urine"
+        },
+        {
+          "label": "C",
+          "text": "It oxidizes bilirubin directly to carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "It accelerates red cell destruction"
+        },
+        {
+          "label": "E",
+          "text": "It breaks down albumin to release bound bilirubin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Blue light near 460-490 nm is absorbed by bilirubin, generating water-soluble photoisomers such as Z-lumirubin that are excreted in bile and urine without conjugation.",
+        "whyCorrect": "Blue light near 460-490 nm is absorbed by bilirubin, generating water-soluble photoisomers such as Z-lumirubin that are excreted in bile and urine without conjugation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-235_35_p21_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-236",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "In this heme synthesis diagram, lead inhibits the two enzymes marked with red bars. Which pair of enzymes does lead poisoning classically block?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Porphobilinogen deaminase and uroporphyrinogen synthase"
+        },
+        {
+          "label": "B",
+          "text": "ALA synthase and heme oxygenase"
+        },
+        {
+          "label": "C",
+          "text": "UDP-glucuronosyltransferase and biliverdin reductase"
+        },
+        {
+          "label": "D",
+          "text": "Coproporphyrinogen oxidase and protoporphyrinogen oxidase"
+        },
+        {
+          "label": "E",
+          "text": "ALA dehydratase and ferrochelatase"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lead inhibits ALA dehydratase (aminolevulinic acid dehydrase) and ferrochelatase, causing accumulation of ALA and protoporphyrin and the anemia of lead poisoning.",
+        "whyCorrect": "Lead inhibits ALA dehydratase (aminolevulinic acid dehydrase) and ferrochelatase, causing accumulation of ALA and protoporphyrin and the anemia of lead poisoning.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-236_35_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-237",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This diagram depicts the first, committed, and rate-limiting reaction of a biosynthetic pathway, in which glycine condenses with succinyl-CoA. Which pathway is being initiated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Urea cycle"
+        },
+        {
+          "label": "B",
+          "text": "Purine nucleotide synthesis"
+        },
+        {
+          "label": "C",
+          "text": "Heme (porphyrin) biosynthesis"
+        },
+        {
+          "label": "D",
+          "text": "Cholesterol synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Gluconeogenesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The condensation of glycine and succinyl-CoA by ALA synthase to form delta-aminolevulinic acid is the rate-limiting first step of heme synthesis. The hepatic isoform (ALAS1) is feedback-inhibited by heme, while the erythroid isoform (ALAS2) is stimulated by intracellular iron.",
+        "whyCorrect": "The condensation of glycine and succinyl-CoA by ALA synthase to form delta-aminolevulinic acid is the rate-limiting first step of heme synthesis. The hepatic isoform (ALAS1) is feedback-inhibited by heme, while the erythroid isoform (ALAS2) is stimulated by intracellular iron.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-237_35_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-238",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "In the heme synthesis pathway shown, the initial enzyme is stimulated by alcohol, barbiturates, and hypoxia. Precipitation of attacks by such inducers is a hallmark of which category of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lysosomal storage diseases"
+        },
+        {
+          "label": "B",
+          "text": "The porphyrias"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen storage diseases"
+        },
+        {
+          "label": "D",
+          "text": "Urea cycle disorders"
+        },
+        {
+          "label": "E",
+          "text": "Sideroblastic anemias"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Inducers of ALA synthase (alcohol, barbiturates, hypoxia, low glucose) increase flux through the heme pathway and can precipitate acute porphyria attacks. The inset also shows that a ferrochelatase block causes erythropoietic protoporphyria.",
+        "whyCorrect": "Inducers of ALA synthase (alcohol, barbiturates, hypoxia, low glucose) increase flux through the heme pathway and can precipitate acute porphyria attacks. The inset also shows that a ferrochelatase block causes erythropoietic protoporphyria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-238_36_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-239",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This diagram tracks the distribution and daily turnover of body iron across tissues, with only ~1 mg lost per day through feces, urine, sweat, and skin. What key principle about iron does it emphasize?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The body has no regulated mechanism for actively excreting excess iron"
+        },
+        {
+          "label": "B",
+          "text": "Iron cannot be recycled once incorporated into hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Most body iron is stored in the liver as ferritin"
+        },
+        {
+          "label": "D",
+          "text": "Dietary iron is absorbed with nearly 100% efficiency"
+        },
+        {
+          "label": "E",
+          "text": "Iron is freely excreted by the kidney when in excess"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because iron losses are small and unregulated (~1 mg/day), total body iron is controlled almost entirely at the level of intestinal absorption. Most iron is in circulating hemoglobin, and macrophages recycle iron from senescent red cells.",
+        "whyCorrect": "Because iron losses are small and unregulated (~1 mg/day), total body iron is controlled almost entirely at the level of intestinal absorption. Most iron is in circulating hemoglobin, and macrophages recycle iron from senescent red cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-239_36_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-240",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "In this model of intestinal iron handling, the liver-derived hormone acting on ferroportin 1 (red inhibitory bar) is a master regulator of iron. What is the net effect of increasing this hormone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased iron absorption into the bloodstream"
+        },
+        {
+          "label": "B",
+          "text": "Increased release of stored iron from macrophages"
+        },
+        {
+          "label": "C",
+          "text": "Increased plasma transferrin synthesis"
+        },
+        {
+          "label": "D",
+          "text": "Decreased iron export into the blood, lowering serum iron"
+        },
+        {
+          "label": "E",
+          "text": "Enhanced reduction of dietary Fe3+ to Fe2+"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Hepcidin binds and degrades ferroportin, blocking iron export from enterocytes and macrophages. High hepcidin (e.g., in inflammation) traps iron in cells and lowers serum iron, contributing to anemia of chronic disease.",
+        "whyCorrect": "Hepcidin binds and degrades ferroportin, blocking iron export from enterocytes and macrophages. High hepcidin (e.g., in inflammation) traps iron in cells and lowers serum iron, contributing to anemia of chronic disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-240_36_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-241",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This diagram illustrates how ferritin translation is controlled by iron. By what mechanism does a rise in intracellular iron increase ferritin production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Iron binds the IRE directly, recruiting ribosomes to the mRNA"
+        },
+        {
+          "label": "B",
+          "text": "Iron binds the iron-response element binding protein (IRE-BP), causing it to release from the IRE so the mRNA can be translated"
+        },
+        {
+          "label": "C",
+          "text": "Iron stabilizes ferritin mRNA against degradation"
+        },
+        {
+          "label": "D",
+          "text": "Iron phosphorylates ferritin protein to activate it"
+        },
+        {
+          "label": "E",
+          "text": "Iron increases transcription of the ferritin gene in the nucleus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When iron is low, IRE-BP occupies the 5' IRE and blocks translation. When iron is abundant, it binds IRE-BP, which releases the IRE, permitting ribosome loading and ferritin synthesis so excess iron can be safely stored.",
+        "whyCorrect": "When iron is low, IRE-BP occupies the 5' IRE and blocks translation. When iron is abundant, it binds IRE-BP, which releases the IRE, permitting ribosome loading and ferritin synthesis so excess iron can be safely stored.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-241_36_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-242",
+      "topicId": "porphyrins-and-iron-homeostasis",
+      "topicName": "Porphyrins and Iron Homeostasis",
+      "stem": "This diagram shows that in the low-iron state, IRP binds the IREs on transferrin receptor (TfR) mRNA, stabilizing it and increasing TfR production. Under this same low-iron condition, what happens to ferritin synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ferritin synthesis decreases"
+        },
+        {
+          "label": "B",
+          "text": "Ferritin synthesis increases in parallel with TfR"
+        },
+        {
+          "label": "C",
+          "text": "Ferritin is exported from the cell instead of stored"
+        },
+        {
+          "label": "D",
+          "text": "Ferritin synthesis is unchanged"
+        },
+        {
+          "label": "E",
+          "text": "Ferritin mRNA is degraded but protein rises"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The same iron-regulatory proteins reciprocally control these mRNAs. In iron deficiency, IRP binding stabilizes TfR mRNA (more receptors to import iron) but blocks translation of ferritin mRNA (less storage protein), coordinating uptake and storage inversely.",
+        "whyCorrect": "The same iron-regulatory proteins reciprocally control these mRNAs. In iron deficiency, IRP binding stabilizes TfR mRNA (more receptors to import iron) but blocks translation of ferritin mRNA (less storage protein), coordinating uptake and storage inversely.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-242_36_p20_2.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

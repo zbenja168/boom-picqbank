@@ -1,0 +1,201 @@
+{
+  "categoryId": "molecular-biology-techniques-cytogenetics",
+  "categoryName": "Molecular Biology Techniques: Cytogenetics",
+  "questions": [
+    {
+      "id": "bopic-043",
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques: Cytogenetics",
+      "stem": "In the depicted workflow, differentially fluorescently labeled test and reference DNA are co-hybridized to an array and the ratio at each spot is read out as a dosage plot. What class of genomic abnormality is this technique specifically designed to detect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Single-nucleotide point mutations"
+        },
+        {
+          "label": "B",
+          "text": "Balanced reciprocal translocations"
+        },
+        {
+          "label": "C",
+          "text": "Trinucleotide repeat expansions"
+        },
+        {
+          "label": "D",
+          "text": "Copy-number variants (gains and losses of chromosomal segments)"
+        },
+        {
+          "label": "E",
+          "text": "Epigenetic methylation changes"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Comparative genomic hybridization measures the relative dosage of test versus reference DNA across the genome, revealing deletions (loss) and duplications (gain). It does not detect balanced rearrangements or single-base changes.",
+        "whyCorrect": "Comparative genomic hybridization measures the relative dosage of test versus reference DNA across the genome, revealing deletions (loss) and duplications (gain). It does not detect balanced rearrangements or single-base changes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-043_45_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-044",
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques: Cytogenetics",
+      "stem": "The blot shown separates restriction-digested fragments by size (kb ladder at left) and detects them with a labeled probe, with a pedigree indicating the samples. What type of molecule is being size-separated and detected here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Genomic DNA restriction fragments"
+        },
+        {
+          "label": "B",
+          "text": "Messenger RNA transcripts"
+        },
+        {
+          "label": "C",
+          "text": "Ribosomal RNA subunits"
+        },
+        {
+          "label": "D",
+          "text": "Denatured proteins"
+        },
+        {
+          "label": "E",
+          "text": "Circulating polypeptide hormones"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a Southern blot: genomic DNA is cut with restriction enzymes, size-separated, transferred to a membrane, and hybridized with a labeled probe. Fragment-size differences (kb) reveal variants such as insertions, deletions, or repeat expansions.",
+        "whyCorrect": "This is a Southern blot: genomic DNA is cut with restriction enzymes, size-separated, transferred to a membrane, and hybridized with a labeled probe. Fragment-size differences (kb) reveal variants such as insertions, deletions, or repeat expansions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-044_45_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-045",
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques: Cytogenetics",
+      "stem": "The image shows an individual's chromosomes stained, paired, and arranged in numbered order including the sex chromosomes. What diagnostic study is this, and what is its principal limitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A PCR gel, which only amplifies a single locus"
+        },
+        {
+          "label": "B",
+          "text": "A FISH assay, which cannot show the whole genome at once"
+        },
+        {
+          "label": "C",
+          "text": "A Southern blot, which requires a radiolabeled probe"
+        },
+        {
+          "label": "D",
+          "text": "An array CGH, which cannot detect balanced translocations"
+        },
+        {
+          "label": "E",
+          "text": "A karyotype, which cannot resolve submicroscopic microdeletions"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A G-banded karyotype displays all chromosomes ordered by size and banding, ideal for detecting aneuploidy and large structural rearrangements. Its resolution (~5-10 Mb) is too low to detect microdeletions.",
+        "whyCorrect": "A G-banded karyotype displays all chromosomes ordered by size and banding, ideal for detecting aneuploidy and large structural rearrangements. Its resolution (~5-10 Mb) is too low to detect microdeletions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-045_45_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-046",
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques: Cytogenetics",
+      "stem": "In this metaphase spread, blue counterstained chromosomes are probed with fluorescent signals distinguishing a normal chromosome 22 from one missing a locus-specific signal. What technique is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "G-banded karyotyping"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescence in situ hybridization (FISH)"
+        },
+        {
+          "label": "C",
+          "text": "Southern blotting"
+        },
+        {
+          "label": "D",
+          "text": "Polymerase chain reaction"
+        },
+        {
+          "label": "E",
+          "text": "Comparative genomic hybridization"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyCorrect": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-046_45_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-080",
+      "topicId": "molecular-biology-techniques-cytogenetics",
+      "topicName": "Molecular Biology Techniques: Cytogenetics",
+      "stem": "In this karyotype, red arrows highlight abnormal-length chromosomes 9 and 22, with material exchanged between the two. What abnormality is depicted and with which malignancy is it classically associated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A 22q11 microdeletion, seen in DiGeorge syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Monosomy X, seen in Turner syndrome"
+        },
+        {
+          "label": "C",
+          "text": "A chromosome 5p deletion, seen in cri-du-chat syndrome"
+        },
+        {
+          "label": "D",
+          "text": "A reciprocal t(9;22) translocation (Philadelphia chromosome), seen in chronic myeloid leukemia"
+        },
+        {
+          "label": "E",
+          "text": "Trisomy 21, seen in Down syndrome"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The arrows mark a shortened 22 (derivative 22) and altered 9 from the reciprocal t(9;22) translocation. This Philadelphia chromosome creates the BCR-ABL1 fusion characteristic of chronic myeloid leukemia.",
+        "whyCorrect": "The arrows mark a shortened 22 (derivative 22) and altered 9 from the reciprocal t(9;22) translocation. This Philadelphia chromosome creates the BCR-ABL1 fusion characteristic of chronic myeloid leukemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-080_45_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

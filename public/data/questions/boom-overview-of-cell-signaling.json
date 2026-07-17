@@ -1,0 +1,786 @@
+{
+  "categoryId": "boom-overview-of-cell-signaling",
+  "categoryName": "BOOM: Overview of Cell Signaling",
+  "questions": [
+    {
+      "id": "bopic-057",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "The figure depicts a reciprocal exchange between chromosomes 9 and 22 that fuses the ABL and BCR regions, producing the derivative small chromosome shown at right. This abnormality is the hallmark of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic myeloid leukemia (CML)"
+        },
+        {
+          "label": "B",
+          "text": "Follicular lymphoma"
+        },
+        {
+          "label": "C",
+          "text": "Acute promyelocytic leukemia"
+        },
+        {
+          "label": "D",
+          "text": "Burkitt lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Ewing sarcoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyCorrect": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-057_26_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-058",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "These clinical photographs show multiple large, flat, uniformly hyperpigmented macules with irregular borders on the trunk of a child. These skin findings, when numerous, are a diagnostic criterion for which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitiligo"
+        },
+        {
+          "label": "B",
+          "text": "Addison disease"
+        },
+        {
+          "label": "C",
+          "text": "Melanoma"
+        },
+        {
+          "label": "D",
+          "text": "Tinea versicolor"
+        },
+        {
+          "label": "E",
+          "text": "Neurofibromatosis type 1"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The lesions are cafe-au-lait macules. Six or more measuring >5 mm (prepubertal) are a diagnostic criterion for neurofibromatosis type 1, a neurocutaneous disorder caused by mutation of the NF1 tumor-suppressor gene (neurofibromin).",
+        "whyCorrect": "The lesions are cafe-au-lait macules. Six or more measuring >5 mm (prepubertal) are a diagnostic criterion for neurofibromatosis type 1, a neurocutaneous disorder caused by mutation of the NF1 tumor-suppressor gene (neurofibromin).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-058_26_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-165",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "These two panels contrast how hydrophilic and lipophilic hormones act on a target cell. Why does the lipophilic hormone (right) bind an intracellular receptor rather than a surface receptor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is degraded by enzymes on the cell surface"
+        },
+        {
+          "label": "B",
+          "text": "It requires a membrane transporter to enter the cell"
+        },
+        {
+          "label": "C",
+          "text": "It binds only to carrier proteins in the blood"
+        },
+        {
+          "label": "D",
+          "text": "It is too large to fit any surface receptor"
+        },
+        {
+          "label": "E",
+          "text": "It can diffuse directly across the plasma membrane"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lipophilic hormones (e.g., steroids, thyroid hormone) cross the lipid bilayer and bind intracellular/nuclear receptors that act as transcription factors. Hydrophilic hormones cannot cross and must signal through surface receptors and second messengers.",
+        "whyCorrect": "Lipophilic hormones (e.g., steroids, thyroid hormone) cross the lipid bilayer and bind intracellular/nuclear receptors that act as transcription factors. Hydrophilic hormones cannot cross and must signal through surface receptors and second messengers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-165_25_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-166",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "Epinephrine or glucagon binding to this receptor triggers exchange of GDP for GTP on the associated G protein. What is the immediate downstream effect depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hydrolysis of cyclic AMP to AMP"
+        },
+        {
+          "label": "B",
+          "text": "Activation of phospholipase C to make IP3"
+        },
+        {
+          "label": "C",
+          "text": "Activation of adenylyl cyclase to produce cyclic AMP"
+        },
+        {
+          "label": "D",
+          "text": "Direct autophosphorylation of the receptor"
+        },
+        {
+          "label": "E",
+          "text": "Opening of a ligand-gated ion channel"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is a Gs-coupled receptor: agonist binding activates the Gs protein (GTP for GDP exchange), the alpha subunit dissociates and stimulates adenylyl cyclase, raising cyclic AMP as the second messenger.",
+        "whyCorrect": "This is a Gs-coupled receptor: agonist binding activates the Gs protein (GTP for GDP exchange), the alpha subunit dissociates and stimulates adenylyl cyclase, raising cyclic AMP as the second messenger.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-166_25_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-167",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "This cascade is initiated when receptor-mediated signals convert Ras-GDP to active Ras-GTP. What is the ultimate result of the ensuing Raf to MEK to MAP kinase to Erk relay?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Release of neurotransmitter vesicles"
+        },
+        {
+          "label": "B",
+          "text": "Activation of gene transcription in the nucleus"
+        },
+        {
+          "label": "C",
+          "text": "Degradation of cyclic AMP"
+        },
+        {
+          "label": "D",
+          "text": "Opening of voltage-gated calcium channels"
+        },
+        {
+          "label": "E",
+          "text": "Inhibition of DNA replication"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Active Ras-GTP triggers a phosphorylation cascade (Raf, MEK, MAP kinase, Erk). Phosphorylated Erk translocates to the nucleus and activates transcription factors, driving genes for growth and proliferation.",
+        "whyCorrect": "Active Ras-GTP triggers a phosphorylation cascade (Raf, MEK, MAP kinase, Erk). Phosphorylated Erk translocates to the nucleus and activates transcription factors, driving genes for growth and proliferation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-167_25_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-168",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "This four-step figure shows a receptor tyrosine kinase responding to its ligand. What activating event occurs immediately after ligand-induced dimerization?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internalization and immediate degradation"
+        },
+        {
+          "label": "B",
+          "text": "Autophosphorylation of tyrosine residues"
+        },
+        {
+          "label": "C",
+          "text": "GTP hydrolysis by an associated G protein"
+        },
+        {
+          "label": "D",
+          "text": "Proteolytic cleavage of the receptor"
+        },
+        {
+          "label": "E",
+          "text": "Opening of an intrinsic ion pore"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ligand binding brings two RTK monomers together; dimerization juxtaposes their kinase domains so they cross-phosphorylate each other's tyrosines. These phosphotyrosines then recruit intracellular signaling proteins.",
+        "whyCorrect": "Ligand binding brings two RTK monomers together; dimerization juxtaposes their kinase domains so they cross-phosphorylate each other's tyrosines. These phosphotyrosines then recruit intracellular signaling proteins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-168_25_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-169",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "Insulin binding triggers tyrosine phosphorylation that branches into two intracellular pathways here. Which outcome is mediated by the phosphoinositide-3 kinase branch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cell growth and DNA synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Net degradation of glycogen"
+        },
+        {
+          "label": "C",
+          "text": "Stimulation of gluconeogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of protein synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Translocation of GLUT4 vesicles to import glucose"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The PI3-kinase branch of insulin signaling drives GLUT4 vesicle translocation (glucose uptake) plus glycogen, lipid and protein synthesis. The RAS/MAP kinase branch handles the growth/DNA synthesis outcomes.",
+        "whyCorrect": "The PI3-kinase branch of insulin signaling drives GLUT4 vesicle translocation (glucose uptake) plus glycogen, lipid and protein synthesis. The RAS/MAP kinase branch handles the growth/DNA synthesis outcomes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-169_25_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-170",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "In this insulin pathway, activated PI 3-kinase generates PI-3,4,5-trisphosphate in the inner membrane leaflet. What is the role of this lipid product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly phosphorylates the insulin receptor"
+        },
+        {
+          "label": "B",
+          "text": "It is cleaved to form IP3 and DAG"
+        },
+        {
+          "label": "C",
+          "text": "It opens calcium channels as a diffusible second messenger"
+        },
+        {
+          "label": "D",
+          "text": "It provides a PH-domain docking site that recruits and activates PKB"
+        },
+        {
+          "label": "E",
+          "text": "It inhibits PDK1 to end the signal"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PI-3,4,5-trisP recruits pleckstrin-homology (PH) domain proteins such as PDK1 and PKB (Akt) to the membrane. Co-localization lets PDK1 phosphorylate and activate PKB, which then dissociates to signal.",
+        "whyCorrect": "PI-3,4,5-trisP recruits pleckstrin-homology (PH) domain proteins such as PDK1 and PKB (Akt) to the membrane. Co-localization lets PDK1 phosphorylate and activate PKB, which then dissociates to signal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-170_25_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-171",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "Fatty acids and eicosanoids in this figure act as ligands for PPARalpha and PPARgamma, which then heterodimerize with RXR on DNA. What class of signaling molecule are PPARs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ligand-activated nuclear transcription factors"
+        },
+        {
+          "label": "B",
+          "text": "Membrane ion channels"
+        },
+        {
+          "label": "C",
+          "text": "Receptor tyrosine kinases"
+        },
+        {
+          "label": "D",
+          "text": "G protein-coupled receptors"
+        },
+        {
+          "label": "E",
+          "text": "Cytoplasmic second messengers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "PPARs are nuclear receptors: lipophilic ligands (fatty acids, eicosanoids) bind them intracellularly, they pair with RXR, bind response elements on DNA, and regulate transcription of lipid-metabolism genes.",
+        "whyCorrect": "PPARs are nuclear receptors: lipophilic ligands (fatty acids, eicosanoids) bind them intracellularly, they pair with RXR, bind response elements on DNA, and regulate transcription of lipid-metabolism genes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-171_25_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-172",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "This scheme shows phospholipase C cleaving PI-4,5-bisphosphate to release diacylglycerol (DAG). What is the principal downstream action of the DAG produced?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phosphorylation of receptor tyrosine residues"
+        },
+        {
+          "label": "B",
+          "text": "Direct activation of a GPCR"
+        },
+        {
+          "label": "C",
+          "text": "Release of calcium from the endoplasmic reticulum"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of adenylyl cyclase"
+        },
+        {
+          "label": "E",
+          "text": "Activation of protein kinase C"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "PLC splits PIP2 into DAG (stays in the membrane) and IP3 (soluble). DAG, together with Ca2+, activates protein kinase C, while IP3 mobilizes calcium from the ER.",
+        "whyCorrect": "PLC splits PIP2 into DAG (stays in the membrane) and IP3 (soluble). DAG, together with Ca2+, activates protein kinase C, while IP3 mobilizes calcium from the ER.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-172_25_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-173",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "In contracting skeletal muscle, a nerve impulse raises intracellular Ca2+, which binds calmodulin and drives the enzyme cascade shown. What is the physiological purpose of coupling this Ca2+ signal to the cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To pump calcium back into the sarcoplasmic reticulum"
+        },
+        {
+          "label": "B",
+          "text": "To trigger muscle protein synthesis"
+        },
+        {
+          "label": "C",
+          "text": "To relax the muscle after contraction"
+        },
+        {
+          "label": "D",
+          "text": "To mobilize glucose from glycogen to fuel muscle contraction"
+        },
+        {
+          "label": "E",
+          "text": "To synthesize new glycogen stores"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The same Ca2+ signal that triggers contraction also activates calmodulin/phosphorylase kinase, which phosphorylates and activates glycogen phosphorylase. This links energy demand to glycogen breakdown, releasing glucose to power the working muscle.",
+        "whyCorrect": "The same Ca2+ signal that triggers contraction also activates calmodulin/phosphorylase kinase, which phosphorylates and activates glycogen phosphorylase. This links energy demand to glycogen breakdown, releasing glucose to power the working muscle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-173_25_p28_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-174",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "In the pathway depicted, the signaling molecule diffuses from an endothelial or nerve cell into an adjacent smooth muscle cell, where it binds guanylate cyclase to convert GTP to cGMP. What is the physiologic end result of this cascade?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac myocyte hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Smooth muscle contraction"
+        },
+        {
+          "label": "C",
+          "text": "Smooth muscle relaxation (vasodilation)"
+        },
+        {
+          "label": "D",
+          "text": "Platelet aggregation"
+        },
+        {
+          "label": "E",
+          "text": "Increased intracellular calcium release"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nitric oxide (NO) is a gaseous signaling molecule synthesized from arginine and O2. It diffuses into smooth muscle, activates soluble guanylate cyclase to raise cGMP, and the cGMP triggers smooth muscle relaxation and vasodilation.",
+        "whyCorrect": "Nitric oxide (NO) is a gaseous signaling molecule synthesized from arginine and O2. It diffuses into smooth muscle, activates soluble guanylate cyclase to raise cGMP, and the cGMP triggers smooth muscle relaxation and vasodilation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-174_25_p29_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-175",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "The diagram shows a hormone-bound seven-transmembrane receptor dissociating into subunits that branch into several downstream effectors. Which second messenger cascade is generated specifically by the alpha-q effector branch shown feeding phospholipase C?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "DAG and IP3, raising intracellular calcium and activating PKC"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cAMP via adenylate cyclase inhibition"
+        },
+        {
+          "label": "C",
+          "text": "RhoA activation driving cytoskeletal remodeling"
+        },
+        {
+          "label": "D",
+          "text": "Increased cAMP activating PKA"
+        },
+        {
+          "label": "E",
+          "text": "Direct opening of potassium channels causing hyperpolarization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is a G-protein-coupled receptor (GPCR) signaling map. The Gq alpha subunit activates phospholipase C (PLC), which cleaves PIP2 into DAG and IP3; DAG activates PKC and IP3 releases stored calcium. Gs raises cAMP, Gi lowers it, and G12/13 acts through RhoA.",
+        "whyCorrect": "This is a G-protein-coupled receptor (GPCR) signaling map. The Gq alpha subunit activates phospholipase C (PLC), which cleaves PIP2 into DAG and IP3; DAG activates PKC and IP3 releases stored calcium. Gs raises cAMP, Gi lowers it, and G12/13 acts through RhoA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-175_25_p31_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-176",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "Panel C of this figure shows a hormone being secreted into a blood vessel by a gland and then acting on distant target cells. Which mode of intercellular communication does this panel illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Direct contact (juxtacrine) signaling"
+        },
+        {
+          "label": "B",
+          "text": "Paracrine signaling"
+        },
+        {
+          "label": "C",
+          "text": "Endocrine signaling"
+        },
+        {
+          "label": "D",
+          "text": "Synaptic signaling"
+        },
+        {
+          "label": "E",
+          "text": "Autocrine signaling"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The four panels contrast modes of cell signaling. Endocrine signaling (panel C) uses hormones released into the bloodstream to reach distant targets, unlike paracrine (local diffusion to neighbors), synaptic (neurotransmitter across a synapse), or direct contact between adjacent plasma membranes.",
+        "whyCorrect": "The four panels contrast modes of cell signaling. Endocrine signaling (panel C) uses hormones released into the bloodstream to reach distant targets, unlike paracrine (local diffusion to neighbors), synaptic (neurotransmitter across a synapse), or direct contact between adjacent plasma membranes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-176_25_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-177",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "This figure classifies hormones by solubility. Based on the properties shown, how do the lipid-soluble hormones on the right (e.g., cortisol, thyroxine) most likely exert their effect on a target cell compared with the water-soluble hormones on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They bind cell-surface receptors and require a second messenger"
+        },
+        {
+          "label": "B",
+          "text": "They are stored in synaptic vesicles and released by exocytosis"
+        },
+        {
+          "label": "C",
+          "text": "They cannot enter cells and act only on membrane ion channels"
+        },
+        {
+          "label": "D",
+          "text": "They act exclusively through gap junctions between adjacent cells"
+        },
+        {
+          "label": "E",
+          "text": "They diffuse across the plasma membrane and bind intracellular/nuclear receptors to alter gene transcription"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Lipid-soluble (hydrophobic) hormones such as steroids and thyroxine cross the plasma membrane and bind intracellular or nuclear receptors, directly modulating gene transcription. Water-soluble (hydrophilic) hormones like insulin and epinephrine bind surface receptors and act via second messengers.",
+        "whyCorrect": "Lipid-soluble (hydrophobic) hormones such as steroids and thyroxine cross the plasma membrane and bind intracellular or nuclear receptors, directly modulating gene transcription. Water-soluble (hydrophilic) hormones like insulin and epinephrine bind surface receptors and act via second messengers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-177_25_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-178",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "In the pathway shown, a ligand binds the Frizzled receptor and activates Dishevelled, which inhibits the destruction complex containing GSK-3-beta, CKI-alpha, Axin, and APC. What is the direct consequence of inhibiting this destruction complex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium is released to activate PKC"
+        },
+        {
+          "label": "B",
+          "text": "Beta-catenin is phosphorylated and degraded by the proteasome"
+        },
+        {
+          "label": "C",
+          "text": "Beta-catenin is stabilized, accumulates, and translocates to the nucleus to drive target gene transcription"
+        },
+        {
+          "label": "D",
+          "text": "The Frizzled receptor is internalized and recycled"
+        },
+        {
+          "label": "E",
+          "text": "STAT proteins are dimerized and translocated"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the canonical Wnt/beta-catenin pathway. Normally the destruction complex phosphorylates beta-catenin for degradation. When Wnt activates Dishevelled and inhibits the complex, beta-catenin escapes degradation, accumulates, enters the nucleus, and partners with transcription factors to activate target genes.",
+        "whyCorrect": "This is the canonical Wnt/beta-catenin pathway. Normally the destruction complex phosphorylates beta-catenin for degradation. When Wnt activates Dishevelled and inhibits the complex, beta-catenin escapes degradation, accumulates, enters the nucleus, and partners with transcription factors to activate target genes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-178_26_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-179",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "In this diagram, UV light causes DNA damage in a keratinocyte, activating p53 and POMC to release a peptide that binds MC1R on an adjacent melanocyte, raising cAMP and activating MITF. What is the ultimate protective outcome of this keratinocyte-melanocyte cross-talk?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased melanin synthesis and skin lightening"
+        },
+        {
+          "label": "B",
+          "text": "Increased melanin pigment production and transfer of melanosomes to protect against further UV damage"
+        },
+        {
+          "label": "C",
+          "text": "Keratinocyte proliferation and thickening of the stratum corneum only"
+        },
+        {
+          "label": "D",
+          "text": "Apoptosis of the melanocyte"
+        },
+        {
+          "label": "E",
+          "text": "Vasodilation of dermal blood vessels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "UV-induced DNA damage drives p53-dependent POMC processing to alpha-MSH, which binds melanocyte MC1R. The resulting cAMP/MITF signaling upregulates melanin synthesis, and melanosomes are transferred to keratinocytes, shielding nuclei from further UV damage.",
+        "whyCorrect": "UV-induced DNA damage drives p53-dependent POMC processing to alpha-MSH, which binds melanocyte MC1R. The resulting cAMP/MITF signaling upregulates melanin synthesis, and melanosomes are transferred to keratinocytes, shielding nuclei from further UV damage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-179_26_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-180",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "The numbered steps show cytokine-induced receptor dimerization, phosphorylation of tyrosine residues by receptor-associated kinases, recruitment and phosphorylation of latent cytoplasmic proteins, their dimerization, and nuclear translocation to bind promoter sequences. Which signaling pathway is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "JAK-STAT pathway"
+        },
+        {
+          "label": "B",
+          "text": "GPCR-cAMP-PKA pathway"
+        },
+        {
+          "label": "C",
+          "text": "Wnt/beta-catenin pathway"
+        },
+        {
+          "label": "D",
+          "text": "TGF-beta/SMAD pathway"
+        },
+        {
+          "label": "E",
+          "text": "Receptor tyrosine kinase-Ras-MAPK pathway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cytokine binding dimerizes the receptor, activating associated Janus kinases (JAK) that phosphorylate receptor tyrosines. STAT proteins are recruited, phosphorylated, dimerize, translocate to the nucleus, and bind promoter STAT-binding sequences to drive transcription of cytokine-responsive genes.",
+        "whyCorrect": "Cytokine binding dimerizes the receptor, activating associated Janus kinases (JAK) that phosphorylate receptor tyrosines. STAT proteins are recruited, phosphorylated, dimerize, translocate to the nucleus, and bind promoter STAT-binding sequences to drive transcription of cytokine-responsive genes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-180_26_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-181",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "This illustration contrasts the fate of the alpha subunit under normoxia versus hypoxia. Under normoxic conditions, proline hydroxylation allows VHL to bind the subunit. What is the direct consequence of this VHL binding shown in the top pathway?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of the subunit into active peptides that promote angiogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Stabilization and nuclear translocation to activate target genes"
+        },
+        {
+          "label": "C",
+          "text": "Ubiquitination of the alpha subunit and its proteasomal degradation"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation and activation of erythropoietin transcription"
+        },
+        {
+          "label": "E",
+          "text": "Export of the subunit into the bloodstream as a hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In normoxia, prolyl hydroxylase (PHD) uses O2 to hydroxylate HIF-alpha, allowing von Hippel-Lindau (VHL) protein to bind and target it for ubiquitination and proteasomal degradation. In hypoxia, hydroxylation fails, HIF-alpha is stabilized, dimerizes with HIF-beta, and activates genes for erythropoiesis, angiogenesis, and metabolism.",
+        "whyCorrect": "In normoxia, prolyl hydroxylase (PHD) uses O2 to hydroxylate HIF-alpha, allowing von Hippel-Lindau (VHL) protein to bind and target it for ubiquitination and proteasomal degradation. In hypoxia, hydroxylation fails, HIF-alpha is stabilized, dimerizes with HIF-beta, and activates genes for erythropoiesis, angiogenesis, and metabolism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-181_26_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-182",
+      "topicId": "boom-overview-of-cell-signaling",
+      "topicName": "BOOM: Overview of Cell Signaling",
+      "stem": "In this pathway, TNF-alpha binds TNFR-1 and activates the IKK complex, which phosphorylates the inhibitory protein bound to the p50/p65 complex. What must happen to that phosphorylated inhibitory protein before the transcription factor can enter the nucleus and activate immune response genes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is ubiquitinated and degraded by the proteasome, freeing the complex to translocate"
+        },
+        {
+          "label": "B",
+          "text": "It is dephosphorylated and re-binds the complex more tightly"
+        },
+        {
+          "label": "C",
+          "text": "It is transported into the nucleus together with the complex"
+        },
+        {
+          "label": "D",
+          "text": "It is exported from the cell by exocytosis"
+        },
+        {
+          "label": "E",
+          "text": "It is cleaved to generate an active second messenger"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is the NF-kB pathway. IKK phosphorylates IkB, marking it for polyubiquitination and proteasomal degradation. Freed p50/p65 (NF-kB) then translocates to the nucleus to activate immune and inflammatory response genes.",
+        "whyCorrect": "This is the NF-kB pathway. IKK phosphorylates IkB, marking it for polyubiquitination and proteasomal degradation. Freed p50/p65 (NF-kB) then translocates to the nucleus to activate immune and inflammatory response genes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-182_26_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

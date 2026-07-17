@@ -1,0 +1,201 @@
+{
+  "categoryId": "boom-metabolic-overview-i-general-reactions",
+  "categoryName": "BOOM: Metabolic Overview I: General Reactions",
+  "questions": [
+    {
+      "id": "bopic-027",
+      "topicId": "boom-metabolic-overview-i-general-reactions",
+      "topicName": "BOOM: Metabolic Overview I: General Reactions",
+      "stem": "A urine microscopy specimen shows these colorless envelope- or pyramid-shaped crystals. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcium oxalate crystals"
+        },
+        {
+          "label": "B",
+          "text": "Struvite (triple phosphate) crystals"
+        },
+        {
+          "label": "C",
+          "text": "Uric acid crystals"
+        },
+        {
+          "label": "D",
+          "text": "Cystine crystals"
+        },
+        {
+          "label": "E",
+          "text": "Cholesterol crystals"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic envelope (Maltese-cross pyramid) morphology is characteristic of calcium oxalate dihydrate crystals, the most common urinary crystal and stone type, associated with hypercalciuria and ethylene glycol toxicity.",
+        "whyCorrect": "The classic envelope (Maltese-cross pyramid) morphology is characteristic of calcium oxalate dihydrate crystals, the most common urinary crystal and stone type, associated with hypercalciuria and ethylene glycol toxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-027_2_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-028",
+      "topicId": "boom-metabolic-overview-i-general-reactions",
+      "topicName": "BOOM: Metabolic Overview I: General Reactions",
+      "stem": "Using this basic metabolic panel (Na+ 138, K+ 4.0, Cl- 102, HCO3- 10 mEq/L), what is the serum anion gap?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "40 mEq/L"
+        },
+        {
+          "label": "B",
+          "text": "16 mEq/L (normal)"
+        },
+        {
+          "label": "C",
+          "text": "12 mEq/L (normal)"
+        },
+        {
+          "label": "D",
+          "text": "8 mEq/L (low)"
+        },
+        {
+          "label": "E",
+          "text": "26 mEq/L (elevated)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Anion gap = Na+ - (Cl- + HCO3-) = 138 - (102 + 10) = 26 mEq/L. This markedly elevated gap with low bicarbonate indicates a high anion gap metabolic acidosis.",
+        "whyCorrect": "Anion gap = Na+ - (Cl- + HCO3-) = 138 - (102 + 10) = 26 mEq/L. This markedly elevated gap with low bicarbonate indicates a high anion gap metabolic acidosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-028_2_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-139",
+      "topicId": "boom-metabolic-overview-i-general-reactions",
+      "topicName": "BOOM: Metabolic Overview I: General Reactions",
+      "stem": "The diagram shows sequential oxidation of a fat-soluble vitamin. The final active metabolite drives embryonic development, tissue maintenance, and immunity by which primary molecular mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Functioning as a cofactor for gamma-carboxylation"
+        },
+        {
+          "label": "B",
+          "text": "Serving as the chromophore for photon absorption in rods"
+        },
+        {
+          "label": "C",
+          "text": "Forming rhodopsin in cone photoreceptors"
+        },
+        {
+          "label": "D",
+          "text": "Acting as an enzymatic antioxidant in membranes"
+        },
+        {
+          "label": "E",
+          "text": "Binding nuclear receptors to regulate gene transcription"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Retinol is oxidized by ADH to retinaldehyde (vision, as the visual chromophore) and irreversibly by ALDH to retinoic acid. Retinoic acid binds nuclear RAR/RXR receptors to control gene transcription, driving embryonic development, epithelial maintenance, and immune function.",
+        "whyCorrect": "Retinol is oxidized by ADH to retinaldehyde (vision, as the visual chromophore) and irreversibly by ALDH to retinoic acid. Retinoic acid binds nuclear RAR/RXR receptors to control gene transcription, driving embryonic development, epithelial maintenance, and immune function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-139_1_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-205",
+      "topicId": "boom-metabolic-overview-i-general-reactions",
+      "topicName": "BOOM: Metabolic Overview I: General Reactions",
+      "stem": "This enzyme interconverts pyruvate and lactate while cycling NADH and NAD+. Under anaerobic conditions, what is the main metabolic purpose of the forward (pyruvate to lactate) reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generate ATP directly from lactate"
+        },
+        {
+          "label": "B",
+          "text": "Produce oxygen for the electron transport chain"
+        },
+        {
+          "label": "C",
+          "text": "Synthesize glucose from amino acids"
+        },
+        {
+          "label": "D",
+          "text": "Regenerate NAD+ so glycolysis can continue producing ATP"
+        },
+        {
+          "label": "E",
+          "text": "Detoxify ammonia to urea"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Lactate dehydrogenase reduces pyruvate to lactate, oxidizing NADH back to NAD+. Regenerating NAD+ allows glycolysis (which needs NAD+ at the GAPDH step) to keep running and yield ATP when oxygen or mitochondria are unavailable.",
+        "whyCorrect": "Lactate dehydrogenase reduces pyruvate to lactate, oxidizing NADH back to NAD+. Regenerating NAD+ allows glycolysis (which needs NAD+ at the GAPDH step) to keep running and yield ATP when oxygen or mitochondria are unavailable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-205_2_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-206",
+      "topicId": "boom-metabolic-overview-i-general-reactions",
+      "topicName": "BOOM: Metabolic Overview I: General Reactions",
+      "stem": "The alcohol dehydrogenase and acetaldehyde dehydrogenase steps in this pathway both consume NAD+ and generate NADH. What metabolic consequence does the resulting high NADH/NAD+ ratio promote?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased ketone clearance"
+        },
+        {
+          "label": "B",
+          "text": "Lactic acidosis and fasting hypoglycemia"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory alkalosis"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced gluconeogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Metabolic alkalosis from bicarbonate retention"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ethanol oxidation raises the cytosolic NADH/NAD+ ratio, pushing pyruvate to lactate (lactic acidosis) and oxaloacetate to malate. Depletion of pyruvate and oxaloacetate impairs gluconeogenesis, causing hypoglycemia.",
+        "whyCorrect": "Ethanol oxidation raises the cytosolic NADH/NAD+ ratio, pushing pyruvate to lactate (lactic acidosis) and oxaloacetate to malate. Depletion of pyruvate and oxaloacetate impairs gluconeogenesis, causing hypoglycemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-206_2_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

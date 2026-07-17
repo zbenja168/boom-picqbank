@@ -1,0 +1,162 @@
+{
+  "categoryId": "variants-in-chromosome-number",
+  "categoryName": "Variants in Chromosome Number",
+  "questions": [
+    {
+      "id": "bopic-076",
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Variants in Chromosome Number",
+      "stem": "A neonate shows the clenched fists with overlapping fingers, rocker-bottom/clubfeet, low-set ears, and cleft lip depicted here. The underlying extra whole chromosome most commonly arises by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uniparental disomy"
+        },
+        {
+          "label": "B",
+          "text": "Terminal chromosomal deletion"
+        },
+        {
+          "label": "C",
+          "text": "Single-gene point mutation"
+        },
+        {
+          "label": "D",
+          "text": "Robertsonian translocation"
+        },
+        {
+          "label": "E",
+          "text": "Meiotic nondisjunction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "These findings are those of trisomy 18 (Edwards syndrome); like most autosomal trisomies it usually results from maternal meiotic nondisjunction producing an extra copy of the chromosome.",
+        "whyCorrect": "These findings are those of trisomy 18 (Edwards syndrome); like most autosomal trisomies it usually results from maternal meiotic nondisjunction producing an extra copy of the chromosome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-076_41_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-256",
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Variants in Chromosome Number",
+      "stem": "In the sequences shown, a gamete labeled 'n+1' (carrying an extra chromosome) is fertilized by a normal gamete. What is the chromosomal constitution of the resulting zygote?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal diploid (2n)"
+        },
+        {
+          "label": "B",
+          "text": "Tetrasomy (2n+2)"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy (2n+1)"
+        },
+        {
+          "label": "D",
+          "text": "Triploidy (3n)"
+        },
+        {
+          "label": "E",
+          "text": "Monosomy (2n-1)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "An n+1 gamete already carries one extra chromosome; fertilization by a normal (n) gamete yields a 2n+1 zygote, i.e., trisomy for that chromosome.",
+        "whyCorrect": "An n+1 gamete already carries one extra chromosome; fertilization by a normal (n) gamete yields a 2n+1 zygote, i.e., trisomy for that chromosome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-256_41_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-257",
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Variants in Chromosome Number",
+      "stem": "The faulty chromosome separation illustrated here occurs after fertilization during ordinary somatic cell division. The clinical severity of the resulting condition depends chiefly on which factor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The sex of the affected individual"
+        },
+        {
+          "label": "B",
+          "text": "Whether the error was in meiosis I or meiosis II"
+        },
+        {
+          "label": "C",
+          "text": "The proportion and tissue distribution of the abnormal cell line"
+        },
+        {
+          "label": "D",
+          "text": "Which parent contributed the abnormal chromosome"
+        },
+        {
+          "label": "E",
+          "text": "The presence of crossing over"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Post-zygotic (mitotic) nondisjunction creates two or more genetically distinct cell lines (mosaicism); phenotype severity varies with how many cells and which tissues carry the abnormal line.",
+        "whyCorrect": "Post-zygotic (mitotic) nondisjunction creates two or more genetically distinct cell lines (mosaicism); phenotype severity varies with how many cells and which tissues carry the abnormal line.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-257_41_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-258",
+      "topicId": "variants-in-chromosome-number",
+      "topicName": "Variants in Chromosome Number",
+      "stem": "When the two non-homologous acrocentric chromosomes shown fuse to form the derivative chromosome, which portions are typically lost?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The telomeres of the long arms"
+        },
+        {
+          "label": "B",
+          "text": "One entire chromosome"
+        },
+        {
+          "label": "C",
+          "text": "The short (p) arms of both chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "The long (q) arms of both chromosomes"
+        },
+        {
+          "label": "E",
+          "text": "Both centromeres"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In a Robertsonian translocation the long arms of two acrocentric chromosomes fuse near the centromere and the small short arms (carrying redundant rRNA genes) are lost, producing a balanced carrier with 45 chromosomes.",
+        "whyCorrect": "In a Robertsonian translocation the long arms of two acrocentric chromosomes fuse near the centromere and the small short arms (carrying redundant rRNA genes) are lost, producing a balanced carrier with 45 chromosomes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-258_41_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

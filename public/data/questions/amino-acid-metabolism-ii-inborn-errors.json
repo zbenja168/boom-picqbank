@@ -1,0 +1,474 @@
+{
+  "categoryId": "amino-acid-metabolism-ii-inborn-errors",
+  "categoryName": "Amino Acid Metabolism II: Inborn Errors",
+  "questions": [
+    {
+      "id": "bopic-031",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "These pathognomonic hexagonal crystals seen on urinalysis indicate which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Struvite (infection) stones"
+        },
+        {
+          "label": "B",
+          "text": "Primary hyperoxaluria"
+        },
+        {
+          "label": "C",
+          "text": "Gout (uric acid stones)"
+        },
+        {
+          "label": "D",
+          "text": "Calcium phosphate nephrocalcinosis"
+        },
+        {
+          "label": "E",
+          "text": "Cystinuria"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyCorrect": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-031_34_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-063",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This patient shows bluish-black pigment deposition in the sclera and periocular tissue. In a patient with a tyrosine-catabolism enzyme deficiency and urine that darkens on standing, this finding is termed what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ochronosis (alkaptonuria)"
+        },
+        {
+          "label": "B",
+          "text": "Kayser-Fleischer ring (Wilson disease)"
+        },
+        {
+          "label": "C",
+          "text": "Argyria from silver deposition"
+        },
+        {
+          "label": "D",
+          "text": "Pinguecula"
+        },
+        {
+          "label": "E",
+          "text": "Scleral icterus from jaundice"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ochronosis is deposition of polymerized homogentisic acid pigment in connective tissue and sclera in alkaptonuria (homogentisate oxidase deficiency).",
+        "whyCorrect": "Ochronosis is deposition of polymerized homogentisic acid pigment in connective tissue and sclera in alkaptonuria (homogentisate oxidase deficiency).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-063_34_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-222",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This pathway shows tyrosine degradation with a block at homogentisate oxidase, causing homogentisate to accumulate and form a dark pigment. Which disorder does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Albinism"
+        },
+        {
+          "label": "B",
+          "text": "Alkaptonuria"
+        },
+        {
+          "label": "C",
+          "text": "Phenylketonuria"
+        },
+        {
+          "label": "D",
+          "text": "Homocystinuria"
+        },
+        {
+          "label": "E",
+          "text": "Tyrosinemia type I"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Deficiency of homogentisate oxidase causes alkaptonuria: homogentisic acid accumulates, darkening urine on standing and depositing in connective tissue (ochronosis).",
+        "whyCorrect": "Deficiency of homogentisate oxidase causes alkaptonuria: homogentisic acid accumulates, darkening urine on standing and depositing in connective tissue (ochronosis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-222_34_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-223",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This pathway highlights cystathionine beta-synthase, a vitamin B6-dependent enzyme converting homocysteine to cystathionine. Deficiency of this enzyme causes homocystinuria; which classic clinical finding results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corneal clouding without lens displacement"
+        },
+        {
+          "label": "B",
+          "text": "Downward and inward lens dislocation (ectopia lentis)"
+        },
+        {
+          "label": "C",
+          "text": "Upward and outward lens dislocation"
+        },
+        {
+          "label": "D",
+          "text": "Cherry-red macular spot"
+        },
+        {
+          "label": "E",
+          "text": "Bilateral cataracts from galactose accumulation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Cystathionine beta-synthase deficiency raises homocysteine, damaging connective tissue and causing downward-and-inward ectopia lentis, a marfanoid habitus, thromboembolism, and intellectual disability.",
+        "whyCorrect": "Cystathionine beta-synthase deficiency raises homocysteine, damaging connective tissue and causing downward-and-inward ectopia lentis, a marfanoid habitus, thromboembolism, and intellectual disability.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-223_34_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-224",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This figure maps branched-chain amino acid catabolism and its enzyme defects. Propionyl-CoA derived from valine and isoleucine is carboxylated and then converted to succinyl-CoA by a mutase that requires which vitamin cofactor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pyridoxine (B6)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "C",
+          "text": "Biotin (B7)"
+        },
+        {
+          "label": "D",
+          "text": "Thiamine (B1)"
+        },
+        {
+          "label": "E",
+          "text": "Riboflavin (B2)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Methylmalonyl-CoA mutase converts L-methylmalonyl-CoA to succinyl-CoA and is vitamin B12-dependent; its defect produces methylmalonic acidemia, shown at the bottom of the figure.",
+        "whyCorrect": "Methylmalonyl-CoA mutase converts L-methylmalonyl-CoA to succinyl-CoA and is vitamin B12-dependent; its defect produces methylmalonic acidemia, shown at the bottom of the figure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-224_34_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-225",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This pathway converts propionyl-CoA to succinyl-CoA. A defect in methylmalonyl-CoA mutase (or its cofactor) causes accumulation and urinary excretion of which compound?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methylmalonic acid"
+        },
+        {
+          "label": "B",
+          "text": "Propionic acid"
+        },
+        {
+          "label": "C",
+          "text": "Isovaleric acid"
+        },
+        {
+          "label": "D",
+          "text": "Homogentisic acid"
+        },
+        {
+          "label": "E",
+          "text": "Orotic acid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A blocked mutase leaves methylmalonyl-CoA to accumulate and be hydrolyzed to methylmalonic acid, causing methylmalonic acidemia and aciduria.",
+        "whyCorrect": "A blocked mutase leaves methylmalonyl-CoA to accumulate and be hydrolyzed to methylmalonic acid, causing methylmalonic acidemia and aciduria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-225_34_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-226",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This figure shows amino acids and odd-chain fatty acids entering the TCA cycle via methylmalonyl-CoA. An infant deficient in the B12-dependent mutase of this pathway would most likely present acutely with which derangement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated conjugated hyperbilirubinemia"
+        },
+        {
+          "label": "B",
+          "text": "Hypochloremic metabolic alkalosis"
+        },
+        {
+          "label": "C",
+          "text": "Respiratory alkalosis"
+        },
+        {
+          "label": "D",
+          "text": "High anion-gap metabolic acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Hyperglycemia without acidosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Mutase or B12 deficiency causes methylmalonic acidemia; accumulated organic acid produces an anion-gap metabolic acidosis, frequently with ketosis and hyperammonemia in infancy.",
+        "whyCorrect": "Mutase or B12 deficiency causes methylmalonic acidemia; accumulated organic acid produces an anion-gap metabolic acidosis, frequently with ketosis and hyperammonemia in infancy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-226_34_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-227",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "The highlighted brush-border/kidney transporter for basic (dibasic) amino acids is defective in one inherited disorder. What is the classic clinical consequence of losing this transport system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neonatal hyperammonemia"
+        },
+        {
+          "label": "B",
+          "text": "Pellagra-like photosensitive dermatitis"
+        },
+        {
+          "label": "C",
+          "text": "Megaloblastic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Recurrent cystine kidney stones"
+        },
+        {
+          "label": "E",
+          "text": "Fanconi-type phosphate wasting"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Loss of the B0,+ system for basic amino acids (and cystine) in the intestine and proximal tubule causes cystinuria; poorly soluble cystine precipitates into recurrent hexagonal urinary calculi.",
+        "whyCorrect": "Loss of the B0,+ system for basic amino acids (and cystine) in the intestine and proximal tubule causes cystinuria; poorly soluble cystine precipitates into recurrent hexagonal urinary calculi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-227_34_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-228",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "In the pathway branching from tyrosine, the step forming dopamine from dopa (labeled 'requires: PLP') would be impaired by a deficiency of which vitamin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitamin B12 (cobalamin)"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin B2 (riboflavin)"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B6 (pyridoxine)"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin B3 (niacin)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C (ascorbate)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "PLP (pyridoxal phosphate), the active form of vitamin B6, is the cofactor for the decarboxylation of dopa to dopamine in catecholamine synthesis.",
+        "whyCorrect": "PLP (pyridoxal phosphate), the active form of vitamin B6, is the cofactor for the decarboxylation of dopa to dopamine in catecholamine synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-228_34_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-229",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "The cycle shown regenerates the tetrahydrobiopterin (BH4) needed by phenylalanine hydroxylase. A deficiency of dihydropteridine reductase would most directly cause which laboratory picture?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ketotic hypoglycemia"
+        },
+        {
+          "label": "B",
+          "text": "Lactic acidosis from pyruvate accumulation"
+        },
+        {
+          "label": "C",
+          "text": "Hyperphenylalaninemia despite functional phenylalanine hydroxylase"
+        },
+        {
+          "label": "D",
+          "text": "Elevated homocysteine with low methionine"
+        },
+        {
+          "label": "E",
+          "text": "Isolated hyperammonemia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "BH4 is the essential cofactor for phenylalanine hydroxylase; failure to regenerate it (dihydropteridine reductase deficiency) produces a 'malignant' PKU-type hyperphenylalaninemia even when the hydroxylase enzyme is normal.",
+        "whyCorrect": "BH4 is the essential cofactor for phenylalanine hydroxylase; failure to regenerate it (dihydropteridine reductase deficiency) produces a 'malignant' PKU-type hyperphenylalaninemia even when the hydroxylase enzyme is normal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-229_34_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-230",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "This biosynthetic pathway converts tryptophan into a signaling molecule. The final product is a neurotransmitter regulating mood, sleep, and appetite. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GABA"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Dopamine"
+        },
+        {
+          "label": "D",
+          "text": "Serotonin (5-HT)"
+        },
+        {
+          "label": "E",
+          "text": "Histamine"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Tryptophan is hydroxylated (tryptophan hydroxylase, BH4) to 5-hydroxytryptophan, then decarboxylated (PLP-dependent) to serotonin, a monoamine neurotransmitter.",
+        "whyCorrect": "Tryptophan is hydroxylated (tryptophan hydroxylase, BH4) to 5-hydroxytryptophan, then decarboxylated (PLP-dependent) to serotonin, a monoamine neurotransmitter.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-230_34_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-231",
+      "topicId": "amino-acid-metabolism-ii-inborn-errors",
+      "topicName": "Amino Acid Metabolism II: Inborn Errors",
+      "stem": "The copper-dependent enzyme that converts tyrosine toward melanin in melanocytes is highlighted. A hereditary deficiency of this enzyme causes which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vitiligo"
+        },
+        {
+          "label": "B",
+          "text": "Phenylketonuria"
+        },
+        {
+          "label": "C",
+          "text": "Hemochromatosis"
+        },
+        {
+          "label": "D",
+          "text": "Alkaptonuria"
+        },
+        {
+          "label": "E",
+          "text": "Oculocutaneous albinism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Tyrosinase (Cu2+-dependent) catalyzes the first step of melanin synthesis; its loss causes oculocutaneous albinism with absent pigment in skin, hair, and eyes.",
+        "whyCorrect": "Tyrosinase (Cu2+-dependent) catalyzes the first step of melanin synthesis; its loss causes oculocutaneous albinism with absent pigment in skin, hair, and eyes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-231_34_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

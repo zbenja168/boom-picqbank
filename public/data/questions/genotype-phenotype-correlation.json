@@ -1,0 +1,45 @@
+{
+  "categoryId": "genotype-phenotype-correlation",
+  "categoryName": "Genotype-Phenotype Correlation",
+  "questions": [
+    {
+      "id": "bopic-081",
+      "topicId": "genotype-phenotype-correlation",
+      "topicName": "Genotype-Phenotype Correlation",
+      "stem": "An infant presents with the constellation of findings shown: mousy body odor, microcephaly, developmental delay, dry skin/eczema, and elevated serum phenylalanine. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Homocystinuria"
+        },
+        {
+          "label": "B",
+          "text": "Tyrosinemia type I"
+        },
+        {
+          "label": "C",
+          "text": "Maple syrup urine disease"
+        },
+        {
+          "label": "D",
+          "text": "Phenylketonuria"
+        },
+        {
+          "label": "E",
+          "text": "Alkaptonuria"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phenylalanine hydroxylase deficiency causes phenylalanine accumulation, producing the classic mousy/musty odor, intellectual disability, microcephaly, seizures, eczema, and hypopigmentation. Management is dietary phenylalanine restriction.",
+        "whyCorrect": "Phenylalanine hydroxylase deficiency causes phenylalanine accumulation, producing the classic mousy/musty odor, intellectual disability, microcephaly, seizures, eczema, and hypopigmentation. Management is dietary phenylalanine restriction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-081_47_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

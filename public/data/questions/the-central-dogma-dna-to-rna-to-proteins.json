@@ -1,0 +1,396 @@
+{
+  "categoryId": "the-central-dogma-dna-to-rna-to-proteins",
+  "categoryName": "The Central Dogma: DNA to RNA to Proteins",
+  "questions": [
+    {
+      "id": "bopic-002",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The modified nucleotide joined by an unusual 5'-to-5' linkage at the start of the transcript serves what function for the mature mRNA?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It provides the anticodon that reads the first codon"
+        },
+        {
+          "label": "B",
+          "text": "It signals the site where the poly-A tail is added"
+        },
+        {
+          "label": "C",
+          "text": "It creates the branch point for lariat formation"
+        },
+        {
+          "label": "D",
+          "text": "It marks introns for removal by the spliceosome"
+        },
+        {
+          "label": "E",
+          "text": "It protects the mRNA from degradation and promotes ribosome binding for translation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation.",
+        "whyCorrect": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-002_11_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-003",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The complex assembling on the primary transcript catalyzes which event, releasing the looped intermediate shown at the bottom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reverse transcription of RNA into DNA"
+        },
+        {
+          "label": "B",
+          "text": "Addition of the 5' cap to the transcript"
+        },
+        {
+          "label": "C",
+          "text": "Removal of the intron and joining of the flanking exons"
+        },
+        {
+          "label": "D",
+          "text": "Translation of the mRNA into protein"
+        },
+        {
+          "label": "E",
+          "text": "Attachment of the poly-A tail at the 3' end"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation.",
+        "whyCorrect": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-003_11_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-004",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The three different mRNAs and proteins produced from one hnRNA on the right illustrate a process that provides what benefit to the genome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It lets a single gene generate multiple distinct protein products"
+        },
+        {
+          "label": "B",
+          "text": "It corrects mutations before translation occurs"
+        },
+        {
+          "label": "C",
+          "text": "It converts introns directly into functional proteins"
+        },
+        {
+          "label": "D",
+          "text": "It permanently deletes exons from the genomic DNA"
+        },
+        {
+          "label": "E",
+          "text": "It doubles the amount of DNA before cell division"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity.",
+        "whyCorrect": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-004_11_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-005",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "This chart maps triplets to amino acids. What key property of this code is demonstrated by several different triplets specifying the same amino acid?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ambiguity of the code"
+        },
+        {
+          "label": "B",
+          "text": "Degeneracy (redundancy) of the genetic code"
+        },
+        {
+          "label": "C",
+          "text": "Overlapping reading of the code"
+        },
+        {
+          "label": "D",
+          "text": "Non-universality of the code"
+        },
+        {
+          "label": "E",
+          "text": "Proofreading by the ribosome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because most amino acids are encoded by more than one codon (e.g., six for leucine), the code is described as degenerate/redundant, which buffers many point mutations against changing the protein.",
+        "whyCorrect": "Because most amino acids are encoded by more than one codon (e.g., six for leucine), the code is described as degenerate/redundant, which buffers many point mutations against changing the protein.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-005_11_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-006",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "During elongation on this structure, through which of the three internal sites does a charged tRNA first enter before peptide bond formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peptidyl (P) site"
+        },
+        {
+          "label": "B",
+          "text": "The exit (E) site"
+        },
+        {
+          "label": "C",
+          "text": "The aminoacyl (A) site"
+        },
+        {
+          "label": "D",
+          "text": "The mRNA-binding site of the large subunit"
+        },
+        {
+          "label": "E",
+          "text": "The 60S catalytic center"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site.",
+        "whyCorrect": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-006_11_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-007",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The molecule diagrammed on the left (with an acceptor stem, D loop, T loop, and anticodon loop) is shown 'charged' on the right. What does the charged form on the right directly enable during protein synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Addition of a 5' cap to the growing mRNA"
+        },
+        {
+          "label": "B",
+          "text": "Splicing of introns out of the primary transcript"
+        },
+        {
+          "label": "C",
+          "text": "Synthesis of the mRNA template from a DNA strand"
+        },
+        {
+          "label": "D",
+          "text": "Formation of the small and large ribosomal subunits"
+        },
+        {
+          "label": "E",
+          "text": "Delivery of a specific amino acid to the ribosome via anticodon-codon base pairing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation.",
+        "whyCorrect": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-007_11_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-008",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The figure shows a ribosome whose emerging N-terminal sequence is bound by a cytosolic particle, docked to a receptor on the ER membrane, with the nascent chain threaded through a translocation channel and later cleaved. What is the functional purpose of the events shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Co-translational targeting and import of secretory/membrane proteins into the ER"
+        },
+        {
+          "label": "B",
+          "text": "Import of proteins into the mitochondrial matrix"
+        },
+        {
+          "label": "C",
+          "text": "Degradation of misfolded proteins by the proteasome"
+        },
+        {
+          "label": "D",
+          "text": "Nuclear export of mature mRNA transcripts"
+        },
+        {
+          "label": "E",
+          "text": "Retrograde transport of proteins from Golgi to ER"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The signal recognition particle (SRP) binds the hydrophobic signal peptide on the emerging chain, halts translation, and docks to the SRP receptor. Translation resumes through the translocon, threading the protein into the ER lumen; a signal peptidase then cleaves the signal sequence.",
+        "whyCorrect": "The signal recognition particle (SRP) binds the hydrophobic signal peptide on the emerging chain, halts translation, and docks to the SRP receptor. Translation resumes through the translocon, threading the protein into the ER lumen; a signal peptidase then cleaves the signal sequence.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-008_11_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-102",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The numbered sequence depicts assembly of a complex on mRNA involving the 40S subunit, an initiator tRNA carrying methionine, and several eIFs before the 60S subunit joins. Which molecular event is required immediately before the large subunit can join in this process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cleavage of the poly-A tail from the mRNA"
+        },
+        {
+          "label": "B",
+          "text": "Scanning of the mRNA and recognition of the AUG start codon"
+        },
+        {
+          "label": "C",
+          "text": "Binding of a release factor to a stop codon"
+        },
+        {
+          "label": "D",
+          "text": "Removal of the 5' cap by a decapping enzyme"
+        },
+        {
+          "label": "E",
+          "text": "Peptidyl transferase formation of the first peptide bond"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is eukaryotic translation initiation. The 43S pre-initiation complex scans the mRNA until the initiator Met-tRNA anticodon pairs with the AUG start codon; only after start-codon recognition do initiation factors dissociate and the 60S subunit join to form the 80S ribosome.",
+        "whyCorrect": "This is eukaryotic translation initiation. The 43S pre-initiation complex scans the mRNA until the initiator Met-tRNA anticodon pairs with the AUG start codon; only after start-codon recognition do initiation factors dissociate and the 60S subunit join to form the 80S ribosome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-102_11_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-103",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The diagram shows a distant DNA element bound by activator proteins looping around to contact a group of mediator proteins and general transcription factors assembled near the gene's promoter. What does this looping architecture accomplish?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It excises the promoter region from the chromosome"
+        },
+        {
+          "label": "B",
+          "text": "It replicates the DNA ahead of the polymerase"
+        },
+        {
+          "label": "C",
+          "text": "It lets a distant enhancer boost transcription initiation at the promoter"
+        },
+        {
+          "label": "D",
+          "text": "It exports the assembled complex out of the nucleus"
+        },
+        {
+          "label": "E",
+          "text": "It permanently silences the gene by DNA methylation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Enhancers can act over long distances. DNA bending brings enhancer-bound activators into contact with the mediator complex and general transcription factors at the promoter, stabilizing RNA polymerase II recruitment and increasing the rate of transcription initiation.",
+        "whyCorrect": "Enhancers can act over long distances. DNA bending brings enhancer-bound activators into contact with the mediator complex and general transcription factors at the promoter, stabilizing RNA polymerase II recruitment and increasing the rate of transcription initiation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-103_11_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-104",
+      "topicId": "the-central-dogma-dna-to-rna-to-proteins",
+      "topicName": "The Central Dogma: DNA to RNA to Proteins",
+      "stem": "The figure shows an enzyme sitting on double-stranded DNA that is locally unwound into a bubble, with a coding strand indicated. What process is this enzyme carrying out?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reverse transcription of RNA into DNA"
+        },
+        {
+          "label": "B",
+          "text": "Repair of a thymine dimer"
+        },
+        {
+          "label": "C",
+          "text": "DNA replication at the origin"
+        },
+        {
+          "label": "D",
+          "text": "Translation of mRNA into protein"
+        },
+        {
+          "label": "E",
+          "text": "Transcription (synthesis of RNA from a DNA template)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "RNA polymerase unwinds a short region of DNA to form a transcription bubble and synthesizes RNA using the template strand; the coding (sense) strand has the same sequence as the RNA (with U for T). This is transcription.",
+        "whyCorrect": "RNA polymerase unwinds a short region of DNA to form a transcription bubble and synthesizes RNA using the template strand; the coding (sense) strand has the same sequence as the RNA (with U for T). This is transcription.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-104_11_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

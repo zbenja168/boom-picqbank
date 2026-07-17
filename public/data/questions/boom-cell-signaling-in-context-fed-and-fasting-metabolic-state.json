@@ -1,0 +1,552 @@
+{
+  "categoryId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+  "categoryName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+  "questions": [
+    {
+      "id": "bopic-089",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "In this pancreatic beta-cell, sulfonylureas act at the transporter marked in step 3. What is their immediate mechanistic effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They stimulate ATP synthesis in the mitochondria"
+        },
+        {
+          "label": "B",
+          "text": "They increase GLUT2 glucose uptake"
+        },
+        {
+          "label": "C",
+          "text": "They open voltage-gated Ca2+ channels directly"
+        },
+        {
+          "label": "D",
+          "text": "They trigger insulin exocytosis independent of Ca2+"
+        },
+        {
+          "label": "E",
+          "text": "They block the ATP-sensitive K+ channel, causing membrane depolarization"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Sulfonylureas close the ATP-sensitive K+ channel, mimicking the effect of high intracellular ATP. The resulting depolarization opens voltage-gated Ca2+ channels, and the calcium influx triggers insulin granule fusion and exocytosis.",
+        "whyCorrect": "Sulfonylureas close the ATP-sensitive K+ channel, mimicking the effect of high intracellular ATP. The resulting depolarization opens voltage-gated Ca2+ channels, and the calcium influx triggers insulin granule fusion and exocytosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-089_28_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-183",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "This diagram shows glycerol metabolism, with glycerol kinase activity restricted to one organ. Why can glycerol released from adipose lipolysis be converted to glucose only after processing in the liver?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Only the liver expresses glycerol kinase to phosphorylate glycerol to glycerol 3-phosphate for gluconeogenesis"
+        },
+        {
+          "label": "B",
+          "text": "Glycerol must first be reduced to glucose by glycerol 3-phosphate dehydrogenase in muscle"
+        },
+        {
+          "label": "C",
+          "text": "Skeletal muscle exports glycerol 3-phosphate directly into blood"
+        },
+        {
+          "label": "D",
+          "text": "Only the kidney can convert glycerol into dihydroxyacetone phosphate"
+        },
+        {
+          "label": "E",
+          "text": "Adipocytes phosphorylate glycerol but lack gluconeogenic enzymes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Adipose tissue lacks glycerol kinase, so glycerol released during lipolysis travels to the liver, the only major site of glycerol kinase. There it is phosphorylated to glycerol 3-phosphate, which can feed gluconeogenesis (via DHAP) when glucose is scarce or triglyceride synthesis when glucose is abundant.",
+        "whyCorrect": "Adipose tissue lacks glycerol kinase, so glycerol released during lipolysis travels to the liver, the only major site of glycerol kinase. There it is phosphorylated to glycerol 3-phosphate, which can feed gluconeogenesis (via DHAP) when glucose is scarce or triglyceride synthesis when glucose is abundant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-183_27_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-184",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "This figure summarizes the coordinated action of one hormone across liver, muscle, and adipose tissue in the fed state (glycogen synthesis, protein synthesis, and triglyceride storage all promoted). Which hormone drives this integrated anabolic response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glucagon"
+        },
+        {
+          "label": "B",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "C",
+          "text": "Insulin"
+        },
+        {
+          "label": "D",
+          "text": "Cortisol"
+        },
+        {
+          "label": "E",
+          "text": "Growth hormone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure depicts the fed-state anabolic program: hepatic glycogen and fatty acid synthesis, muscle glucose uptake via GLUT4 with glycogen and protein synthesis, and adipocyte triglyceride storage. This coordinated fuel-storage response is the signature of insulin.",
+        "whyCorrect": "The figure depicts the fed-state anabolic program: hepatic glycogen and fatty acid synthesis, muscle glucose uptake via GLUT4 with glycogen and protein synthesis, and adipocyte triglyceride storage. This coordinated fuel-storage response is the signature of insulin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-184_27_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-185",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "In this figure, the liver and adipose tissue mobilize fuels while skeletal muscle shows no response due to lack of receptors. Which hormone produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyroxine"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon"
+        },
+        {
+          "label": "C",
+          "text": "Insulin"
+        },
+        {
+          "label": "D",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "E",
+          "text": "Cortisol"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Skeletal muscle lacks glucagon receptors, so it does not respond to glucagon. Glucagon acts mainly on the liver (glycogenolysis, gluconeogenesis) and adipose tissue (lipolysis) to raise blood glucose during fasting, exactly the selective pattern shown.",
+        "whyCorrect": "Skeletal muscle lacks glucagon receptors, so it does not respond to glucagon. Glucagon acts mainly on the liver (glycogenolysis, gluconeogenesis) and adipose tissue (lipolysis) to raise blood glucose during fasting, exactly the selective pattern shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-185_27_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-186",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "In this adipocyte, glucagon acts through cAMP/PKA and insulin acts through PI3K/PKB and protein phosphatase to control the enzyme shown at the center of the cycle. What is the net effect of insulin signaling on hormone-sensitive lipase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Insulin raises cAMP to activate PKA and hormone-sensitive lipase"
+        },
+        {
+          "label": "B",
+          "text": "Insulin blocks GLUT4 so glycerol 3-phosphate cannot be made"
+        },
+        {
+          "label": "C",
+          "text": "Insulin phosphorylates hormone-sensitive lipase to activate lipolysis"
+        },
+        {
+          "label": "D",
+          "text": "Insulin activates lipoprotein lipase to release intracellular glycerol"
+        },
+        {
+          "label": "E",
+          "text": "Insulin activates protein phosphatase, keeping hormone-sensitive lipase dephosphorylated and inactive to suppress lipolysis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Glucagon raises cAMP and activates PKA, which phosphorylates and activates hormone-sensitive lipase to break TG into glycerol and fatty acids. Insulin opposes this by activating protein phosphatase, dephosphorylating and inactivating the lipase, so lipolysis is suppressed and fat is stored.",
+        "whyCorrect": "Glucagon raises cAMP and activates PKA, which phosphorylates and activates hormone-sensitive lipase to break TG into glycerol and fatty acids. Insulin opposes this by activating protein phosphatase, dephosphorylating and inactivating the lipase, so lipolysis is suppressed and fat is stored.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-186_27_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-187",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "This figure contrasts how insulin and glucagon regulate glycogen synthase and phosphorylase kinase via phosphorylation state. Why does phosphorylation by glucagon's pathway have OPPOSITE functional consequences for these two enzymes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phosphorylation activates both enzymes, doubling glycogen synthesis"
+        },
+        {
+          "label": "B",
+          "text": "Both enzymes are inactivated by phosphorylation, halting all glycogen turnover"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylation is only possible on glycogen synthase, not on kinases"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorylation inactivates glycogen synthase but activates the catabolic enzymes, so one signal simultaneously stops synthesis and promotes degradation"
+        },
+        {
+          "label": "E",
+          "text": "Insulin and glucagon phosphorylate the same residue with identical effects"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reciprocal regulation lets a single covalent modification switch the cell between storage and breakdown. Glucagon (cAMP/PKA) phosphorylates glycogen synthase to inactivate it (stopping synthesis) while phosphorylating phosphorylase kinase to activate the cascade that turns on glycogen phosphorylase (promoting degradation). Insulin's protein phosphatase reverses both.",
+        "whyCorrect": "Reciprocal regulation lets a single covalent modification switch the cell between storage and breakdown. Glucagon (cAMP/PKA) phosphorylates glycogen synthase to inactivate it (stopping synthesis) while phosphorylating phosphorylase kinase to activate the cascade that turns on glycogen phosphorylase (promoting degradation). Insulin's protein phosphatase reverses both.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-187_27_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-188",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "This figure shows fuel mobilization from liver, muscle, and adipose plus stimulated glucagon release and inhibited insulin release, occurring irrespective of blood glucose. Which hormone produces this acute stress response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epinephrine"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon"
+        },
+        {
+          "label": "C",
+          "text": "Cortisol"
+        },
+        {
+          "label": "D",
+          "text": "Insulin"
+        },
+        {
+          "label": "E",
+          "text": "Aldosterone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Epinephrine mobilizes fuels during acute stress regardless of blood glucose: it drives hepatic and muscle glycogenolysis, adipose lipolysis, and shifts pancreatic islet output toward glucagon while suppressing insulin. Note muscle glycogen yields pyruvate/lactate (muscle lacks glucose-6-phosphatase), a hallmark distinguishing it from a purely glucose-exporting response.",
+        "whyCorrect": "Epinephrine mobilizes fuels during acute stress regardless of blood glucose: it drives hepatic and muscle glycogenolysis, adipose lipolysis, and shifts pancreatic islet output toward glucagon while suppressing insulin. Note muscle glycogen yields pyruvate/lactate (muscle lacks glucose-6-phosphatase), a hallmark distinguishing it from a purely glucose-exporting response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-188_27_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-189",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "Each row (A-D) shows a pattern of up/down arrows for insulin:glucagon ratio, hormone-sensitive lipase activity, phosphorylated glycogen synthase, circulating chylomicrons, and hepatic PFK-2 kinase activity. Which row best represents an overnight (post-absorptive) fasting state?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "None of the rows is consistent with fasting"
+        },
+        {
+          "label": "B",
+          "text": "Row B: low insulin:glucagon ratio, high HSL activity, high phosphorylated glycogen synthase, low chylomicrons, low PFK-2 kinase activity"
+        },
+        {
+          "label": "C",
+          "text": "Row C: high insulin:glucagon ratio, high HSL, low phosphorylated glycogen synthase, high chylomicrons, low PFK-2 kinase"
+        },
+        {
+          "label": "D",
+          "text": "Row A: high insulin:glucagon ratio, low HSL, low phosphorylated glycogen synthase, high chylomicrons, high PFK-2 kinase"
+        },
+        {
+          "label": "E",
+          "text": "Row D: low insulin:glucagon ratio, low HSL, high phosphorylated glycogen synthase, high chylomicrons, low PFK-2 kinase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During an overnight fast insulin falls and glucagon rises (low ratio). Glucagon/PKA activates hormone-sensitive lipase and phosphorylates glycogen synthase (inactivating it). Dietary fat is absent so chylomicrons fall, and PFK-2 kinase activity is inhibited (phosphatase favored), slowing hepatic glycolysis. Only row B shows all of these trends.",
+        "whyCorrect": "During an overnight fast insulin falls and glucagon rises (low ratio). Glucagon/PKA activates hormone-sensitive lipase and phosphorylates glycogen synthase (inactivating it). Dietary fat is absent so chylomicrons fall, and PFK-2 kinase activity is inhibited (phosphatase favored), slowing hepatic glycolysis. Only row B shows all of these trends.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-189_27_p27_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-190",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "This diagram shows glycogen phosphorylase in skeletal muscle being switched from inactive to active by three inputs: AMP, Ca2+-calmodulin from nerve impulse, and epinephrine via cAMP/PKA. What does the convergence of these signals accomplish during muscle contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It exports glucose from muscle into the blood to raise systemic glucose"
+        },
+        {
+          "label": "B",
+          "text": "It couples energy demand and neural/hormonal signals to activate glycogenolysis, supplying glucose for ATP generation"
+        },
+        {
+          "label": "C",
+          "text": "It converts glycogen phosphorylase into glycogen synthase"
+        },
+        {
+          "label": "D",
+          "text": "It blocks glycolysis so lactate cannot accumulate"
+        },
+        {
+          "label": "E",
+          "text": "It inactivates glycogen phosphorylase to conserve glycogen during rest"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Rising AMP (energy depletion), Ca2+-calmodulin (from the nerve impulse triggering contraction), and epinephrine (cAMP/PKA to phosphorylase kinase) all activate glycogen phosphorylase. This ensures glycogenolysis matches contractile energy demand, releasing glucose-1-phosphate for glycolysis within the muscle; insulin promotes the reverse (inactivation).",
+        "whyCorrect": "Rising AMP (energy depletion), Ca2+-calmodulin (from the nerve impulse triggering contraction), and epinephrine (cAMP/PKA to phosphorylase kinase) all activate glycogen phosphorylase. This ensures glycogenolysis matches contractile energy demand, releasing glucose-1-phosphate for glycolysis within the muscle; insulin promotes the reverse (inactivation).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-190_27_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-191",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "The enzyme shown catalyzes a reversible reaction between glycerol and glycerol 3-phosphate. Under which hormonal condition is the RIGHTWARD (glycerol 3-phosphate-forming) direction favored?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated glycolytic flux in muscle"
+        },
+        {
+          "label": "B",
+          "text": "Glucagon-dominant fasting state with high ATP from fatty-acid oxidation"
+        },
+        {
+          "label": "C",
+          "text": "High circulating DHAP with low ATP"
+        },
+        {
+          "label": "D",
+          "text": "Postprandial hyperglycemia with insulin surge"
+        },
+        {
+          "label": "E",
+          "text": "Insulin-dominant fed state"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glycerol kinase drives glycerol toward glycerol 3-phosphate when glucagon predominates and ATP is high from beta-oxidation; hormone-sensitive lipase releases glycerol from adipocyte triglyceride, pushing the reaction rightward. Insulin and high DHAP favor the reverse (glycerol-forming) direction.",
+        "whyCorrect": "Glycerol kinase drives glycerol toward glycerol 3-phosphate when glucagon predominates and ATP is high from beta-oxidation; hormone-sensitive lipase releases glycerol from adipocyte triglyceride, pushing the reaction rightward. Insulin and high DHAP favor the reverse (glycerol-forming) direction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-191_27_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-192",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "The reaction depicted converts two ADP into AMP plus ATP. Why is the AMP produced physiologically important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AMP is a high-energy phosphate donor for kinases"
+        },
+        {
+          "label": "B",
+          "text": "AMP is the direct energy currency spent by ATPases"
+        },
+        {
+          "label": "C",
+          "text": "A small rise in AMP is a sensitive low-energy signal that activates enzymes like PFK-1 and AMPK"
+        },
+        {
+          "label": "D",
+          "text": "AMP inhibits glycolysis to conserve glucose"
+        },
+        {
+          "label": "E",
+          "text": "AMP signals an energy-replete state and promotes storage"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because ATP concentrations are large and AMP concentrations are tiny, adenylate kinase amplifies energy deficits: a modest ATP drop yields a large proportional AMP increase, making AMP a sensitive low-energy sensor that stimulates PFK-1, glycogen phosphorylase, and AMPK.",
+        "whyCorrect": "Because ATP concentrations are large and AMP concentrations are tiny, adenylate kinase amplifies energy deficits: a modest ATP drop yields a large proportional AMP increase, making AMP a sensitive low-energy sensor that stimulates PFK-1, glycogen phosphorylase, and AMPK.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-192_28_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-193",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "The graph compares adenine nucleotide concentrations in muscle at rest versus exercise. What overall pattern does exercise produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ATP rises sharply while ADP and AMP fall"
+        },
+        {
+          "label": "B",
+          "text": "ATP falls modestly while ADP and AMP rise, signaling energy demand"
+        },
+        {
+          "label": "C",
+          "text": "ATP, ADP, and AMP all rise proportionally"
+        },
+        {
+          "label": "D",
+          "text": "All three nucleotides remain essentially unchanged"
+        },
+        {
+          "label": "E",
+          "text": "AMP falls while ATP and ADP both increase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During exercise, ATP is buffered and only drops modestly, but the small absolute pools of ADP and AMP rise noticeably. This disproportionate AMP increase serves as a sensitive signal that activates energy-generating pathways.",
+        "whyCorrect": "During exercise, ATP is buffered and only drops modestly, but the small absolute pools of ADP and AMP rise noticeably. This disproportionate AMP increase serves as a sensitive signal that activates energy-generating pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-193_28_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-194",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "In the insulin secretion sequence, blood glucose rises first. Which event occurs IMMEDIATELY next?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "GLUT2 transporter is activated"
+        },
+        {
+          "label": "B",
+          "text": "Plasma membrane Ca2+ channels open"
+        },
+        {
+          "label": "C",
+          "text": "ATP levels rise"
+        },
+        {
+          "label": "D",
+          "text": "K+ leak channels are inhibited"
+        },
+        {
+          "label": "E",
+          "text": "Membrane depolarizes"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "After blood glucose rises, glucose enters the beta-cell via GLUT2, is oxidatively catabolized to raise ATP, which inhibits K+ channels, depolarizes the membrane, opens Ca2+ channels, and triggers insulin secretion. GLUT2 uptake is the first step in this ordered cascade.",
+        "whyCorrect": "After blood glucose rises, glucose enters the beta-cell via GLUT2, is oxidatively catabolized to raise ATP, which inhibits K+ channels, depolarizes the membrane, opens Ca2+ channels, and triggers insulin secretion. GLUT2 uptake is the first step in this ordered cascade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-194_28_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-195",
+      "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "stem": "This figure shows three sequential forms of the insulin molecule. What byproduct is released during the final maturation step and is clinically useful?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Disulfide bonds, reduced during processing"
+        },
+        {
+          "label": "B",
+          "text": "C-peptide, a marker of endogenous insulin production"
+        },
+        {
+          "label": "C",
+          "text": "Chain A, discarded before secretion"
+        },
+        {
+          "label": "D",
+          "text": "The signal sequence, cleaved to form proinsulin"
+        },
+        {
+          "label": "E",
+          "text": "Chain B, converted to glucagon"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Preproinsulin loses its signal sequence to become proinsulin; proteolytic cleavage of proinsulin removes the connecting C-peptide, yielding mature insulin (chains A and B joined by disulfide bonds). C-peptide is co-secreted and used to gauge endogenous insulin production.",
+        "whyCorrect": "Preproinsulin loses its signal sequence to become proinsulin; proteolytic cleavage of proinsulin removes the connecting C-peptide, yielding mature insulin (chains A and B joined by disulfide bonds). C-peptide is co-secreted and used to gauge endogenous insulin production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-195_28_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

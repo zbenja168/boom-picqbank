@@ -1,62 +1,350 @@
 {
   "categories": [
     {
-      "id": "histology-cell-biology",
-      "name": "Histology & Cell Biology",
+      "id": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+      "name": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
       "topics": [
         {
-          "id": "histology-cell-biology",
-          "name": "Histology & Cell Biology",
-          "sourceFile": "boom bricks",
-          "questionCount": 17
+          "id": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
+          "name": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+          "sourceFile": "brick",
+          "questionCount": 15
         }
       ]
     },
     {
-      "id": "lab-diagnostics",
-      "name": "Lab & Diagnostics",
+      "id": "amino-acid-metabolism-ii-inborn-errors",
+      "name": "Amino Acid Metabolism II: Inborn Errors",
       "topics": [
         {
-          "id": "lab-diagnostics",
-          "name": "Lab & Diagnostics",
-          "sourceFile": "boom bricks",
-          "questionCount": 32
+          "id": "amino-acid-metabolism-ii-inborn-errors",
+          "name": "Amino Acid Metabolism II: Inborn Errors",
+          "sourceFile": "brick",
+          "questionCount": 12
         }
       ]
     },
     {
-      "id": "pathology",
-      "name": "Pathology",
+      "id": "basic-nutritional-requirements-for-metabolism",
+      "name": "Basic Nutritional Requirements for Metabolism",
       "topics": [
         {
-          "id": "pathology",
-          "name": "Pathology",
-          "sourceFile": "boom bricks",
-          "questionCount": 34
+          "id": "basic-nutritional-requirements-for-metabolism",
+          "name": "Basic Nutritional Requirements for Metabolism",
+          "sourceFile": "brick",
+          "questionCount": 13
         }
       ]
     },
     {
-      "id": "pharmacology",
-      "name": "Pharmacology",
+      "id": "biotechniques-protein-detection",
+      "name": "Biotechniques: Protein Detection",
       "topics": [
         {
-          "id": "pharmacology",
-          "name": "Pharmacology",
-          "sourceFile": "boom bricks",
-          "questionCount": 9
+          "id": "biotechniques-protein-detection",
+          "name": "Biotechniques: Protein Detection",
+          "sourceFile": "brick",
+          "questionCount": 8
         }
       ]
     },
     {
-      "id": "physiology-mechanisms",
-      "name": "Physiology & Mechanisms",
+      "id": "boom-basic-nutritional-requirements-for-metabolism",
+      "name": "BOOM: Basic Nutritional Requirements for Metabolism",
       "topics": [
         {
-          "id": "physiology-mechanisms",
-          "name": "Physiology & Mechanisms",
-          "sourceFile": "boom bricks",
-          "questionCount": 184
+          "id": "boom-basic-nutritional-requirements-for-metabolism",
+          "name": "BOOM: Basic Nutritional Requirements for Metabolism",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+      "name": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "topics": [
+        {
+          "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
+          "name": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+          "sourceFile": "brick",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+      "name": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "topics": [
+        {
+          "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
+          "name": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+          "sourceFile": "brick",
+          "questionCount": 11
+        }
+      ]
+    },
+    {
+      "id": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+      "name": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "topics": [
+        {
+          "id": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
+          "name": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+          "sourceFile": "brick",
+          "questionCount": 14
+        }
+      ]
+    },
+    {
+      "id": "boom-lipids-and-lipid-metabolism-introduction",
+      "name": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "topics": [
+        {
+          "id": "boom-lipids-and-lipid-metabolism-introduction",
+          "name": "BOOM: Lipids and Lipid Metabolism Introduction",
+          "sourceFile": "brick",
+          "questionCount": 22
+        }
+      ]
+    },
+    {
+      "id": "boom-metabolic-overview-i-general-reactions",
+      "name": "BOOM: Metabolic Overview I: General Reactions",
+      "topics": [
+        {
+          "id": "boom-metabolic-overview-i-general-reactions",
+          "name": "BOOM: Metabolic Overview I: General Reactions",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "boom-metabolic-overview-ii-oxphos",
+      "name": "BOOM: Metabolic Overview II: OXPHOS",
+      "topics": [
+        {
+          "id": "boom-metabolic-overview-ii-oxphos",
+          "name": "BOOM: Metabolic Overview II: OXPHOS",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "boom-overview-of-cell-signaling",
+      "name": "BOOM: Overview of Cell Signaling",
+      "topics": [
+        {
+          "id": "boom-overview-of-cell-signaling",
+          "name": "BOOM: Overview of Cell Signaling",
+          "sourceFile": "brick",
+          "questionCount": 20
+        }
+      ]
+    },
+    {
+      "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+      "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "topics": [
+        {
+          "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
+          "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+          "sourceFile": "brick",
+          "questionCount": 12
+        }
+      ]
+    },
+    {
+      "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "topics": [
+        {
+          "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+          "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+          "sourceFile": "brick",
+          "questionCount": 16
+        }
+      ]
+    },
+    {
+      "id": "chromosomes",
+      "name": "Chromosomes",
+      "topics": [
+        {
+          "id": "chromosomes",
+          "name": "Chromosomes",
+          "sourceFile": "brick",
+          "questionCount": 15
+        }
+      ]
+    },
+    {
+      "id": "dna-point-mutations",
+      "name": "DNA Point Mutations",
+      "topics": [
+        {
+          "id": "dna-point-mutations",
+          "name": "DNA Point Mutations",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "dna-replication",
+      "name": "DNA Replication",
+      "topics": [
+        {
+          "id": "dna-replication",
+          "name": "DNA Replication",
+          "sourceFile": "brick",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "id": "dyslipidemias-and-lipid-storage-disorders",
+      "name": "Dyslipidemias and Lipid Storage Disorders",
+      "topics": [
+        {
+          "id": "dyslipidemias-and-lipid-storage-disorders",
+          "name": "Dyslipidemias and Lipid Storage Disorders",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "genotype-phenotype-correlation",
+      "name": "Genotype-Phenotype Correlation",
+      "topics": [
+        {
+          "id": "genotype-phenotype-correlation",
+          "name": "Genotype-Phenotype Correlation",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "inborn-errors-of-carbohydrate-metabolism",
+      "name": "Inborn Errors of Carbohydrate Metabolism",
+      "topics": [
+        {
+          "id": "inborn-errors-of-carbohydrate-metabolism",
+          "name": "Inborn Errors of Carbohydrate Metabolism",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "molecular-biology-techniques-cytogenetics",
+      "name": "Molecular Biology Techniques: Cytogenetics",
+      "topics": [
+        {
+          "id": "molecular-biology-techniques-cytogenetics",
+          "name": "Molecular Biology Techniques: Cytogenetics",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ]
+    },
+    {
+      "id": "molecular-biology-techniques-dna-analysis",
+      "name": "Molecular Biology Techniques: DNA Analysis",
+      "topics": [
+        {
+          "id": "molecular-biology-techniques-dna-analysis",
+          "name": "Molecular Biology Techniques: DNA Analysis",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "mosaicism",
+      "name": "Mosaicism",
+      "topics": [
+        {
+          "id": "mosaicism",
+          "name": "Mosaicism",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ]
+    },
+    {
+      "id": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "name": "Pedigrees and Patterns of Monogenic Inheritance",
+      "topics": [
+        {
+          "id": "pedigrees-and-patterns-of-monogenic-inheritance",
+          "name": "Pedigrees and Patterns of Monogenic Inheritance",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "porphyrins-and-iron-homeostasis",
+      "name": "Porphyrins and Iron Homeostasis",
+      "topics": [
+        {
+          "id": "porphyrins-and-iron-homeostasis",
+          "name": "Porphyrins and Iron Homeostasis",
+          "sourceFile": "brick",
+          "questionCount": 20
+        }
+      ]
+    },
+    {
+      "id": "sex-chromosome-aneuploidy",
+      "name": "Sex Chromosome Aneuploidy",
+      "topics": [
+        {
+          "id": "sex-chromosome-aneuploidy",
+          "name": "Sex Chromosome Aneuploidy",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "subchromosomal-deletion-syndromes",
+      "name": "Subchromosomal Deletion Syndromes",
+      "topics": [
+        {
+          "id": "subchromosomal-deletion-syndromes",
+          "name": "Subchromosomal Deletion Syndromes",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ]
+    },
+    {
+      "id": "the-central-dogma-dna-to-rna-to-proteins",
+      "name": "The Central Dogma: DNA to RNA to Proteins",
+      "topics": [
+        {
+          "id": "the-central-dogma-dna-to-rna-to-proteins",
+          "name": "The Central Dogma: DNA to RNA to Proteins",
+          "sourceFile": "brick",
+          "questionCount": 10
+        }
+      ]
+    },
+    {
+      "id": "variants-in-chromosome-number",
+      "name": "Variants in Chromosome Number",
+      "topics": [
+        {
+          "id": "variants-in-chromosome-number",
+          "name": "Variants in Chromosome Number",
+          "sourceFile": "brick",
+          "questionCount": 4
         }
       ]
     }

@@ -1,0 +1,396 @@
+{
+  "categoryId": "dna-replication",
+  "categoryName": "DNA Replication",
+  "questions": [
+    {
+      "id": "bopic-001",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "As the incoming nucleotide is added to the growing chain (right), a two-phosphate molecule is released. What does hydrolysis of this released molecule provide?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The template information for base selection"
+        },
+        {
+          "label": "B",
+          "text": "The hydrogen bonds holding the strands antiparallel"
+        },
+        {
+          "label": "C",
+          "text": "The signal that terminates strand synthesis"
+        },
+        {
+          "label": "D",
+          "text": "The thermodynamic driving force that makes chain elongation favorable"
+        },
+        {
+          "label": "E",
+          "text": "The methyl group added to the new base"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Nucleotides are added as triphosphates; cleavage and subsequent hydrolysis of the released pyrophosphate is highly exergonic and pulls the polymerization reaction forward.",
+        "whyCorrect": "Nucleotides are added as triphosphates; cleavage and subsequent hydrolysis of the released pyrophosphate is highly exergonic and pulls the polymerization reaction forward.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-001_10_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-093",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "In the process shown at this replication fork, what is the primary role of the enzyme that acts on the parental duplex ahead of the polymerases?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It relieves supercoiling by transiently nicking the backbone"
+        },
+        {
+          "label": "B",
+          "text": "It synthesizes short RNA primers to initiate synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It unwinds and separates the two parental strands to expose single-stranded templates"
+        },
+        {
+          "label": "D",
+          "text": "It joins Okazaki fragments by forming phosphodiester bonds"
+        },
+        {
+          "label": "E",
+          "text": "It adds free nucleotides to the growing 3' end of the new strand"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The teardrop-shaped enzyme at the fork is helicase, which breaks hydrogen bonds to unwind parental DNA; the polymerases then extend new strands using the exposed templates and free nucleotides.",
+        "whyCorrect": "The teardrop-shaped enzyme at the fork is helicase, which breaks hydrogen bonds to unwind parental DNA; the polymerases then extend new strands using the exposed templates and free nucleotides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-093_10_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-094",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "Why is the strand indicated at the lower right synthesized discontinuously as short segments requiring repeated RNA primers, while the upper strand is made continuously?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The lagging-strand template is chemically different and resists polymerization"
+        },
+        {
+          "label": "B",
+          "text": "Helicase moves too slowly for one strand to be copied at once"
+        },
+        {
+          "label": "C",
+          "text": "Topoisomerase actively cuts one strand into fragments during unwinding"
+        },
+        {
+          "label": "D",
+          "text": "Single-stranded binding proteins block continuous synthesis on one strand only"
+        },
+        {
+          "label": "E",
+          "text": "DNA polymerase can only add nucleotides 5' to 3', so the strand templated in the direction away from the fork must be built in fragments"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because polymerase extends only in the 5'-to-3' direction, the strand oriented opposite to fork movement is made as Okazaki fragments, each begun by an RNA primer, unlike the continuously synthesized leading strand.",
+        "whyCorrect": "Because polymerase extends only in the 5'-to-3' direction, the strand oriented opposite to fork movement is made as Okazaki fragments, each begun by an RNA primer, unlike the continuously synthesized leading strand.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-094_10_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-095",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "What functional advantage does the ring-shaped structure encircling the DNA provide to the polymerase during replication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It tethers the polymerase to the template, greatly increasing processivity"
+        },
+        {
+          "label": "B",
+          "text": "It recruits primase to lay down new primers"
+        },
+        {
+          "label": "C",
+          "text": "It supplies the energy for phosphodiester bond formation"
+        },
+        {
+          "label": "D",
+          "text": "It unwinds the double helix ahead of the polymerase"
+        },
+        {
+          "label": "E",
+          "text": "It proofreads and excises mismatched bases"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The sliding clamp is a ring that keeps polymerase attached to the DNA so it can add many nucleotides without dissociating, boosting the speed and processivity of replication.",
+        "whyCorrect": "The sliding clamp is a ring that keeps polymerase attached to the DNA so it can add many nucleotides without dissociating, boosting the speed and processivity of replication.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-095_10_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-096",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "The sequence of steps depicted resolves what problem left on the lagging strand after fragment synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relief of positive supercoils generated ahead of the fork"
+        },
+        {
+          "label": "B",
+          "text": "Removal of RNA primers and sealing of the nicks to produce a continuous DNA strand"
+        },
+        {
+          "label": "C",
+          "text": "Separation of the two daughter chromosomes at the centromere"
+        },
+        {
+          "label": "D",
+          "text": "Addition of a 5' methylguanosine cap to the transcript"
+        },
+        {
+          "label": "E",
+          "text": "Correction of a base mispaired during proofreading"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Strand-displacement synthesis pushes the RNA primer into a flap that is cleaved, then ligase seals the remaining nick, converting Okazaki fragments into an unbroken lagging strand.",
+        "whyCorrect": "Strand-displacement synthesis pushes the RNA primer into a flap that is cleaved, then ligase seals the remaining nick, converting Okazaki fragments into an unbroken lagging strand.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-096_10_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-097",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "The multi-step activity shown ensures which outcome during DNA synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unwinding of the helix to expose the template"
+        },
+        {
+          "label": "B",
+          "text": "Attachment of the polymerase to the sliding clamp"
+        },
+        {
+          "label": "C",
+          "text": "High replication fidelity by excising a misincorporated base before continuing"
+        },
+        {
+          "label": "D",
+          "text": "Faster elongation by skipping damaged template regions"
+        },
+        {
+          "label": "E",
+          "text": "Generation of RNA primers for new fragments"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When an incorrect base is added, the polymerase's 3'-to-5' exonuclease activity backs up, removes the mispaired nucleotide, and then resumes synthesis with the correct base, ensuring proofreading fidelity.",
+        "whyCorrect": "When an incorrect base is added, the polymerase's 3'-to-5' exonuclease activity backs up, removes the mispaired nucleotide, and then resumes synthesis with the correct base, ensuring proofreading fidelity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-097_10_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-098",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "The figure contrasts original and new strands in each daughter duplex. Which model of DNA replication does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conservative replication"
+        },
+        {
+          "label": "B",
+          "text": "Dispersive replication"
+        },
+        {
+          "label": "C",
+          "text": "Rolling-circle replication"
+        },
+        {
+          "label": "D",
+          "text": "Bidirectional theta replication"
+        },
+        {
+          "label": "E",
+          "text": "Semiconservative replication"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
+        "whyCorrect": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-098_10_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-099",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "At the highlighted point on the duplex, synthesis proceeds outward in both directions as shown below. What does this point represent and how does replication proceed from it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An origin of replication from which two forks move bidirectionally"
+        },
+        {
+          "label": "B",
+          "text": "A telomere that is extended in a single direction"
+        },
+        {
+          "label": "C",
+          "text": "A recombination hotspot where strands cross over"
+        },
+        {
+          "label": "D",
+          "text": "A promoter where transcription initiates unidirectionally"
+        },
+        {
+          "label": "E",
+          "text": "A centromere where sister chromatids are joined"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Replication begins at an origin and proceeds bidirectionally, forming two forks that travel in opposite directions, as shown by the diverging leading/lagging strand arrows.",
+        "whyCorrect": "Replication begins at an origin and proceeds bidirectionally, forming two forks that travel in opposite directions, as shown by the diverging leading/lagging strand arrows.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-099_10_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-100",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "Panel A schematizes the structures also seen by electron microscopy in panel B (red arrows). What advantage do these multiple structures give a large eukaryotic chromosome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They prevent recombination between sister chromatids"
+        },
+        {
+          "label": "B",
+          "text": "They mark sites where transcription is silenced"
+        },
+        {
+          "label": "C",
+          "text": "They protect chromosome ends from shortening"
+        },
+        {
+          "label": "D",
+          "text": "They ensure replication occurs in only one direction"
+        },
+        {
+          "label": "E",
+          "text": "Multiple origins allow the whole chromosome to be replicated quickly in parallel"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Numerous replication bubbles, each expanding from its own origin with two forks, let long eukaryotic DNA be copied simultaneously at many sites, so replication finishes in a reasonable time.",
+        "whyCorrect": "Numerous replication bubbles, each expanding from its own origin with two forks, let long eukaryotic DNA be copied simultaneously at many sites, so replication finishes in a reasonable time.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-100_10_p4_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-101",
+      "topicId": "dna-replication",
+      "topicName": "DNA Replication",
+      "stem": "After the enzyme at the branch point unwinds the parent duplex, what is the role of the beads coating the separated single strands?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They coat and stabilize single-stranded DNA, preventing it from reannealing"
+        },
+        {
+          "label": "B",
+          "text": "They synthesize the complementary daughter strand"
+        },
+        {
+          "label": "C",
+          "text": "They cut the backbone to relieve torsional strain"
+        },
+        {
+          "label": "D",
+          "text": "They add RNA primers to begin synthesis"
+        },
+        {
+          "label": "E",
+          "text": "They ligate adjacent fragments together"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Single-stranded DNA-binding proteins (SSB) bind the exposed strands produced by helicase, keeping them apart and protected until polymerase can copy them.",
+        "whyCorrect": "Single-stranded DNA-binding proteins (SSB) bind the exposed strands produced by helicase, keeping them apart and protected until polymerase can copy them.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-101_10_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

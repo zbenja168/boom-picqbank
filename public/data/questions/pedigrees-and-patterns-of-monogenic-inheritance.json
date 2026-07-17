@@ -1,0 +1,240 @@
+{
+  "categoryId": "pedigrees-and-patterns-of-monogenic-inheritance",
+  "categoryName": "Pedigrees and Patterns of Monogenic Inheritance",
+  "questions": [
+    {
+      "id": "bopic-047",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "The arrow in this pedigree marks the proband (filled circle). The degree symbols (1°, 2°, 3°, 4°) placed on other individuals indicate what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Birth order within each sibship"
+        },
+        {
+          "label": "B",
+          "text": "The number of affected offspring"
+        },
+        {
+          "label": "C",
+          "text": "The generation number of each individual"
+        },
+        {
+          "label": "D",
+          "text": "Each relative's degree of genetic relationship to the proband"
+        },
+        {
+          "label": "E",
+          "text": "The age at diagnosis for each relative"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "First-degree relatives (parents, siblings, children) share ~50% of genes, second-degree ~25%, third-degree ~12.5%, and so on. Labeling relatives by degree relative to the proband is used to assess recurrence risk and inheritance pattern.",
+        "whyCorrect": "First-degree relatives (parents, siblings, children) share ~50% of genes, second-degree ~25%, third-degree ~12.5%, and so on. Labeling relatives by degree relative to the proband is used to assess recurrence risk and inheritance pattern.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-047_46_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-271",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "In this pedigree the trait appears in every generation, affects males and females roughly equally, and each affected person has an affected parent. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "B",
+          "text": "X-linked recessive"
+        },
+        {
+          "label": "C",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "D",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "E",
+          "text": "Autosomal dominant"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
+        "whyCorrect": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-271_46_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-272",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "This pedigree marks many unaffected individuals as carriers (central dot), with affected individuals (filled) appearing in a single sibship born to phenotypically normal parents. What inheritance pattern is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "B",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "D",
+          "text": "Y-linked"
+        },
+        {
+          "label": "E",
+          "text": "X-linked dominant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
+        "whyCorrect": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-272_46_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-273",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "In this pedigree an affected father transmits the trait to all of his daughters but to none of his sons, and there is no male-to-male transmission. What is the most likely mode of inheritance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "C",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "D",
+          "text": "Y-linked"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
+        "whyCorrect": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-273_46_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-274",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "An affected male's daughters are all unaffected carriers (dot), and affected males reappear in later generations through these carrier daughters, with no father-to-son transmission. What inheritance pattern does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitochondrial"
+        },
+        {
+          "label": "B",
+          "text": "Autosomal dominant"
+        },
+        {
+          "label": "C",
+          "text": "X-linked dominant"
+        },
+        {
+          "label": "D",
+          "text": "Autosomal recessive"
+        },
+        {
+          "label": "E",
+          "text": "X-linked recessive"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
+        "whyCorrect": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-274_46_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-275",
+      "topicId": "pedigrees-and-patterns-of-monogenic-inheritance",
+      "topicName": "Pedigrees and Patterns of Monogenic Inheritance",
+      "stem": "The top cell in this figure contains a mixture of mutant (red) and normal (blue) mitochondria, which then randomly segregate to daughter cells. What term describes this coexistence of two mitochondrial genotypes within a single cell?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anticipation"
+        },
+        {
+          "label": "B",
+          "text": "Homoplasmy"
+        },
+        {
+          "label": "C",
+          "text": "Heteroplasmy"
+        },
+        {
+          "label": "D",
+          "text": "Genomic imprinting"
+        },
+        {
+          "label": "E",
+          "text": "Locus heterogeneity"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
+        "whyCorrect": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-275_46_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "categoryId": "boom-lipids-and-lipid-metabolism-introduction",
+  "categoryName": "BOOM: Lipids and Lipid Metabolism Introduction",
+  "questions": [
+    {
+      "id": "bopic-011",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "This molecule pairs a nonpolar hydrocarbon chain with a charged carboxyl head group. What key physical property does this dual character give the molecule?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is completely nonpolar and inert"
+        },
+        {
+          "label": "B",
+          "text": "It is a strong reducing agent"
+        },
+        {
+          "label": "C",
+          "text": "It is amphipathic"
+        },
+        {
+          "label": "D",
+          "text": "It is fully water-soluble"
+        },
+        {
+          "label": "E",
+          "text": "It is optically inactive"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A fatty acid has a hydrophobic tail and a hydrophilic (charged) carboxylate head, making it amphipathic. This property lets fatty acids and their derivatives form micelles and membrane bilayers.",
+        "whyCorrect": "A fatty acid has a hydrophobic tail and a hydrophilic (charged) carboxylate head, making it amphipathic. This property lets fatty acids and their derivatives form micelles and membrane bilayers.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-011_22_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-012",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The molecule on the left has a straight chain while the one on the right is bent. What structural feature accounts for the bend, and how does it affect membrane packing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A trans double bond that tightens packing and raises melting point"
+        },
+        {
+          "label": "B",
+          "text": "A cis double bond causes a kink that loosens packing and increases fluidity"
+        },
+        {
+          "label": "C",
+          "text": "A branched methyl group added by chain elongation"
+        },
+        {
+          "label": "D",
+          "text": "A hydroxyl group that forms hydrogen bonds"
+        },
+        {
+          "label": "E",
+          "text": "An extra carboxyl group creating a second polar head"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The straight molecule is a saturated fatty acid; the bent one is unsaturated. A cis double bond introduces a rigid kink that prevents tight packing, lowering the melting point and increasing membrane fluidity.",
+        "whyCorrect": "The straight molecule is a saturated fatty acid; the bent one is unsaturated. A cis double bond introduces a rigid kink that prevents tight packing, lowering the melting point and increasing membrane fluidity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-012_22_p2_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-013",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "These three related molecules are the products of hepatic fatty acid overflow. Which of them is technically NOT a ketone despite being grouped with the others?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetone"
+        },
+        {
+          "label": "B",
+          "text": "All three are true ketones"
+        },
+        {
+          "label": "C",
+          "text": "None contains a carboxyl group"
+        },
+        {
+          "label": "D",
+          "text": "Beta-hydroxybutyrate"
+        },
+        {
+          "label": "E",
+          "text": "Acetoacetate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The three ketone bodies are acetoacetate, acetone, and beta-hydroxybutyrate. Beta-hydroxybutyrate carries a hydroxyl (not a carbonyl/ketone) group, so it is chemically not a ketone, even though it is counted as a ketone body.",
+        "whyCorrect": "The three ketone bodies are acetoacetate, acetone, and beta-hydroxybutyrate. Beta-hydroxybutyrate carries a hydroxyl (not a carbonyl/ketone) group, so it is chemically not a ketone, even though it is counted as a ketone body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-013_23_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-056",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "A patient shows the eyelid deposits, corneal ring, and tendon nodules pictured. These findings together most strongly suggest which underlying disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary biliary cholangitis"
+        },
+        {
+          "label": "B",
+          "text": "Hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Familial hypertriglyceridemia"
+        },
+        {
+          "label": "D",
+          "text": "Wilson disease"
+        },
+        {
+          "label": "E",
+          "text": "Familial hypercholesterolemia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Xanthelasma, corneal arcus, and tendon xanthomas (Achilles, extensor tendons) reflect chronic marked LDL cholesterol elevation. In a young patient this constellation is classic for familial hypercholesterolemia (LDL-receptor pathway defect).",
+        "whyCorrect": "Xanthelasma, corneal arcus, and tendon xanthomas (Achilles, extensor tendons) reflect chronic marked LDL cholesterol elevation. In a young patient this constellation is classic for familial hypercholesterolemia (LDL-receptor pathway defect).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-056_23_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-086",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The red drug in this hepatic pathway blocks the enzyme that catalyzes the committed, rate-limiting step of cholesterol synthesis. Why does inhibiting this specific step effectively lower cholesterol production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It regenerates NADPH needed elsewhere"
+        },
+        {
+          "label": "B",
+          "text": "It is the rate-limiting step, so blocking it throttles the entire downstream pathway"
+        },
+        {
+          "label": "C",
+          "text": "It is the only irreversible step after squalene"
+        },
+        {
+          "label": "D",
+          "text": "It directly degrades circulating LDL"
+        },
+        {
+          "label": "E",
+          "text": "It is the final step that directly forms cholesterol"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "HMG-CoA reductase catalyzes the rate-limiting conversion of HMG-CoA to mevalonate. Statins competitively inhibit this enzyme; because it controls flux through the whole pathway, blocking it markedly reduces cholesterol synthesis and upregulates hepatic LDL receptors.",
+        "whyCorrect": "HMG-CoA reductase catalyzes the rate-limiting conversion of HMG-CoA to mevalonate. Statins competitively inhibit this enzyme; because it controls flux through the whole pathway, blocking it markedly reduces cholesterol synthesis and upregulates hepatic LDL receptors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-086_23_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-087",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "This figure shows aspirin transferring its acetyl group onto a serine side chain of the COX-1 and COX-2 polypeptide. What is the functional consequence of this covalent modification for the enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reversible competitive inhibition of the enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible inhibition of cyclooxygenase activity"
+        },
+        {
+          "label": "C",
+          "text": "Conversion of the enzyme into a lipoxygenase"
+        },
+        {
+          "label": "D",
+          "text": "Increased prostaglandin synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Allosteric activation of the active site"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Aspirin acetylates a serine residue in the COX active site, covalently and irreversibly blocking the channel to arachidonic acid. Because the block is permanent, cells (notably platelets) must synthesize new enzyme to recover activity.",
+        "whyCorrect": "Aspirin acetylates a serine residue in the COX active site, covalently and irreversibly blocking the channel to arachidonic acid. Because the block is permanent, cells (notably platelets) must synthesize new enzyme to recover activity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-087_24_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-088",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "In this eicosanoid pathway, glucocorticoids act at an earlier step than NSAIDs. Why does this earlier point of action give glucocorticoids a broader anti-inflammatory effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They block leukotriene receptors on immune cells"
+        },
+        {
+          "label": "B",
+          "text": "They block phospholipase, preventing formation of both prostaglandins and leukotrienes"
+        },
+        {
+          "label": "C",
+          "text": "They inhibit only cyclooxygenase, like NSAIDs"
+        },
+        {
+          "label": "D",
+          "text": "They accelerate breakdown of arachidonic acid"
+        },
+        {
+          "label": "E",
+          "text": "They directly neutralize prostaglandins already formed"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucocorticoids inhibit phospholipase, stopping release of arachidonic acid upstream of both the cyclooxygenase (prostaglandin) and lipoxygenase (leukotriene) branches. NSAIDs act downstream at cyclooxygenase only, sparing leukotriene synthesis.",
+        "whyCorrect": "Glucocorticoids inhibit phospholipase, stopping release of arachidonic acid upstream of both the cyclooxygenase (prostaglandin) and lipoxygenase (leukotriene) branches. NSAIDs act downstream at cyclooxygenase only, sparing leukotriene synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-088_24_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-150",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure depicts the protein-mediated exchange occurring between VLDL and HDL particles. What is the net effect of this exchange activity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Free fatty acids are shuttled from adipocytes to the liver"
+        },
+        {
+          "label": "B",
+          "text": "LDL receptors are upregulated on hepatocytes"
+        },
+        {
+          "label": "C",
+          "text": "HDL transfers triglycerides to VLDL and receives cholesteryl esters"
+        },
+        {
+          "label": "D",
+          "text": "Apolipoprotein B-100 is transferred from VLDL to HDL"
+        },
+        {
+          "label": "E",
+          "text": "HDL gives up cholesteryl esters to VLDL and receives triglycerides in return"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cholesteryl ester transfer protein (CETP) swaps cholesteryl esters from HDL into VLDL/LDL in exchange for triglycerides moving to HDL. This raises triglyceride content of HDL and delivers cholesteryl esters to apoB-containing particles.",
+        "whyCorrect": "Cholesteryl ester transfer protein (CETP) swaps cholesteryl esters from HDL into VLDL/LDL in exchange for triglycerides moving to HDL. This raises triglyceride content of HDL and delivers cholesteryl esters to apoB-containing particles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-150_22_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-151",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure compares the major lipoprotein classes by composition and function. Which particle is the largest, has the highest triglyceride content, and delivers dietary lipids absorbed from the gut?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HDL"
+        },
+        {
+          "label": "B",
+          "text": "Chylomicron"
+        },
+        {
+          "label": "C",
+          "text": "LDL"
+        },
+        {
+          "label": "D",
+          "text": "IDL"
+        },
+        {
+          "label": "E",
+          "text": "VLDL"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chylomicrons are the largest, least dense lipoproteins with the highest triglyceride content; they carry dietary triglycerides from the intestine to peripheral tissues and dietary cholesterol to the liver. HDL is smallest/densest, LDL is cholesterol-rich, and VLDL carries hepatic triglycerides.",
+        "whyCorrect": "Chylomicrons are the largest, least dense lipoproteins with the highest triglyceride content; they carry dietary triglycerides from the intestine to peripheral tissues and dietary cholesterol to the liver. HDL is smallest/densest, LDL is cholesterol-rich, and VLDL carries hepatic triglycerides.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-151_22_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-152",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure shows citrate being exported from the mitochondrion and processed in the cytoplasm. What is the primary purpose of this shuttle for a cell performing fatty acid synthesis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To transport fatty acids into the mitochondrion for beta-oxidation"
+        },
+        {
+          "label": "B",
+          "text": "To export urea nitrogen out of the mitochondrion"
+        },
+        {
+          "label": "C",
+          "text": "To regenerate FADH2 for the electron transport chain"
+        },
+        {
+          "label": "D",
+          "text": "To import pyruvate for gluconeogenesis in the matrix"
+        },
+        {
+          "label": "E",
+          "text": "To deliver acetyl-CoA to the cytosol and generate NADPH for fatty acid biosynthesis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Acetyl-CoA cannot cross the inner mitochondrial membrane, so it is exported as citrate. Cytosolic citrate lyase regenerates acetyl-CoA for fatty acid synthesis, and the malate/malic enzyme steps produce NADPH needed as reducing power.",
+        "whyCorrect": "Acetyl-CoA cannot cross the inner mitochondrial membrane, so it is exported as citrate. Cytosolic citrate lyase regenerates acetyl-CoA for fatty acid synthesis, and the malate/malic enzyme steps produce NADPH needed as reducing power.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-152_22_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-153",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure shows the regulation of the committed enzyme of fatty acid synthesis. In a fasting state with high AMP, which regulatory event predominates to switch this enzyme off?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Palmitoyl-CoA is removed, relieving inhibition"
+        },
+        {
+          "label": "B",
+          "text": "Malonyl-CoA feedback stimulates the enzyme"
+        },
+        {
+          "label": "C",
+          "text": "Insulin-activated phosphatase dephosphorylates and activates the enzyme"
+        },
+        {
+          "label": "D",
+          "text": "AMP-activated protein kinase phosphorylates the enzyme, inactivating it"
+        },
+        {
+          "label": "E",
+          "text": "Citrate allosterically activates the enzyme"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Acetyl-CoA carboxylase is activated by insulin (via phosphatase, dephosphorylated form) and citrate, and inhibited by phosphorylation via AMP-activated protein kinase and by palmitoyl-CoA. During fasting, high AMP activates AMPK, which phosphorylates and inactivates the enzyme to halt fatty acid synthesis.",
+        "whyCorrect": "Acetyl-CoA carboxylase is activated by insulin (via phosphatase, dephosphorylated form) and citrate, and inhibited by phosphorylation via AMP-activated protein kinase and by palmitoyl-CoA. During fasting, high AMP activates AMPK, which phosphorylates and inactivates the enzyme to halt fatty acid synthesis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-153_22_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-154",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure traces the fate of excess dietary glucose in the hepatocyte. What overall process is being depicted, culminating in VLDL secretion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "De novo hepatic lipogenesis and packaging of triglycerides into VLDL"
+        },
+        {
+          "label": "B",
+          "text": "Gluconeogenesis from amino acid precursors"
+        },
+        {
+          "label": "C",
+          "text": "Glycogen synthesis and storage in the liver"
+        },
+        {
+          "label": "D",
+          "text": "Beta-oxidation of fatty acids for ATP"
+        },
+        {
+          "label": "E",
+          "text": "Ketone body synthesis for peripheral fuel"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Excess glucose is metabolized through glycolysis to pyruvate/acetyl-CoA; citrate exports carbons for fatty acid synthesis (fatty acid synthase making palmitate), which are esterified to triglycerides, combined with apolipoproteins, and secreted as VLDL.",
+        "whyCorrect": "Excess glucose is metabolized through glycolysis to pyruvate/acetyl-CoA; citrate exports carbons for fatty acid synthesis (fatty acid synthase making palmitate), which are esterified to triglycerides, combined with apolipoproteins, and secreted as VLDL.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-154_22_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-155",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The figure shows how long-chain fatty acyl groups are moved across the mitochondrial membranes. What is the function of this system and its rate-limiting enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It imports pyruvate into the matrix for the TCA cycle"
+        },
+        {
+          "label": "B",
+          "text": "It exports acetyl-CoA to the cytosol for fatty acid synthesis"
+        },
+        {
+          "label": "C",
+          "text": "It transports long-chain fatty acids into the mitochondrial matrix for beta-oxidation, with carnitine acyltransferase I as the rate-limiting step"
+        },
+        {
+          "label": "D",
+          "text": "It moves cholesterol into the matrix for steroid synthesis"
+        },
+        {
+          "label": "E",
+          "text": "It shuttles NADH equivalents into the mitochondrion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Long-chain fatty acyl-CoA is conjugated to carnitine by carnitine acyltransferase I (the rate-limiting, malonyl-CoA-inhibited step) on the outer membrane, translocated across, and reconverted to acyl-CoA by carnitine acyltransferase II in the matrix for beta-oxidation.",
+        "whyCorrect": "Long-chain fatty acyl-CoA is conjugated to carnitine by carnitine acyltransferase I (the rate-limiting, malonyl-CoA-inhibited step) on the outer membrane, translocated across, and reconverted to acyl-CoA by carnitine acyltransferase II in the matrix for beta-oxidation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-155_22_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-156",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "In this diagram, a molecule produced during active fatty acid synthesis blocks the enzyme shuttling long-chain fatty acids into the mitochondrion. What is the physiologic purpose of this inhibition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It prevents simultaneous synthesis and oxidation of fatty acids (futile cycling)"
+        },
+        {
+          "label": "B",
+          "text": "It accelerates ketone body production in the fed state"
+        },
+        {
+          "label": "C",
+          "text": "It promotes carnitine synthesis in the liver"
+        },
+        {
+          "label": "D",
+          "text": "It activates beta-oxidation when insulin is high"
+        },
+        {
+          "label": "E",
+          "text": "It depletes cytosolic acetyl-CoA to halt gluconeogenesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Malonyl-CoA, the committed intermediate of fatty acid synthesis, inhibits CPT I. This stops newly made fatty acids from being carried into the mitochondrion for beta-oxidation, preventing a wasteful synthesis/degradation cycle during the fed state.",
+        "whyCorrect": "Malonyl-CoA, the committed intermediate of fatty acid synthesis, inhibits CPT I. This stops newly made fatty acids from being carried into the mitochondrion for beta-oxidation, preventing a wasteful synthesis/degradation cycle during the fed state.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-156_22_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-157",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The reaction shown transfers a fatty acyl group onto the hydroxyl of a sterol. What is the main functional consequence of this modification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It converts the sterol into a bile acid"
+        },
+        {
+          "label": "B",
+          "text": "It converts the sterol into a nonpolar form suited for storage and lipoprotein transport"
+        },
+        {
+          "label": "C",
+          "text": "It activates the sterol as a steroid hormone"
+        },
+        {
+          "label": "D",
+          "text": "It targets the sterol for lysosomal degradation"
+        },
+        {
+          "label": "E",
+          "text": "It makes the sterol water-soluble for renal excretion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ACAT esterifies cholesterol's free 3-OH with a fatty acyl group, producing cholesterol ester. Esterification removes the polar hydroxyl, yielding a more hydrophobic molecule ideal for storage and packaging into lipoprotein cores.",
+        "whyCorrect": "ACAT esterifies cholesterol's free 3-OH with a fatty acyl group, producing cholesterol ester. Esterification removes the polar hydroxyl, yielding a more hydrophobic molecule ideal for storage and packaging into lipoprotein cores.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-157_22_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-158",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "This pathway is confined to hepatic mitochondria because one of its enzymes is expressed almost exclusively in the liver. Which enzyme provides this tissue specificity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beta-hydroxybutyrate dehydrogenase"
+        },
+        {
+          "label": "B",
+          "text": "Thiolase"
+        },
+        {
+          "label": "C",
+          "text": "Beta-ketoacyl-CoA transferase"
+        },
+        {
+          "label": "D",
+          "text": "HMG-CoA synthase (mitochondrial)"
+        },
+        {
+          "label": "E",
+          "text": "HMG-CoA lyase"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The diagram depicts ketogenesis. Mitochondrial HMG-CoA synthase, which is essentially liver-specific, commits the pathway, which is why the liver is the principal site of ketone body production.",
+        "whyCorrect": "The diagram depicts ketogenesis. Mitochondrial HMG-CoA synthase, which is essentially liver-specific, commits the pathway, which is why the liver is the principal site of ketone body production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-158_23_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-159",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "This pathway lets peripheral tissues burn ketone bodies but cannot occur in the liver. Which feature explains why the liver cannot use the ketones it makes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The liver lacks HMG-CoA synthase"
+        },
+        {
+          "label": "B",
+          "text": "The liver lacks beta-ketoacyl-CoA transferase (thiophorase)"
+        },
+        {
+          "label": "C",
+          "text": "The liver lacks a functional TCA cycle"
+        },
+        {
+          "label": "D",
+          "text": "The liver lacks beta-hydroxybutyrate dehydrogenase"
+        },
+        {
+          "label": "E",
+          "text": "The liver lacks thiolase"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ketolysis requires beta-ketoacyl-CoA transferase (thiophorase/SCOT) to activate acetoacetate to acetoacetyl-CoA. The liver does not express this enzyme, so it exports ketone bodies for use by extrahepatic tissues rather than consuming them itself.",
+        "whyCorrect": "Ketolysis requires beta-ketoacyl-CoA transferase (thiophorase/SCOT) to activate acetoacetate to acetoacetyl-CoA. The liver does not express this enzyme, so it exports ketone bodies for use by extrahepatic tissues rather than consuming them itself.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-159_23_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-160",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "The hormone shown exerts negative control at several steps in adipose tissue and liver. What is the net effect of high levels of this hormone on ketone body production?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It promotes ketone synthesis by activating CPT I"
+        },
+        {
+          "label": "B",
+          "text": "It has no effect on ketone production"
+        },
+        {
+          "label": "C",
+          "text": "It suppresses ketogenesis by inhibiting lipolysis and hepatic fatty acid oxidation"
+        },
+        {
+          "label": "D",
+          "text": "It stimulates ketogenesis by driving lipolysis"
+        },
+        {
+          "label": "E",
+          "text": "It increases ketogenesis by inhibiting gluconeogenesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Insulin inhibits adipocyte triglyceride breakdown, reduces the flux of free fatty acids to the liver, and blocks hepatic ketogenesis. Thus a high insulin (fed) state strongly suppresses ketone body formation.",
+        "whyCorrect": "Insulin inhibits adipocyte triglyceride breakdown, reduces the flux of free fatty acids to the liver, and blocks hepatic ketogenesis. Thus a high insulin (fed) state strongly suppresses ketone body formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-160_23_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-161",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "Excess metabolic acids consume bicarbonate and drive the buffer equilibrium shown. What is the compensatory response depicted at the far right, and by what mechanism does it help?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Deep rapid (Kussmaul) breathing blows off CO2, shifting the equilibrium to consume H+"
+        },
+        {
+          "label": "B",
+          "text": "Vomiting to remove metabolic acids"
+        },
+        {
+          "label": "C",
+          "text": "Renal bicarbonate excretion to lower pH"
+        },
+        {
+          "label": "D",
+          "text": "Shallow slow breathing to retain CO2 and raise pH"
+        },
+        {
+          "label": "E",
+          "text": "Hyperventilation that raises PaCO2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In metabolic acidosis, accumulating acids lower bicarbonate and pH. Respiratory compensation is Kussmaul breathing: hyperventilation exhales CO2, pulling the H2CO3/CO2 equilibrium rightward and consuming H+, which partially raises pH.",
+        "whyCorrect": "In metabolic acidosis, accumulating acids lower bicarbonate and pH. Respiratory compensation is Kussmaul breathing: hyperventilation exhales CO2, pulling the H2CO3/CO2 equilibrium rightward and consuming H+, which partially raises pH.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-161_23_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-162",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "This overview shows the liver making circulating fuel from fatty acids during fasting for delivery to heart, muscle, and brain. What is the key metabolic benefit of this system during prolonged starvation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It supplies an alternative fuel that spares glucose for the brain and red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "It provides fuel that red blood cells can oxidize instead of glucose"
+        },
+        {
+          "label": "C",
+          "text": "It allows the liver to consume its own ketones for energy"
+        },
+        {
+          "label": "D",
+          "text": "It replaces the need for gluconeogenesis entirely"
+        },
+        {
+          "label": "E",
+          "text": "It converts fatty acids directly into glucose"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During fasting, low insulin/high glucagon drives lipolysis and hepatic ketogenesis. Ketone bodies circulate as an alternative acetyl-CoA source for the brain and muscle, sparing glucose for tissues (RBCs, and the brain early on) that depend on it.",
+        "whyCorrect": "During fasting, low insulin/high glucagon drives lipolysis and hepatic ketogenesis. Ketone bodies circulate as an alternative acetyl-CoA source for the brain and muscle, sparing glucose for tissues (RBCs, and the brain early on) that depend on it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-162_23_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-163",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "This diagram shows the cleavage sites of four phospholipases on a membrane phospholipid. Cleavage by the enzyme acting on the glycerophosphate bond (phospholipase C) generates which pair of intracellular second messengers?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diacylglycerol and IP3"
+        },
+        {
+          "label": "B",
+          "text": "cAMP and cGMP"
+        },
+        {
+          "label": "C",
+          "text": "Arachidonic acid and a lysophospholipid"
+        },
+        {
+          "label": "D",
+          "text": "Ceramide and sphingosine"
+        },
+        {
+          "label": "E",
+          "text": "Phosphatidic acid and choline"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Phospholipase C cleaves the bond between glycerol and the phosphorylated head group. Acting on PIP2 it yields membrane-bound diacylglycerol (activates PKC) and soluble IP3 (releases ER calcium).",
+        "whyCorrect": "Phospholipase C cleaves the bond between glycerol and the phosphorylated head group. Acting on PIP2 it yields membrane-bound diacylglycerol (activates PKC) and soluble IP3 (releases ER calcium).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-163_24_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-164",
+      "topicId": "boom-lipids-and-lipid-metabolism-introduction",
+      "topicName": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "stem": "What is this 20-carbon polyunsaturated fatty acid, the precursor cleaved from membrane phospholipids to make eicosanoids?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Linoleic acid"
+        },
+        {
+          "label": "B",
+          "text": "Eicosapentaenoic acid"
+        },
+        {
+          "label": "C",
+          "text": "Palmitic acid"
+        },
+        {
+          "label": "D",
+          "text": "Prostaglandin E2"
+        },
+        {
+          "label": "E",
+          "text": "Arachidonic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Arachidonic acid is a 20-carbon fatty acid with four cis double bonds. Released by phospholipase A2, it is the substrate for cyclooxygenases and lipoxygenases that generate prostaglandins, thromboxanes and leukotrienes.",
+        "whyCorrect": "Arachidonic acid is a 20-carbon fatty acid with four cis double bonds. Released by phospholipase A2, it is the substrate for cyclooxygenases and lipoxygenases that generate prostaglandins, thromboxanes and leukotrienes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-164_24_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

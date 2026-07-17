@@ -1,0 +1,630 @@
+{
+  "categoryId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+  "categoryName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+  "questions": [
+    {
+      "id": "bopic-084",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This scheme depicts the biotransformation of xenobiotics through two sequential stages. What is the overall functional purpose of processing a compound through these reactions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To convert every drug into its pharmacologically active form"
+        },
+        {
+          "label": "B",
+          "text": "To increase polarity and water solubility so the compound can be excreted"
+        },
+        {
+          "label": "C",
+          "text": "To decrease renal clearance of the compound"
+        },
+        {
+          "label": "D",
+          "text": "To generate nonpolar, volatile metabolites exhaled by the lungs"
+        },
+        {
+          "label": "E",
+          "text": "To increase lipid solubility for storage in adipose tissue"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Phase I reactions (often CYP450-mediated oxidation/reduction/hydrolysis) add or expose functional groups, and Phase II reactions conjugate polar groups. The net effect is greater water solubility, facilitating renal or biliary excretion.",
+        "whyCorrect": "Phase I reactions (often CYP450-mediated oxidation/reduction/hydrolysis) add or expose functional groups, and Phase II reactions conjugate polar groups. The net effect is greater water solubility, facilitating renal or biliary excretion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-084_16_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-085",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This diagram of acetaminophen metabolism shows a toxic intermediate (NAPQI) formed via CYP2E1. Why does chronic alcohol use increase the risk of acetaminophen hepatotoxicity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alcohol blocks intestinal absorption of N-acetylcysteine"
+        },
+        {
+          "label": "B",
+          "text": "Alcohol directly binds acetaminophen in the renal tubules"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol depletes the sulfate needed by sulfotransferase"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol competitively inhibits glucuronidation of acetaminophen"
+        },
+        {
+          "label": "E",
+          "text": "Alcohol induces CYP2E1, increasing production of the toxic intermediate NAPQI"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic ethanol induces CYP2E1, shunting more acetaminophen toward NAPQI. When glutathione (GSH) is depleted, NAPQI binds cellular proteins and causes centrilobular hepatic necrosis. N-acetylcysteine treats this by replenishing GSH.",
+        "whyCorrect": "Chronic ethanol induces CYP2E1, shunting more acetaminophen toward NAPQI. When glutathione (GSH) is depleted, NAPQI binds cellular proteins and causes centrilobular hepatic necrosis. N-acetylcysteine treats this by replenishing GSH.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-085_16_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-114",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This enzyme-kinetics curve plots reaction velocity against substrate concentration. If one enzyme has a lower Km than another for the same substrate, what does that indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "That the enzyme is irreversibly inhibited"
+        },
+        {
+          "label": "B",
+          "text": "That the reaction is zero-order at all substrate levels"
+        },
+        {
+          "label": "C",
+          "text": "A higher maximum velocity (Vmax)"
+        },
+        {
+          "label": "D",
+          "text": "Higher affinity of the enzyme for its substrate"
+        },
+        {
+          "label": "E",
+          "text": "Lower affinity for the substrate"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Km equals the substrate concentration at half Vmax. A lower Km means less substrate is needed to reach half-maximal velocity, reflecting greater enzyme-substrate affinity.",
+        "whyCorrect": "Km equals the substrate concentration at half Vmax. A lower Km means less substrate is needed to reach half-maximal velocity, reflecting greater enzyme-substrate affinity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-114_15_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-115",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "The labeled enzyme catalyzes the interconversion shown between CO2/water and carbonic acid. This reaction is the central step of which physiologic function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CO2 transport and bicarbonate acid-base buffering"
+        },
+        {
+          "label": "B",
+          "text": "Sodium reabsorption in the loop of Henle"
+        },
+        {
+          "label": "C",
+          "text": "ATP synthesis by oxidative phosphorylation"
+        },
+        {
+          "label": "D",
+          "text": "Ammonia detoxification in the urea cycle"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen loading onto hemoglobin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Carbonic anhydrase rapidly interconverts CO2 and water with carbonic acid, which dissociates to bicarbonate and H+. This underlies CO2 transport in blood and the bicarbonate buffering system regulating acid-base balance.",
+        "whyCorrect": "Carbonic anhydrase rapidly interconverts CO2 and water with carbonic acid, which dissociates to bicarbonate and H+. This underlies CO2 transport in blood and the bicarbonate buffering system regulating acid-base balance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-115_15_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-116",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This double-reciprocal plot of enzyme kinetics data is used to graphically determine Km and Vmax from the slope and intercepts. What is this type of plot called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hill plot"
+        },
+        {
+          "label": "B",
+          "text": "Michaelis-Menten saturation curve"
+        },
+        {
+          "label": "C",
+          "text": "Lineweaver-Burk plot"
+        },
+        {
+          "label": "D",
+          "text": "Scatchard plot"
+        },
+        {
+          "label": "E",
+          "text": "Eadie-Hofstee plot"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Plotting 1/vi against 1/[S] linearizes the Michaelis-Menten equation. The x-intercept gives -1/Km, the y-intercept gives 1/Vmax, and the slope is Km/Vmax. This is the classic Lineweaver-Burk (double-reciprocal) plot.",
+        "whyCorrect": "Plotting 1/vi against 1/[S] linearizes the Michaelis-Menten equation. The x-intercept gives -1/Km, the y-intercept gives 1/Vmax, and the slope is Km/Vmax. This is the classic Lineweaver-Burk (double-reciprocal) plot.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-116_15_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-117",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This ATP-dependent reaction converts pyruvate and CO2 into oxaloacetate. Which enzyme catalyzes it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acetyl-CoA carboxylase"
+        },
+        {
+          "label": "B",
+          "text": "Pyruvate dehydrogenase"
+        },
+        {
+          "label": "C",
+          "text": "Pyruvate carboxylase"
+        },
+        {
+          "label": "D",
+          "text": "Pyruvate kinase"
+        },
+        {
+          "label": "E",
+          "text": "PEP carboxykinase"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
+        "whyCorrect": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-117_15_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-118",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This table lists reaction rates for two isozymes across increasing substrate concentrations. Which conclusion is best supported by the data?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isozyme B has a lower Km (higher substrate affinity) than isozyme A"
+        },
+        {
+          "label": "B",
+          "text": "The two isozymes have identical Km values"
+        },
+        {
+          "label": "C",
+          "text": "Isozyme B has a lower substrate affinity than isozyme A"
+        },
+        {
+          "label": "D",
+          "text": "Isozyme A has a much higher Vmax than isozyme B"
+        },
+        {
+          "label": "E",
+          "text": "Isozyme A reaches half-maximal velocity at a lower [S] than isozyme B"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Both isozymes approach a Vmax near 200 umol/L/s. Isozyme B reaches half-maximal rate (~100) at about 5 mM, whereas isozyme A reaches it at about 10 mM. A lower [S] at half-Vmax means a lower Km and thus higher substrate affinity for isozyme B.",
+        "whyCorrect": "Both isozymes approach a Vmax near 200 umol/L/s. Isozyme B reaches half-maximal rate (~100) at about 5 mM, whereas isozyme A reaches it at about 10 mM. A lower [S] at half-Vmax means a lower Km and thus higher substrate affinity for isozyme B.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-118_15_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-119",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "These energy diagrams compare the same reaction run uncatalyzed (a) versus catalyzed (b). What does the catalyst accomplish, as illustrated by the difference between the curves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increases the overall free-energy change (delta G) of the reaction"
+        },
+        {
+          "label": "B",
+          "text": "Shifts the equilibrium position toward products"
+        },
+        {
+          "label": "C",
+          "text": "Lowers the activation energy (Ea)"
+        },
+        {
+          "label": "D",
+          "text": "Raises the free energy of the reactants"
+        },
+        {
+          "label": "E",
+          "text": "Makes the reaction more exergonic by lowering the free energy of the products"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A catalyst provides an alternate pathway with a smaller energy barrier, so the peak (Ea) is lower in panel (b). It does not change the energies of reactants or products, delta G, or the equilibrium position; it only speeds attainment of equilibrium.",
+        "whyCorrect": "A catalyst provides an alternate pathway with a smaller energy barrier, so the peak (Ea) is lower in panel (b). It does not change the energies of reactants or products, delta G, or the equilibrium position; it only speeds attainment of equilibrium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-119_15_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-120",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This sequence depicts an enzyme binding substrate (ES) and carrying the reaction over the free-energy peak (T superscript double-dagger) to product. How does the enzyme increase the reaction rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By supplying energy that shifts the equilibrium toward product"
+        },
+        {
+          "label": "B",
+          "text": "By permanently altering the substrate's covalent bonds before catalysis"
+        },
+        {
+          "label": "C",
+          "text": "By increasing the free energy of the product"
+        },
+        {
+          "label": "D",
+          "text": "By raising the ground-state energy of the substrate above the transition state"
+        },
+        {
+          "label": "E",
+          "text": "By stabilizing the transition state, which lowers its free energy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Enzymes bind and stabilize the high-energy transition state more tightly than the substrate, lowering the activation energy peak and accelerating the reaction. They do not change the equilibrium or the net free-energy change.",
+        "whyCorrect": "Enzymes bind and stabilize the high-energy transition state more tightly than the substrate, lowering the activation energy peak and accelerating the reaction. They do not change the equilibrium or the net free-energy change.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-120_15_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-121",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "In this reaction glucose is converted to glucose-6-phosphate at the expense of ATP. What is the primary metabolic significance of this phosphorylation step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It fully oxidizes glucose to pyruvate"
+        },
+        {
+          "label": "B",
+          "text": "It traps glucose inside the cell because the charged phosphate prevents it from crossing the membrane"
+        },
+        {
+          "label": "C",
+          "text": "It releases free glucose into the bloodstream"
+        },
+        {
+          "label": "D",
+          "text": "It directly generates a net gain of ATP"
+        },
+        {
+          "label": "E",
+          "text": "It converts glucose into fructose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Adding a negatively charged phosphate to glucose produces glucose-6-phosphate, which cannot diffuse back out through the membrane. This commits glucose to intracellular metabolism (glycolysis, glycogenesis, or the pentose phosphate pathway).",
+        "whyCorrect": "Adding a negatively charged phosphate to glucose produces glucose-6-phosphate, which cannot diffuse back out through the membrane. This commits glucose to intracellular metabolism (glycolysis, glycogenesis, or the pentose phosphate pathway).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-121_15_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-122",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This reaction uses inorganic phosphate (Pi) to cleave a terminal glucose unit from glycogen, yielding glucose-1-phosphate. It is the rate-limiting step of which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glycogenolysis"
+        },
+        {
+          "label": "B",
+          "text": "Gluconeogenesis"
+        },
+        {
+          "label": "C",
+          "text": "Lipolysis"
+        },
+        {
+          "label": "D",
+          "text": "Glycogenesis"
+        },
+        {
+          "label": "E",
+          "text": "Glycolysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Glycogen phosphorylase catalyzes phosphorolysis of the alpha-1,4 bonds of glycogen, releasing glucose-1-phosphate. This is the rate-limiting, regulated step of glycogen breakdown (glycogenolysis).",
+        "whyCorrect": "Glycogen phosphorylase catalyzes phosphorolysis of the alpha-1,4 bonds of glycogen, releasing glucose-1-phosphate. This is the rate-limiting, regulated step of glycogen breakdown (glycogenolysis).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-122_15_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-123",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "In this pathway only the final step liberates free glucose. Which tissue can therefore use this pathway to raise blood glucose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Red blood cells"
+        },
+        {
+          "label": "B",
+          "text": "Brain neurons"
+        },
+        {
+          "label": "C",
+          "text": "Adipose tissue"
+        },
+        {
+          "label": "D",
+          "text": "Liver (it expresses glucose-6-phosphatase)"
+        },
+        {
+          "label": "E",
+          "text": "Skeletal muscle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Only the liver (and kidney) express glucose-6-phosphatase, which dephosphorylates glucose-6-phosphate to free glucose for export. Skeletal muscle lacks this enzyme, so muscle glycogen serves only local energy needs and cannot directly raise blood glucose.",
+        "whyCorrect": "Only the liver (and kidney) express glucose-6-phosphatase, which dephosphorylates glucose-6-phosphate to free glucose for export. Skeletal muscle lacks this enzyme, so muscle glycogen serves only local energy needs and cannot directly raise blood glucose.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-123_15_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-124",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "The reaction shown converts glucose into the product on the right. What is the primary metabolic purpose of adding this phosphate group as the first step of glycolysis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It traps glucose inside the cell by making it membrane-impermeant and commits it to metabolism"
+        },
+        {
+          "label": "B",
+          "text": "It converts glucose into fructose to bypass regulation"
+        },
+        {
+          "label": "C",
+          "text": "It oxidizes glucose to release carbon dioxide immediately"
+        },
+        {
+          "label": "D",
+          "text": "It directly generates ATP through substrate-level phosphorylation"
+        },
+        {
+          "label": "E",
+          "text": "It reduces glucose to prepare it for storage as glycogen without further modification"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Hexokinase/glucokinase phosphorylate glucose to glucose 6-phosphate using ATP. The negatively charged phosphate prevents the sugar from crossing the plasma membrane, trapping it in the cell and committing it to glycolysis and other pathways.",
+        "whyCorrect": "Hexokinase/glucokinase phosphorylate glucose to glucose 6-phosphate using ATP. The negatively charged phosphate prevents the sugar from crossing the plasma membrane, trapping it in the cell and committing it to glycolysis and other pathways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-124_16_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-125",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "Based on the two enzyme-activity curves shown, why does the enzyme with the sigmoidal, right-shifted curve (higher Km) act as a glucose sensor in the liver?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Its high affinity lets it work maximally even during hypoglycemia"
+        },
+        {
+          "label": "B",
+          "text": "Its low affinity means activity rises steeply only when blood glucose is elevated, such as after a meal"
+        },
+        {
+          "label": "C",
+          "text": "It is inhibited by rising glucose, protecting the liver from overload"
+        },
+        {
+          "label": "D",
+          "text": "It has a fixed activity independent of glucose concentration"
+        },
+        {
+          "label": "E",
+          "text": "It is fully saturated at fasting glucose levels and cannot respond to increases"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Glucokinase has a high Km (low affinity) and is not saturated at normal fasting glucose, so its activity increases substantially only when glucose is high (postprandial). This lets the liver take up and store glucose selectively when it is abundant. Hexokinase, with a low Km, is already saturated and functions during low glucose.",
+        "whyCorrect": "Glucokinase has a high Km (low affinity) and is not saturated at normal fasting glucose, so its activity increases substantially only when glucose is high (postprandial). This lets the liver take up and store glucose selectively when it is abundant. Hexokinase, with a low Km, is already saturated and functions during low glucose.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-125_16_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-126",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "This double-reciprocal (Lineweaver-Burk) plot compares an enzyme with and without an inhibitor. Given that the two lines share the same y-intercept but the inhibitor line has a steeper slope and a less negative x-intercept, what type of inhibition is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uncompetitive inhibition (decreased Vmax and decreased Km)"
+        },
+        {
+          "label": "B",
+          "text": "Irreversible inhibition (permanent loss of active enzyme)"
+        },
+        {
+          "label": "C",
+          "text": "Allosteric activation (increased Vmax and decreased Km)"
+        },
+        {
+          "label": "D",
+          "text": "Competitive inhibition (unchanged Vmax, increased apparent Km)"
+        },
+        {
+          "label": "E",
+          "text": "Noncompetitive inhibition (decreased Vmax, unchanged Km)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
+        "whyCorrect": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-126_16_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-127",
+      "topicId": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
+      "topicName": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "stem": "In this double-reciprocal (Lineweaver-Burk) plot, the inhibitor line shares the same x-intercept as the control but has a higher y-intercept. What type of enzyme inhibition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Feedback activation of the enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Uncompetitive inhibition (decreased Vmax and decreased Km)"
+        },
+        {
+          "label": "C",
+          "text": "Substrate activation (increased Vmax)"
+        },
+        {
+          "label": "D",
+          "text": "Noncompetitive inhibition (decreased Vmax, unchanged Km)"
+        },
+        {
+          "label": "E",
+          "text": "Competitive inhibition (unchanged Vmax, increased Km)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
+        "whyCorrect": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-127_16_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

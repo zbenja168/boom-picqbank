@@ -1,0 +1,162 @@
+{
+  "categoryId": "dna-point-mutations",
+  "categoryName": "DNA Point Mutations",
+  "questions": [
+    {
+      "id": "bopic-105",
+      "topicId": "dna-point-mutations",
+      "topicName": "DNA Point Mutations",
+      "stem": "Using the sentence 'THE FAT CAT ATE THE RAT,' the figure contrasts single-base insertion and deletion with a 3-base deletion. Why does the 3-base deletion at the bottom NOT scramble the downstream 'words'?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Larger deletions are repaired before translation begins"
+        },
+        {
+          "label": "B",
+          "text": "Deletions never affect the reading frame, only insertions do"
+        },
+        {
+          "label": "C",
+          "text": "Three deleted bases are always replaced by a stop codon"
+        },
+        {
+          "label": "D",
+          "text": "Removing a multiple of three bases preserves the downstream reading frame"
+        },
+        {
+          "label": "E",
+          "text": "The ribosome automatically corrects any deletion of bases"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The genetic code is read in non-overlapping triplets. Inserting or deleting a number of bases not divisible by three shifts the reading frame, garbling all downstream codons (a frameshift). Deleting exactly three bases removes one codon but keeps the rest of the frame intact.",
+        "whyCorrect": "The genetic code is read in non-overlapping triplets. Inserting or deleting a number of bases not divisible by three shifts the reading frame, garbling all downstream codons (a frameshift). Deleting exactly three bases removes one codon but keeps the rest of the frame intact.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-105_12_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-106",
+      "topicId": "dna-point-mutations",
+      "topicName": "DNA Point Mutations",
+      "stem": "The figure shows the same string of numbers read in six different offset registers (+1, +2, +3, -1, -2, -3), with only one highlighted. What genetic concept is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The six classes of enzymes"
+        },
+        {
+          "label": "B",
+          "text": "The six possible reading frames of a nucleotide sequence"
+        },
+        {
+          "label": "C",
+          "text": "The six energy levels of an electron shell"
+        },
+        {
+          "label": "D",
+          "text": "The six stages of the cell cycle"
+        },
+        {
+          "label": "E",
+          "text": "The six histone proteins of the nucleosome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A double-stranded sequence can be translated in three reading frames on each strand (three forward, three reverse), giving six total. Shifting the start point by one base changes which triplets are grouped, illustrating why the correct frame is essential for meaningful translation.",
+        "whyCorrect": "A double-stranded sequence can be translated in three reading frames on each strand (three forward, three reverse), giving six total. Shifting the start point by one base changes which triplets are grouped, illustrating why the correct frame is essential for meaningful translation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-106_12_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-107",
+      "topicId": "dna-point-mutations",
+      "topicName": "DNA Point Mutations",
+      "stem": "The three rows show the identical run of RNA bases grouped into triplets starting at different positions, each yielding a completely different peptide. What principle does this demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wobble pairing changes the amino acid at every codon"
+        },
+        {
+          "label": "B",
+          "text": "Introns must be removed before any codon can be read"
+        },
+        {
+          "label": "C",
+          "text": "The reading frame determines which amino acids a sequence encodes"
+        },
+        {
+          "label": "D",
+          "text": "RNA can be translated in both directions simultaneously"
+        },
+        {
+          "label": "E",
+          "text": "Each amino acid is specified by a single base"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because codons are read as non-overlapping triplets, the point at which grouping begins (the reading frame) dictates the entire peptide sequence. The same bases read in a different frame specify an entirely different set of amino acids.",
+        "whyCorrect": "Because codons are read as non-overlapping triplets, the point at which grouping begins (the reading frame) dictates the entire peptide sequence. The same bases read in a different frame specify an entirely different set of amino acids.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-107_12_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-108",
+      "topicId": "dna-point-mutations",
+      "topicName": "DNA Point Mutations",
+      "stem": "In the leftmost column an AAG->AAA DNA change still yields the amino acid Lys. Why does this base substitution have no effect on the protein product?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "tRNA cannot recognize a mutated codon and skips it"
+        },
+        {
+          "label": "B",
+          "text": "The genetic code is degenerate, so the new codon is synonymous and encodes the same amino acid"
+        },
+        {
+          "label": "C",
+          "text": "The substitution created a stop codon that was ignored"
+        },
+        {
+          "label": "D",
+          "text": "The mutation was repaired before translation occurred"
+        },
+        {
+          "label": "E",
+          "text": "The ribosome inserts the original amino acid by default"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Multiple codons can specify the same amino acid (degeneracy of the code), often through third-position wobble. A substitution that still codes for the original residue is a silent (synonymous) mutation and leaves the protein sequence unchanged, unlike the nonsense and missense changes in the other columns.",
+        "whyCorrect": "Multiple codons can specify the same amino acid (degeneracy of the code), often through third-position wobble. A substitution that still codes for the original residue is a silent (synonymous) mutation and leaves the protein sequence unchanged, unlike the nonsense and missense changes in the other columns.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-108_12_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

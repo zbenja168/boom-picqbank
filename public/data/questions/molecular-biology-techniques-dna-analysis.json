@@ -1,0 +1,84 @@
+{
+  "categoryId": "molecular-biology-techniques-dna-analysis",
+  "categoryName": "Molecular Biology Techniques: DNA Analysis",
+  "questions": [
+    {
+      "id": "bopic-048",
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques: DNA Analysis",
+      "stem": "Panel B of this chromosome 19 SNP array shows a region around JAK3 with normal total copy number (top trace stays at 2) but loss of the heterozygous B-allele band, unlike the biallelic pattern in panel A. What genetic mechanism does this pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemizygous deletion of the region"
+        },
+        {
+          "label": "B",
+          "text": "A balanced reciprocal translocation"
+        },
+        {
+          "label": "C",
+          "text": "Trisomy 19"
+        },
+        {
+          "label": "D",
+          "text": "Uniparental disomy (copy-neutral loss of heterozygosity)"
+        },
+        {
+          "label": "E",
+          "text": "Segmental duplication of JAK3"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A stretch that keeps a copy number of 2 yet loses heterozygosity indicates both homologs came from one parent (uniparental isodisomy), i.e., copy-neutral LOH. This can unmask a recessive JAK3 mutation by making it homozygous without any change in total copy number.",
+        "whyCorrect": "A stretch that keeps a copy number of 2 yet loses heterozygosity indicates both homologs came from one parent (uniparental isodisomy), i.e., copy-neutral LOH. This can unmask a recessive JAK3 mutation by making it homozygous without any change in total copy number.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-048_48_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-049",
+      "topicId": "molecular-biology-techniques-dna-analysis",
+      "topicName": "Molecular Biology Techniques: DNA Analysis",
+      "stem": "In the technique depicted, why is Taq polymerase used instead of a standard human DNA polymerase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It works only at body temperature (37 C)"
+        },
+        {
+          "label": "B",
+          "text": "It synthesizes RNA rather than DNA"
+        },
+        {
+          "label": "C",
+          "text": "It proofreads with high fidelity via 3'-to-5' exonuclease activity"
+        },
+        {
+          "label": "D",
+          "text": "It is thermostable and survives the repeated high-temperature denaturation steps"
+        },
+        {
+          "label": "E",
+          "text": "It can synthesize DNA without requiring primers"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "PCR cycles between ~95 C denaturation, annealing, and extension. Taq polymerase, from the thermophile Thermus aquaticus, withstands the denaturation heat, so fresh enzyme need not be added each cycle. This enables the automated thermal cycling shown.",
+        "whyCorrect": "PCR cycles between ~95 C denaturation, annealing, and extension. Taq polymerase, from the thermophile Thermus aquaticus, withstands the denaturation heat, so fresh enzyme need not be added each cycle. This enables the automated thermal cycling shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-049_48_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

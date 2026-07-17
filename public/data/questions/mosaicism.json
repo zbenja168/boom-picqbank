@@ -1,0 +1,318 @@
+{
+  "categoryId": "mosaicism",
+  "categoryName": "Mosaicism",
+  "questions": [
+    {
+      "id": "bopic-263",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "In this family, both parents are unaffected but their daughter shows a patchy, mosaic distribution of an abnormality. What does this pattern most strongly suggest about the origin of her mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A de novo post-zygotic mutation producing two genetically distinct cell lines"
+        },
+        {
+          "label": "B",
+          "text": "An autosomal recessive mutation inherited from both carrier parents"
+        },
+        {
+          "label": "C",
+          "text": "A germline mutation present in all of her cells equally"
+        },
+        {
+          "label": "D",
+          "text": "A mitochondrial mutation inherited from the mother"
+        },
+        {
+          "label": "E",
+          "text": "An X-linked dominant mutation inherited from the father"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A patchy (mosaic) phenotype in a child of two unaffected parents indicates a mutation arising after fertilization (post-zygotic), so only a subset of cells carry it. Because the parents lack the mutation, recurrence risk in siblings is low unless a parent has gonadal mosaicism.",
+        "whyCorrect": "A patchy (mosaic) phenotype in a child of two unaffected parents indicates a mutation arising after fertilization (post-zygotic), so only a subset of cells carry it. Because the parents lack the mutation, recurrence risk in siblings is low unless a parent has gonadal mosaicism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-263_44_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-264",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "This figure contrasts two forms of mosaicism. Why does the form on the left (mutation in a fraction of germ cells) carry a very different reproductive implication than the form on the right (mutation limited to somatic tissue)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Only somatic mosaicism can be detected on prenatal testing"
+        },
+        {
+          "label": "B",
+          "text": "Germline mosaicism can be transmitted to offspring, whereas a purely somatic mutation cannot be passed on"
+        },
+        {
+          "label": "C",
+          "text": "Somatic mosaicism is always more severe than germline mosaicism"
+        },
+        {
+          "label": "D",
+          "text": "Germline mosaicism only affects one organ, whereas somatic mosaicism is generalized"
+        },
+        {
+          "label": "E",
+          "text": "Both are equally heritable to all offspring"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In germline (gonadal) mosaicism a fraction of gametes carry the mutation, so unaffected-appearing parents can have affected children and may have recurrence. A somatic mutation is confined to body tissues and cannot enter the germline, so it is not transmitted.",
+        "whyCorrect": "In germline (gonadal) mosaicism a fraction of gametes carry the mutation, so unaffected-appearing parents can have affected children and may have recurrence. A somatic mutation is confined to body tissues and cannot enter the germline, so it is not transmitted.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-264_44_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-265",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "In panel B, an abnormal X chromosome lacking its inactivation center fails to undergo silencing, resulting in biallelic expression. What normally coats the future inactive X to trigger the spreading silencing seen in panel A?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "XIST non-coding RNA transcribed from the X-inactivation center"
+        },
+        {
+          "label": "B",
+          "text": "Telomerase extending the chromosome ends"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase recruited to the centromere"
+        },
+        {
+          "label": "D",
+          "text": "Spliceosomal small nuclear RNA"
+        },
+        {
+          "label": "E",
+          "text": "A histone acetyltransferase that opens chromatin"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The X-inactivation center encodes XIST, a long non-coding RNA that coats the chromosome in cis and recruits repressive chromatin modifications, spreading epigenetic silencing across most genes. Without an intact XIC/XIST, the X cannot be inactivated and both alleles are expressed.",
+        "whyCorrect": "The X-inactivation center encodes XIST, a long non-coding RNA that coats the chromosome in cis and recruits repressive chromatin modifications, spreading epigenetic silencing across most genes. Without an intact XIC/XIST, the X cannot be inactivated and both alleles are expressed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-265_44_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-266",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "This figure shows that in each early female embryonic cell either the paternal or the maternal X is randomly inactivated and then maintained through all daughter cells. What is the most important consequence of this process for X-linked gene expression in females?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The inactive X is permanently deleted from the genome"
+        },
+        {
+          "label": "B",
+          "text": "X inactivation reverses at each cell division"
+        },
+        {
+          "label": "C",
+          "text": "All cells in a female express only the paternal X"
+        },
+        {
+          "label": "D",
+          "text": "Every cell in a female expresses both X chromosomes equally"
+        },
+        {
+          "label": "E",
+          "text": "Females are functional mosaics, with patches of cells expressing either the maternal or paternal X"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because the choice of which X to inactivate is random per cell and is clonally maintained, a female is a mosaic of two cell populations. This underlies variable expression of X-linked disorders in heterozygous females and phenomena such as patchy skin findings.",
+        "whyCorrect": "Because the choice of which X to inactivate is random per cell and is clonally maintained, a female is a mosaic of two cell populations. This underlies variable expression of X-linked disorders in heterozygous females and phenomena such as patchy skin findings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-266_44_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-267",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "The histogram plots the proportion of females against their X-inactivation ratio. What does the bell-shaped distribution centered near 50:50 indicate about X inactivation in the female population?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Most females show extreme skewing toward one X"
+        },
+        {
+          "label": "B",
+          "text": "X inactivation ratios are fixed at exactly 50:50 in every female"
+        },
+        {
+          "label": "C",
+          "text": "The ratio is determined solely by the number of Barr bodies"
+        },
+        {
+          "label": "D",
+          "text": "X inactivation is normally random, so most females have a roughly balanced ratio and markedly skewed inactivation is uncommon"
+        },
+        {
+          "label": "E",
+          "text": "Nearly all females preferentially inactivate the paternal X"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because the initial choice of which X to inactivate is random, most females cluster around a balanced 50:50 ratio, with roughly 90% falling between 75:25 and 25:75. Strongly skewed inactivation is uncommon and can unmask X-linked disease in carrier females.",
+        "whyCorrect": "Because the initial choice of which X to inactivate is random, most females cluster around a balanced 50:50 ratio, with roughly 90% falling between 75:25 and 25:75. Strongly skewed inactivation is uncommon and can unmask X-linked disease in carrier females.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-267_44_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-268",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "The diagram shows a cell carrying one normal X and one structurally abnormal X, with the abnormal X preferentially becoming the condensed (inactivated) chromosome in every surviving lineage. What is the most likely functional consequence of this skewed selection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The autosomes compensate by doubling their expression"
+        },
+        {
+          "label": "B",
+          "text": "The cell becomes functionally monosomic for all X-linked genes"
+        },
+        {
+          "label": "C",
+          "text": "The active X in most cells is the normal one, mitigating the phenotype of the abnormal X"
+        },
+        {
+          "label": "D",
+          "text": "Both X chromosomes remain transcriptionally active in these cells"
+        },
+        {
+          "label": "E",
+          "text": "The abnormal X is physically deleted from the genome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cells that inactivate the abnormal (e.g., partially deleted or unbalanced) X have a selective advantage, so the normal X stays active. This nonrandom (skewed) X-inactivation blunts the phenotypic impact of the structural abnormality.",
+        "whyCorrect": "Cells that inactivate the abnormal (e.g., partially deleted or unbalanced) X have a selective advantage, so the normal X stays active. This nonrandom (skewed) X-inactivation blunts the phenotypic impact of the structural abnormality.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-268_44_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-269",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "The lineage tree shows a single mutational event in one dividing cell whose descendants all carry the change while the rest of the population remains normal. What phenomenon does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A clonal population of mutant cells creating somatic mosaicism"
+        },
+        {
+          "label": "B",
+          "text": "Reversion of the mutation in later generations"
+        },
+        {
+          "label": "C",
+          "text": "Meiotic nondisjunction producing aneuploidy"
+        },
+        {
+          "label": "D",
+          "text": "Uniform mutation of every cell in the tissue"
+        },
+        {
+          "label": "E",
+          "text": "Germline transmission of the mutation to all offspring"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A post-zygotic mutation is inherited only by the daughter cells of the mutated cell, generating a clone of mutant cells alongside normal cells. The result is a somatic mosaic individual with two genetically distinct populations.",
+        "whyCorrect": "A post-zygotic mutation is inherited only by the daughter cells of the mutated cell, generating a clone of mutant cells alongside normal cells. The result is a somatic mosaic individual with two genetically distinct populations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-269_44_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-270",
+      "topicId": "mosaicism",
+      "topicName": "Mosaicism",
+      "stem": "The figure contrasts three distributions of a post-zygotic mutation within one person's tissues. What ultimately determines whether such a mosaic mutation can be transmitted to that person's children?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Whether the mutation is present in the gamete-forming (germline) cells"
+        },
+        {
+          "label": "B",
+          "text": "Whether the individual shows any clinical phenotype"
+        },
+        {
+          "label": "C",
+          "text": "Whether the mutation lies on an autosome versus a sex chromosome"
+        },
+        {
+          "label": "D",
+          "text": "Whether the mutation affects a large fraction of skin cells"
+        },
+        {
+          "label": "E",
+          "text": "Whether the mutation arose before or after birth"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Transmission to offspring requires the mutation to be present in the germline. A purely somatic mosaic cannot pass it on, whereas germline (gonadal) involvement allows an unaffected or affected parent to have affected children.",
+        "whyCorrect": "Transmission to offspring requires the mutation to be present in the germline. A purely somatic mosaic cannot pass it on, whereas germline (gonadal) involvement allows an unaffected or affected parent to have affected children.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-270_44_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

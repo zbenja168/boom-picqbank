@@ -1,0 +1,84 @@
+{
+  "categoryId": "subchromosomal-deletion-syndromes",
+  "categoryName": "Subchromosomal Deletion Syndromes",
+  "questions": [
+    {
+      "id": "bopic-079",
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Subchromosomal Deletion Syndromes",
+      "stem": "The microdeletion marked on the long arm of chromosome 22 in this figure is most classically associated with which clinical syndrome?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wolf-Hirschhorn syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Prader-Willi syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Cri-du-chat syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Williams syndrome"
+        },
+        {
+          "label": "E",
+          "text": "DiGeorge (velocardiofacial) syndrome"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A hemizygous deletion at 22q11.2 causes DiGeorge/velocardiofacial syndrome, featuring conotruncal cardiac defects, thymic and parathyroid hypoplasia, palatal anomalies, and characteristic facies.",
+        "whyCorrect": "A hemizygous deletion at 22q11.2 causes DiGeorge/velocardiofacial syndrome, featuring conotruncal cardiac defects, thymic and parathyroid hypoplasia, palatal anomalies, and characteristic facies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-079_43_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-262",
+      "topicId": "subchromosomal-deletion-syndromes",
+      "topicName": "Subchromosomal Deletion Syndromes",
+      "stem": "The events depicted here (moving a segment to a new location, losing a segment, gaining an extra copy, flipping a segment, and exchanging segments between non-homologous chromosomes) all belong to which single category of mutation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Single-nucleotide point mutations"
+        },
+        {
+          "label": "B",
+          "text": "Trinucleotide repeat expansions"
+        },
+        {
+          "label": "C",
+          "text": "Epigenetic silencing events"
+        },
+        {
+          "label": "D",
+          "text": "Numerical aneuploidies"
+        },
+        {
+          "label": "E",
+          "text": "Structural chromosomal aberrations"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Insertion, deletion, duplication, inversion, and translocation all alter chromosome structure rather than chromosome number or a single base, so they are collectively classified as structural chromosomal aberrations.",
+        "whyCorrect": "Insertion, deletion, duplication, inversion, and translocation all alter chromosome structure rather than chromosome number or a single base, so they are collectively classified as structural chromosomal aberrations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-262_43_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

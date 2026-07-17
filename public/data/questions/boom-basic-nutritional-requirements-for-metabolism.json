@@ -1,0 +1,201 @@
+{
+  "categoryId": "boom-basic-nutritional-requirements-for-metabolism",
+  "categoryName": "BOOM: Basic Nutritional Requirements for Metabolism",
+  "questions": [
+    {
+      "id": "bopic-029",
+      "topicId": "boom-basic-nutritional-requirements-for-metabolism",
+      "topicName": "BOOM: Basic Nutritional Requirements for Metabolism",
+      "stem": "A patient's labs show serum pH 7.22, bicarbonate 14 mEq/L, sodium 140 mEq/L, and chloride 100 mEq/L. What acid-base disturbance do these values indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "High anion gap metabolic acidosis"
+        },
+        {
+          "label": "B",
+          "text": "Normal anion gap (hyperchloremic) metabolic acidosis"
+        },
+        {
+          "label": "C",
+          "text": "Metabolic alkalosis"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory acidosis"
+        },
+        {
+          "label": "E",
+          "text": "Respiratory alkalosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Anion gap = Na - (Cl + HCO3) = 140 - (100 + 14) = 26 mEq/L, well above the normal 8-12. Combined with a low pH and low bicarbonate, this indicates a high anion gap metabolic acidosis, typically from accumulation of unmeasured acids (e.g., ketoacids, lactate, toxins).",
+        "whyCorrect": "Anion gap = Na - (Cl + HCO3) = 140 - (100 + 14) = 26 mEq/L, well above the normal 8-12. Combined with a low pH and low bicarbonate, this indicates a high anion gap metabolic acidosis, typically from accumulation of unmeasured acids (e.g., ketoacids, lactate, toxins).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-029_31_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-061",
+      "topicId": "boom-basic-nutritional-requirements-for-metabolism",
+      "topicName": "BOOM: Basic Nutritional Requirements for Metabolism",
+      "stem": "This eye shows a brownish ring of pigment at the corneal limbus. It is most characteristic of which systemic disorder?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diabetes mellitus"
+        },
+        {
+          "label": "B",
+          "text": "Wilson disease (copper overload)"
+        },
+        {
+          "label": "C",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Hemochromatosis (iron overload)"
+        },
+        {
+          "label": "E",
+          "text": "Hyperlipidemia (arcus senilis)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The ring is a Kayser-Fleischer ring, caused by copper deposition in Descemet membrane. It is a hallmark of Wilson disease, in which defective biliary copper excretion leads to copper accumulation in the cornea, liver, and brain.",
+        "whyCorrect": "The ring is a Kayser-Fleischer ring, caused by copper deposition in Descemet membrane. It is a hallmark of Wilson disease, in which defective biliary copper excretion leads to copper accumulation in the cornea, liver, and brain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-061_31_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-062",
+      "topicId": "boom-basic-nutritional-requirements-for-metabolism",
+      "topicName": "BOOM: Basic Nutritional Requirements for Metabolism",
+      "stem": "This toddler presents with a well-demarcated erythematous, scaling rash around the mouth and other periorificial areas. Deficiency of which nutrient most classically produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Zinc"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "C",
+          "text": "Niacin (B3)"
+        },
+        {
+          "label": "D",
+          "text": "Biotin (B7)"
+        },
+        {
+          "label": "E",
+          "text": "Vitamin C"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Periorificial and acral dermatitis, as seen here, is the hallmark of zinc deficiency (acrodermatitis enteropathica), which also causes alopecia and diarrhea. Zinc is a cofactor for numerous metalloenzymes, and rapidly dividing epithelium is highly sensitive to its lack.",
+        "whyCorrect": "Periorificial and acral dermatitis, as seen here, is the hallmark of zinc deficiency (acrodermatitis enteropathica), which also causes alopecia and diarrhea. Zinc is a cofactor for numerous metalloenzymes, and rapidly dividing epithelium is highly sensitive to its lack.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-062_31_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-208",
+      "topicId": "boom-basic-nutritional-requirements-for-metabolism",
+      "topicName": "BOOM: Basic Nutritional Requirements for Metabolism",
+      "stem": "This figure contrasts albumin-calcium binding in acidemia versus alkalemia. What mechanism explains the change in ionized calcium during acidemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acidemia increases albumin synthesis, buffering ionized calcium levels"
+        },
+        {
+          "label": "B",
+          "text": "Acidemia stimulates PTH-independent calcium excretion by the kidney"
+        },
+        {
+          "label": "C",
+          "text": "Acidemia increases albumin's affinity for calcium, lowering ionized calcium"
+        },
+        {
+          "label": "D",
+          "text": "Excess H+ protonates albumin's binding sites, displacing bound calcium and raising the ionized fraction"
+        },
+        {
+          "label": "E",
+          "text": "H+ directly binds free ionized calcium, reducing its concentration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In acidemia, excess H+ competes with Ca2+ for the negatively charged binding sites on albumin. Protons occupy these sites and displace calcium, so more calcium exists in the free ionized form. In alkalemia the opposite occurs and ionized calcium falls, which can precipitate tetany.",
+        "whyCorrect": "In acidemia, excess H+ competes with Ca2+ for the negatively charged binding sites on albumin. Protons occupy these sites and displace calcium, so more calcium exists in the free ionized form. In alkalemia the opposite occurs and ionized calcium falls, which can precipitate tetany.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-208_31_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-209",
+      "topicId": "boom-basic-nutritional-requirements-for-metabolism",
+      "topicName": "BOOM: Basic Nutritional Requirements for Metabolism",
+      "stem": "This diagram depicts hormonal regulation of blood calcium. When blood calcium rises too high, which hormone is released and what is its net effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "PTH, which lowers blood calcium by increasing bone resorption"
+        },
+        {
+          "label": "B",
+          "text": "Calcitonin, which raises blood calcium by stimulating bone resorption"
+        },
+        {
+          "label": "C",
+          "text": "Calcitriol, which lowers blood calcium by reducing intestinal absorption"
+        },
+        {
+          "label": "D",
+          "text": "Calcitonin, which lowers blood calcium by promoting bone deposition and reducing renal and intestinal calcium uptake"
+        },
+        {
+          "label": "E",
+          "text": "PTH, which raises blood calcium by stimulating calcitonin release"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Calcitonin, secreted by thyroid C cells when calcium is high, drives calcium into bone, reduces renal reabsorption, and reduces intestinal uptake, lowering serum calcium. PTH and calcitriol act in the opposite direction to raise calcium when it is too low.",
+        "whyCorrect": "Calcitonin, secreted by thyroid C cells when calcium is high, drives calcium into bone, reduces renal reabsorption, and reduces intestinal uptake, lowering serum calcium. PTH and calcitriol act in the opposite direction to raise calcium when it is too low.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-209_31_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

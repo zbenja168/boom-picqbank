@@ -1,0 +1,279 @@
+{
+  "categoryId": "sex-chromosome-aneuploidy",
+  "categoryName": "Sex Chromosome Aneuploidy",
+  "questions": [
+    {
+      "id": "bopic-041",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "This karyotype shows the normal autosomes but an XXY sex-chromosome complement (47 chromosomes total). Which condition does it represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Trisomy X"
+        },
+        {
+          "label": "B",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Klinefelter syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Jacobs syndrome (XYY)"
+        },
+        {
+          "label": "E",
+          "text": "Turner syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyCorrect": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-041_42_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-042",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "This G-banded laboratory preparation arranges an individual's chromosomes into homologous pairs by size and banding pattern. What is this type of study called, and what does the pattern shown here represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pedigree of an affected family"
+        },
+        {
+          "label": "B",
+          "text": "A FISH probe showing a microdeletion"
+        },
+        {
+          "label": "C",
+          "text": "A karyotype showing trisomy 21"
+        },
+        {
+          "label": "D",
+          "text": "A Southern blot of genomic DNA"
+        },
+        {
+          "label": "E",
+          "text": "A karyotype showing a normal 46,XY male"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Ordering stained metaphase chromosomes into 22 autosome pairs plus the sex chromosomes is a karyotype. Here there are 22 paired autosomes with one X and one Y, defining a normal 46,XY male complement with no numerical abnormality.",
+        "whyCorrect": "Ordering stained metaphase chromosomes into 22 autosome pairs plus the sex chromosomes is a karyotype. Here there are 22 paired autosomes with one X and one Y, defining a normal 46,XY male complement with no numerical abnormality.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-042_42_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-077",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "A short-statured adolescent girl shows the increased elbow carrying angle (cubitus valgus) demonstrated on the right. These features are characteristic of which chromosomal condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Down syndrome (trisomy 21)"
+        },
+        {
+          "label": "B",
+          "text": "Trisomy X (47,XXX)"
+        },
+        {
+          "label": "C",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Turner syndrome (45,X)"
+        },
+        {
+          "label": "E",
+          "text": "Klinefelter syndrome (47,XXY)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Short stature and cubitus valgus (wide carrying angle), along with webbed neck and gonadal dysgenesis, are hallmarks of Turner syndrome (45,X).",
+        "whyCorrect": "Short stature and cubitus valgus (wide carrying angle), along with webbed neck and gonadal dysgenesis, are hallmarks of Turner syndrome (45,X).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-077_42_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-078",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "A phenotypically male patient shows the tall stature, gynecomastia, sparse body hair, female-type pubic hair pattern, small testes, and micropenis illustrated here. Which chromosomal complement best explains this presentation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "47,XXY"
+        },
+        {
+          "label": "B",
+          "text": "47,XXX"
+        },
+        {
+          "label": "C",
+          "text": "47,XYY"
+        },
+        {
+          "label": "D",
+          "text": "45,X"
+        },
+        {
+          "label": "E",
+          "text": "46,XY with 5-alpha-reductase deficiency"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyCorrect": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-078_42_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-259",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "In this ideogram, colored bands link specific regions of the human X and Y chromosomes to one another. What do these linked, shared segments most directly permit during male meiosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitotic nondisjunction of the sex chromosomes"
+        },
+        {
+          "label": "B",
+          "text": "Pairing and recombination between X and Y in the pseudoautosomal regions"
+        },
+        {
+          "label": "C",
+          "text": "Complete synapsis along the entire length of X and Y"
+        },
+        {
+          "label": "D",
+          "text": "Silencing of the entire Y chromosome"
+        },
+        {
+          "label": "E",
+          "text": "Fusion of X and Y into a single metacentric chromosome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The X and Y chromosomes share small homologous pseudoautosomal regions. These segments synapse and undergo obligate crossing over during meiosis, ensuring proper X-Y segregation; failure here contributes to sex-chromosome aneuploidy.",
+        "whyCorrect": "The X and Y chromosomes share small homologous pseudoautosomal regions. These segments synapse and undergo obligate crossing over during meiosis, ensuring proper X-Y segregation; failure here contributes to sex-chromosome aneuploidy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-259_42_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-260",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "Compared with a nondisjunction event in meiosis I (middle), what is distinctive about the gametes produced when nondisjunction occurs in meiosis II (right)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No aneuploid gametes are produced"
+        },
+        {
+          "label": "B",
+          "text": "The abnormal gametes carry two different homologs"
+        },
+        {
+          "label": "C",
+          "text": "Only two of the four gametes are abnormal, and the two aneuploid gametes carry identical (sister) chromosomes"
+        },
+        {
+          "label": "D",
+          "text": "Every gamete receives an extra chromosome"
+        },
+        {
+          "label": "E",
+          "text": "All four gametes are abnormal, as in meiosis I errors"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In meiosis I nondisjunction homologs fail to separate, so all four gametes are abnormal and the extra-chromosome gametes carry both homologs. In meiosis II nondisjunction, sister chromatids fail to separate in one cell only, so two gametes are normal and the two abnormal ones carry duplicate sister chromosomes.",
+        "whyCorrect": "In meiosis I nondisjunction homologs fail to separate, so all four gametes are abnormal and the extra-chromosome gametes carry both homologs. In meiosis II nondisjunction, sister chromatids fail to separate in one cell only, so two gametes are normal and the two abnormal ones carry duplicate sister chromosomes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-260_42_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "bopic-261",
+      "topicId": "sex-chromosome-aneuploidy",
+      "topicName": "Sex Chromosome Aneuploidy",
+      "stem": "Using the sex-chromosome combinations shown, how many Barr bodies would be expected in the somatic cells of the individual with a 47,XXY karyotype?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depends on the parental origin of the Y"
+        },
+        {
+          "label": "B",
+          "text": "Two"
+        },
+        {
+          "label": "C",
+          "text": "Three"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        },
+        {
+          "label": "E",
+          "text": "One"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The number of Barr bodies equals the number of X chromosomes minus one. A 47,XXY (Klinefelter) individual has two X chromosomes, so one X is inactivated, producing a single Barr body.",
+        "whyCorrect": "The number of Barr bodies equals the number of X chromosomes minus one. A 47,XXY (Klinefelter) individual has two X chromosomes, so one X is inactivated, producing a single Barr body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "bopic-261_42_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
