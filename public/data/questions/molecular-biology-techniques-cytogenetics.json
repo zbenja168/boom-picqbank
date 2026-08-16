@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Copy-number variants (gains and losses of chromosomal segments)"
+          "text": "Copy-number variants"
         },
         {
           "label": "E",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "A karyotype, which cannot resolve submicroscopic microdeletions"
+          "text": "A karyotype, which cannot resolve microdeletions"
         }
       ],
       "correctAnswer": "E",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Fluorescence in situ hybridization (FISH)"
+          "text": "Fluorescence in situ hybridization"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "A reciprocal t(9;22) translocation (Philadelphia chromosome), seen in chronic myeloid leukemia"
+          "text": "A t(9;22) translocation, seen in chronic myeloid leukemia"
         },
         {
           "label": "E",

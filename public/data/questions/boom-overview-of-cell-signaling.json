@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "Activation of adenylyl cyclase to produce cyclic AMP"
+          "text": "Activation of adenylyl cyclase"
         },
         {
           "label": "D",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Activation of gene transcription in the nucleus"
+          "text": "Activation of gene transcription"
         },
         {
           "label": "C",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Translocation of GLUT4 vesicles to import glucose"
+          "text": "Translocation of GLUT4 vesicles"
         }
       ],
       "correctAnswer": "E",
@@ -295,7 +295,7 @@
         },
         {
           "label": "D",
-          "text": "It provides a PH-domain docking site that recruits and activates PKB"
+          "text": "It provides a PH-domain docking site that recruits PKB"
         },
         {
           "label": "E",
@@ -412,7 +412,7 @@
         },
         {
           "label": "D",
-          "text": "To mobilize glucose from glycogen to fuel muscle contraction"
+          "text": "To mobilize glucose from glycogen"
         },
         {
           "label": "E",
@@ -572,7 +572,7 @@
         },
         {
           "label": "E",
-          "text": "They diffuse across the plasma membrane and bind intracellular/nuclear receptors to alter gene transcription"
+          "text": "They diffuse across the plasma membrane and bind intracellular/nuclear receptors"
         }
       ],
       "correctAnswer": "E",
@@ -603,7 +603,7 @@
         },
         {
           "label": "C",
-          "text": "Beta-catenin is stabilized, accumulates, and translocates to the nucleus to drive target gene transcription"
+          "text": "Beta-catenin is stabilized, accumulates, and translocates to the nucleus"
         },
         {
           "label": "D",
@@ -638,7 +638,7 @@
         },
         {
           "label": "B",
-          "text": "Increased melanin pigment production and transfer of melanosomes to protect against further UV damage"
+          "text": "Increased melanin pigment production and transfer of melanosomes"
         },
         {
           "label": "C",
@@ -751,7 +751,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is ubiquitinated and degraded by the proteasome, freeing the complex to translocate"
+          "text": "It is ubiquitinated and degraded by the proteasome"
         },
         {
           "label": "B",

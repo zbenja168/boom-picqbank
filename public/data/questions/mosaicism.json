@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A de novo post-zygotic mutation producing two genetically distinct cell lines"
+          "text": "A de novo post-zygotic mutation"
         },
         {
           "label": "B",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Germline mosaicism can be transmitted to offspring, whereas a purely somatic mutation cannot be passed on"
+          "text": "Germline mosaicism can be transmitted to offspring"
         },
         {
           "label": "C",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "XIST non-coding RNA transcribed from the X-inactivation center"
+          "text": "XIST non-coding RNA"
         },
         {
           "label": "B",
@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "Females are functional mosaics, with patches of cells expressing either the maternal or paternal X"
+          "text": "Females are functional mosaics"
         }
       ],
       "correctAnswer": "E",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "X inactivation is normally random, so most females have a roughly balanced ratio and markedly skewed inactivation is uncommon"
+          "text": "X inactivation is normally random, so most females have a roughly balanced ratio"
         },
         {
           "label": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "The active X in most cells is the normal one, mitigating the phenotype of the abnormal X"
+          "text": "The active X in most cells is the normal one"
         },
         {
           "label": "D",
@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Whether the mutation is present in the gamete-forming (germline) cells"
+          "text": "Whether the mutation is present in the gamete-forming cells"
         },
         {
           "label": "B",

@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Scavenger receptors take up oxidized LDL without feedback downregulation, allowing unchecked lipid accumulation"
+          "text": "Scavenger receptors take up oxidized LDL without feedback downregulation"
         },
         {
           "label": "E",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Glucocerebrosidase (beta-glucosidase)"
+          "text": "Glucocerebrosidase"
         }
       ],
       "correctAnswer": "E",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "It promotes lysosomal degradation of the LDL receptor, reducing LDL clearance and raising plasma LDL"
+          "text": "It promotes lysosomal degradation of the LDL receptor"
         }
       ],
       "correctAnswer": "E",

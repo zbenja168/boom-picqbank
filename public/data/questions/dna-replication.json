@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "The thermodynamic driving force that makes chain elongation favorable"
+          "text": "The thermodynamic driving force"
         },
         {
           "label": "E",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "It unwinds and separates the two parental strands to expose single-stranded templates"
+          "text": "It unwinds and separates the two parental strands"
         },
         {
           "label": "D",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "DNA polymerase can only add nucleotides 5' to 3', so the strand templated in the direction away from the fork must be built in fragments"
+          "text": "DNA polymerase can only add nucleotides 5' to 3'"
         }
       ],
       "correctAnswer": "E",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It tethers the polymerase to the template, greatly increasing processivity"
+          "text": "It tethers the polymerase to the template"
         },
         {
           "label": "B",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Removal of RNA primers and sealing of the nicks to produce a continuous DNA strand"
+          "text": "Removal of RNA primers and sealing of the nicks"
         },
         {
           "label": "C",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "High replication fidelity by excising a misincorporated base before continuing"
+          "text": "High replication fidelity"
         },
         {
           "label": "D",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Multiple origins allow the whole chromosome to be replicated quickly in parallel"
+          "text": "Multiple origins allow the whole chromosome to be replicated quickly"
         }
       ],
       "correctAnswer": "E",
@@ -361,7 +361,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They coat and stabilize single-stranded DNA, preventing it from reannealing"
+          "text": "They coat and stabilize single-stranded DNA"
         },
         {
           "label": "B",

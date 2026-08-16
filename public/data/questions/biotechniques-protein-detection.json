@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "The location of the specific antigen recognized by the primary antibody within the tissue"
+          "text": "The location of the specific antigen within the tissue"
         },
         {
           "label": "E",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "A change in net surface charge caused by replacing a negatively charged residue with a neutral one"
+          "text": "A change in net surface charge"
         },
         {
           "label": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Molecular size, with smaller proteins migrating farther through the gel"
+          "text": "Molecular size"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The presence and approximate size of a specific target protein in the sample"
+          "text": "The presence and approximate size of a specific target protein"
         },
         {
           "label": "B",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "The amount of target antigen (or antibody) present in the sample"
+          "text": "The amount of target antigen"
         },
         {
           "label": "E",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "The antibody titer, reflecting the concentration of specific antibody in that patient's serum"
+          "text": "The antibody titer"
         }
       ],
       "correctAnswer": "E",

@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A condensation (dehydration) reaction that releases a molecule of water"
+          "text": "A condensation reaction that releases a molecule of water"
         },
         {
           "label": "B",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "It chelates calcium ions, blocking the calcium-dependent coagulation cascade"
+          "text": "It chelates calcium ions, blocking the coagulation cascade"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Heinz bodies (denatured hemoglobin)"
+          "text": "Heinz bodies"
         },
         {
           "label": "B",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "I-cell disease (mucolipidosis II)"
+          "text": "I-cell disease"
         },
         {
           "label": "C",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Hypocalcemia (increased neuromuscular excitability)"
+          "text": "Hypocalcemia"
         },
         {
           "label": "C",
@@ -295,7 +295,7 @@
         },
         {
           "label": "D",
-          "text": "The chemistry (polarity/charge) of the R-group side chain"
+          "text": "The chemistry of the R-group side chain"
         },
         {
           "label": "E",

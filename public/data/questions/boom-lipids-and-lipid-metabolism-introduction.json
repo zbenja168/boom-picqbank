@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "A cis double bond causes a kink that loosens packing and increases fluidity"
+          "text": "A cis double bond causes a kink that loosens packing"
         },
         {
           "label": "C",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "It is the rate-limiting step, so blocking it throttles the entire downstream pathway"
+          "text": "It is the rate-limiting step"
         },
         {
           "label": "C",
@@ -299,7 +299,7 @@
         },
         {
           "label": "E",
-          "text": "HDL gives up cholesteryl esters to VLDL and receives triglycerides in return"
+          "text": "HDL gives up cholesteryl esters to VLDL and receives triglycerides"
         }
       ],
       "correctAnswer": "E",
@@ -377,7 +377,7 @@
         },
         {
           "label": "E",
-          "text": "To deliver acetyl-CoA to the cytosol and generate NADPH for fatty acid biosynthesis"
+          "text": "To deliver acetyl-CoA to the cytosol and generate NADPH"
         }
       ],
       "correctAnswer": "E",
@@ -439,7 +439,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "De novo hepatic lipogenesis and packaging of triglycerides into VLDL"
+          "text": "De novo hepatic lipogenesis"
         },
         {
           "label": "B",
@@ -517,7 +517,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It prevents simultaneous synthesis and oxidation of fatty acids (futile cycling)"
+          "text": "It prevents simultaneous synthesis and oxidation of fatty acids"
         },
         {
           "label": "B",
@@ -560,7 +560,7 @@
         },
         {
           "label": "B",
-          "text": "It converts the sterol into a nonpolar form suited for storage and lipoprotein transport"
+          "text": "It converts the sterol into a nonpolar form suited for storage"
         },
         {
           "label": "C",
@@ -638,7 +638,7 @@
         },
         {
           "label": "B",
-          "text": "The liver lacks beta-ketoacyl-CoA transferase (thiophorase)"
+          "text": "The liver lacks beta-ketoacyl-CoA transferase"
         },
         {
           "label": "C",
@@ -681,7 +681,7 @@
         },
         {
           "label": "C",
-          "text": "It suppresses ketogenesis by inhibiting lipolysis and hepatic fatty acid oxidation"
+          "text": "It suppresses ketogenesis by inhibiting lipolysis"
         },
         {
           "label": "D",
@@ -712,7 +712,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Deep rapid (Kussmaul) breathing blows off CO2, shifting the equilibrium to consume H+"
+          "text": "Deep rapid (Kussmaul) breathing blows off CO2"
         },
         {
           "label": "B",
@@ -751,7 +751,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It supplies an alternative fuel that spares glucose for the brain and red blood cells"
+          "text": "It supplies an alternative fuel that spares glucose"
         },
         {
           "label": "B",

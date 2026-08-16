@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The liver increases transferrin synthesis, raising the plasma capacity to bind iron"
+          "text": "The liver increases transferrin synthesis"
         },
         {
           "label": "B",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Iron overload (hereditary hemochromatosis)"
+          "text": "Iron overload"
         },
         {
           "label": "D",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Acute neurovisceral attacks with abdominal pain and neuropsychiatric symptoms"
+          "text": "Acute neurovisceral attacks with abdominal pain"
         },
         {
           "label": "E",
@@ -404,7 +404,7 @@
         },
         {
           "label": "B",
-          "text": "UDP-glucuronosyltransferase (UGT1A1)"
+          "text": "UDP-glucuronosyltransferase"
         },
         {
           "label": "C",
@@ -455,7 +455,7 @@
         },
         {
           "label": "E",
-          "text": "Photoisomerize unconjugated bilirubin into water-soluble isomers for excretion"
+          "text": "Photoisomerize unconjugated bilirubin"
         }
       ],
       "correctAnswer": "E",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "It converts bilirubin into water-soluble structural isomers (lumirubin) excreted in bile and urine"
+          "text": "It converts bilirubin into water-soluble structural isomers"
         },
         {
           "label": "C",
@@ -634,7 +634,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The body has no regulated mechanism for actively excreting excess iron"
+          "text": "The body has no regulated mechanism for excreting excess iron"
         },
         {
           "label": "B",
@@ -685,7 +685,7 @@
         },
         {
           "label": "D",
-          "text": "Decreased iron export into the blood, lowering serum iron"
+          "text": "Decreased iron export into the blood"
         },
         {
           "label": "E",
@@ -716,7 +716,7 @@
         },
         {
           "label": "B",
-          "text": "Iron binds the iron-response element binding protein (IRE-BP), causing it to release from the IRE so the mRNA can be translated"
+          "text": "Iron binds the iron-response element binding protein, causing it to release from the IRE"
         },
         {
           "label": "C",

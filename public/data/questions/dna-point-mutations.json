@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Removing a multiple of three bases preserves the downstream reading frame"
+          "text": "Removing a multiple of three bases preserves the reading frame"
         },
         {
           "label": "E",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "The six possible reading frames of a nucleotide sequence"
+          "text": "The six possible reading frames"
         },
         {
           "label": "C",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "The genetic code is degenerate, so the new codon is synonymous and encodes the same amino acid"
+          "text": "The genetic code is degenerate, so the new codon is synonymous"
         },
         {
           "label": "C",

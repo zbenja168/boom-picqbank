@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "To increase polarity and water solubility so the compound can be excreted"
+          "text": "To increase polarity and water solubility"
         },
         {
           "label": "C",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Alcohol induces CYP2E1, increasing production of the toxic intermediate NAPQI"
+          "text": "Alcohol induces CYP2E1, increasing production of NAPQI"
         }
       ],
       "correctAnswer": "E",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "CO2 transport and bicarbonate acid-base buffering"
+          "text": "CO2 transport and acid-base buffering"
         },
         {
           "label": "B",
@@ -365,7 +365,7 @@
         },
         {
           "label": "B",
-          "text": "It traps glucose inside the cell because the charged phosphate prevents it from crossing the membrane"
+          "text": "It traps glucose inside the cell"
         },
         {
           "label": "C",
@@ -451,7 +451,7 @@
         },
         {
           "label": "D",
-          "text": "Liver (it expresses glucose-6-phosphatase)"
+          "text": "Liver"
         },
         {
           "label": "E",
@@ -478,7 +478,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It traps glucose inside the cell by making it membrane-impermeant and commits it to metabolism"
+          "text": "It traps glucose inside the cell and commits it to metabolism"
         },
         {
           "label": "B",
@@ -521,7 +521,7 @@
         },
         {
           "label": "B",
-          "text": "Its low affinity means activity rises steeply only when blood glucose is elevated, such as after a meal"
+          "text": "Its low affinity means activity rises steeply only when blood glucose is elevated"
         },
         {
           "label": "C",

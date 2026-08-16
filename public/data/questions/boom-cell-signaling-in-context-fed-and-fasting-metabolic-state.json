@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "They block the ATP-sensitive K+ channel, causing membrane depolarization"
+          "text": "They block the ATP-sensitive K+ channel"
         }
       ],
       "correctAnswer": "E",
@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Only the liver expresses glycerol kinase to phosphorylate glycerol to glycerol 3-phosphate for gluconeogenesis"
+          "text": "Only the liver expresses glycerol kinase"
         },
         {
           "label": "B",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Insulin activates protein phosphatase, keeping hormone-sensitive lipase dephosphorylated and inactive to suppress lipolysis"
+          "text": "Insulin activates protein phosphatase, keeping hormone-sensitive lipase inactive"
         }
       ],
       "correctAnswer": "E",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "Phosphorylation inactivates glycogen synthase but activates the catabolic enzymes, so one signal simultaneously stops synthesis and promotes degradation"
+          "text": "Phosphorylation inactivates glycogen synthase but activates the catabolic enzymes"
         },
         {
           "label": "E",
@@ -287,7 +287,7 @@
         },
         {
           "label": "B",
-          "text": "Row B: low insulin:glucagon ratio, high HSL activity, high phosphorylated glycogen synthase, low chylomicrons, low PFK-2 kinase activity"
+          "text": "Row B: low insulin:glucagon ratio, high HSL, high phosphorylated glycogen synthase, low chylomicrons, low PFK-2 kinase"
         },
         {
           "label": "C",
@@ -326,7 +326,7 @@
         },
         {
           "label": "B",
-          "text": "It couples energy demand and neural/hormonal signals to activate glycogenolysis, supplying glucose for ATP generation"
+          "text": "It couples energy demand and neural/hormonal signals to activate glycogenolysis"
         },
         {
           "label": "C",
@@ -365,7 +365,7 @@
         },
         {
           "label": "B",
-          "text": "Glucagon-dominant fasting state with high ATP from fatty-acid oxidation"
+          "text": "Glucagon-dominant fasting state"
         },
         {
           "label": "C",
@@ -408,7 +408,7 @@
         },
         {
           "label": "C",
-          "text": "A small rise in AMP is a sensitive low-energy signal that activates enzymes like PFK-1 and AMPK"
+          "text": "A small rise in AMP is a sensitive low-energy signal"
         },
         {
           "label": "D",
@@ -443,7 +443,7 @@
         },
         {
           "label": "B",
-          "text": "ATP falls modestly while ADP and AMP rise, signaling energy demand"
+          "text": "ATP falls modestly while ADP and AMP rise"
         },
         {
           "label": "C",

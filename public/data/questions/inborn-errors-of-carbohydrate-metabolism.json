@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "Phosphorylase halts about four residues from a branch, requiring debranching enzyme to continue degradation"
+          "text": "Phosphorylase halts about four residues from a branch, requiring debranching enzyme"
         },
         {
           "label": "E",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "It generates 2,3-BPG, which lowers hemoglobin's oxygen affinity to promote tissue oxygen unloading"
+          "text": "It generates 2,3-BPG, which lowers hemoglobin's oxygen affinity"
         }
       ],
       "correctAnswer": "E",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Von Gierke disease (type I glycogen storage disease)"
+          "text": "Von Gierke disease (type I)"
         }
       ],
       "correctAnswer": "E",

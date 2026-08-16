@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Synthesizing glucose de novo to maintain blood glucose during fasting"
+          "text": "Synthesizing glucose de novo to maintain blood glucose"
         },
         {
           "label": "C",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "The inner mitochondrial membrane is impermeable to NADH itself"
+          "text": "The inner mitochondrial membrane is impermeable to NADH"
         }
       ],
       "correctAnswer": "E",
@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "Fewer ATP per cytosolic NADH because electrons enter at complex II via FADH2"
+          "text": "Fewer ATP per cytosolic NADH"
         }
       ],
       "correctAnswer": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "The cell is energy-replete, so pyruvate oxidation is downregulated"
+          "text": "The cell is energy-replete"
         },
         {
           "label": "D",
@@ -369,7 +369,7 @@
         },
         {
           "label": "C",
-          "text": "Fructose is trapped as fructose 1-phosphate and cleaved by aldolase B, bypassing the PFK-1 regulatory step"
+          "text": "Fructose is trapped as fructose 1-phosphate, bypassing the PFK-1 regulatory step"
         },
         {
           "label": "D",
@@ -412,7 +412,7 @@
         },
         {
           "label": "D",
-          "text": "It escapes PFK-1 negative feedback, aggressively promoting lipogenesis"
+          "text": "It escapes PFK-1 negative feedback"
         },
         {
           "label": "E",

@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "It protects the mRNA from degradation and promotes ribosome binding for translation"
+          "text": "It protects the mRNA from degradation"
         }
       ],
       "correctAnswer": "E",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Removal of the intron and joining of the flanking exons"
+          "text": "Removal of the intron and joining of the exons"
         },
         {
           "label": "D",
@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It lets a single gene generate multiple distinct protein products"
+          "text": "It lets a single gene generate multiple protein products"
         },
         {
           "label": "B",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Degeneracy (redundancy) of the genetic code"
+          "text": "Degeneracy of the genetic code"
         },
         {
           "label": "C",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Delivery of a specific amino acid to the ribosome via anticodon-codon base pairing"
+          "text": "Delivery of a specific amino acid to the ribosome"
         }
       ],
       "correctAnswer": "E",
@@ -244,7 +244,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Co-translational targeting and import of secretory/membrane proteins into the ER"
+          "text": "Co-translational targeting of secretory/membrane proteins into the ER"
         },
         {
           "label": "B",
@@ -330,7 +330,7 @@
         },
         {
           "label": "C",
-          "text": "It lets a distant enhancer boost transcription initiation at the promoter"
+          "text": "It lets a distant enhancer boost transcription initiation"
         },
         {
           "label": "D",
@@ -377,7 +377,7 @@
         },
         {
           "label": "E",
-          "text": "Transcription (synthesis of RNA from a DNA template)"
+          "text": "Transcription"
         }
       ],
       "correctAnswer": "E",

@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Two diploid cells genetically identical to the parent"
+          "text": "Two diploid cells identical to the parent"
         },
         {
           "label": "B",
@@ -334,7 +334,7 @@
         },
         {
           "label": "D",
-          "text": "Down syndrome (translocation trisomy 21)"
+          "text": "Down syndrome (trisomy 21)"
         },
         {
           "label": "E",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "Producing gametes with unbalanced chromosome content, risking miscarriage or an affected child"
+          "text": "Producing gametes with unbalanced chromosome content"
         },
         {
           "label": "C",
@@ -517,7 +517,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Gain of genetic material (partial trisomy of the affected segment)"
+          "text": "Gain of genetic material"
         },
         {
           "label": "B",
