@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "id": "boom-metabolic-overview-i-general-reactions",
-      "name": "BOOM: Metabolic Overview I: General Reactions",
+      "id": "w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "boom-metabolic-overview-i-general-reactions",
@@ -10,11 +10,14 @@
           "sourceFile": "brick",
           "questionCount": 5
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-metabolic-overview-ii-oxphos",
-      "name": "BOOM: Metabolic Overview II: OXPHOS",
+      "id": "w1s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "boom-metabolic-overview-ii-oxphos",
@@ -22,47 +25,41 @@
           "sourceFile": "brick",
           "questionCount": 4
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "dna-replication",
-      "name": "DNA Replication",
+      "id": "w2s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "dna-replication",
           "name": "DNA Replication",
           "sourceFile": "brick",
           "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "the-central-dogma-dna-to-rna-to-proteins",
-      "name": "The Central Dogma: DNA to RNA to Proteins",
-      "topics": [
+        },
         {
           "id": "the-central-dogma-dna-to-rna-to-proteins",
           "name": "The Central Dogma: DNA to RNA to Proteins",
           "sourceFile": "brick",
           "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "dna-point-mutations",
-      "name": "DNA Point Mutations",
-      "topics": [
+        },
         {
           "id": "dna-point-mutations",
           "name": "DNA Point Mutations",
           "sourceFile": "brick",
           "questionCount": 4
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
-      "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders I",
+      "id": "w2s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-i",
@@ -70,35 +67,35 @@
           "sourceFile": "brick",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
-      "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
+      "id": "w2s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "boom-proteins-enzymatic-machines-and-introduction-to-protein-based-disorders-ii",
           "name": "BOOM: Proteins, Enzymatic Machines and Introduction to Protein-based Disorders II",
           "sourceFile": "brick",
           "questionCount": 16
-        }
-      ]
-    },
-    {
-      "id": "biotechniques-protein-detection",
-      "name": "Biotechniques: Protein Detection",
-      "topics": [
+        },
         {
           "id": "biotechniques-protein-detection",
           "name": "Biotechniques: Protein Detection",
           "sourceFile": "brick",
           "questionCount": 8
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
-      "name": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
+      "id": "w3s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
@@ -106,11 +103,14 @@
           "sourceFile": "brick",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
-      "name": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview II",
+      "id": "w3s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "boom-carbohydrates-and-carbohydrate-metabolism-overview-ii",
@@ -118,11 +118,14 @@
           "sourceFile": "brick",
           "questionCount": 11
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-lipids-and-lipid-metabolism-introduction",
-      "name": "BOOM: Lipids and Lipid Metabolism Introduction",
+      "id": "w3s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "boom-lipids-and-lipid-metabolism-introduction",
@@ -130,11 +133,14 @@
           "sourceFile": "brick",
           "questionCount": 22
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-overview-of-cell-signaling",
-      "name": "BOOM: Overview of Cell Signaling",
+      "id": "w4s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "boom-overview-of-cell-signaling",
@@ -142,11 +148,14 @@
           "sourceFile": "brick",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
-      "name": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
+      "id": "w4s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
@@ -154,35 +163,35 @@
           "sourceFile": "brick",
           "questionCount": 14
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "basic-nutritional-requirements-for-metabolism",
-      "name": "Basic Nutritional Requirements for Metabolism",
+      "id": "w5s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "basic-nutritional-requirements-for-metabolism",
           "name": "Basic Nutritional Requirements for Metabolism",
           "sourceFile": "brick",
           "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "boom-basic-nutritional-requirements-for-metabolism",
-      "name": "BOOM: Basic Nutritional Requirements for Metabolism",
-      "topics": [
+        },
         {
           "id": "boom-basic-nutritional-requirements-for-metabolism",
           "name": "BOOM: Basic Nutritional Requirements for Metabolism",
           "sourceFile": "brick",
           "questionCount": 5
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     },
     {
-      "id": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
-      "name": "Amino Acid Metabolism I: Nitrogen Balance and Urea Cycle",
+      "id": "w5s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "amino-acid-metabolism-i-nitrogen-balance-and-urea-cycle",
@@ -190,11 +199,14 @@
           "sourceFile": "brick",
           "questionCount": 15
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     },
     {
-      "id": "amino-acid-metabolism-ii-inborn-errors",
-      "name": "Amino Acid Metabolism II: Inborn Errors",
+      "id": "w5s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "amino-acid-metabolism-ii-inborn-errors",
@@ -202,11 +214,14 @@
           "sourceFile": "brick",
           "questionCount": 12
         }
-      ]
+      ],
+      "week": 5,
+      "weekName": "Week 5",
+      "weekSubtitle": ""
     },
     {
-      "id": "porphyrins-and-iron-homeostasis",
-      "name": "Porphyrins and Iron Homeostasis",
+      "id": "w6s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "porphyrins-and-iron-homeostasis",
@@ -214,11 +229,14 @@
           "sourceFile": "brick",
           "questionCount": 20
         }
-      ]
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
     },
     {
-      "id": "inborn-errors-of-carbohydrate-metabolism",
-      "name": "Inborn Errors of Carbohydrate Metabolism",
+      "id": "w6s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "inborn-errors-of-carbohydrate-metabolism",
@@ -226,11 +244,14 @@
           "sourceFile": "brick",
           "questionCount": 7
         }
-      ]
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
     },
     {
-      "id": "dyslipidemias-and-lipid-storage-disorders",
-      "name": "Dyslipidemias and Lipid Storage Disorders",
+      "id": "w6s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "dyslipidemias-and-lipid-storage-disorders",
@@ -238,115 +259,82 @@
           "sourceFile": "brick",
           "questionCount": 6
         }
-      ]
+      ],
+      "week": 6,
+      "weekName": "Week 6",
+      "weekSubtitle": ""
     },
     {
-      "id": "chromosomes",
-      "name": "Chromosomes",
+      "id": "w7s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "chromosomes",
           "name": "Chromosomes",
           "sourceFile": "brick",
           "questionCount": 15
-        }
-      ]
-    },
-    {
-      "id": "variants-in-chromosome-number",
-      "name": "Variants in Chromosome Number",
-      "topics": [
+        },
         {
           "id": "variants-in-chromosome-number",
           "name": "Variants in Chromosome Number",
           "sourceFile": "brick",
           "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "sex-chromosome-aneuploidy",
-      "name": "Sex Chromosome Aneuploidy",
-      "topics": [
+        },
         {
           "id": "sex-chromosome-aneuploidy",
           "name": "Sex Chromosome Aneuploidy",
           "sourceFile": "brick",
           "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "subchromosomal-deletion-syndromes",
-      "name": "Subchromosomal Deletion Syndromes",
-      "topics": [
+        },
         {
           "id": "subchromosomal-deletion-syndromes",
           "name": "Subchromosomal Deletion Syndromes",
           "sourceFile": "brick",
           "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "mosaicism",
-      "name": "Mosaicism",
-      "topics": [
+        },
         {
           "id": "mosaicism",
           "name": "Mosaicism",
           "sourceFile": "brick",
           "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "molecular-biology-techniques-cytogenetics",
-      "name": "Molecular Biology Techniques: Cytogenetics",
-      "topics": [
+        },
         {
           "id": "molecular-biology-techniques-cytogenetics",
           "name": "Molecular Biology Techniques: Cytogenetics",
           "sourceFile": "brick",
           "questionCount": 5
         }
-      ]
+      ],
+      "week": 7,
+      "weekName": "Week 7",
+      "weekSubtitle": ""
     },
     {
-      "id": "pedigrees-and-patterns-of-monogenic-inheritance",
-      "name": "Pedigrees and Patterns of Monogenic Inheritance",
+      "id": "w7s2",
+      "name": "Session 2",
       "topics": [
         {
           "id": "pedigrees-and-patterns-of-monogenic-inheritance",
           "name": "Pedigrees and Patterns of Monogenic Inheritance",
           "sourceFile": "brick",
           "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "genotype-phenotype-correlation",
-      "name": "Genotype-Phenotype Correlation",
-      "topics": [
+        },
         {
           "id": "genotype-phenotype-correlation",
           "name": "Genotype-Phenotype Correlation",
           "sourceFile": "brick",
           "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "molecular-biology-techniques-dna-analysis",
-      "name": "Molecular Biology Techniques: DNA Analysis",
-      "topics": [
+        },
         {
           "id": "molecular-biology-techniques-dna-analysis",
           "name": "Molecular Biology Techniques: DNA Analysis",
           "sourceFile": "brick",
           "questionCount": 2
         }
-      ]
+      ],
+      "week": 7,
+      "weekName": "Week 7",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 276
