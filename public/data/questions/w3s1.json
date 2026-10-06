@@ -318,7 +318,7 @@
       "id": "bopic-135",
       "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
-      "stem": "The open-chain glucose cyclizes into the two ring forms shown, which differ only in the orientation of the hydroxyl at the newly formed anomeric carbon. What are these two interconverting forms called?",
+      "stem": "The open-chain glucose cyclizes into the two ring forms shown, which differ only in the orientation of the hydroxyl at the newly formed stereocenter, C1 (the former carbonyl carbon). What are these two interconverting forms called?",
       "choices": [
         {
           "label": "A",
@@ -396,7 +396,7 @@
       "id": "bopic-137",
       "topicId": "boom-carbohydrates-and-carbohydrate-metabolism-overview-i",
       "topicName": "BOOM: Carbohydrates and Carbohydrate Metabolism Overview I",
-      "stem": "This highly branched storage polymer of glucose uses α-1,4 bonds along its chains and α-1,6 bonds at branch points, with its single reducing end anchored to glycogenin. What molecule is shown?",
+      "stem": "This highly branched storage polymer of glucose, found in animal liver and muscle, uses α-1,4 bonds along its chains and α-1,6 bonds at branch points roughly every 8-12 residues. What molecule is shown?",
       "choices": [
         {
           "label": "A",
