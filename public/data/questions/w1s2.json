@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue producing warm, tender, erythematous, poorly demarcated swelling. It is distinguished from vascular conditions like Raynaud or cyanosis, which cause color change rather than warm inflammatory swelling.",
         "whyCorrect": "Cellulitis is a spreading bacterial infection of the dermis and subcutaneous tissue producing warm, tender, erythematous, poorly demarcated swelling. It is distinguished from vascular conditions like Raynaud or cyanosis, which cause color change rather than warm inflammatory swelling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acrocyanosis is painless, symmetric bluish discoloration of the hands without warmth or swelling.",
+          "C": "Raynaud phenomenon causes episodic white-blue-red color changes of the digits from vasospasm, not persistent warm swelling.",
+          "D": "Palmar erythema is redness of the thenar and hypothenar eminences (as in liver disease or pregnancy), without swelling or warmth of the dorsum.",
+          "E": "Peripheral cyanosis is a bluish tint of the fingertips from sluggish flow, not warm red inflammatory swelling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-082_4_p14_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Peripheral (acral) cyanosis reflects increased oxygen extraction and sluggish flow in the extremities, giving a bluish tint to the fingers/nail beds while mucous membranes stay pink. Central cyanosis, by contrast, involves the tongue/lips and reflects arterial desaturation.",
         "whyCorrect": "Peripheral (acral) cyanosis reflects increased oxygen extraction and sluggish flow in the extremities, giving a bluish tint to the fingers/nail beds while mucous membranes stay pink. Central cyanosis, by contrast, involves the tongue/lips and reflects arterial desaturation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Palmar erythema is redness of the palms, while this hand shows bluish fingertips with a pink palm.",
+          "B": "Erythromelalgia causes episodic red, hot, burning extremities, not cool bluish fingertips.",
+          "C": "Cellulitis produces warm, red, swollen skin from infection, not distal blue discoloration.",
+          "D": "Central cyanosis involves the lips, tongue, and mucous membranes from arterial desaturation; here the change is limited to the fingertips."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-083_4_p14_2.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The mitochondrion carries out oxidative phosphorylation along the electron transport chain located on the cristae of the inner membrane, generating the bulk of cellular ATP; the matrix also houses the TCA cycle and fatty acid beta-oxidation.",
         "whyCorrect": "The mitochondrion carries out oxidative phosphorylation along the electron transport chain located on the cristae of the inner membrane, generating the bulk of cellular ATP; the matrix also houses the TCA cycle and fatty acid beta-oxidation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ribosome assembly and rRNA synthesis take place in the nucleolus, not the mitochondrion.",
+          "B": "Lysosomes degrade macromolecules using acid hydrolases; mitochondria generate ATP.",
+          "D": "Detoxification and lipid synthesis are smooth ER functions, not mitochondrial ones.",
+          "E": "Glycosylation and packaging for secretion occur in the Golgi apparatus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-250_3_p2_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Uncouplers act as proton ionophores, letting H+ leak back into the matrix without passing through ATP synthase. Electron transport and oxygen consumption continue (even accelerate), but the energy is released as heat rather than captured as ATP, causing hyperthermia.",
         "whyCorrect": "Uncouplers act as proton ionophores, letting H+ leak back into the matrix without passing through ATP synthase. Electron transport and oxygen consumption continue (even accelerate), but the energy is released as heat rather than captured as ATP, causing hyperthermia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blocking Complex IV is the action of cyanide, carbon monoxide, and azide, which halt electron flow and oxygen use rather than generating heat.",
+          "C": "Uncouplers do not deplete NADH and FADH2; substrate oxidation actually speeds up as the proton gradient dissipates.",
+          "D": "Complex I inhibitors include rotenone and amytal, which halt electron transfer instead of letting it continue as heat.",
+          "E": "Direct ATP synthase inhibition is oligomycin's action, which halts electron transport, whereas uncouplers let it run unchecked."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-276_4_p16_1.png",

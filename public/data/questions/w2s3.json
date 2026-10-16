@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Phase I reactions (often CYP450-mediated oxidation/reduction/hydrolysis) add or expose functional groups, and Phase II reactions conjugate polar groups. The net effect is greater water solubility, facilitating renal or biliary excretion.",
         "whyCorrect": "Phase I reactions (often CYP450-mediated oxidation/reduction/hydrolysis) add or expose functional groups, and Phase II reactions conjugate polar groups. The net effect is greater water solubility, facilitating renal or biliary excretion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Some prodrugs are activated by metabolism, but the overall purpose is to make compounds easier to excrete, and many drugs are inactivated.",
+          "C": "Biotransformation increases, not decreases, renal clearance by making compounds more water-soluble.",
+          "D": "Metabolism produces polar compounds excreted in urine or bile, not volatile metabolites exhaled by the lungs.",
+          "E": "Increasing lipid solubility would trap compounds in fat, the opposite of metabolism's aim of excretion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-084_16_p13_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Chronic ethanol induces CYP2E1, shunting more acetaminophen toward NAPQI. When glutathione (GSH) is depleted, NAPQI binds cellular proteins and causes centrilobular hepatic necrosis. N-acetylcysteine treats this by replenishing GSH.",
         "whyCorrect": "Chronic ethanol induces CYP2E1, shunting more acetaminophen toward NAPQI. When glutathione (GSH) is depleted, NAPQI binds cellular proteins and causes centrilobular hepatic necrosis. N-acetylcysteine treats this by replenishing GSH.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "N-acetylcysteine is the antidote given after overdose; alcohol does not affect its absorption, and this does not explain increased toxicity.",
+          "B": "Alcohol does not bind acetaminophen in the kidney; the hepatotoxicity comes from liver metabolism.",
+          "C": "Sulfation can become saturated in overdose, but chronic alcohol's key effect is CYP2E1 induction (along with glutathione depletion).",
+          "D": "Alcohol does not competitively inhibit glucuronidation; it shifts metabolism toward NAPQI by inducing CYP2E1."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-085_16_p18_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Km equals the substrate concentration at half Vmax. A lower Km means less substrate is needed to reach half-maximal velocity, reflecting greater enzyme-substrate affinity.",
         "whyCorrect": "Km equals the substrate concentration at half Vmax. A lower Km means less substrate is needed to reach half-maximal velocity, reflecting greater enzyme-substrate affinity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Irreversible inhibition lowers Vmax by removing active enzyme; Km comparisons between enzymes do not indicate it.",
+          "B": "Reactions are zero-order only at saturating substrate, regardless of Km.",
+          "C": "Km and Vmax are independent parameters; a lower Km says nothing about maximum velocity.",
+          "E": "A lower Km means less substrate is needed for half-maximal rate, indicating higher, not lower, affinity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-114_15_p15_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Carbonic anhydrase rapidly interconverts CO2 and water with carbonic acid, which dissociates to bicarbonate and H+. This underlies CO2 transport in blood and the bicarbonate buffering system regulating acid-base balance.",
         "whyCorrect": "Carbonic anhydrase rapidly interconverts CO2 and water with carbonic acid, which dissociates to bicarbonate and H+. This underlies CO2 transport in blood and the bicarbonate buffering system regulating acid-base balance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sodium reabsorption in the loop of Henle is driven by the Na-K-2Cl cotransporter, not carbonic anhydrase.",
+          "C": "ATP synthesis by oxidative phosphorylation occurs in mitochondria via ATP synthase, unrelated to carbonic anhydrase.",
+          "D": "Ammonia detoxification occurs in the urea cycle; although carbonic anhydrase can supply bicarbonate there, it is not the urea cycle's central step.",
+          "E": "Oxygen binds hemoglobin directly in the lungs without carbonic anhydrase catalysis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-115_15_p19_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Plotting 1/vi against 1/[S] linearizes the Michaelis-Menten equation. The x-intercept gives -1/Km, the y-intercept gives 1/Vmax, and the slope is Km/Vmax. This is the classic Lineweaver-Burk (double-reciprocal) plot.",
         "whyCorrect": "Plotting 1/vi against 1/[S] linearizes the Michaelis-Menten equation. The x-intercept gives -1/Km, the y-intercept gives 1/Vmax, and the slope is Km/Vmax. This is the classic Lineweaver-Burk (double-reciprocal) plot.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Hill plot graphs log[Y/(1-Y)] versus log[S] to assess cooperativity, not reciprocals of velocity and substrate.",
+          "B": "The Michaelis-Menten curve is a hyperbola of v versus [S], not a straight-line reciprocal plot.",
+          "D": "A Scatchard plot analyzes receptor-ligand binding as bound/free versus bound.",
+          "E": "An Eadie-Hofstee plot graphs v versus v/[S], not 1/v versus 1/[S]."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-116_15_p21_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
         "whyCorrect": "Pyruvate carboxylase (a biotin-dependent, ATP-requiring enzyme) carboxylates pyruvate to oxaloacetate, an anaplerotic and gluconeogenic step. It is activated by acetyl-CoA.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acetyl-CoA carboxylase carboxylates acetyl-CoA to malonyl-CoA for fatty acid synthesis, not pyruvate.",
+          "B": "Pyruvate dehydrogenase decarboxylates pyruvate to acetyl-CoA, releasing CO2 rather than fixing it.",
+          "D": "Pyruvate kinase converts PEP to pyruvate in glycolysis, generating ATP rather than consuming it.",
+          "E": "PEP carboxykinase converts oxaloacetate to PEP (using GTP) in the next gluconeogenic step."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-117_15_p24_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Both isozymes approach a Vmax near 200 umol/L/s. Isozyme B reaches half-maximal rate (~100) at about 5 mM, whereas isozyme A reaches it at about 10 mM. A lower [S] at half-Vmax means a lower Km and thus higher substrate affinity for isozyme B.",
         "whyCorrect": "Both isozymes approach a Vmax near 200 umol/L/s. Isozyme B reaches half-maximal rate (~100) at about 5 mM, whereas isozyme A reaches it at about 10 mM. A lower [S] at half-Vmax means a lower Km and thus higher substrate affinity for isozyme B.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The isozymes reach half-maximal velocity at different substrate concentrations (about 5 mM vs 10 mM), so their Km values differ.",
+          "C": "Isozyme B reaches half-maximal rate at a lower [S], meaning higher, not lower, affinity than isozyme A.",
+          "D": "Both isozymes approach a similar Vmax near 200, so isozyme A does not have a much higher Vmax.",
+          "E": "Isozyme A needs about 10 mM to reach half-maximal rate, while isozyme B needs only about 5 mM."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-118_15_p26_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "A catalyst provides an alternate pathway with a smaller energy barrier, so the peak (Ea) is lower in panel (b). It does not change the energies of reactants or products, delta G, or the equilibrium position; it only speeds attainment of equilibrium.",
         "whyCorrect": "A catalyst provides an alternate pathway with a smaller energy barrier, so the peak (Ea) is lower in panel (b). It does not change the energies of reactants or products, delta G, or the equilibrium position; it only speeds attainment of equilibrium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Catalysts do not alter delta G; reactant and product energies are the same in both diagrams.",
+          "B": "Catalysts speed attainment of equilibrium but do not shift its position.",
+          "D": "The reactants start at the same energy in both curves; only the peak height changes.",
+          "E": "The products end at the same free energy in both curves, so the reaction is not made more exergonic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-119_15_p3_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Enzymes bind and stabilize the high-energy transition state more tightly than the substrate, lowering the activation energy peak and accelerating the reaction. They do not change the equilibrium or the net free-energy change.",
         "whyCorrect": "Enzymes bind and stabilize the high-energy transition state more tightly than the substrate, lowering the activation energy peak and accelerating the reaction. They do not change the equilibrium or the net free-energy change.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enzymes do not supply energy or shift equilibrium; they accelerate both forward and reverse reactions equally.",
+          "B": "Enzymes do not permanently alter substrate bonds before catalysis; they bind transiently and are released unchanged.",
+          "C": "Enzymes do not change product free energy, so delta G is unchanged.",
+          "D": "Enzymes stabilize the transition state; they do not raise substrate ground-state energy above it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-120_15_p4_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Adding a negatively charged phosphate to glucose produces glucose-6-phosphate, which cannot diffuse back out through the membrane. This commits glucose to intracellular metabolism (glycolysis, glycogenesis, or the pentose phosphate pathway).",
         "whyCorrect": "Adding a negatively charged phosphate to glucose produces glucose-6-phosphate, which cannot diffuse back out through the membrane. This commits glucose to intracellular metabolism (glycolysis, glycogenesis, or the pentose phosphate pathway).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Full conversion of glucose to pyruvate takes all ten glycolytic steps; this first step only phosphorylates glucose.",
+          "C": "Releasing free glucose requires removing the phosphate with glucose-6-phosphatase, the opposite reaction.",
+          "D": "This step consumes ATP; net ATP gain comes later in glycolysis.",
+          "E": "Glucose-6-phosphate is isomerized to fructose-6-phosphate in the next step by phosphoglucose isomerase, not by this reaction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-121_15_p6_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Glycogen phosphorylase catalyzes phosphorolysis of the alpha-1,4 bonds of glycogen, releasing glucose-1-phosphate. This is the rate-limiting, regulated step of glycogen breakdown (glycogenolysis).",
         "whyCorrect": "Glycogen phosphorylase catalyzes phosphorolysis of the alpha-1,4 bonds of glycogen, releasing glucose-1-phosphate. This is the rate-limiting, regulated step of glycogen breakdown (glycogenolysis).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Gluconeogenesis builds new glucose from pyruvate, lactate, glycerol and amino acids; its control points are pyruvate carboxylase and fructose-1,6-bisphosphatase, not phosphorolysis of glycogen.",
+          "C": "Lipolysis is hydrolysis of stored triglyceride by adipose lipases (ATGL, hormone-sensitive lipase) and has nothing to do with releasing glucose units from glycogen.",
+          "D": "Glycogenesis is glycogen synthesis; its rate-limiting enzyme, glycogen synthase, adds UDP-glucose to chains rather than cleaving glucose off with inorganic phosphate.",
+          "E": "Glycolysis starts from free glucose or glucose-6-phosphate and is rate-limited at PFK-1; generating glucose-1-phosphate from glycogen is an upstream breakdown step, not part of glycolysis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-122_15_p7_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Only the liver (and kidney) express glucose-6-phosphatase, which dephosphorylates glucose-6-phosphate to free glucose for export. Skeletal muscle lacks this enzyme, so muscle glycogen serves only local energy needs and cannot directly raise blood glucose.",
         "whyCorrect": "Only the liver (and kidney) express glucose-6-phosphatase, which dephosphorylates glucose-6-phosphate to free glucose for export. Skeletal muscle lacks this enzyme, so muscle glycogen serves only local energy needs and cannot directly raise blood glucose.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Red blood cells lack mitochondria and glycogen stores of note and have no glucose-6-phosphatase, so they consume glucose rather than release it into blood.",
+          "B": "Neurons are glucose consumers with negligible glycogen and no glucose-6-phosphatase; they cannot export free glucose to support blood glucose.",
+          "C": "Adipose tissue stores fuel as triglyceride and lacks glucose-6-phosphatase, so it cannot release free glucose into the circulation.",
+          "E": "Skeletal muscle stores abundant glycogen but lacks glucose-6-phosphatase, so its glucose-6-phosphate stays trapped for local glycolysis and cannot raise blood glucose."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-123_15_p9_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Hexokinase/glucokinase phosphorylate glucose to glucose 6-phosphate using ATP. The negatively charged phosphate prevents the sugar from crossing the plasma membrane, trapping it in the cell and committing it to glycolysis and other pathways.",
         "whyCorrect": "Hexokinase/glucokinase phosphorylate glucose to glucose 6-phosphate using ATP. The negatively charged phosphate prevents the sugar from crossing the plasma membrane, trapping it in the cell and committing it to glycolysis and other pathways.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Conversion to fructose-6-phosphate is the next step, by phosphoglucose isomerase, and the pathway remains regulated at PFK-1; phosphorylating glucose does not bypass regulation.",
+          "C": "This step is a phosphorylation that consumes ATP; no oxidation or CO2 release occurs here, as CO2 is first released at pyruvate dehydrogenase.",
+          "D": "Phosphorylating glucose consumes ATP rather than producing it; substrate-level ATP generation happens later at phosphoglycerate kinase and pyruvate kinase.",
+          "E": "Phosphorylation is not a reduction, and glucose-6-phosphate must still be isomerized to glucose-1-phosphate and activated as UDP-glucose before glycogen synthesis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-124_16_p2_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Glucokinase has a high Km (low affinity) and is not saturated at normal fasting glucose, so its activity increases substantially only when glucose is high (postprandial). This lets the liver take up and store glucose selectively when it is abundant. Hexokinase, with a low Km, is already saturated and functions during low glucose.",
         "whyCorrect": "Glucokinase has a high Km (low affinity) and is not saturated at normal fasting glucose, so its activity increases substantially only when glucose is high (postprandial). This lets the liver take up and store glucose selectively when it is abundant. Hexokinase, with a low Km, is already saturated and functions during low glucose.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "High affinity describes hexokinase, with its low Km; the right-shifted, high-Km curve belongs to glucokinase, which works poorly during hypoglycemia.",
+          "C": "Glucokinase activity rises with glucose concentration rather than being inhibited by it; it is inhibited by fructose-6-phosphate via glucokinase regulatory protein, not by glucose.",
+          "D": "The sigmoidal curve shows activity climbing across the physiologic glucose range, the opposite of a fixed, concentration-independent activity.",
+          "E": "Saturation at fasting glucose describes low-Km hexokinase; glucokinase is far from saturated at fasting levels, which is exactly why it can respond to rises in glucose."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-125_16_p3_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
         "whyCorrect": "A shared y-intercept means Vmax is unchanged, while the shifted x-intercept indicates an increased apparent Km. This pattern is classic for competitive inhibition, where the inhibitor competes with substrate and can be overcome by high substrate concentrations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Uncompetitive inhibition lowers both Vmax and Km, producing parallel lines with a higher y-intercept, not a shared y-intercept with a steeper slope.",
+          "B": "Irreversible inhibition removes functional enzyme and behaves like decreased Vmax, which would raise the y-intercept rather than leave it unchanged.",
+          "C": "Activation would lower the slope and y-intercept, but here the inhibitor line is steeper with the same y-intercept, indicating inhibition, not activation.",
+          "E": "Noncompetitive inhibition decreases Vmax, raising the y-intercept while keeping the x-intercept fixed; here the y-intercept is shared and the x-intercept moves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-126_16_p8_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
         "whyCorrect": "A shared x-intercept indicates an unchanged Km, while the raised y-intercept reflects a lowered Vmax. This is the signature of noncompetitive inhibition, in which the inhibitor binds independent of substrate and cannot be overcome by adding more substrate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The plot shows an inhibitor reducing Vmax (a higher y-intercept), not any activation of the enzyme.",
+          "B": "Uncompetitive inhibition lowers both Km and Vmax, giving a line parallel to the control with shifted x- and y-intercepts, not a shared x-intercept.",
+          "C": "Increased Vmax would lower the y-intercept; here the y-intercept is higher, reflecting reduced Vmax.",
+          "E": "Competitive inhibition leaves Vmax unchanged (shared y-intercept) and moves the x-intercept toward zero; this plot shows the reverse pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-127_16_p9_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "In immunohistochemistry, the primary antibody binds its target antigen; an enzyme-conjugated secondary antibody then converts DAB into a brown insoluble precipitate at that site. The brown staining therefore marks where the specific antigen is located in the tissue.",
         "whyCorrect": "In immunohistochemistry, the primary antibody binds its target antigen; an enzyme-conjugated secondary antibody then converts DAB into a brown insoluble precipitate at that site. The brown staining therefore marks where the specific antigen is located in the tissue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "DNA-dense nuclei are highlighted by a nuclear counterstain such as hematoxylin (blue), not by the DAB product, which forms only where the primary antibody bound.",
+          "B": "The brown precipitate is deposited by HRP at antibody-binding sites; cut edges can give nonspecific artifact but are not what the technique is designed to mark.",
+          "C": "Uniform total-protein staining would require a general protein stain; IHC uses an antigen-specific primary antibody so color appears only where that target is present.",
+          "E": "DAB marks the specific antigen wherever it is expressed, whether the tissue is viable or necrotic; it is not a stain for cell death."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-020_17_p10_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The Glu-to-Val substitution at position 6 removes a negative charge, so HbS carries a different net charge than HbA and migrates differently in an electric field. Electrophoresis separates the variants by charge, not by size, since the two forms are nearly identical in mass.",
         "whyCorrect": "The Glu-to-Val substitution at position 6 removes a negative charge, so HbS carries a different net charge than HbA and migrates differently in an electric field. Electrophoresis separates the variants by charge, not by size, since the two forms are nearly identical in mass.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HbA and HbS both carry ferrous heme iron; the sickle mutation changes a globin amino acid, not heme oxidation state.",
+          "B": "Both HbA and HbS are α2β2 tetramers with the same number of subunits; only one β-chain residue differs.",
+          "C": "A single Glu-to-Val substitution barely changes molecular weight, so size cannot separate the two; the change in charge does.",
+          "E": "Hemoglobin electrophoresis is run on hemolysate, with the hemoglobin freed from the cell membrane, so membrane lipids play no role in separation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-021_17_p14_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "SDS-PAGE coats proteins with uniform negative charge so that migration through the sieving polyacrylamide gel depends on size: smaller proteins move faster and travel farther, giving separation by molecular weight.",
         "whyCorrect": "SDS-PAGE coats proteins with uniform negative charge so that migration through the sieving polyacrylamide gel depends on size: smaller proteins move faster and travel farther, giving separation by molecular weight.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "SDS denatures proteins and abolishes their native enzymatic activity, so activity cannot be the basis of separation.",
+          "C": "The gel has no way to sort proteins by organelle of origin; that requires subcellular fractionation such as differential centrifugation before electrophoresis.",
+          "D": "Separation by isoelectric point is isoelectric focusing; SDS masks intrinsic charge with a uniform negative coat, so pI no longer drives migration.",
+          "E": "SDS-PAGE separates polypeptides, and lipid content plays no part in migration through the polyacrylamide sieve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-022_17_p3_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "This is a Western blot: proteins are size-separated, transferred to a membrane, and detected with antibodies specific to the target. A band confirms that the specific protein is present and reports its molecular weight, but not its sequence or structure.",
         "whyCorrect": "This is a Western blot: proteins are size-separated, transferred to a membrane, and detected with antibodies specific to the target. A band confirms that the specific protein is present and reports its molecular weight, but not its sequence or structure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A Western blot detects proteins with antibodies; lipid quantification needs separate lipid assays such as extraction or enzymatic kits.",
+          "C": "Determining a nucleotide sequence requires DNA sequencing; a Western blot detects a protein and reveals nothing about its gene sequence.",
+          "D": "Enzyme kinetics are measured by following product formation over time in an activity assay, not from a single endpoint band on a membrane.",
+          "E": "Three-dimensional structure requires X-ray crystallography, NMR or cryo-EM; a blot of denatured protein reports only presence and approximate size."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-023_17_p4_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "This depicts an ELISA. A detectable enzyme conjugated to the antibody converts substrate into a colored product only where antigen-antibody binding occurred, so color intensity is proportional to the quantity of the target present, allowing quantification.",
         "whyCorrect": "This depicts an ELISA. A detectable enzyme conjugated to the antibody converts substrate into a colored product only where antigen-antibody binding occurred, so color intensity is proportional to the quantity of the target present, allowing quantification.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "ELISA detects antigen through antibody binding and a color reaction; gene sequence is determined by DNA sequencing.",
+          "B": "Color intensity reflects how much antibody-enzyme conjugate is bound, not the antigen's molecular size; size is estimated by gel electrophoresis.",
+          "C": "Viable cell counts need cell-based assays such as trypan blue exclusion or MTT; ELISA wells contain immobilized antigen, not cultured cells.",
+          "E": "Buffer pH is held constant for the reaction; the color signal reports antigen-antibody binding, not pH."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-024_17_p5_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "In a titration ELISA, the endpoint titer is the greatest serum dilution that still yields a positive signal. A higher endpoint dilution (e.g., Patient C) indicates more specific antibody, whereas a low endpoint (Patient D) indicates little antibody.",
         "whyCorrect": "In a titration ELISA, the endpoint titer is the greatest serum dilution that still yields a positive signal. A higher endpoint dilution (e.g., Patient C) indicates more specific antibody, whereas a low endpoint (Patient D) indicates little antibody.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The color comes from the enzyme conjugated to the detection antibody acting on substrate, not from enzymes native to the patient's serum.",
+          "B": "Serial dilution measures how much antibody is present, not its size; molecular weight would be determined by electrophoresis.",
+          "C": "Blood group is typed by agglutination with anti-A and anti-B reagents, not by the endpoint dilution of an ELISA against a coated antigen.",
+          "D": "Each plate is coated with a single antigen, so the endpoint reflects the amount of antibody to that antigen, not how many antigens the patient has seen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-025_17_p6_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The paired scatter plots (FSC vs SSC to distinguish granulocytes, monocytes and lymphocytes) and marker plots (CD4 vs CD8) are the hallmark output of flow cytometry, which measures scatter and fluorescence of single cells passing a laser.",
         "whyCorrect": "The paired scatter plots (FSC vs SSC to distinguish granulocytes, monocytes and lymphocytes) and marker plots (CD4 vs CD8) are the hallmark output of flow cytometry, which measures scatter and fluorescence of single cells passing a laser.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mass spectrometry measures mass-to-charge ratios of ionized molecules and outputs spectra, not single-cell scatter and fluorescence dot plots.",
+          "B": "Light microscopy produces images of cells, not quantitative plots of forward and side scatter with CD4 versus CD8 fluorescence.",
+          "C": "Immunohistochemistry localizes antigens in fixed tissue sections viewed under a microscope; it does not analyze cells in suspension by laser scatter.",
+          "E": "Gel electrophoresis separates molecules into bands by size or charge; it does not analyze intact single cells or produce dot plots."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-026_17_p9_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
         "whyCorrect": "In sickle cell disease, a valine-for-glutamate substitution in beta-globin causes deoxygenated HbS to polymerize into rigid fibers that distort the red cell into the characteristic sickle/crescent shape seen on the right.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Iron accumulation within red cells produces siderocytes or Pappenheimer bodies, not rigid crescent deformation of the whole cell.",
+          "B": "Complement attack lyses red cells, as in PNH, causing intravascular hemolysis rather than converting them into rigid sickle shapes.",
+          "D": "Antibody-mediated agglutination clumps red cells together and leads to spherocytes, not individual elongated crescent-shaped cells.",
+          "E": "Failed sodium pumping causes cells to swell toward spheres and lyse; the crescent shape comes from intracellular HbS polymer fibers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-053_17_p13_1.png",

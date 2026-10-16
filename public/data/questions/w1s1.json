@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The classic envelope (Maltese-cross pyramid) morphology is characteristic of calcium oxalate dihydrate crystals, the most common urinary crystal and stone type, associated with hypercalciuria and ethylene glycol toxicity.",
         "whyCorrect": "The classic envelope (Maltese-cross pyramid) morphology is characteristic of calcium oxalate dihydrate crystals, the most common urinary crystal and stone type, associated with hypercalciuria and ethylene glycol toxicity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Struvite crystals have a coffin-lid (rectangular prism) shape and form in alkaline urine with urease-producing bacteria.",
+          "C": "Uric acid crystals are yellow-brown rhomboid or rosette shapes in acidic urine, not colorless envelopes.",
+          "D": "Cystine crystals are flat, colorless hexagons, as seen in cystinuria.",
+          "E": "Cholesterol crystals appear as flat plates with notched corners, seen in nephrotic syndrome, not envelope shapes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-027_2_p13_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Anion gap = Na+ - (Cl- + HCO3-) = 138 - (102 + 10) = 26 mEq/L. This markedly elevated gap with low bicarbonate indicates a high anion gap metabolic acidosis.",
         "whyCorrect": "Anion gap = Na+ - (Cl- + HCO3-) = 138 - (102 + 10) = 26 mEq/L. This markedly elevated gap with low bicarbonate indicates a high anion gap metabolic acidosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A gap of 40 does not follow from the values given: 138 - (102 + 10) equals 26, and reaching 40 would require far lower chloride or bicarbonate.",
+          "B": "Sixteen would require a bicarbonate of 20; with bicarbonate at 10 the gap is 26.",
+          "C": "Twelve is a typical normal gap, but subtracting chloride (102) and bicarbonate (10) from sodium (138) gives 26.",
+          "D": "A low gap of 8 suggests hypoalbuminemia or paraproteinemia and does not match the calculation 138 - 112 = 26."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-028_2_p16_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Retinol is oxidized by ADH to retinaldehyde (vision, as the visual chromophore) and irreversibly by ALDH to retinoic acid. Retinoic acid binds nuclear RAR/RXR receptors to control gene transcription, driving embryonic development, epithelial maintenance, and immune function.",
         "whyCorrect": "Retinol is oxidized by ADH to retinaldehyde (vision, as the visual chromophore) and irreversibly by ALDH to retinoic acid. Retinoic acid binds nuclear RAR/RXR receptors to control gene transcription, driving embryonic development, epithelial maintenance, and immune function.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gamma-carboxylation of clotting factors requires vitamin K, not retinoic acid.",
+          "B": "The visual chromophore is retinal (retinaldehyde), the intermediate, not the final oxidized metabolite retinoic acid.",
+          "C": "Rhodopsin is the rod pigment and uses retinal, not retinoic acid; cones use separate opsins.",
+          "D": "Membrane antioxidant activity is the role of vitamin E (tocopherol), which is not an enzyme either."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-139_1_p4_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Lactate dehydrogenase reduces pyruvate to lactate, oxidizing NADH back to NAD+. Regenerating NAD+ allows glycolysis (which needs NAD+ at the GAPDH step) to keep running and yield ATP when oxygen or mitochondria are unavailable.",
         "whyCorrect": "Lactate dehydrogenase reduces pyruvate to lactate, oxidizing NADH back to NAD+. Regenerating NAD+ allows glycolysis (which needs NAD+ at the GAPDH step) to keep running and yield ATP when oxygen or mitochondria are unavailable.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lactate is not a direct ATP source in this reaction; the ATP comes from glycolysis, which the regenerated NAD+ keeps running.",
+          "B": "No enzyme reaction produces oxygen for the electron transport chain; LDH acts precisely when oxygen is lacking.",
+          "C": "Making glucose from amino acids is gluconeogenesis, not the purpose of reducing pyruvate to lactate.",
+          "E": "Ammonia is detoxified through the urea cycle in the liver, not by lactate dehydrogenase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-205_2_p2_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Ethanol oxidation raises the cytosolic NADH/NAD+ ratio, pushing pyruvate to lactate (lactic acidosis) and oxaloacetate to malate. Depletion of pyruvate and oxaloacetate impairs gluconeogenesis, causing hypoglycemia.",
         "whyCorrect": "Ethanol oxidation raises the cytosolic NADH/NAD+ ratio, pushing pyruvate to lactate (lactic acidosis) and oxaloacetate to malate. Depletion of pyruvate and oxaloacetate impairs gluconeogenesis, causing hypoglycemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "High NADH favors conversion of acetoacetate to beta-hydroxybutyrate and promotes ketoacidosis rather than increasing ketone clearance.",
+          "C": "The shift causes metabolic acidosis from lactate and ketones; it does not create a respiratory alkalosis.",
+          "D": "A high NADH/NAD+ ratio diverts pyruvate and oxaloacetate away, impairing gluconeogenesis rather than enhancing it.",
+          "E": "Lactate and ketoacid accumulation lower bicarbonate, causing metabolic acidosis, not alkalosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-206_2_p9_1.png",

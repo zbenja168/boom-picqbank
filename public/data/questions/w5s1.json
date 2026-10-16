@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
         "whyCorrect": "Acanthosis nigricans presents as symmetric velvety hyperpigmentation in flexural areas such as the neck and axillae. It most often reflects hyperinsulinemia/insulin resistance (obesity, type 2 diabetes) and can occasionally be a paraneoplastic sign.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Addisonian hyperpigmentation is diffuse and accentuated in creases, mucosa and scars, without velvety thickening of the skin.",
+          "B": "Vitiligo causes depigmented white patches, the opposite of the dark, thickened plaques shown.",
+          "D": "Contact dermatitis is itchy, erythematous and often vesicular in the shape of the contact, not symmetric velvety hyperpigmentation.",
+          "E": "Tinea versicolor causes scaly hypo- or hyperpigmented macules on the trunk, not velvety thickened plaques in flexural folds."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-059_29_p11_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
         "whyCorrect": "Bowing deformities and cupped, frayed metaphyses in a child indicate rickets, caused by vitamin D (or calcium/phosphate) deficiency leading to defective mineralization of growing bone.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Paget disease affects older adults, with thickened, coarse bone and enlarged skull, not childhood metaphyseal widening.",
+          "B": "Achondroplasia causes short limbs with normally mineralized bone from FGFR3 mutation, not frayed, poorly mineralized metaphyses.",
+          "C": "Osteogenesis imperfecta causes brittle bones with multiple fractures from type I collagen defects, but the metaphyses are not cupped and frayed.",
+          "D": "Osteopetrosis produces dense, sclerotic bones from osteoclast failure, the opposite of poorly mineralized bone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-060_30_p13_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Warfarin inhibits vitamin K epoxide reductase, so reduced vitamin K cannot be regenerated. Without it, gamma-glutamyl carboxylase cannot carboxylate Glu residues to Gla, leaving factors II, VII, IX, X unable to bind Ca2+ and membranes, so they remain inactive.",
         "whyCorrect": "Warfarin inhibits vitamin K epoxide reductase, so reduced vitamin K cannot be regenerated. Without it, gamma-glutamyl carboxylase cannot carboxylate Glu residues to Gla, leaving factors II, VII, IX, X unable to bind Ca2+ and membranes, so they remain inactive.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Warfarin does not speed hepatic synthesis; factors are still made but lack Gla residues and are nonfunctional.",
+          "B": "Proteolytic cleavage of fibrinogen is the action of thrombin; warfarin produces nonfunctional factors rather than cleaving fibrinogen.",
+          "C": "Without γ-carboxylation, factors lose their calcium-binding Gla residues, so calcium binding falls rather than rises.",
+          "D": "Membrane anchoring depends on Gla-calcium bridges to phospholipid; blocking carboxylation impairs rather than enhances it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-090_30_p16_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Tryptophan can be catabolized to yield nicotinamide for NAD+ synthesis. A step in this pathway is pyridoxal phosphate (vitamin B6)-dependent and releases alanine; B6 deficiency impairs endogenous niacin production.",
         "whyCorrect": "Tryptophan can be catabolized to yield nicotinamide for NAD+ synthesis. A step in this pathway is pyridoxal phosphate (vitamin B6)-dependent and releases alanine; B6 deficiency impairs endogenous niacin production.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vitamin C is the reductant for proline and lysine hydroxylases and dopamine β-hydroxylase, not the cofactor for the alanine-releasing step.",
+          "B": "Biotin is the cofactor for carboxylases that fix CO2, not for kynureninase cleavage of tryptophan metabolites.",
+          "C": "B12 is needed by methionine synthase and methylmalonyl-CoA mutase, not by the tryptophan-to-niacin pathway.",
+          "D": "Thiamine pyrophosphate serves α-keto acid dehydrogenases and transketolase, not the PLP-dependent kynureninase step."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-196_29_p12_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Phenylalanine, tyrosine, and tryptophan hydroxylases are all tetrahydrobiopterin (BH4)-dependent monooxygenases; BH4 is oxidized to BH2 during each reaction. These initial hydroxylations lead to dopamine (via Dopa) and serotonin (via 5-hydroxytryptophan).",
         "whyCorrect": "Phenylalanine, tyrosine, and tryptophan hydroxylases are all tetrahydrobiopterin (BH4)-dependent monooxygenases; BH4 is oxidized to BH2 during each reaction. These initial hydroxylations lead to dopamine (via Dopa) and serotonin (via 5-hydroxytryptophan).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PLP is the cofactor for the subsequent decarboxylation steps (dopa to dopamine, 5-HTP to serotonin), not for the hydroxylations.",
+          "B": "SAM donates methyl groups, as in norepinephrine to epinephrine, and is not oxidized to BH2.",
+          "C": "Biotin is a carboxylase cofactor and plays no role in aromatic amino acid hydroxylation.",
+          "D": "TPP is required by dehydrogenase complexes and transketolase, not by aromatic amino acid hydroxylases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-197_29_p16_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Pyruvate carboxylase is a biotin-dependent enzyme that uses ATP to fix CO2 onto pyruvate, forming oxaloacetate. This anaplerotic/gluconeogenic step replenishes TCA intermediates and initiates gluconeogenesis.",
         "whyCorrect": "Pyruvate carboxylase is a biotin-dependent enzyme that uses ATP to fix CO2 onto pyruvate, forming oxaloacetate. This anaplerotic/gluconeogenic step replenishes TCA intermediates and initiates gluconeogenesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tetrahydrofolate carries one-carbon units for nucleotide and amino acid metabolism; it does not fix CO2 onto pyruvate.",
+          "B": "PLP serves transamination and decarboxylation reactions, not ATP-dependent carboxylation.",
+          "D": "TPP is required by pyruvate dehydrogenase to decarboxylate pyruvate to acetyl-CoA, not to carboxylate it to oxaloacetate.",
+          "E": "Lipoic acid is a cofactor of the pyruvate and α-ketoglutarate dehydrogenase complexes, not of pyruvate carboxylase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-198_29_p18_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Prolyl and lysyl hydroxylases require ascorbate (vitamin C) to keep the active-site iron reduced, using O2 and alpha-ketoglutarate. Hydroxyproline and hydroxylysine stabilize collagen triple helices and cross-links; deficiency causes scurvy.",
         "whyCorrect": "Prolyl and lysyl hydroxylases require ascorbate (vitamin C) to keep the active-site iron reduced, using O2 and alpha-ketoglutarate. Hydroxyproline and hydroxylysine stabilize collagen triple helices and cross-links; deficiency causes scurvy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PLP is required for the lysyl oxidase cross-linking step and for transamination, but not for prolyl and lysyl hydroxylation.",
+          "B": "NAD+ is an electron acceptor in dehydrogenase reactions; the collagen hydroxylases need ascorbate to keep iron reduced.",
+          "C": "Biotin is a carboxylation cofactor, not a reductant for collagen hydroxylases.",
+          "D": "Vitamin K is the cofactor for γ-carboxylation of glutamate in clotting factors, not hydroxylation of proline and lysine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-199_29_p21_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Methionine synthase uses methylcobalamin (B12) to remethylate homocysteine to methionine, simultaneously regenerating tetrahydrofolate. B12 deficiency traps folate as methyl-FH4 and elevates homocysteine; the alternate cystathionine beta-synthase route is PLP (B6)-dependent.",
         "whyCorrect": "Methionine synthase uses methylcobalamin (B12) to remethylate homocysteine to methionine, simultaneously regenerating tetrahydrofolate. B12 deficiency traps folate as methyl-FH4 and elevates homocysteine; the alternate cystathionine beta-synthase route is PLP (B6)-dependent.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vitamin C is a reducing cofactor for hydroxylases and is not involved in methyl transfer to homocysteine.",
+          "B": "Thiamine is required by α-keto acid dehydrogenases and transketolase, not by methionine synthase.",
+          "D": "PLP is needed for the alternative transsulfuration route via cystathionine β-synthase, not for remethylation by methionine synthase.",
+          "E": "Biotin is a carboxylase cofactor and has no role in the homocysteine-methionine cycle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-200_29_p25_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Tyrosine yields dopamine, then norepinephrine (via dopamine beta-hydroxylase, requiring vitamin C), and finally epinephrine when phenylethanolamine N-methyltransferase adds a methyl group from S-adenosylmethionine. This last step occurs mainly in the adrenal medulla.",
         "whyCorrect": "Tyrosine yields dopamine, then norepinephrine (via dopamine beta-hydroxylase, requiring vitamin C), and finally epinephrine when phenylethanolamine N-methyltransferase adds a methyl group from S-adenosylmethionine. This last step occurs mainly in the adrenal medulla.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Norepinephrine is formed by dopamine β-hydroxylase, which needs vitamin C and copper; it is the substrate for the SAM-dependent methylation, not its product.",
+          "C": "L-Dopa is formed from tyrosine by BH4-dependent tyrosine hydroxylase and is a precursor, not a final catecholamine.",
+          "D": "Dopamine is made by PLP-dependent decarboxylation of L-Dopa, not by SAM-dependent methylation.",
+          "E": "Serotonin is an indoleamine derived from tryptophan, not a catecholamine made from tyrosine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-201_29_p27_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Serotonin is synthesized from tryptophan via tryptophan hydroxylase (BH4) and a PLP-dependent decarboxylase. In the brain it regulates sleep, mood, and appetite; in platelets it is stored and released to promote aggregation and vasoconstriction, and it also stimulates smooth muscle contraction.",
         "whyCorrect": "Serotonin is synthesized from tryptophan via tryptophan hydroxylase (BH4) and a PLP-dependent decarboxylase. In the brain it regulates sleep, mood, and appetite; in platelets it is stored and released to promote aggregation and vasoconstriction, and it also stimulates smooth muscle contraction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The adrenal medulla makes catecholamines from tyrosine, not serotonin from tryptophan.",
+          "B": "Skeletal muscle neither synthesizes serotonin nor relies on it for contraction.",
+          "D": "Hepatocytes do not produce serotonin; gluconeogenesis is driven by glucagon and cortisol.",
+          "E": "Insulin release is triggered by glucose metabolism closing K-ATP channels, not by serotonin as the beta-cell's product."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-202_29_p28_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Nitric oxide synthase converts arginine to citrulline plus nitric oxide (NO). NO diffuses into vascular smooth muscle and activates guanylate cyclase, raising cGMP and causing relaxation and vasodilation.",
         "whyCorrect": "Nitric oxide synthase converts arginine to citrulline plus nitric oxide (NO). NO diffuses into vascular smooth muscle and activates guanylate cyclase, raising cGMP and causing relaxation and vasodilation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NO is antiproliferative toward vascular smooth muscle; hypertrophy is driven by angiotensin II and growth factors.",
+          "B": "NO at physiologic levels protects endothelium and is not primarily an inducer of endothelial apoptosis.",
+          "D": "NO inhibits platelet aggregation through cGMP, contributing to the antithrombotic surface of normal endothelium.",
+          "E": "NO raises cGMP, which lowers smooth muscle calcium and causes relaxation, the opposite of vasoconstriction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-203_29_p29_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The figure depicts the Dietary Reference Intake framework, showing how the EAR, RDA, AI, and UL relate risk of inadequacy (left) and risk of adverse effects (right) across increasing nutrient intake.",
         "whyCorrect": "The figure depicts the Dietary Reference Intake framework, showing how the EAR, RDA, AI, and UL relate risk of inadequacy (left) and risk of adverse effects (right) across increasing nutrient intake.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hardy-Weinberg equilibrium relates allele and genotype frequencies in a population, not nutrient intake and risk.",
+          "B": "GFR staging classifies chronic kidney disease by filtration rate, not adequacy and toxicity of nutrient intake.",
+          "C": "BMI classification relates weight to height, not the risk of inadequacy or excess for individual nutrients.",
+          "D": "A pharmacokinetic dose-response curve describes drug effect versus dose, not the EAR, RDA, AI and UL reference points shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-204_29_p3_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The skin/diet supply D3, the liver adds a 25-hydroxyl group (calcidiol), and the kidney performs the tightly regulated 1-alpha-hydroxylation to form 1,25-OH D3 (calcitriol), the active hormone.",
         "whyCorrect": "The skin/diet supply D3, the liver adds a 25-hydroxyl group (calcidiol), and the kidney performs the tightly regulated 1-alpha-hydroxylation to form 1,25-OH D3 (calcitriol), the active hormone.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The skin converts 7-dehydrocholesterol to cholecalciferol under UVB, the first step, not the final 1α-hydroxylation.",
+          "B": "The liver performs 25-hydroxylation to make calcidiol, the storage and measured form, not the active hormone.",
+          "D": "The adrenal gland makes steroid hormones from cholesterol but does not hydroxylate vitamin D.",
+          "E": "The small intestine is a target of calcitriol, where it increases calcium absorption, not the site of its activation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-207_30_p9_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Anion gap = Na - (Cl + HCO3) = 140 - (100 + 14) = 26 mEq/L, well above the normal 8-12. Combined with a low pH and low bicarbonate, this indicates a high anion gap metabolic acidosis, typically from accumulation of unmeasured acids (e.g., ketoacids, lactate, toxins).",
         "whyCorrect": "Anion gap = Na - (Cl + HCO3) = 140 - (100 + 14) = 26 mEq/L, well above the normal 8-12. Combined with a low pH and low bicarbonate, this indicates a high anion gap metabolic acidosis, typically from accumulation of unmeasured acids (e.g., ketoacids, lactate, toxins).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The anion gap is 140 − (100 + 14) = 26, well above normal; a hyperchloremic acidosis would have a normal gap of about 8-12.",
+          "C": "Metabolic alkalosis raises pH and bicarbonate, whereas this patient has a low pH and low bicarbonate.",
+          "D": "Respiratory acidosis features a high PaCO2 with normal or elevated bicarbonate, not a primary fall in bicarbonate to 14.",
+          "E": "Respiratory alkalosis raises pH, but this patient is acidemic at 7.22."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-029_31_p18_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The ring is a Kayser-Fleischer ring, caused by copper deposition in Descemet membrane. It is a hallmark of Wilson disease, in which defective biliary copper excretion leads to copper accumulation in the cornea, liver, and brain.",
         "whyCorrect": "The ring is a Kayser-Fleischer ring, caused by copper deposition in Descemet membrane. It is a hallmark of Wilson disease, in which defective biliary copper excretion leads to copper accumulation in the cornea, liver, and brain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diabetes mellitus causes retinopathy and cataracts, not a copper-colored ring at the corneal limbus.",
+          "C": "Marfan syndrome classically causes upward lens dislocation (ectopia lentis), not a pigmented corneal ring.",
+          "D": "Hemochromatosis deposits iron in liver, pancreas, heart and skin, but does not produce a limbal corneal ring.",
+          "E": "Arcus from lipid deposition is a white-gray ring separated from the limbus by a clear zone, not a brown copper ring."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-061_31_p12_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Periorificial and acral dermatitis, as seen here, is the hallmark of zinc deficiency (acrodermatitis enteropathica), which also causes alopecia and diarrhea. Zinc is a cofactor for numerous metalloenzymes, and rapidly dividing epithelium is highly sensitive to its lack.",
         "whyCorrect": "Periorificial and acral dermatitis, as seen here, is the hallmark of zinc deficiency (acrodermatitis enteropathica), which also causes alopecia and diarrhea. Zinc is a cofactor for numerous metalloenzymes, and rapidly dividing epithelium is highly sensitive to its lack.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Vitamin A deficiency causes night blindness, xerophthalmia, Bitot spots and follicular hyperkeratosis, not periorificial scaling dermatitis.",
+          "C": "Niacin deficiency (pellagra) causes a photosensitive dermatitis on sun-exposed skin such as the Casal necklace, with diarrhea and dementia.",
+          "D": "Biotin deficiency can cause periorificial dermatitis with alopecia, but the classic cause of this pattern in a toddler is zinc deficiency (acrodermatitis enteropathica).",
+          "E": "Vitamin C deficiency causes perifollicular hemorrhages, corkscrew hairs and bleeding gums, not periorificial scaling plaques."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-062_31_p9_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "In acidemia, excess H+ competes with Ca2+ for the negatively charged binding sites on albumin. Protons occupy these sites and displace calcium, so more calcium exists in the free ionized form. In alkalemia the opposite occurs and ionized calcium falls, which can precipitate tetany.",
         "whyCorrect": "In acidemia, excess H+ competes with Ca2+ for the negatively charged binding sites on albumin. Protons occupy these sites and displace calcium, so more calcium exists in the free ionized form. In alkalemia the opposite occurs and ionized calcium falls, which can precipitate tetany.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Albumin synthesis is not acutely increased by acidemia, and more albumin would lower, not raise, ionized calcium.",
+          "B": "The change in ionized calcium shown reflects redistribution between albumin-bound and free forms in plasma, not renal excretion.",
+          "C": "Acidemia reduces albumin's calcium binding because H+ occupies the sites, so ionized calcium rises rather than falls.",
+          "E": "H+ does not bind free calcium ions; it competes with calcium for albumin's negatively charged sites."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-208_31_p4_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Calcitonin, secreted by thyroid C cells when calcium is high, drives calcium into bone, reduces renal reabsorption, and reduces intestinal uptake, lowering serum calcium. PTH and calcitriol act in the opposite direction to raise calcium when it is too low.",
         "whyCorrect": "Calcitonin, secreted by thyroid C cells when calcium is high, drives calcium into bone, reduces renal reabsorption, and reduces intestinal uptake, lowering serum calcium. PTH and calcitriol act in the opposite direction to raise calcium when it is too low.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PTH is released when calcium is low, and bone resorption raises rather than lowers blood calcium.",
+          "B": "Calcitonin inhibits osteoclast-mediated bone resorption; it lowers calcium rather than raising it.",
+          "C": "Calcitriol increases intestinal calcium absorption and raises blood calcium; its production falls when calcium is high.",
+          "E": "PTH is suppressed when calcium is high and does not stimulate calcitonin release; the two hormones act in opposition."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-209_31_p6_1.png",

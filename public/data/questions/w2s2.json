@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH.",
         "whyCorrect": "The central (alpha) carbon bonded to an amino group, a carboxyl group, a hydrogen, and a variable R side chain is the defining structure of an amino acid. The R group distinguishes the 20 standard amino acids; the charged groups reflect the zwitterionic form at physiologic pH.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Steroids have a four-ring carbon skeleton derived from cholesterol, not a central carbon with amino and carboxyl groups.",
+          "B": "Monosaccharides are carbohydrates with hydroxyl groups and an aldehyde or ketone, without an amino group and R side chain.",
+          "C": "Nucleotides consist of a nitrogenous base, a pentose sugar, and phosphate groups.",
+          "E": "Fatty acids are long hydrocarbon chains ending in a carboxyl group, with no amino group on an alpha carbon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-009_13_p2_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water.",
         "whyCorrect": "The peptide bond forms by condensation: the carboxyl group of one amino acid joins the amino group of the next, releasing one water molecule (dehydration synthesis). The reverse, hydrolysis, breaks the bond by adding water.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Peptide bond formation is not an oxidation-reduction reaction and does not release carbon dioxide.",
+          "C": "Phosphorylation transfers phosphate from ATP to a molecule; peptide bonds form without leaving ADP as the byproduct.",
+          "D": "Hydrolysis breaks peptide bonds by adding water, the reverse of what is shown forming the dipeptide.",
+          "E": "Decarboxylation removes CO2 from a carboxyl group, and ammonia release is deamination; neither links two amino acids."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-010_13_p3_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Lavender-top tubes contain EDTA, which irreversibly binds (chelates) calcium. Because several coagulation steps require Ca2+, removing free calcium blocks clotting. EDTA preserves cell morphology well, making these tubes standard for CBCs and blood-cell counts.",
         "whyCorrect": "Lavender-top tubes contain EDTA, which irreversibly binds (chelates) calcium. Because several coagulation steps require Ca2+, removing free calcium blocks clotting. EDTA preserves cell morphology well, making these tubes standard for CBCs and blood-cell counts.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "EDTA does not lyse red cells, and hemoglobin has no anticoagulant activity; the tubes preserve intact cells for CBCs.",
+          "C": "Activating antithrombin is how heparin works, used in green-top tubes, not EDTA.",
+          "D": "Coating platelets to stop aggregation describes antiplatelet drugs, not a collection tube additive.",
+          "E": "Breaking fibrinogen into fragments is the action of plasmin; EDTA works by binding calcium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-018_13_p17_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
         "whyCorrect": "Oxidative denaturation of hemoglobin (as in G6PD deficiency) precipitates as Heinz bodies, seen with supravital stains as small inclusions at the RBC membrane. Splenic removal of these produces bite cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Malarial rings are delicate circles with a chromatin dot inside the cell, seen on Giemsa stain, not clumps at the membrane from oxidative damage.",
+          "C": "Howell-Jolly bodies are single nuclear DNA remnants seen on routine Wright stain in asplenia, not oxidative inclusions.",
+          "D": "Pappenheimer bodies are iron granules detected with Prussian blue in sideroblastic states, not denatured hemoglobin.",
+          "E": "Basophilic stippling is fine diffuse ribosomal RNA granules, as in lead poisoning, not clumps of oxidized hemoglobin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-019_14_p5_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Deficiency of GlcNAc-1-phosphotransferase prevents mannose-6-phosphate tagging of lysosomal enzymes, so enzymes are secreted rather than trafficked to the lysosome, causing accumulation of inclusion bodies in I-cell disease (ML II).",
         "whyCorrect": "Deficiency of GlcNAc-1-phosphotransferase prevents mannose-6-phosphate tagging of lysosomal enzymes, so enzymes are secreted rather than trafficked to the lysosome, causing accumulation of inclusion bodies in I-cell disease (ML II).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Zellweger syndrome is a peroxisomal biogenesis disorder causing very-long-chain fatty acid buildup, not misrouting of lysosomal enzymes.",
+          "C": "Cystic fibrosis is a CFTR chloride channel defect caused by misfolding, not a lysosomal enzyme targeting problem.",
+          "D": "Tay-Sachs disease is deficiency of a single lysosomal enzyme (hexosaminidase A), not a failure to deliver all enzymes to the lysosome.",
+          "E": "Familial hypercholesterolemia is a defect in the LDL receptor, causing high LDL, not a lysosomal enzyme trafficking defect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-050_14_p11_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "This is the Trousseau sign: inflating a blood-pressure cuff provokes carpopedal spasm in latent tetany. Low ionized calcium lowers the threshold for nerve depolarization, producing the characteristic spasm.",
         "whyCorrect": "This is the Trousseau sign: inflating a blood-pressure cuff provokes carpopedal spasm in latent tetany. Low ionized calcium lowers the threshold for nerve depolarization, producing the characteristic spasm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hypernatremia causes neurologic symptoms such as lethargy and seizures from cell shrinkage, not carpopedal spasm.",
+          "C": "Hyperglycemia causes polyuria and polydipsia but not tetany or carpopedal spasm.",
+          "D": "Hypomagnesemia can cause tetany, largely by inducing hypocalcemia, and hyperphosphatemia also lowers calcium; but the sign most directly indicates low ionized calcium.",
+          "E": "Hyperkalemia causes muscle weakness and cardiac arrhythmias, not tetany or carpopedal spasm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-051_14_p13_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Progressive accumulation of undegraded substrate in lysosomal storage diseases (e.g., mucopolysaccharidoses, I-cell disease) produces coarse features, hepatosplenomegaly with protuberant abdomen, skeletal changes, and developmental delay.",
         "whyCorrect": "Progressive accumulation of undegraded substrate in lysosomal storage diseases (e.g., mucopolysaccharidoses, I-cell disease) produces coarse features, hepatosplenomegaly with protuberant abdomen, skeletal changes, and developmental delay.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute intermittent porphyria presents in adults with abdominal pain, neuropsychiatric symptoms, and dark urine, not infantile coarse features.",
+          "C": "Muscle-limited glycogen defects cause exercise intolerance and cramps, not coarse facies and organomegaly.",
+          "D": "Vitamin K-dependent clotting deficiency causes bleeding, not coarse features and short stature.",
+          "E": "Urea cycle disorders cause hyperammonemia with vomiting, lethargy, and encephalopathy, not coarse features with organomegaly."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-052_14_p9_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Amino acids share a common backbone (amino group, carboxyl group, alpha carbon); they are classified by their distinguishing side chain (R-group) into nonpolar, polar-uncharged, and electrically charged (acidic/basic) categories.",
         "whyCorrect": "Amino acids share a common backbone (amino group, carboxyl group, alpha carbon); they are classified by their distinguishing side chain (R-group) into nonpolar, polar-uncharged, and electrically charged (acidic/basic) categories.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Every amino acid has the same alpha-carboxyl group, so it cannot distinguish them.",
+          "B": "Nearly all amino acids in proteins are L-isomers (glycine is achiral), so stereochemistry does not create three groups.",
+          "C": "Molecular weight varies but is not the basis for grouping into nonpolar, polar, and charged categories.",
+          "E": "Every amino acid can form two peptide bonds within a chain, so this does not distinguish them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-109_13_p5_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The primary sequence (order of amino acids) encodes the information that determines how the chain folds into secondary, tertiary, and quaternary structure; Anfinsen's principle shows sequence dictates native conformation.",
         "whyCorrect": "The primary sequence (order of amino acids) encodes the information that determines how the chain folds into secondary, tertiary, and quaternary structure; Anfinsen's principle shows sequence dictates native conformation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A lipid bilayer is a membrane feature, not something that determines protein folding at all levels.",
+          "C": "Subunit number defines quaternary structure only and is itself dictated by the primary sequence.",
+          "D": "Free ribosome concentration affects how much protein is made, not how it folds.",
+          "E": "Temperature affects folding stability but does not encode the specific folded structure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-110_13_p8_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Cystathionine beta-synthase (vitamin B6 dependent) converts homocysteine to cystathionine. Its deficiency causes homocystinuria, with elevated homocysteine, marfanoid habitus, lens dislocation, and thrombosis risk.",
         "whyCorrect": "Cystathionine beta-synthase (vitamin B6 dependent) converts homocysteine to cystathionine. Its deficiency causes homocystinuria, with elevated homocysteine, marfanoid habitus, lens dislocation, and thrombosis risk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Maple syrup urine disease is a defect in branched-chain alpha-ketoacid dehydrogenase, not cystathionine beta-synthase.",
+          "C": "Cystinuria is a renal tubular transport defect for cystine, ornithine, lysine, and arginine, not an enzyme deficiency in methionine metabolism.",
+          "D": "Alkaptonuria is homogentisate oxidase deficiency in tyrosine breakdown, causing dark urine and ochronosis.",
+          "E": "PKU is phenylalanine hydroxylase deficiency, which uses BH4 rather than vitamin B6."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-111_14_p15_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Glucose-6-phosphate dehydrogenase is the rate-limiting enzyme of the pentose phosphate pathway, which generates the NADPH needed to keep glutathione reduced; loss of this NADPH source leaves RBCs vulnerable to oxidative hemolysis.",
         "whyCorrect": "Glucose-6-phosphate dehydrogenase is the rate-limiting enzyme of the pentose phosphate pathway, which generates the NADPH needed to keep glutathione reduced; loss of this NADPH source leaves RBCs vulnerable to oxidative hemolysis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The citric acid cycle generates NADH and FADH2 in mitochondria, and red cells lack mitochondria.",
+          "B": "Beta-oxidation is mitochondrial and produces NADH and FADH2, not the NADPH that red cells use.",
+          "C": "Oxidative phosphorylation is mitochondrial ATP production and does not occur in mature red cells.",
+          "D": "Glycolysis supplies red cells with ATP and NADH, but not the NADPH needed by glutathione reductase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-112_14_p3_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Phenylalanine hydroxylase converts phenylalanine to tyrosine using tetrahydrobiopterin (BH4). Its deficiency causes phenylketonuria, with phenylalanine accumulation, intellectual disability, and a musty odor if untreated.",
         "whyCorrect": "Phenylalanine hydroxylase converts phenylalanine to tyrosine using tetrahydrobiopterin (BH4). Its deficiency causes phenylketonuria, with phenylalanine accumulation, intellectual disability, and a musty odor if untreated.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Homocystinuria results from cystathionine beta-synthase deficiency, a vitamin B6-dependent enzyme, not a BH4-dependent hydroxylase.",
+          "C": "Alkaptonuria is a defect in homogentisate oxidase further along tyrosine breakdown.",
+          "D": "Maple syrup urine disease affects branched-chain amino acid catabolism, not phenylalanine conversion.",
+          "E": "Albinism results from tyrosinase deficiency in melanin synthesis, not a defect in converting phenylalanine to tyrosine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-113_14_p7_1.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Nucleotides are added as triphosphates; cleavage and subsequent hydrolysis of the released pyrophosphate is highly exergonic and pulls the polymerization reaction forward.",
         "whyCorrect": "Nucleotides are added as triphosphates; cleavage and subsequent hydrolysis of the released pyrophosphate is highly exergonic and pulls the polymerization reaction forward.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Base selection comes from Watson-Crick pairing with the template strand, not from the released pyrophosphate.",
+          "B": "Hydrogen bonds between complementary bases hold the strands together; pyrophosphate hydrolysis does not form them.",
+          "C": "Termination is not signaled by pyrophosphate; replication ends when forks meet or reach chromosome ends.",
+          "E": "Base methylation is a separate enzymatic modification using S-adenosylmethionine, not pyrophosphate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-001_10_p9_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The teardrop-shaped enzyme at the fork is helicase, which breaks hydrogen bonds to unwind parental DNA; the polymerases then extend new strands using the exposed templates and free nucleotides.",
         "whyCorrect": "The teardrop-shaped enzyme at the fork is helicase, which breaks hydrogen bonds to unwind parental DNA; the polymerases then extend new strands using the exposed templates and free nucleotides.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Relieving supercoils by nicking the backbone is the job of topoisomerases, not the enzyme that separates the strands.",
+          "B": "RNA primer synthesis is performed by primase.",
+          "D": "Joining Okazaki fragments is the role of DNA ligase.",
+          "E": "Adding nucleotides to the 3' end is the function of DNA polymerase, not the enzyme that unwinds the fork."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-093_10_p10_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Because polymerase extends only in the 5'-to-3' direction, the strand oriented opposite to fork movement is made as Okazaki fragments, each begun by an RNA primer, unlike the continuously synthesized leading strand.",
         "whyCorrect": "Because polymerase extends only in the 5'-to-3' direction, the strand oriented opposite to fork movement is made as Okazaki fragments, each begun by an RNA primer, unlike the continuously synthesized leading strand.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Both template strands are chemically identical DNA; the difference is only their antiparallel orientation relative to fork movement.",
+          "B": "Helicase speed is not the cause; the discontinuity arises because polymerase can only build in the 5'-to-3' direction.",
+          "C": "Topoisomerase relieves torsional strain and reseals its breaks; it does not create Okazaki fragments.",
+          "D": "Single-strand binding proteins coat both strands to keep them apart and do not cause discontinuous synthesis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-094_10_p11_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The sliding clamp is a ring that keeps polymerase attached to the DNA so it can add many nucleotides without dissociating, boosting the speed and processivity of replication.",
         "whyCorrect": "The sliding clamp is a ring that keeps polymerase attached to the DNA so it can add many nucleotides without dissociating, boosting the speed and processivity of replication.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Primase is recruited through its association with helicase, not by the sliding clamp.",
+          "C": "Energy for phosphodiester bond formation comes from the incoming nucleotide triphosphate, not the clamp.",
+          "D": "Helicase unwinds the double helix; the clamp only holds polymerase on the DNA.",
+          "E": "Proofreading is performed by the polymerase's own 3'-to-5' exonuclease, not by the sliding clamp."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-095_10_p15_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Strand-displacement synthesis pushes the RNA primer into a flap that is cleaved, then ligase seals the remaining nick, converting Okazaki fragments into an unbroken lagging strand.",
         "whyCorrect": "Strand-displacement synthesis pushes the RNA primer into a flap that is cleaved, then ligase seals the remaining nick, converting Okazaki fragments into an unbroken lagging strand.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Relieving positive supercoils ahead of the fork is the job of topoisomerases, not primer removal and ligation.",
+          "C": "Separating daughter chromosomes happens in mitosis via cohesin cleavage and the spindle, not during lagging-strand processing.",
+          "D": "The 5' methylguanosine cap is added to mRNA during transcription, not to replicated DNA.",
+          "E": "Mispaired bases are corrected by polymerase proofreading or mismatch repair, not by primer removal and nick sealing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-096_10_p18_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "When an incorrect base is added, the polymerase's 3'-to-5' exonuclease activity backs up, removes the mispaired nucleotide, and then resumes synthesis with the correct base, ensuring proofreading fidelity.",
         "whyCorrect": "When an incorrect base is added, the polymerase's 3'-to-5' exonuclease activity backs up, removes the mispaired nucleotide, and then resumes synthesis with the correct base, ensuring proofreading fidelity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Unwinding the helix is done by helicase ahead of the fork, not by the polymerase's back-up-and-excise activity.",
+          "B": "Polymerase loading onto the clamp improves processivity but does not involve removing and replacing a mismatched base.",
+          "D": "Skipping damaged template is translesion synthesis, which is error-prone and the opposite of the proofreading shown.",
+          "E": "RNA primers are made by primase, not by the exonuclease proofreading cycle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-097_10_p19_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
         "whyCorrect": "Each daughter helix retains one parental (original template) strand paired with one newly synthesized strand, which is the defining feature of semiconservative replication.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Conservative replication would leave one daughter with both original strands and the other entirely new, which is not shown.",
+          "B": "Dispersive replication would mix old and new segments within each strand, not keep one intact parental strand per duplex.",
+          "C": "Rolling-circle replication copies circular DNA (e.g., plasmids, some viruses) by continuously extending one strand, not two symmetric daughter duplexes.",
+          "D": "Theta replication describes the bidirectional copying of circular bacterial chromosomes, a fork geometry rather than a model of strand inheritance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-098_10_p2_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Replication begins at an origin and proceeds bidirectionally, forming two forks that travel in opposite directions, as shown by the diverging leading/lagging strand arrows.",
         "whyCorrect": "Replication begins at an origin and proceeds bidirectionally, forming two forks that travel in opposite directions, as shown by the diverging leading/lagging strand arrows.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Telomeres are at chromosome ends and are extended by telomerase, not from internal points with two forks.",
+          "C": "Recombination hotspots involve strand exchange between homologs, not initiation of new DNA synthesis in two directions.",
+          "D": "A promoter initiates transcription in one direction, producing RNA rather than two diverging replication forks.",
+          "E": "The centromere is where sister chromatids attach and spindle fibers bind, not where replication begins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-099_10_p4_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Numerous replication bubbles, each expanding from its own origin with two forks, let long eukaryotic DNA be copied simultaneously at many sites, so replication finishes in a reasonable time.",
         "whyCorrect": "Numerous replication bubbles, each expanding from its own origin with two forks, let long eukaryotic DNA be copied simultaneously at many sites, so replication finishes in a reasonable time.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Replication bubbles do not prevent sister chromatid recombination; they are sites of active DNA copying.",
+          "B": "These structures are sites of active replication, not regions of transcriptional silencing.",
+          "C": "Protecting chromosome ends from shortening is the role of telomeres and telomerase.",
+          "D": "Each origin produces two forks moving in opposite directions, so replication is bidirectional, not one-way."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-100_10_p4_2.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Single-stranded DNA-binding proteins (SSB) bind the exposed strands produced by helicase, keeping them apart and protected until polymerase can copy them.",
         "whyCorrect": "Single-stranded DNA-binding proteins (SSB) bind the exposed strands produced by helicase, keeping them apart and protected until polymerase can copy them.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Daughter strand synthesis is performed by DNA polymerase, not by the proteins coating single strands.",
+          "C": "Cutting the backbone to relieve torsion is done by topoisomerases.",
+          "D": "RNA primers are synthesized by primase.",
+          "E": "DNA ligase joins adjacent fragments; single-strand binding proteins have no catalytic role."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-101_10_p6_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation.",
         "whyCorrect": "The 5' cap (7-methylguanosine linked 5'-to-5') stabilizes the transcript against exonucleases and is recognized by initiation factors to promote translation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anticodons are carried by tRNAs, not by the mRNA's 5' cap.",
+          "B": "Poly-A addition is signaled by the AAUAAA sequence near the 3' end, not by the 5' cap.",
+          "C": "The lariat branch point is an adenosine within the intron, not the 5' cap.",
+          "D": "Introns are recognized by splice-site sequences (GU...AG) and the branch point, not by the cap."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-002_11_p10_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation.",
         "whyCorrect": "The spliceosome (built from snRNPs) cleaves at the 5' and 3' splice sites, excises the intron as a lariat, and ligates the two exons, an essential step in mRNA maturation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reverse transcription is performed by reverse transcriptase in retroviruses or telomerase, not by the spliceosome.",
+          "B": "The 5' cap is added by capping enzymes early in transcription, not by the complex releasing a lariat.",
+          "D": "Translation occurs on ribosomes in the cytoplasm, not on the nuclear complex assembling on the primary transcript.",
+          "E": "Poly-A tail addition is done by poly-A polymerase after cleavage at the 3' end, not by the spliceosome."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-003_11_p12_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity.",
         "whyCorrect": "Alternative splicing joins different combinations of exons from the same primary transcript, so one gene can encode several protein isoforms, greatly expanding proteome diversity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Alternative splicing rearranges exons; it does not correct mutations in the coding sequence.",
+          "C": "Introns are removed and usually degraded; they are not translated into protein.",
+          "D": "Splicing acts on RNA transcripts, leaving the genomic DNA unchanged.",
+          "E": "Doubling DNA occurs by replication in S phase, unrelated to mRNA processing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-004_11_p13_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Because most amino acids are encoded by more than one codon (e.g., six for leucine), the code is described as degenerate/redundant, which buffers many point mutations against changing the protein.",
         "whyCorrect": "Because most amino acids are encoded by more than one codon (e.g., six for leucine), the code is described as degenerate/redundant, which buffers many point mutations against changing the protein.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The code is unambiguous: each codon specifies only one amino acid, even though one amino acid may have several codons.",
+          "C": "The code is non-overlapping; each base belongs to only one codon in a given reading frame.",
+          "D": "The code is nearly universal across organisms, with minor exceptions such as mitochondria, and this is not what multiple codons per amino acid shows.",
+          "E": "Ribosomes do not proofread codon meaning; redundancy is a property of the code itself."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-005_11_p15_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site.",
         "whyCorrect": "Incoming aminoacyl-tRNAs enter the A site; the growing peptide is held at the P site and transferred to the A-site amino acid, after which deacylated tRNA leaves through the E site.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The P site holds the tRNA carrying the growing peptide chain, not the newly arriving charged tRNA.",
+          "B": "The E site is where uncharged tRNA exits after giving up its peptide, the final position, not the entry point.",
+          "D": "The mRNA binds the small subunit and is not a tRNA entry site.",
+          "E": "The peptidyl transferase center on the large subunit catalyzes bond formation but is not where tRNA first docks."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-006_11_p17_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation.",
         "whyCorrect": "The cloverleaf molecule is a tRNA. When 'charged,' an amino acid is esterified to its 3' acceptor end; its anticodon then reads the complementary mRNA codon (with wobble at the third position), delivering the correct amino acid to the ribosomal A site during translation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Capping of mRNA is done by capping enzymes in the nucleus and does not involve tRNA.",
+          "B": "Introns are spliced by the spliceosome (snRNPs), not by tRNA.",
+          "C": "mRNA is synthesized by RNA polymerase II from a DNA template; tRNA plays no role.",
+          "D": "Ribosomal subunits are assembled from rRNA and proteins in the nucleolus, not by charged tRNA."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-007_11_p19_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The signal recognition particle (SRP) binds the hydrophobic signal peptide on the emerging chain, halts translation, and docks to the SRP receptor. Translation resumes through the translocon, threading the protein into the ER lumen; a signal peptidase then cleaves the signal sequence.",
         "whyCorrect": "The signal recognition particle (SRP) binds the hydrophobic signal peptide on the emerging chain, halts translation, and docks to the SRP receptor. Translation resumes through the translocon, threading the protein into the ER lumen; a signal peptidase then cleaves the signal sequence.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Mitochondrial import uses N-terminal targeting sequences and TOM/TIM complexes after translation, not SRP docking at the ER.",
+          "C": "Proteasomal degradation requires ubiquitin tagging, not SRP-guided entry into the ER.",
+          "D": "Nuclear export of mRNA occurs through nuclear pores and does not involve a ribosome docking at the ER.",
+          "E": "Retrograde Golgi-to-ER transport uses COPI vesicles and KDEL receptors, not SRP and the translocon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-008_11_p26_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "This is eukaryotic translation initiation. The 43S pre-initiation complex scans the mRNA until the initiator Met-tRNA anticodon pairs with the AUG start codon; only after start-codon recognition do initiation factors dissociate and the 60S subunit join to form the 80S ribosome.",
         "whyCorrect": "This is eukaryotic translation initiation. The 43S pre-initiation complex scans the mRNA until the initiator Met-tRNA anticodon pairs with the AUG start codon; only after start-codon recognition do initiation factors dissociate and the 60S subunit join to form the 80S ribosome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Poly-A tail removal (deadenylation) triggers mRNA decay rather than preparing for 60S joining.",
+          "C": "Release factors bind stop codons at termination, not during initiation.",
+          "D": "Decapping removes the 5' cap to degrade mRNA, while initiation depends on the cap being present.",
+          "E": "Peptide bond formation requires the assembled 80S ribosome, so it happens after, not before, 60S joining."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-102_11_p21_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Enhancers can act over long distances. DNA bending brings enhancer-bound activators into contact with the mediator complex and general transcription factors at the promoter, stabilizing RNA polymerase II recruitment and increasing the rate of transcription initiation.",
         "whyCorrect": "Enhancers can act over long distances. DNA bending brings enhancer-bound activators into contact with the mediator complex and general transcription factors at the promoter, stabilizing RNA polymerase II recruitment and increasing the rate of transcription initiation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "DNA looping brings distant elements together without cutting out any sequence from the chromosome.",
+          "B": "Replication is carried out by DNA polymerases at origins, not by activator-mediator contacts.",
+          "D": "The transcription complex works on chromatin inside the nucleus and is not exported.",
+          "E": "Activators and mediator increase transcription; silencing by methylation is a separate repressive mechanism."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-103_11_p5_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "RNA polymerase unwinds a short region of DNA to form a transcription bubble and synthesizes RNA using the template strand; the coding (sense) strand has the same sequence as the RNA (with U for T). This is transcription.",
         "whyCorrect": "RNA polymerase unwinds a short region of DNA to form a transcription bubble and synthesizes RNA using the template strand; the coding (sense) strand has the same sequence as the RNA (with U for T). This is transcription.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reverse transcription uses an RNA template to make DNA, while this enzyme is reading a double-stranded DNA template.",
+          "B": "Thymine dimers are repaired by nucleotide excision repair, which cuts out the damaged segment rather than forming a transcription bubble with a coding strand.",
+          "C": "Replication involves a fork with helicase, primase, and polymerase copying both strands, not a small bubble with one coding strand.",
+          "D": "Translation reads mRNA on a ribosome, not double-stranded DNA."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-104_11_p6_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The genetic code is read in non-overlapping triplets. Inserting or deleting a number of bases not divisible by three shifts the reading frame, garbling all downstream codons (a frameshift). Deleting exactly three bases removes one codon but keeps the rest of the frame intact.",
         "whyCorrect": "The genetic code is read in non-overlapping triplets. Inserting or deleting a number of bases not divisible by three shifts the reading frame, garbling all downstream codons (a frameshift). Deleting exactly three bases removes one codon but keeps the rest of the frame intact.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Deletions are not repaired before translation; the frame is preserved simply because a whole codon is removed.",
+          "B": "Deletions shift the frame just like insertions when they are not a multiple of three, as the one-base deletion shows.",
+          "C": "Deleting three bases removes one codon; it does not necessarily create a stop codon.",
+          "E": "Ribosomes cannot detect or correct deletions; they read whatever triplets they are given."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-105_12_p12_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "A double-stranded sequence can be translated in three reading frames on each strand (three forward, three reverse), giving six total. Shifting the start point by one base changes which triplets are grouped, illustrating why the correct frame is essential for meaningful translation.",
         "whyCorrect": "A double-stranded sequence can be translated in three reading frames on each strand (three forward, three reverse), giving six total. Shifting the start point by one base changes which triplets are grouped, illustrating why the correct frame is essential for meaningful translation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Enzymes are grouped into six classes, but the figure shows a sequence read in offset registers, not enzyme categories.",
+          "C": "Electron shells are a chemistry concept unrelated to reading a sequence in shifted triplets.",
+          "D": "The cell cycle has four main phases (G1, S, G2, M), not six, and it is not what the offset registers depict.",
+          "E": "The nucleosome core contains four histone types (as an octamer) plus linker H1, not six, and is unrelated to reading frames."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-106_12_p4_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Because codons are read as non-overlapping triplets, the point at which grouping begins (the reading frame) dictates the entire peptide sequence. The same bases read in a different frame specify an entirely different set of amino acids.",
         "whyCorrect": "Because codons are read as non-overlapping triplets, the point at which grouping begins (the reading frame) dictates the entire peptide sequence. The same bases read in a different frame specify an entirely different set of amino acids.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wobble refers to flexible pairing at the codon's third base and usually preserves the amino acid, rather than changing every codon.",
+          "B": "The sequence shown is already mature RNA; splicing is not what changes the peptides between rows.",
+          "D": "RNA is translated only 5' to 3', and the rows differ in starting point, not direction.",
+          "E": "Amino acids are specified by three-base codons, not single bases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-107_12_p5_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Multiple codons can specify the same amino acid (degeneracy of the code), often through third-position wobble. A substitution that still codes for the original residue is a silent (synonymous) mutation and leaves the protein sequence unchanged, unlike the nonsense and missense changes in the other columns.",
         "whyCorrect": "Multiple codons can specify the same amino acid (degeneracy of the code), often through third-position wobble. A substitution that still codes for the original residue is a silent (synonymous) mutation and leaves the protein sequence unchanged, unlike the nonsense and missense changes in the other columns.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "tRNAs do not skip codons; a tRNA recognizing AAA delivers lysine just as for AAG.",
+          "C": "AAA codes for lysine, not a stop codon; stop codons are UAA, UAG, and UGA.",
+          "D": "The mutation persists in the DNA; it is silent because AAA and AAG both code for lysine.",
+          "E": "Ribosomes have no default amino acid; the outcome depends entirely on codon-anticodon pairing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-108_12_p7_1.png",

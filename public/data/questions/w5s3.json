@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
         "whyCorrect": "Flat, colorless hexagonal crystals are the classic microscopic finding of cystinuria, reflecting defective reabsorption of cystine and dibasic amino acids.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Struvite stones form coffin-lid shaped rectangular prism crystals in alkaline urine with urease-producing bacteria, not hexagons.",
+          "B": "Primary hyperoxaluria produces calcium oxalate crystals, which look like envelopes (dihydrate) or dumbbells (monohydrate), not hexagons.",
+          "C": "Uric acid crystals are yellow-brown rhomboids or rosettes in acidic urine, not flat colorless hexagons.",
+          "D": "Calcium phosphate forms amorphous or wedge-shaped crystals in alkaline urine, and nephrocalcinosis is parenchymal deposition, not hexagonal urinary crystals."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-031_34_p25_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Ochronosis is deposition of polymerized homogentisic acid pigment in connective tissue and sclera in alkaptonuria (homogentisate oxidase deficiency).",
         "whyCorrect": "Ochronosis is deposition of polymerized homogentisic acid pigment in connective tissue and sclera in alkaptonuria (homogentisate oxidase deficiency).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A Kayser-Fleischer ring is a golden-brown copper ring at the corneal limbus in Wilson disease, not scleral pigment, and is unrelated to tyrosine catabolism.",
+          "C": "Argyria is diffuse slate-gray discoloration from silver exposure and has no link to an enzyme deficiency or darkening urine.",
+          "D": "Pinguecula is a benign yellowish conjunctival nodule from UV damage, not bluish-black pigment from a metabolic disorder.",
+          "E": "Scleral icterus is yellow discoloration from bilirubin, not bluish-black pigment, and does not cause urine to darken on standing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-063_34_p11_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Deficiency of homogentisate oxidase causes alkaptonuria: homogentisic acid accumulates, darkening urine on standing and depositing in connective tissue (ochronosis).",
         "whyCorrect": "Deficiency of homogentisate oxidase causes alkaptonuria: homogentisic acid accumulates, darkening urine on standing and depositing in connective tissue (ochronosis).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Albinism results from tyrosinase deficiency, blocking melanin synthesis and causing reduced pigment rather than dark pigment accumulation.",
+          "C": "Phenylketonuria is a block at phenylalanine hydroxylase, upstream of tyrosine, causing musty odor and intellectual disability rather than dark urine.",
+          "D": "Homocystinuria involves methionine metabolism at cystathionine β-synthase, not tyrosine degradation or homogentisate.",
+          "E": "Tyrosinemia type I is a deficiency of fumarylacetoacetate hydrolase, further down the pathway, causing liver and renal disease rather than homogentisate pigment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-222_34_p10_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Cystathionine beta-synthase deficiency raises homocysteine, damaging connective tissue and causing downward-and-inward ectopia lentis, a marfanoid habitus, thromboembolism, and intellectual disability.",
         "whyCorrect": "Cystathionine beta-synthase deficiency raises homocysteine, damaging connective tissue and causing downward-and-inward ectopia lentis, a marfanoid habitus, thromboembolism, and intellectual disability.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Corneal clouding is characteristic of mucopolysaccharidoses such as Hurler syndrome, not cystathionine β-synthase deficiency.",
+          "C": "Upward and outward lens dislocation is the classic pattern of Marfan syndrome (fibrillin-1), not homocystinuria.",
+          "D": "A cherry-red macular spot is seen in Tay-Sachs and Niemann-Pick disease, not homocystinuria.",
+          "E": "Cataracts from galactitol accumulation are seen in galactosemia and galactokinase deficiency, not homocystinuria."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-223_34_p12_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Methylmalonyl-CoA mutase converts L-methylmalonyl-CoA to succinyl-CoA and is vitamin B12-dependent; its defect produces methylmalonic acidemia, shown at the bottom of the figure.",
         "whyCorrect": "Methylmalonyl-CoA mutase converts L-methylmalonyl-CoA to succinyl-CoA and is vitamin B12-dependent; its defect produces methylmalonic acidemia, shown at the bottom of the figure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pyridoxine (PLP) supports transamination, including the initial branched-chain transaminase step, but not methylmalonyl-CoA mutase.",
+          "C": "Biotin is required for the preceding carboxylation of propionyl-CoA to methylmalonyl-CoA, not for the mutase rearrangement.",
+          "D": "Thiamine is required by the branched-chain α-keto acid dehydrogenase (defective in maple syrup urine disease), not by the mutase.",
+          "E": "Riboflavin forms FAD for acyl-CoA dehydrogenases in this pathway but is not the cofactor for methylmalonyl-CoA mutase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-224_34_p15_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "A blocked mutase leaves methylmalonyl-CoA to accumulate and be hydrolyzed to methylmalonic acid, causing methylmalonic acidemia and aciduria.",
         "whyCorrect": "A blocked mutase leaves methylmalonyl-CoA to accumulate and be hydrolyzed to methylmalonic acid, causing methylmalonic acidemia and aciduria.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Propionic acid accumulates in propionyl-CoA carboxylase deficiency, the step before methylmalonyl-CoA is formed.",
+          "C": "Isovaleric acid accumulates in isovaleryl-CoA dehydrogenase deficiency in leucine catabolism, causing a sweaty-feet odor.",
+          "D": "Homogentisic acid accumulates in alkaptonuria, a defect of tyrosine degradation, not propionyl-CoA metabolism.",
+          "E": "Orotic acid accumulates in OTC deficiency or UMP synthase deficiency, not in methylmalonyl-CoA mutase defects."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-225_34_p17_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Mutase or B12 deficiency causes methylmalonic acidemia; accumulated organic acid produces an anion-gap metabolic acidosis, frequently with ketosis and hyperammonemia in infancy.",
         "whyCorrect": "Mutase or B12 deficiency causes methylmalonic acidemia; accumulated organic acid produces an anion-gap metabolic acidosis, frequently with ketosis and hyperammonemia in infancy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Isolated conjugated hyperbilirubinemia suggests biliary obstruction or Dubin-Johnson syndrome, not an organic acidemia.",
+          "B": "Hypochloremic metabolic alkalosis results from vomiting, as in pyloric stenosis, whereas organic acid accumulation causes acidosis.",
+          "C": "Respiratory alkalosis can accompany early urea cycle disorders from hyperammonemia, but methylmalonic acidemia is defined by accumulating organic acid and metabolic acidosis.",
+          "E": "Methylmalonic acidemia causes acidosis, often with ketosis and hypoglycemia, not hyperglycemia without acidosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-226_34_p18_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Loss of the B0,+ system for basic amino acids (and cystine) in the intestine and proximal tubule causes cystinuria; poorly soluble cystine precipitates into recurrent hexagonal urinary calculi.",
         "whyCorrect": "Loss of the B0,+ system for basic amino acids (and cystine) in the intestine and proximal tubule causes cystinuria; poorly soluble cystine precipitates into recurrent hexagonal urinary calculi.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neonatal hyperammonemia results from urea cycle defects; cystinuria does not affect ammonia handling.",
+          "B": "Pellagra-like dermatitis follows loss of the neutral amino acid transporter in Hartnup disease, which causes tryptophan wasting.",
+          "C": "Megaloblastic anemia stems from folate or B12 deficiency, or hereditary orotic aciduria, not from loss of dibasic amino acid transport.",
+          "E": "Fanconi syndrome is a generalized proximal tubule defect wasting phosphate, glucose, bicarbonate and all amino acids, not a selective dibasic transporter defect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-227_34_p24_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "PLP (pyridoxal phosphate), the active form of vitamin B6, is the cofactor for the decarboxylation of dopa to dopamine in catecholamine synthesis.",
         "whyCorrect": "PLP (pyridoxal phosphate), the active form of vitamin B6, is the cofactor for the decarboxylation of dopa to dopamine in catecholamine synthesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "B12 is required by methionine synthase and methylmalonyl-CoA mutase, not by aromatic amino acid decarboxylase.",
+          "B": "Riboflavin forms FAD and FMN for oxidation-reduction reactions, not for the PLP-dependent decarboxylation of dopa.",
+          "D": "Niacin forms NAD+ and NADP+ for dehydrogenases; it is not the PLP cofactor.",
+          "E": "Vitamin C is needed at the next step, dopamine β-hydroxylase converting dopamine to norepinephrine, not at dopa decarboxylation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-228_34_p3_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "BH4 is the essential cofactor for phenylalanine hydroxylase; failure to regenerate it (dihydropteridine reductase deficiency) produces a 'malignant' PKU-type hyperphenylalaninemia even when the hydroxylase enzyme is normal.",
         "whyCorrect": "BH4 is the essential cofactor for phenylalanine hydroxylase; failure to regenerate it (dihydropteridine reductase deficiency) produces a 'malignant' PKU-type hyperphenylalaninemia even when the hydroxylase enzyme is normal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ketotic hypoglycemia arises from fasting or impaired gluconeogenesis and is not caused by failure to recycle BH4.",
+          "B": "Lactic acidosis from pyruvate buildup suggests PDH deficiency or mitochondrial disease, not a defect in BH4 regeneration.",
+          "D": "Elevated homocysteine with low methionine reflects impaired remethylation (B12, folate or MTHFR defects), not BH4 deficiency.",
+          "E": "Isolated hyperammonemia points to a urea cycle defect; BH4 is not a cofactor for ammonia detoxification."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-229_34_p4_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Tryptophan is hydroxylated (tryptophan hydroxylase, BH4) to 5-hydroxytryptophan, then decarboxylated (PLP-dependent) to serotonin, a monoamine neurotransmitter.",
         "whyCorrect": "Tryptophan is hydroxylated (tryptophan hydroxylase, BH4) to 5-hydroxytryptophan, then decarboxylated (PLP-dependent) to serotonin, a monoamine neurotransmitter.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "GABA is made from glutamate by glutamate decarboxylase, not from tryptophan.",
+          "B": "Epinephrine is a catecholamine made from tyrosine via dopamine and norepinephrine, not from tryptophan.",
+          "C": "Dopamine is made from tyrosine via L-dopa, not via 5-hydroxytryptophan.",
+          "E": "Histamine is made by decarboxylation of histidine, not from tryptophan."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-230_34_p5_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Tyrosinase (Cu2+-dependent) catalyzes the first step of melanin synthesis; its loss causes oculocutaneous albinism with absent pigment in skin, hair, and eyes.",
         "whyCorrect": "Tyrosinase (Cu2+-dependent) catalyzes the first step of melanin synthesis; its loss causes oculocutaneous albinism with absent pigment in skin, hair, and eyes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vitiligo is acquired, patchy depigmentation from autoimmune destruction of melanocytes, not an inherited tyrosinase deficiency.",
+          "B": "Phenylketonuria is caused by phenylalanine hydroxylase deficiency; it can cause lighter pigmentation, but tyrosinase itself is normal.",
+          "C": "Hemochromatosis is iron overload from HFE mutations and causes bronze skin, not loss of pigment.",
+          "D": "Alkaptonuria results from homogentisate oxidase deficiency in tyrosine degradation, causing dark pigment deposition rather than lack of melanin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-231_34_p8_1.png",

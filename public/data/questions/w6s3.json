@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "A fundoscopic (ophthalmoscopic) exam visualizes the posterior pole of the eye: the optic disc, retinal vasculature, and macula. In lysosomal storage diseases such as Tay-Sachs and Niemann-Pick, this exam reveals the classic macular cherry-red spot.",
         "whyCorrect": "A fundoscopic (ophthalmoscopic) exam visualizes the posterior pole of the eye: the optic disc, retinal vasculature, and macula. In lysosomal storage diseases such as Tay-Sachs and Niemann-Pick, this exam reveals the classic macular cherry-red spot.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Anterior segment OCT produces cross-sectional images of the cornea and anterior chamber, not a color view of the optic disc and macula.",
+          "C": "Gonioscopy uses a mirrored lens to view the iridocorneal angle for glaucoma assessment, not the posterior pole.",
+          "D": "Fluorescein angiography images retinal and choroidal vessels after dye injection, not the conjunctiva, and gives a black-and-white dye-filled image.",
+          "E": "Slit-lamp examination magnifies the anterior segment, including cornea, lens and iris, and does not show the optic disc and macula without special lenses."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-036_39_p5_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "After endothelial injury, monocytes enter the intima and become macrophages that take up oxidized LDL through scavenger receptors. Unlike the classic LDL receptor, scavenger receptors are not suppressed by rising intracellular cholesterol, so lipid loading continues until the cells become foam cells that release cytokines and recruit smooth muscle cells, forming the fatty streak.",
         "whyCorrect": "After endothelial injury, monocytes enter the intima and become macrophages that take up oxidized LDL through scavenger receptors. Unlike the classic LDL receptor, scavenger receptors are not suppressed by rising intracellular cholesterol, so lipid loading continues until the cells become foam cells that release cytokines and recruit smooth muscle cells, forming the fatty streak.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Native LDL receptors are downregulated, not upregulated, by rising intracellular cholesterol through SREBP feedback, which would limit uptake.",
+          "B": "Insulin receptors do not drive massive uptake of modified LDL by macrophages; foam cell formation depends on scavenger receptors.",
+          "C": "HDL receptors such as SR-BI and ABCA1-mediated efflux remove cholesterol from macrophages; HDL is protective, not the source of loading.",
+          "E": "Chylomicron remnant receptors (LRP) bind apoE-containing remnants in the liver, not oxidized LDL in the arterial intima."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-069_38_p10_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
         "whyCorrect": "The finding is corneal arcus, a ring of lipid deposition at the corneal margin. In older patients it is an age-related change (arcus senilis), but when it appears before roughly age 45 it suggests a significant lipid disorder such as familial hypercholesterolemia. (A copper-colored Kayser-Fleischer ring, by contrast, indicates Wilson disease.)",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diabetes mellitus causes retinopathy and cataracts, not a peripheral corneal lipid ring.",
+          "B": "Vitamin A deficiency causes xerophthalmia, Bitot spots and keratomalacia, not a gray-white peripheral ring.",
+          "C": "Chronic uremia can cause band keratopathy from calcium deposition across the interpalpebral cornea, not a circumferential peripheral arc.",
+          "D": "Wilson disease produces a golden-brown copper Kayser-Fleischer ring at the limbus, not a gray-white lipid ring."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-070_38_p8_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
         "whyCorrect": "These are eruptive xanthomas, sudden crops of lipid-laden papules that arise when serum triglycerides are markedly elevated (as in familial hyperchylomicronemia or severe combined hyperlipidemia). They are composed of triglyceride-laden macrophages and typically regress when triglyceride levels are lowered, distinguishing them from the tendon xanthomas of hypercholesterolemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hypercalcemia can cause metastatic calcification and calcinosis, typically firm white nodules, not crops of yellow-red papules with erythematous bases.",
+          "C": "Tophaceous gout produces firm chalky nodules over joints, ears and tendons, not sudden crops of small yellow papules.",
+          "D": "Scurvy causes perifollicular hemorrhages with corkscrew hairs, not lipid-laden yellow papules.",
+          "E": "Isolated hypercholesterolemia causes tendon xanthomas and xanthelasma, while eruptive xanthomas require markedly elevated triglycerides."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-071_38_p8_2.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "This is a Gaucher cell, a lipid-laden macrophage seen in Gaucher disease. Deficiency of glucocerebrosidase causes accumulation of glucocerebroside, giving the cytoplasm its wrinkled 'tissue paper' appearance; features include hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.",
         "whyCorrect": "This is a Gaucher cell, a lipid-laden macrophage seen in Gaucher disease. Deficiency of glucocerebrosidase causes accumulation of glucocerebroside, giving the cytoplasm its wrinkled 'tissue paper' appearance; features include hepatosplenomegaly, anemia, thrombocytopenia, and bone disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hexosaminidase A deficiency (Tay-Sachs) causes GM2 ganglioside accumulation in neurons with a cherry-red spot, without crumpled-paper macrophages.",
+          "B": "α-Galactosidase A deficiency (Fabry disease) causes globotriaosylceramide buildup with angiokeratomas and neuropathy, not Gaucher cells.",
+          "C": "Arylsulfatase A deficiency (metachromatic leukodystrophy) causes sulfatide accumulation and demyelination, not tissue-paper macrophages.",
+          "D": "Sphingomyelinase deficiency (Niemann-Pick) produces foamy, vacuolated macrophages rather than the wrinkled tissue-paper cytoplasm of Gaucher cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-072_39_p8_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "PCSK9 binds the hepatic LDL receptor and targets it for lysosomal destruction rather than recycling, so fewer receptors return to the surface and LDL clearance falls, raising plasma LDL. PCSK9 inhibitors block this degradation, increasing receptor availability and lowering LDL, explaining the diagram's role for familial hypercholesterolemia.",
         "whyCorrect": "PCSK9 binds the hepatic LDL receptor and targets it for lysosomal destruction rather than recycling, so fewer receptors return to the surface and LDL clearance falls, raising plasma LDL. PCSK9 inhibitors block this degradation, increasing receptor availability and lowering LDL, explaining the diagram's role for familial hypercholesterolemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PCSK9 targets the LDL receptor and does not enhance ApoE-mediated chylomicron remnant uptake.",
+          "B": "PCSK9 has no direct effect on HMG-CoA reductase; it alters LDL clearance, not cholesterol synthesis.",
+          "C": "PCSK9 prevents LDL receptor recycling by directing it to lysosomes, so plasma LDL rises rather than falls; that recycling effect describes PCSK9 inhibitors.",
+          "D": "Lipoprotein lipase is activated by apoC-II and inhibited by apoC-III; PCSK9 does not act on it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-249_38_p6_1.png",

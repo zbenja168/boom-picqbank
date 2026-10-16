@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Lactase deficiency leaves lactose undigested; bacterial fermentation yields gas and lactic acid, and the osmotically active undigested sugar plus metabolites pull water into the lumen, producing osmotic diarrhea, bloating and flatulence.",
         "whyCorrect": "Lactase deficiency leaves lactose undigested; bacterial fermentation yields gas and lactic acid, and the osmotically active undigested sugar plus metabolites pull water into the lumen, producing osmotic diarrhea, bloating and flatulence.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lactose intolerance is a noninflammatory digestive defect; invasive bacteria cause bloody inflammatory diarrhea with fever, not post-dairy watery diarrhea.",
+          "B": "Bile acid diarrhea follows terminal ileal disease or resection, not undigested lactose reaching the colon.",
+          "C": "Autoimmune epithelial injury describes celiac disease or autoimmune enteropathy; primary lactase deficiency involves an intact epithelium with low enzyme expression.",
+          "D": "Toxin-driven chloride secretion (cholera, ETEC) causes secretory diarrhea that persists with fasting; lactose diarrhea stops when the sugar is withheld."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-054_19_p6_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Oxidation of the exposed aldehyde carbonyl at C1 of glucose produces gluconate, a sugar acid; this reducing-sugar reaction underlies assays that detect glucose.",
         "whyCorrect": "Oxidation of the exposed aldehyde carbonyl at C1 of glucose produces gluconate, a sugar acid; this reducing-sugar reaction underlies assays that detect glucose.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Converting a hydroxyl to an aldehyde is an oxidation, not a reduction, and C1 of open-chain glucose is already an aldehyde.",
+          "B": "Adding phosphate to a sugar is a kinase reaction, not oxidation, and would give glucose-6-phosphate rather than a sugar acid.",
+          "D": "C6 is a primary alcohol; oxidizing it would give an aldehyde or a carboxylic acid (glucuronic acid), never a ketone.",
+          "E": "Adding an amine to C2 forms an amino sugar such as glucosamine; it is a transamination-type step, not oxidation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-128_18_p10_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Amylose is joined only by α-1,4 bonds, while amylopectin adds α-1,6 branch points. Each branch adds a non-reducing terminus, allowing amylases and phosphorylases to mobilize glucose from many ends simultaneously.",
         "whyCorrect": "Amylose is joined only by α-1,4 bonds, while amylopectin adds α-1,6 branch points. Each branch adds a non-reducing terminus, allowing amylases and phosphorylases to mobilize glucose from many ends simultaneously.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amylopectin is the main form of starch stored in plant granules; branching aids storage rather than preventing it.",
+          "B": "Branching increases solubility and accessibility; insoluble structural polymers like cellulose are linear chains with β-1,4 bonds.",
+          "C": "Both forms of starch are made entirely of glucose; branching changes linkage type (α-1,6), not the identity of the monomer.",
+          "D": "Starch is readily digested by amylase, and isomaltase/sucrase-isomaltase cleaves the α-1,6 branch points."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-129_18_p12_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Cellulose uses β-1,4 linkages; human digestive enzymes (amylases) cleave only α-1,4 bonds, so cellulose passes through as indigestible dietary fiber.",
         "whyCorrect": "Cellulose uses β-1,4 linkages; human digestive enzymes (amylases) cleave only α-1,4 bonds, so cellulose passes through as indigestible dietary fiber.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cellulose is a linear, unbranched polymer; the problem is its β-1,4 linkage, not branching.",
+          "B": "Cellulose is built from D-glucose, the same sugar humans metabolize; only the β-configuration of the glycosidic bond differs.",
+          "C": "Cellulose is a pure carbohydrate polymer and is not covalently attached to protein.",
+          "D": "Cellulose glucose units are not oxidized; once freed (as by microbial cellulases) they are ordinary glucose."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-130_18_p13_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "SGLT-1 is a secondary active symporter: it couples glucose uptake to Na+ flowing down the gradient set up by the Na+/K+ ATPase. Glucose then exits basolaterally by facilitated diffusion through GLUT-2.",
         "whyCorrect": "SGLT-1 is a secondary active symporter: it couples glucose uptake to Na+ flowing down the gradient set up by the Na+/K+ ATPase. Glucose then exits basolaterally by facilitated diffusion through GLUT-2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fructose enters through GLUT5 by facilitated diffusion and is not coupled to glucose transport, so its gradient cannot drive glucose uptake.",
+          "C": "SGLT1 does not hydrolyze ATP itself; ATP is used indirectly by the basolateral Na+/K+ ATPase, making this secondary rather than primary active transport.",
+          "D": "GLUT2 is on the basolateral membrane and moves glucose out of the enterocyte toward blood by facilitated diffusion, not into the cell from blood.",
+          "E": "Facilitated diffusion can only move glucose down its gradient; uptake against the gradient requires coupling to Na+ influx."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-131_18_p16_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Both are hexoses with formula C6H12O6, but glucose carries an aldehyde at C1 and fructose a ketone at C2. Different connectivity of the same atoms makes them constitutional isomers.",
         "whyCorrect": "Both are hexoses with formula C6H12O6, but glucose carries an aldehyde at C1 and fructose a ketone at C2. Different connectivity of the same atoms makes them constitutional isomers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anomers differ only at the anomeric carbon of a cyclized sugar (α vs β), whereas glucose and fructose differ in the position of the carbonyl itself.",
+          "B": "Enantiomers are non-superimposable mirror images, such as D- and L-glucose, with identical connectivity; glucose and fructose have different connectivity.",
+          "D": "Conformations interconvert by bond rotation alone; changing an aldehyde at C1 to a ketone at C2 changes bonding, so they are distinct molecules.",
+          "E": "Epimers are stereoisomers differing at one chiral carbon, such as glucose and galactose at C4; aldose versus ketose is a structural difference."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-132_18_p2_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "An internal hydroxyl (C5 for glucose, C5 for fructose) attacks the carbonyl carbon, forming a cyclic hemiacetal (aldose) or hemiketal (ketose); this creates the new anomeric center marked with an asterisk.",
         "whyCorrect": "An internal hydroxyl (C5 for glucose, C5 for fructose) attacks the carbonyl carbon, forming a cyclic hemiacetal (aldose) or hemiketal (ketose); this creates the new anomeric center marked with an asterisk.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cyclization adds a hydroxyl across the carbonyl without losing water; no carbon-carbon double bond is formed.",
+          "B": "Ring closure involves no change in oxidation state; oxidation of the aldehyde to a carboxylic acid would give gluconic acid.",
+          "C": "Peptide bonds join an amine to a carboxyl group in proteins; sugars cyclize by hydroxyl attack on the carbonyl.",
+          "D": "Esters form between a carboxylic acid and an alcohol; joining two hydroxyls would form an ether, and neither occurs in ring closure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-133_18_p4_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Sucrose links glucose C1 to fructose C2 (α-1,2), engaging both anomeric carbons, so it has no free reducing end. Lactose and maltose each retain a free anomeric carbon and are reducing sugars.",
         "whyCorrect": "Sucrose links glucose C1 to fructose C2 (α-1,2), engaging both anomeric carbons, so it has no free reducing end. Lactose and maltose each retain a free anomeric carbon and are reducing sugars.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cellobiose is a glucose β-1,4 dimer whose second glucose keeps a free anomeric carbon, so it is a reducing sugar.",
+          "B": "Maltose links glucose units α-1,4, leaving the second glucose's anomeric carbon free, so it reduces Benedict reagent.",
+          "C": "Isomaltose links glucose units α-1,6, leaving one anomeric carbon free, so it is a reducing sugar.",
+          "E": "Lactose joins galactose C1 to glucose C4 (β-1,4), so the glucose's anomeric carbon is free and lactose is a reducing sugar."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-134_18_p6_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Ring closure creates a new stereocenter at C1 (the anomeric carbon); the α and β forms differ only in the configuration at that single carbon and are therefore anomers that interconvert by mutarotation.",
         "whyCorrect": "Ring closure creates a new stereocenter at C1 (the anomeric carbon); the α and β forms differ only in the configuration at that single carbon and are therefore anomers that interconvert by mutarotation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Constitutional isomers differ in atom connectivity, like glucose and fructose; α and β glucose share connectivity and differ only in configuration at C1.",
+          "B": "Aldoses and ketoses differ in carbonyl type; both ring forms here come from the same aldose, glucose.",
+          "C": "Epimers differ at a single chiral carbon other than the anomeric one, such as glucose versus galactose at C4; a difference at C1 after cyclization defines anomers.",
+          "D": "Enantiomers are mirror images differing at every chiral center (D- vs L-glucose); the α and β forms differ at only one carbon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-135_18_p7_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The molecule is a glucopyranose linked to a fructofuranose via an α-1,2 glycosidic bond joining both anomeric carbons, the defining structure of sucrose (table sugar).",
         "whyCorrect": "The molecule is a glucopyranose linked to a fructofuranose via an α-1,2 glycosidic bond joining both anomeric carbons, the defining structure of sucrose (table sugar).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Maltose is two glucopyranose rings linked α-1,4, with no furanose ring and a free anomeric carbon.",
+          "B": "Trehalose links both anomeric carbons, but joins two glucopyranoses (α-1,1); it has no five-membered fructofuranose ring.",
+          "D": "Cellobiose is two glucopyranoses linked β-1,4, with no furanose ring and a free reducing end.",
+          "E": "Lactose is galactopyranose linked β-1,4 to glucopyranose; both rings are six-membered and only one anomeric carbon is involved."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-136_18_p8_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The dense branching pattern with α-1,4 chains, α-1,6 branch points, numerous non-reducing ends, and a reducing end attached to the primer protein glycogenin identifies mammalian glycogen.",
         "whyCorrect": "The dense branching pattern with α-1,4 chains, α-1,6 branch points, numerous non-reducing ends, and a reducing end attached to the primer protein glycogenin identifies mammalian glycogen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amylopectin is plant starch; it branches less often (about every 24-30 residues) and is not found in animal liver and muscle.",
+          "C": "Amylose is an unbranched α-1,4 glucose chain from plant starch with no α-1,6 branch points.",
+          "D": "Cellulose is an unbranched β-1,4 glucose polymer forming plant cell walls, not an animal storage fuel.",
+          "E": "Dextran is a bacterial and yeast glucose polymer built mainly on α-1,6 linkages, not mammalian storage glycogen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-137_19_p2_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The high-Km aldose reductase pathway becomes active when galactose accumulates, converting it to galactitol. Galactitol is osmotically trapped in the lens, drawing in water and producing cataracts, a hallmark of galactokinase deficiency and classic galactosemia.",
         "whyCorrect": "The high-Km aldose reductase pathway becomes active when galactose accumulates, converting it to galactitol. Galactitol is osmotically trapped in the lens, drawing in water and producing cataracts, a hallmark of galactokinase deficiency and classic galactosemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Galactosemia does cause liver injury, but through galactose-1-phosphate toxicity in hepatocytes, not osmotic galactitol in sinusoids; the classic galactitol lesion is cataract.",
+          "C": "Skeletal muscle is not the classic site of galactitol injury; the osmotic damage characteristically appears in the lens.",
+          "D": "Renal tubular dysfunction can occur in galactosemia, but galactitol trapping by aldose reductase classically causes lens cataracts.",
+          "E": "Cardiac myocytes are not a recognized target of galactitol accumulation; galactitol's hallmark effect is osmotic cataract."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-138_19_p9_1.png",

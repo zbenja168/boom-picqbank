@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Sister chromatids are the two identical copies of a chromosome produced by DNA replication in S phase; they remain joined at the centromere until separated in anaphase.",
         "whyCorrect": "Sister chromatids are the two identical copies of a chromosome produced by DNA replication in S phase; they remain joined at the centromere until separated in anaphase.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transcription copies genes into RNA and does not duplicate the chromosome into sister chromatids.",
+          "B": "Random assortment distributes homologous chromosomes into gametes during meiosis I; it does not generate identical chromatids.",
+          "D": "Crossing over exchanges segments between homologous chromosomes, making chromatids genetically different rather than creating identical copies.",
+          "E": "Nondisjunction is a failure of chromosome separation causing aneuploidy, not the normal process that creates sister chromatids."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-015_40_p4_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Mitosis produces two daughter cells that are diploid (2n) and genetically identical to the parent, in contrast to meiosis which yields four genetically unique haploid cells.",
         "whyCorrect": "Mitosis produces two daughter cells that are diploid (2n) and genetically identical to the parent, in contrast to meiosis which yields four genetically unique haploid cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Triploidy (3n) is an abnormal state, for example from fertilization by two sperm, and is not produced by normal cell division.",
+          "C": "Haploid cells are produced by meiosis; mitosis keeps the diploid chromosome number of the parent.",
+          "D": "Four genetically unique haploid cells are the product of meiosis, not of the mitotic cycle shown.",
+          "E": "Mitosis yields two daughter cells, not four, and recombination by crossing over is a meiotic event."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-016_40_p8_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Meiosis I separates homologous chromosomes (reductional) and meiosis II separates sister chromatids, yielding four haploid cells that are genetically unique due to crossing over and independent assortment.",
         "whyCorrect": "Meiosis I separates homologous chromosomes (reductional) and meiosis II separates sister chromatids, yielding four haploid cells that are genetically unique due to crossing over and independent assortment.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Two identical diploid cells are the product of mitosis, which lacks homolog pairing and crossing over.",
+          "C": "Normal meiosis never yields cells with different ploidy; all four products are haploid.",
+          "D": "Meiosis reduces chromosome number, so its final products are haploid, not diploid.",
+          "E": "Meiosis produces four cells, not two, and crossing over and independent assortment make them genetically distinct."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-017_40_p9_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "A normal human somatic karyotype contains 46 chromosomes: 22 autosome pairs plus two sex chromosomes (XY shown here). Deviations such as 45 or 47 indicate aneuploidy (e.g., monosomy or trisomy).",
         "whyCorrect": "A normal human somatic karyotype contains 46 chromosomes: 22 autosome pairs plus two sex chromosomes (XY shown here). Deviations such as 45 or 47 indicate aneuploidy (e.g., monosomy or trisomy).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "44 is the number of autosomes alone; adding the two sex chromosomes gives 46.",
+          "C": "47 chromosomes indicates a trisomy, such as Down or Klinefelter syndrome, not a normal set.",
+          "D": "23 is the haploid number found in gametes, not in a somatic cell karyotype.",
+          "E": "45 chromosomes indicates a monosomy such as Turner syndrome (45,X) or a balanced Robertsonian translocation carrier."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-037_40_p11_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Karyotyping arrests dividing cells in metaphase, stains the condensed chromosomes, and arranges them by size, centromere position, and banding pattern to detect numerical and large structural chromosomal abnormalities.",
         "whyCorrect": "Karyotyping arrests dividing cells in metaphase, stains the condensed chromosomes, and arranges them by size, centromere position, and banding pattern to detect numerical and large structural chromosomal abnormalities.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Flow cytometry analyzes cell surface markers and DNA content in suspension, producing dot plots, not an arranged set of banded chromosomes.",
+          "B": "A Western blot detects specific proteins as bands on a membrane, not whole chromosomes.",
+          "C": "ELISA measures antigen or antibody by a color reaction in wells and does not visualize chromosomes.",
+          "E": "PCR amplifies specific DNA sequences and is read by gel or fluorescence, not by imaging metaphase chromosomes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-038_40_p13_2.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Twenty-two autosome pairs plus one X and one Y, with no numerical abnormality, defines a normal euploid male. Klinefelter (XXY), Turner (45,X), and Down syndrome would each show an abnormal count.",
         "whyCorrect": "Twenty-two autosome pairs plus one X and one Y, with no numerical abnormality, defines a normal euploid male. Klinefelter (XXY), Turner (45,X), and Down syndrome would each show an abnormal count.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Klinefelter syndrome is 47,XXY, with an extra X chromosome not present in this karyotype.",
+          "C": "A normal female has two X chromosomes and no Y, whereas this karyotype includes a Y chromosome.",
+          "D": "Down syndrome would show three copies of chromosome 21 and a count of 47, but chromosome 21 is a normal pair here.",
+          "E": "Turner syndrome is 45,X with a single X and no Y, whereas this karyotype has 46 chromosomes including X and Y."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-039_40_p14_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The acrocentric chromosomes have centromeres near one end with small short arms, allowing their long arms to fuse at the centromere in Robertsonian translocations, an important cause of translocation Down syndrome.",
         "whyCorrect": "The acrocentric chromosomes have centromeres near one end with small short arms, allowing their long arms to fuse at the centromere in Robertsonian translocations, an important cause of translocation Down syndrome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "X-inactivation silences one X chromosome in female cells and does not involve acrocentric autosomes.",
+          "C": "Uniparental disomy can follow Robertsonian translocations, but the event acrocentric chromosomes characteristically undergo is centric fusion itself.",
+          "D": "Ring chromosomes form when both ends of a chromosome are lost and joined, and are not specific to acrocentric chromosomes.",
+          "E": "Pericentric inversions involve breaks on both sides of the centromere and are not characteristic of acrocentric chromosomes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-040_40_p6_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Three copies of chromosome 21 (trisomy 21) cause Down syndrome, characterized by intellectual disability, characteristic facies, and increased risk of congenital heart defects. Edwards (18) and Patau (13) are other autosomal trisomies.",
         "whyCorrect": "Three copies of chromosome 21 (trisomy 21) cause Down syndrome, characterized by intellectual disability, characteristic facies, and increased risk of congenital heart defects. Edwards (18) and Patau (13) are other autosomal trisomies.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Patau syndrome is trisomy 13, with holoprosencephaly, cleft lip and polydactyly, not trisomy 21.",
+          "C": "Turner syndrome is 45,X, a sex chromosome monosomy, not an autosomal trisomy.",
+          "D": "Edwards syndrome is trisomy 18, with clenched fists and rocker-bottom feet, not three copies of chromosome 21.",
+          "E": "Klinefelter syndrome is 47,XXY, involving an extra X chromosome rather than chromosome 21."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-073_40_p13_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "A rob(14;21) Robertsonian translocation carrier is balanced and healthy, but during gamete formation can produce unbalanced gametes carrying the extra chromosome 21 material, leading to translocation Down syndrome in offspring.",
         "whyCorrect": "A rob(14;21) Robertsonian translocation carrier is balanced and healthy, but during gamete formation can produce unbalanced gametes carrying the extra chromosome 21 material, leading to translocation Down syndrome in offspring.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trisomy 13 can arise from a Robertsonian translocation involving chromosome 13, but a 14;21 fusion carries extra chromosome 21 material, not 13.",
+          "B": "Klinefelter syndrome (47,XXY) arises from sex chromosome nondisjunction, not from a 14;21 Robertsonian translocation.",
+          "C": "Cri-du-chat syndrome is a deletion of the short arm of chromosome 5, unrelated to a 14;21 fusion.",
+          "E": "Turner syndrome (45,X) is a sex chromosome monosomy and is not caused by a 14;21 Robertsonian translocation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-074_40_p19_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Terminal deletion of the short arm of chromosome 5 (5p-) causes cri-du-chat syndrome, characterized by a high-pitched cat-like cry, microcephaly, and intellectual disability.",
         "whyCorrect": "Terminal deletion of the short arm of chromosome 5 (5p-) causes cri-du-chat syndrome, characterized by a high-pitched cat-like cry, microcephaly, and intellectual disability.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "DiGeorge syndrome is a microdeletion at 22q11.2, causing thymic and parathyroid hypoplasia and conotruncal heart defects, not loss of 5p.",
+          "C": "Prader-Willi syndrome results from loss of paternal 15q11-q13 expression, causing hypotonia, hyperphagia and obesity.",
+          "D": "Angelman syndrome results from loss of maternal UBE3A at 15q11-q13, causing seizures, ataxia and inappropriate laughter.",
+          "E": "Wolf-Hirschhorn syndrome is a deletion of the short arm of chromosome 4 (4p-), with Greek-helmet facies, not chromosome 5."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-075_40_p20_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Most cases of trisomy 21 result from meiotic nondisjunction, the failure of homologous chromosomes (or sister chromatids) to separate, producing a gamete with an extra chromosome 21. Risk rises with advanced maternal age.",
         "whyCorrect": "Most cases of trisomy 21 result from meiotic nondisjunction, the failure of homologous chromosomes (or sister chromatids) to separate, producing a gamete with an extra chromosome 21. Risk rises with advanced maternal age.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A balanced reciprocal translocation preserves total genetic material and does not add a whole extra chromosome 21.",
+          "B": "A single-gene point mutation alters one gene's sequence and cannot produce an extra whole chromosome on karyotype.",
+          "C": "A deletion removes chromosomal material, the opposite of gaining an extra chromosome 21.",
+          "E": "Ring chromosomes form by loss and fusion of both chromosome ends and do not create a free extra copy of chromosome 21."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-251_40_p15_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "A reciprocal translocation is a mutual exchange of segments between two non-homologous chromosomes. When no genetic material is net gained or lost the carrier is usually phenotypically normal, but their gametes may be unbalanced.",
         "whyCorrect": "A reciprocal translocation is a mutual exchange of segments between two non-homologous chromosomes. When no genetic material is net gained or lost the carrier is usually phenotypically normal, but their gametes may be unbalanced.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A terminal deletion is loss of a chromosome end from a single chromosome, not an exchange between two chromosomes.",
+          "B": "A pericentric inversion flips a segment spanning the centromere within one chromosome, with no exchange between chromosomes.",
+          "D": "A tandem duplication adds an adjacent extra copy of a segment on the same chromosome rather than swapping segments.",
+          "E": "Robertsonian fusion joins the long arms of two acrocentric chromosomes at the centromere; chromosomes 4 and 20 are not acrocentric, and the exchange here is mutual."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-252_40_p17_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Balanced translocation carriers are typically phenotypically normal because total genetic material is preserved. During meiosis, however, segregation can yield gametes with duplicated or deleted segments (unbalanced), increasing the risk of recurrent pregnancy loss or a child with a chromosomal disorder.",
         "whyCorrect": "Balanced translocation carriers are typically phenotypically normal because total genetic material is preserved. During meiosis, however, segregation can yield gametes with duplicated or deleted segments (unbalanced), increasing the risk of recurrent pregnancy loss or a child with a chromosomal disorder.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Balanced carriers have no net gain or loss of genetic material and are usually healthy, without progressive neurodegeneration.",
+          "C": "Many balanced carriers are fertile; their problem is an increased rate of unbalanced conceptions and miscarriage, not universal infertility.",
+          "D": "A 12;14 translocation does not involve chromosome 21 and cannot cause trisomy 21 in the carrier.",
+          "E": "Leukemia-associated translocations arise as acquired somatic events; an inherited balanced constitutional translocation does not cause immediate leukemia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-253_40_p18_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "A duplication adds an extra copy of a chromosomal segment, increasing gene dosage for that region and producing a partial trisomy, unlike deletions (loss) or inversions (no net dosage change).",
         "whyCorrect": "A duplication adds an extra copy of a chromosomal segment, increasing gene dosage for that region and producing a partial trisomy, unlike deletions (loss) or inversions (no net dosage change).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Fusion of two non-homologous chromosomes describes a Robertsonian translocation, not the change in a single chromosome shown.",
+          "C": "Exchange between homologous chromosomes is crossing over, a normal meiotic event that does not alter dosage.",
+          "D": "Reversal of gene order without dosage change describes an inversion; the abnormality here adds an extra copy of a segment.",
+          "E": "Loss of a segment describes a deletion, which reduces gene dosage, the opposite of the gain shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-254_40_p21_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "An inversion in which the reversed segment lies entirely on one arm and excludes the centromere is a paracentric inversion; a pericentric inversion would span the centromere.",
         "whyCorrect": "An inversion in which the reversed segment lies entirely on one arm and excludes the centromere is a paracentric inversion; a pericentric inversion would span the centromere.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A reciprocal translocation exchanges segments between two non-homologous chromosomes, rather than flipping a segment within one.",
+          "B": "A tandem duplication adds an extra copy of a segment next to the original rather than reversing its orientation.",
+          "D": "A terminal deletion removes a chromosome end with no reinsertion or reversal.",
+          "E": "A pericentric inversion includes the centromere in the flipped segment; this one excludes the centromere."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-255_40_p22_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "These findings are those of trisomy 18 (Edwards syndrome); like most autosomal trisomies it usually results from maternal meiotic nondisjunction producing an extra copy of the chromosome.",
         "whyCorrect": "These findings are those of trisomy 18 (Edwards syndrome); like most autosomal trisomies it usually results from maternal meiotic nondisjunction producing an extra copy of the chromosome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Uniparental disomy means both copies come from one parent with a normal count; it does not produce an extra whole chromosome.",
+          "B": "A terminal deletion loses chromosomal material, whereas Edwards syndrome involves an extra chromosome 18.",
+          "C": "A point mutation alters a single gene and cannot account for an extra whole chromosome.",
+          "D": "Robertsonian translocations involve acrocentric chromosomes (13, 14, 15, 21, 22); chromosome 18 is not acrocentric, and most trisomies arise by nondisjunction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-076_41_p17_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "An n+1 gamete already carries one extra chromosome; fertilization by a normal (n) gamete yields a 2n+1 zygote, i.e., trisomy for that chromosome.",
         "whyCorrect": "An n+1 gamete already carries one extra chromosome; fertilization by a normal (n) gamete yields a 2n+1 zygote, i.e., trisomy for that chromosome.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A normal diploid zygote results from two normal (n) gametes; the extra chromosome in the n+1 gamete is retained.",
+          "B": "Tetrasomy would require two extra copies of the chromosome, but only one gamete carries a single extra copy.",
+          "D": "Triploidy is an extra full haploid set (3n), as from two sperm fertilizing one egg, not a single extra chromosome.",
+          "E": "Monosomy results when an n−1 gamete, missing a chromosome, is fertilized, not an n+1 gamete."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-256_41_p4_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Post-zygotic (mitotic) nondisjunction creates two or more genetically distinct cell lines (mosaicism); phenotype severity varies with how many cells and which tissues carry the abnormal line.",
         "whyCorrect": "Post-zygotic (mitotic) nondisjunction creates two or more genetically distinct cell lines (mosaicism); phenotype severity varies with how many cells and which tissues carry the abnormal line.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sex does not chiefly determine severity in mosaicism; the fraction and distribution of abnormal cells does.",
+          "B": "Meiotic stage matters for errors made before fertilization; this error occurs in mitosis after fertilization.",
+          "D": "Parental origin matters for imprinting disorders, but a post-zygotic mitotic error is not inherited from either parent.",
+          "E": "Crossing over occurs in meiosis and is not part of the mitotic division in which this error arises."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-257_41_p6_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "In a Robertsonian translocation the long arms of two acrocentric chromosomes fuse near the centromere and the small short arms (carrying redundant rRNA genes) are lost, producing a balanced carrier with 45 chromosomes.",
         "whyCorrect": "In a Robertsonian translocation the long arms of two acrocentric chromosomes fuse near the centromere and the small short arms (carrying redundant rRNA genes) are lost, producing a balanced carrier with 45 chromosomes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The long arms, including their telomeres, are retained and fused; losing them would remove essential genes.",
+          "B": "No entire chromosome is lost; the long arms of both are preserved in the single derivative chromosome.",
+          "D": "The long arms carry the essential genes and are joined in the derivative chromosome, so they are not lost.",
+          "E": "The fusion occurs at or near the centromere, and the derivative chromosome retains one or both centromeres."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-258_41_p9_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
         "whyCorrect": "A 47,XXY karyotype with an extra X chromosome is diagnostic of Klinefelter syndrome, associated with tall stature, gynecomastia, small testes, and infertility.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trisomy X is 47,XXX, with three X chromosomes and no Y, producing a female phenotype.",
+          "B": "Down syndrome is trisomy 21, an autosomal trisomy with normal sex chromosomes.",
+          "D": "Jacobs syndrome is 47,XYY, with an extra Y chromosome rather than an extra X.",
+          "E": "Turner syndrome is 45,X, a single X with no second sex chromosome."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-041_42_p12_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Ordering stained metaphase chromosomes into 22 autosome pairs plus the sex chromosomes is a karyotype. Here there are 22 paired autosomes with one X and one Y, defining a normal 46,XY male complement with no numerical abnormality.",
         "whyCorrect": "Ordering stained metaphase chromosomes into 22 autosome pairs plus the sex chromosomes is a karyotype. Here there are 22 paired autosomes with one X and one Y, defining a normal 46,XY male complement with no numerical abnormality.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A pedigree is a family tree diagram of inheritance, not an image of stained chromosomes arranged in pairs.",
+          "B": "FISH uses fluorescent locus-specific probes on chromosomes or nuclei, not G-banding of all chromosomes into a full ordered set.",
+          "C": "This is a karyotype, but chromosome 21 is a normal pair, so it does not show trisomy 21.",
+          "D": "A Southern blot shows DNA restriction fragments as bands on a membrane, not whole chromosomes arranged by size."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-042_42_p8_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Short stature and cubitus valgus (wide carrying angle), along with webbed neck and gonadal dysgenesis, are hallmarks of Turner syndrome (45,X).",
         "whyCorrect": "Short stature and cubitus valgus (wide carrying angle), along with webbed neck and gonadal dysgenesis, are hallmarks of Turner syndrome (45,X).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Down syndrome causes short stature with intellectual disability, flat facies and hypotonia, but not the cubitus valgus and gonadal dysgenesis of Turner syndrome.",
+          "B": "Trisomy X is typically associated with tall stature and mild learning problems, not short stature with cubitus valgus.",
+          "C": "Marfan syndrome causes tall stature with long limbs and joint hypermobility, not short stature.",
+          "E": "Klinefelter syndrome affects phenotypic males and causes tall stature, not a short adolescent girl."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-077_42_p10_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
         "whyCorrect": "The combination of eunuchoid tall stature, gynecomastia, small firm testes, and hypoandrogenic features is classic for Klinefelter syndrome (47,XXY), in which an extra X chromosome causes primary hypogonadism and testosterone deficiency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "47,XXX produces a phenotypic female, not a male with gynecomastia and small testes.",
+          "C": "47,XYY males are tall but generally have normal testes and androgenization, without gynecomastia or hypogonadism.",
+          "D": "45,X produces a phenotypic female with short stature (Turner syndrome), not a tall male.",
+          "E": "5α-reductase deficiency causes ambiguous genitalia at birth with virilization at puberty, not tall stature with gynecomastia and small firm testes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-078_42_p14_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The X and Y chromosomes share small homologous pseudoautosomal regions. These segments synapse and undergo obligate crossing over during meiosis, ensuring proper X-Y segregation; failure here contributes to sex-chromosome aneuploidy.",
         "whyCorrect": "The X and Y chromosomes share small homologous pseudoautosomal regions. These segments synapse and undergo obligate crossing over during meiosis, ensuring proper X-Y segregation; failure here contributes to sex-chromosome aneuploidy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pseudoautosomal regions promote correct pairing and segregation in meiosis; they do not cause mitotic nondisjunction.",
+          "C": "X and Y share homology only in small pseudoautosomal regions at their tips, so they synapse only there, not along their full length.",
+          "D": "The Y chromosome is not silenced in males; it carries active genes such as SRY, and the shared regions escape X-inactivation.",
+          "E": "X and Y remain separate chromosomes; the shared segments enable pairing and crossing over, not fusion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-259_42_p3_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "In meiosis I nondisjunction homologs fail to separate, so all four gametes are abnormal and the extra-chromosome gametes carry both homologs. In meiosis II nondisjunction, sister chromatids fail to separate in one cell only, so two gametes are normal and the two abnormal ones carry duplicate sister chromosomes.",
         "whyCorrect": "In meiosis I nondisjunction homologs fail to separate, so all four gametes are abnormal and the extra-chromosome gametes carry both homologs. In meiosis II nondisjunction, sister chromatids fail to separate in one cell only, so two gametes are normal and the two abnormal ones carry duplicate sister chromosomes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Nondisjunction in meiosis II still produces aneuploid gametes: one with an extra chromosome and one missing it.",
+          "B": "Gametes carrying two different homologs result from meiosis I nondisjunction; meiosis II errors give two identical sister chromatids.",
+          "D": "Only one gamete receives an extra chromosome in a meiosis II error; another lacks it and two are normal.",
+          "E": "All four gametes are abnormal only with a meiosis I error; in meiosis II only the cell with failed separation is affected."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-260_42_p4_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "The number of Barr bodies equals the number of X chromosomes minus one. A 47,XXY (Klinefelter) individual has two X chromosomes, so one X is inactivated, producing a single Barr body.",
         "whyCorrect": "The number of Barr bodies equals the number of X chromosomes minus one. A 47,XXY (Klinefelter) individual has two X chromosomes, so one X is inactivated, producing a single Barr body.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The number of Barr bodies depends only on how many X chromosomes are present, not on the parental origin of the Y.",
+          "B": "Two Barr bodies would be expected with three X chromosomes, as in 47,XXX, not with two X chromosomes.",
+          "C": "Three Barr bodies would require four X chromosomes, as in 48,XXXX.",
+          "D": "No Barr body is seen with a single X (46,XY or 45,X); an XXY individual inactivates one of the two X chromosomes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-261_42_p5_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "A hemizygous deletion at 22q11.2 causes DiGeorge/velocardiofacial syndrome, featuring conotruncal cardiac defects, thymic and parathyroid hypoplasia, palatal anomalies, and characteristic facies.",
         "whyCorrect": "A hemizygous deletion at 22q11.2 causes DiGeorge/velocardiofacial syndrome, featuring conotruncal cardiac defects, thymic and parathyroid hypoplasia, palatal anomalies, and characteristic facies.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wolf-Hirschhorn syndrome is a deletion of 4p, not chromosome 22.",
+          "B": "Prader-Willi syndrome involves loss of paternally expressed genes at 15q11-q13, not 22q11.",
+          "C": "Cri-du-chat syndrome results from a deletion of 5p, not a 22q microdeletion.",
+          "D": "Williams syndrome is a microdeletion at 7q11.23 including the elastin gene, causing supravalvular aortic stenosis and hypercalcemia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-079_43_p5_1.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Insertion, deletion, duplication, inversion, and translocation all alter chromosome structure rather than chromosome number or a single base, so they are collectively classified as structural chromosomal aberrations.",
         "whyCorrect": "Insertion, deletion, duplication, inversion, and translocation all alter chromosome structure rather than chromosome number or a single base, so they are collectively classified as structural chromosomal aberrations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Single-nucleotide point mutations change one base pair and are too small to move, delete or flip chromosome segments.",
+          "B": "Trinucleotide repeat expansions lengthen short repeat sequences within a gene, not whole chromosomal segments.",
+          "C": "Epigenetic silencing changes gene expression through methylation or chromatin marks without altering DNA sequence or chromosome structure.",
+          "D": "Numerical aneuploidies change the number of whole chromosomes, while these events rearrange segments within or between chromosomes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-262_43_p2_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "A patchy (mosaic) phenotype in a child of two unaffected parents indicates a mutation arising after fertilization (post-zygotic), so only a subset of cells carry it. Because the parents lack the mutation, recurrence risk in siblings is low unless a parent has gonadal mosaicism.",
         "whyCorrect": "A patchy (mosaic) phenotype in a child of two unaffected parents indicates a mutation arising after fertilization (post-zygotic), so only a subset of cells carry it. Because the parents lack the mutation, recurrence risk in siblings is low unless a parent has gonadal mosaicism.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Autosomal recessive inheritance from carrier parents would place the mutation in every cell, producing a uniform rather than patchy phenotype.",
+          "C": "A germline mutation present in all cells would give a uniform phenotype, not a patchy mosaic distribution.",
+          "D": "Mitochondrial disorders affect tissues with high energy demand and follow the mother's heteroplasmy; they do not explain a de novo patchy pattern with unaffected parents.",
+          "E": "An X-linked dominant mutation inherited from the father would make him affected, yet both parents are unaffected."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-263_44_p10_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "In germline (gonadal) mosaicism a fraction of gametes carry the mutation, so unaffected-appearing parents can have affected children and may have recurrence. A somatic mutation is confined to body tissues and cannot enter the germline, so it is not transmitted.",
         "whyCorrect": "In germline (gonadal) mosaicism a fraction of gametes carry the mutation, so unaffected-appearing parents can have affected children and may have recurrence. A somatic mutation is confined to body tissues and cannot enter the germline, so it is not transmitted.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Prenatal testing samples fetal tissue, and detecting mosaicism in that tissue does not determine whether a parent's mutation can be transmitted.",
+          "C": "Severity depends on which tissues carry the mutation; somatic mosaicism is not always more severe than germline mosaicism.",
+          "D": "Germline mosaicism is confined to gonadal cells, while somatic mosaicism can be patchy or localized; neither is defined as one organ versus generalized.",
+          "E": "Only germline mosaicism is heritable, and even then only gametes carrying the mutation pass it on."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-264_44_p11_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "The X-inactivation center encodes XIST, a long non-coding RNA that coats the chromosome in cis and recruits repressive chromatin modifications, spreading epigenetic silencing across most genes. Without an intact XIC/XIST, the X cannot be inactivated and both alleles are expressed.",
         "whyCorrect": "The X-inactivation center encodes XIST, a long non-coding RNA that coats the chromosome in cis and recruits repressive chromatin modifications, spreading epigenetic silencing across most genes. Without an intact XIC/XIST, the X cannot be inactivated and both alleles are expressed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Telomerase maintains chromosome ends and plays no role in coating or silencing the inactive X.",
+          "C": "DNA polymerase replicates DNA and is not recruited to silence a whole X chromosome.",
+          "D": "Spliceosomal snRNAs process pre-mRNA introns and do not coat chromosomes to trigger inactivation.",
+          "E": "Histone acetyltransferases open chromatin and promote transcription, the opposite of the repressive silencing on the inactive X."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-265_44_p16_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Because the choice of which X to inactivate is random per cell and is clonally maintained, a female is a mosaic of two cell populations. This underlies variable expression of X-linked disorders in heterozygous females and phenomena such as patchy skin findings.",
         "whyCorrect": "Because the choice of which X to inactivate is random per cell and is clonally maintained, a female is a mosaic of two cell populations. This underlies variable expression of X-linked disorders in heterozygous females and phenomena such as patchy skin findings.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The inactive X is condensed into a Barr body but remains in the genome and is replicated in every division.",
+          "B": "Once established, the inactive state is clonally maintained through mitosis, being reversed only in the female germline.",
+          "C": "The choice of which X to inactivate is random in each embryonic cell, so tissues contain a mix of cells with an active paternal or an active maternal X.",
+          "D": "Most X-linked genes are expressed from only one X in each cell, with a minority escaping inactivation; equal biallelic expression is not the rule."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-266_44_p17_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "Because the initial choice of which X to inactivate is random, most females cluster around a balanced 50:50 ratio, with roughly 90% falling between 75:25 and 25:75. Strongly skewed inactivation is uncommon and can unmask X-linked disease in carrier females.",
         "whyCorrect": "Because the initial choice of which X to inactivate is random, most females cluster around a balanced 50:50 ratio, with roughly 90% falling between 75:25 and 25:75. Strongly skewed inactivation is uncommon and can unmask X-linked disease in carrier females.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Extreme skewing would cluster females at the tails of the distribution, whereas the curve peaks near 50:50.",
+          "B": "Ratios vary among females around 50:50, as the bell-shaped spread shows, rather than being fixed at exactly 50:50.",
+          "C": "Barr body number reflects how many X chromosomes are present and is one in nearly all females, so it cannot explain variation in ratios.",
+          "E": "Preferential paternal X inactivation (imprinted) occurs in marsupials and some extraembryonic tissues, but would shift the curve, not center it near 50:50."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-267_44_p18_1.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "Cells that inactivate the abnormal (e.g., partially deleted or unbalanced) X have a selective advantage, so the normal X stays active. This nonrandom (skewed) X-inactivation blunts the phenotypic impact of the structural abnormality.",
         "whyCorrect": "Cells that inactivate the abnormal (e.g., partially deleted or unbalanced) X have a selective advantage, so the normal X stays active. This nonrandom (skewed) X-inactivation blunts the phenotypic impact of the structural abnormality.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Autosomes do not double their expression to compensate; X-inactivation itself achieves dosage balance with males.",
+          "B": "Having one active X per cell is normal dosage compensation, and some genes escape inactivation; the key effect of skewing is that the active X is normal.",
+          "D": "One X still undergoes inactivation in each cell; skewing determines which X is silenced, not whether silencing occurs.",
+          "E": "The abnormal X is silenced and condensed but remains in the genome and is replicated in every division."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-268_44_p19_1.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "A post-zygotic mutation is inherited only by the daughter cells of the mutated cell, generating a clone of mutant cells alongside normal cells. The result is a somatic mosaic individual with two genetically distinct populations.",
         "whyCorrect": "A post-zygotic mutation is inherited only by the daughter cells of the mutated cell, generating a clone of mutant cells alongside normal cells. The result is a somatic mosaic individual with two genetically distinct populations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The tree shows the mutation passed on to all descendants of one cell, not reverting to normal in later generations.",
+          "C": "Meiotic nondisjunction affects chromosome number in gametes, not a single mutation spreading through a somatic cell lineage.",
+          "D": "Only descendants of the mutated cell carry the change; the rest of the population stays normal.",
+          "E": "A mutation arising in a somatic lineage is not transmitted to offspring unless it involves the germline."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-269_44_p2_1.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "Transmission to offspring requires the mutation to be present in the germline. A purely somatic mosaic cannot pass it on, whereas germline (gonadal) involvement allows an unaffected or affected parent to have affected children.",
         "whyCorrect": "Transmission to offspring requires the mutation to be present in the germline. A purely somatic mosaic cannot pass it on, whereas germline (gonadal) involvement allows an unaffected or affected parent to have affected children.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Phenotype reflects somatic involvement; a person may show no phenotype yet have germline mosaicism, or be affected without germline involvement.",
+          "C": "Whether the mutated chromosome is an autosome or sex chromosome affects inheritance pattern, not whether a mosaic mutation reaches the gametes.",
+          "D": "Even extensive skin involvement does not transmit the mutation unless the germ cells also carry it.",
+          "E": "Mosaic mutations arising after fertilization can reach the germline if they occur early in development; timing relative to birth is not the determinant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-270_44_p6_1.png",
@@ -1437,7 +1617,12 @@
       "explanation": {
         "summary": "Comparative genomic hybridization measures the relative dosage of test versus reference DNA across the genome, revealing deletions (loss) and duplications (gain). It does not detect balanced rearrangements or single-base changes.",
         "whyCorrect": "Comparative genomic hybridization measures the relative dosage of test versus reference DNA across the genome, revealing deletions (loss) and duplications (gain). It does not detect balanced rearrangements or single-base changes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Array CGH measures relative DNA dosage and cannot detect single-base changes, which need sequencing.",
+          "B": "Balanced translocations rearrange material without changing dosage, so CGH ratios remain normal.",
+          "C": "Trinucleotide repeat expansions are detected by PCR or Southern blot, not by array CGH dosage ratios.",
+          "E": "Methylation changes require methylation-specific assays; CGH measures DNA copy number, not methylation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-043_45_p12_1.png",
@@ -1476,7 +1661,12 @@
       "explanation": {
         "summary": "This is a Southern blot: genomic DNA is cut with restriction enzymes, size-separated, transferred to a membrane, and hybridized with a labeled probe. Fragment-size differences (kb) reveal variants such as insertions, deletions, or repeat expansions.",
         "whyCorrect": "This is a Southern blot: genomic DNA is cut with restriction enzymes, size-separated, transferred to a membrane, and hybridized with a labeled probe. Fragment-size differences (kb) reveal variants such as insertions, deletions, or repeat expansions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Messenger RNA is detected by Northern blot and is not cut by restriction enzymes.",
+          "C": "Ribosomal RNA is not analyzed by restriction digestion; RNA blots are Northern blots.",
+          "D": "Denatured proteins are separated and detected with antibodies in a Western blot, not with a nucleic acid probe after restriction digestion.",
+          "E": "Polypeptide hormones are measured by immunoassay, not by restriction fragment size on a kb ladder."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-044_45_p16_1.png",
@@ -1515,7 +1705,12 @@
       "explanation": {
         "summary": "A G-banded karyotype displays all chromosomes ordered by size and banding, ideal for detecting aneuploidy and large structural rearrangements. Its resolution (~5-10 Mb) is too low to detect microdeletions.",
         "whyCorrect": "A G-banded karyotype displays all chromosomes ordered by size and banding, ideal for detecting aneuploidy and large structural rearrangements. Its resolution (~5-10 Mb) is too low to detect microdeletions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A PCR gel shows amplified DNA bands from target loci, not an ordered display of stained chromosomes.",
+          "B": "FISH uses locus-specific fluorescent probes and does not routinely arrange the entire chromosome set into banded pairs.",
+          "C": "A Southern blot displays restriction fragments on a membrane, not whole stained chromosomes.",
+          "D": "Array CGH produces a dosage plot across the genome, not an image of paired chromosomes, although it does miss balanced rearrangements."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-045_45_p3_1.png",
@@ -1554,7 +1749,12 @@
       "explanation": {
         "summary": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
         "whyCorrect": "FISH applies fluorescent locus-specific probes to metaphase or interphase chromosomes. Absence of the probe signal on one chromosome 22 indicates a targeted microdeletion (e.g., 22q11.2) that a standard karyotype would miss.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "G-banded karyotyping uses Giemsa stain to create light and dark bands, without fluorescent locus-specific probe signals.",
+          "C": "Southern blotting analyzes DNA fragments on a membrane, not chromosomes in a metaphase spread.",
+          "D": "PCR amplifies DNA in a tube and does not visualize probe signals on intact chromosomes.",
+          "E": "CGH compares labeled test and reference DNA hybridized to an array or normal metaphases, rather than a single locus-specific probe."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-046_45_p7_1.png",
@@ -1593,7 +1793,12 @@
       "explanation": {
         "summary": "The arrows mark a shortened 22 (derivative 22) and altered 9 from the reciprocal t(9;22) translocation. This Philadelphia chromosome creates the BCR-ABL1 fusion characteristic of chronic myeloid leukemia.",
         "whyCorrect": "The arrows mark a shortened 22 (derivative 22) and altered 9 from the reciprocal t(9;22) translocation. This Philadelphia chromosome creates the BCR-ABL1 fusion characteristic of chronic myeloid leukemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A 22q11 microdeletion is too small to see on routine karyotype and does not involve exchange with chromosome 9.",
+          "B": "Monosomy X involves a missing sex chromosome, not exchanged material between chromosomes 9 and 22.",
+          "C": "Cri-du-chat syndrome is a deletion of chromosome 5p, not an exchange between 9 and 22.",
+          "E": "Trisomy 21 is an extra whole chromosome 21, not altered-length chromosomes 9 and 22."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-080_45_p5_1.png",

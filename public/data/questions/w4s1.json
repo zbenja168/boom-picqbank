@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
         "whyCorrect": "The t(9;22) translocation creates the BCR-ABL fusion gene on the shortened chromosome 22 (Philadelphia chromosome). BCR-ABL is a constitutively active tyrosine kinase and is the defining lesion of chronic myeloid leukemia, targeted by imatinib.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Follicular lymphoma carries t(14;18), placing BCL2 next to the immunoglobulin heavy-chain locus, not a 9;22 fusion.",
+          "C": "Acute promyelocytic leukemia is defined by t(15;17), producing the PML-RARA fusion.",
+          "D": "Burkitt lymphoma carries t(8;14), placing MYC under immunoglobulin heavy-chain control.",
+          "E": "Ewing sarcoma carries t(11;22), producing the EWSR1-FLI1 fusion, not BCR-ABL."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-057_26_p19_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The lesions are cafe-au-lait macules. Six or more measuring >5 mm (prepubertal) are a diagnostic criterion for neurofibromatosis type 1, a neurocutaneous disorder caused by mutation of the NF1 tumor-suppressor gene (neurofibromin).",
         "whyCorrect": "The lesions are cafe-au-lait macules. Six or more measuring >5 mm (prepubertal) are a diagnostic criterion for neurofibromatosis type 1, a neurocutaneous disorder caused by mutation of the NF1 tumor-suppressor gene (neurofibromin).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vitiligo produces depigmented, milk-white patches from autoimmune melanocyte loss, the opposite of uniformly hyperpigmented macules.",
+          "B": "Addison disease causes diffuse hyperpigmentation favoring creases, gums and scars from ACTH excess, not discrete flat tan macules on the trunk.",
+          "C": "Melanoma is typically a single lesion with asymmetry, color variegation and evolution, not multiple uniformly pigmented macules in a child.",
+          "D": "Tinea versicolor causes small, fine-scaling hypo- or hyperpigmented patches from Malassezia that fluoresce under Wood lamp, not large uniform tan macules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-058_26_p21_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Lipophilic hormones (e.g., steroids, thyroid hormone) cross the lipid bilayer and bind intracellular/nuclear receptors that act as transcription factors. Hydrophilic hormones cannot cross and must signal through surface receptors and second messengers.",
         "whyCorrect": "Lipophilic hormones (e.g., steroids, thyroid hormone) cross the lipid bilayer and bind intracellular/nuclear receptors that act as transcription factors. Hydrophilic hormones cannot cross and must signal through surface receptors and second messengers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lipophilic hormones are not destroyed at the cell surface; they pass through the membrane intact to reach intracellular receptors.",
+          "B": "Steroid and thyroid hormones mostly diffuse through the lipid bilayer; transporter dependence is the hallmark of polar molecules, not the reason for intracellular receptors.",
+          "C": "Carrier proteins transport lipophilic hormones in blood, but only the free fraction acts, by diffusing into the cell to bind its receptor.",
+          "D": "Steroid hormones are small molecules; their receptors are intracellular because the hormones can cross the membrane, not because of size."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-165_25_p11_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "This is a Gs-coupled receptor: agonist binding activates the Gs protein (GTP for GDP exchange), the alpha subunit dissociates and stimulates adenylyl cyclase, raising cyclic AMP as the second messenger.",
         "whyCorrect": "This is a Gs-coupled receptor: agonist binding activates the Gs protein (GTP for GDP exchange), the alpha subunit dissociates and stimulates adenylyl cyclase, raising cyclic AMP as the second messenger.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "cAMP hydrolysis is performed by phosphodiesterase and terminates the signal; Gs activation raises cAMP rather than breaking it down.",
+          "B": "Phospholipase C activation and IP3 production are the Gq pathway (e.g., α1 receptors), not the Gs pathway used by glucagon and β-adrenergic epinephrine.",
+          "D": "Autophosphorylation is the activation mechanism of receptor tyrosine kinases; GPCRs signal through their associated G protein.",
+          "E": "Ligand-gated ion channels open directly on ligand binding without a G protein or GDP-GTP exchange."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-166_25_p13_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Active Ras-GTP triggers a phosphorylation cascade (Raf, MEK, MAP kinase, Erk). Phosphorylated Erk translocates to the nucleus and activates transcription factors, driving genes for growth and proliferation.",
         "whyCorrect": "Active Ras-GTP triggers a phosphorylation cascade (Raf, MEK, MAP kinase, Erk). Phosphorylated Erk translocates to the nucleus and activates transcription factors, driving genes for growth and proliferation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Neurotransmitter vesicle release is triggered by calcium influx at nerve terminals, not by a nuclear-targeting MAP kinase cascade.",
+          "C": "cAMP degradation is carried out by phosphodiesterases and is unrelated to the Ras-Raf-MEK-Erk relay.",
+          "D": "Voltage-gated calcium channels open in response to membrane depolarization, not as the endpoint of MAP kinase signaling.",
+          "E": "The Ras-MAPK pathway promotes proliferation and DNA replication; constitutive Ras activity is oncogenic precisely because it drives growth."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-167_25_p16_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Ligand binding brings two RTK monomers together; dimerization juxtaposes their kinase domains so they cross-phosphorylate each other's tyrosines. These phosphotyrosines then recruit intracellular signaling proteins.",
         "whyCorrect": "Ligand binding brings two RTK monomers together; dimerization juxtaposes their kinase domains so they cross-phosphorylate each other's tyrosines. These phosphotyrosines then recruit intracellular signaling proteins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Internalization and degradation are later events that terminate RTK signaling, not the immediate activating step after dimerization.",
+          "C": "GTP hydrolysis by a G protein is part of GPCR signaling; RTKs act through their own intrinsic kinase domains.",
+          "D": "RTK activation does not involve receptor cleavage; proteolytic release of an intracellular domain is characteristic of Notch signaling.",
+          "E": "RTKs are enzymes, not channels; ion pores belong to ligand-gated channels such as the nicotinic acetylcholine receptor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-168_25_p18_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The PI3-kinase branch of insulin signaling drives GLUT4 vesicle translocation (glucose uptake) plus glycogen, lipid and protein synthesis. The RAS/MAP kinase branch handles the growth/DNA synthesis outcomes.",
         "whyCorrect": "The PI3-kinase branch of insulin signaling drives GLUT4 vesicle translocation (glucose uptake) plus glycogen, lipid and protein synthesis. The RAS/MAP kinase branch handles the growth/DNA synthesis outcomes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cell growth and DNA synthesis are mediated by the Ras/MAP kinase branch of insulin signaling, not the PI3-kinase branch.",
+          "B": "Insulin promotes net glycogen synthesis through PKB-mediated GSK-3 inhibition; glycogen breakdown is a glucagon and epinephrine effect.",
+          "C": "Insulin suppresses gluconeogenesis; stimulation of gluconeogenesis is driven by glucagon and cortisol.",
+          "D": "Insulin stimulates protein synthesis, including through PKB-mTOR signaling, rather than inhibiting it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-169_25_p20_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "PI-3,4,5-trisP recruits pleckstrin-homology (PH) domain proteins such as PDK1 and PKB (Akt) to the membrane. Co-localization lets PDK1 phosphorylate and activate PKB, which then dissociates to signal.",
         "whyCorrect": "PI-3,4,5-trisP recruits pleckstrin-homology (PH) domain proteins such as PDK1 and PKB (Akt) to the membrane. Co-localization lets PDK1 phosphorylate and activate PKB, which then dissociates to signal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The insulin receptor phosphorylates itself through its intrinsic tyrosine kinase; a membrane lipid cannot phosphorylate proteins.",
+          "B": "PLC cleaves PI-4,5-bisphosphate to IP3 and DAG; PIP3 is not a PLC substrate in this pathway and functions as a docking site.",
+          "C": "PIP3 remains anchored in the inner leaflet and does not diffuse; IP3 is the soluble messenger that releases calcium from the ER.",
+          "E": "PIP3 recruits PDK1 to the membrane, enabling it to activate PKB; it does not inhibit PDK1, and signal termination comes from PTEN removing the 3-phosphate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-170_25_p21_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "PPARs are nuclear receptors: lipophilic ligands (fatty acids, eicosanoids) bind them intracellularly, they pair with RXR, bind response elements on DNA, and regulate transcription of lipid-metabolism genes.",
         "whyCorrect": "PPARs are nuclear receptors: lipophilic ligands (fatty acids, eicosanoids) bind them intracellularly, they pair with RXR, bind response elements on DNA, and regulate transcription of lipid-metabolism genes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ion channels are membrane proteins that pass ions; PPARs bind DNA in the nucleus as heterodimers with RXR.",
+          "C": "Receptor tyrosine kinases span the plasma membrane and bind extracellular ligands; PPARs are intracellular and regulate transcription.",
+          "D": "GPCRs are seven-transmembrane surface receptors; PPARs bind lipophilic ligands inside the cell and act on DNA response elements.",
+          "E": "Second messengers are small molecules such as cAMP or IP3; PPARs are receptor proteins that act directly as transcription factors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-171_25_p22_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "PLC splits PIP2 into DAG (stays in the membrane) and IP3 (soluble). DAG, together with Ca2+, activates protein kinase C, while IP3 mobilizes calcium from the ER.",
         "whyCorrect": "PLC splits PIP2 into DAG (stays in the membrane) and IP3 (soluble). DAG, together with Ca2+, activates protein kinase C, while IP3 mobilizes calcium from the ER.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Receptor tyrosine phosphorylation is carried out by receptor kinases, not by DAG, which signals by recruiting and activating PKC.",
+          "B": "DAG acts downstream of a GPCR and does not activate the receptor itself.",
+          "C": "Calcium release from the ER is the action of IP3, the soluble partner product of PIP2 cleavage, not DAG.",
+          "D": "Adenylyl cyclase inhibition is mediated by Gi proteins, not by DAG."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-172_25_p26_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The same Ca2+ signal that triggers contraction also activates calmodulin/phosphorylase kinase, which phosphorylates and activates glycogen phosphorylase. This links energy demand to glycogen breakdown, releasing glucose to power the working muscle.",
         "whyCorrect": "The same Ca2+ signal that triggers contraction also activates calmodulin/phosphorylase kinase, which phosphorylates and activates glycogen phosphorylase. This links energy demand to glycogen breakdown, releasing glucose to power the working muscle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcium reuptake into the sarcoplasmic reticulum is done by the SERCA pump, not by the calmodulin-driven phosphorylation cascade.",
+          "B": "The Ca2+-calmodulin cascade here acts on phosphorylase kinase to break down glycogen; it is not a pathway for building muscle protein.",
+          "C": "Relaxation follows removal of calcium from the cytosol; the cascade activated by calcium supports contraction by supplying fuel.",
+          "E": "Glycogen synthesis is promoted by insulin at rest; phosphorylase kinase activation during contraction drives glycogen breakdown instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-173_25_p28_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Nitric oxide (NO) is a gaseous signaling molecule synthesized from arginine and O2. It diffuses into smooth muscle, activates soluble guanylate cyclase to raise cGMP, and the cGMP triggers smooth muscle relaxation and vasodilation.",
         "whyCorrect": "Nitric oxide (NO) is a gaseous signaling molecule synthesized from arginine and O2. It diffuses into smooth muscle, activates soluble guanylate cyclase to raise cGMP, and the cGMP triggers smooth muscle relaxation and vasodilation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NO-cGMP signaling relaxes vascular smooth muscle; it does not drive cardiomyocyte hypertrophy, which follows pressure overload and growth signaling.",
+          "B": "cGMP activates protein kinase G, which lowers cytosolic calcium and activates myosin light-chain phosphatase, causing relaxation rather than contraction.",
+          "D": "NO and cGMP inhibit platelet aggregation, part of the antithrombotic role of healthy endothelium.",
+          "E": "cGMP-PKG signaling lowers intracellular calcium; increased calcium release would cause contraction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-174_25_p29_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "This is a G-protein-coupled receptor (GPCR) signaling map. The Gq alpha subunit activates phospholipase C (PLC), which cleaves PIP2 into DAG and IP3; DAG activates PKC and IP3 releases stored calcium. Gs raises cAMP, Gi lowers it, and G12/13 acts through RhoA.",
         "whyCorrect": "This is a G-protein-coupled receptor (GPCR) signaling map. The Gq alpha subunit activates phospholipase C (PLC), which cleaves PIP2 into DAG and IP3; DAG activates PKC and IP3 releases stored calcium. Gs raises cAMP, Gi lowers it, and G12/13 acts through RhoA.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Decreased cAMP from adenylyl cyclase inhibition is the Gi branch, not the Gq branch feeding phospholipase C.",
+          "C": "RhoA-driven cytoskeletal remodeling is mediated by G12/13, not by the Gq-PLC branch.",
+          "D": "Increased cAMP activating PKA is the Gs branch acting on adenylyl cyclase, not phospholipase C.",
+          "E": "Direct potassium channel opening (GIRK) is mediated by βγ subunits from Gi/o, not by the αq-PLC branch."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-175_25_p31_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The four panels contrast modes of cell signaling. Endocrine signaling (panel C) uses hormones released into the bloodstream to reach distant targets, unlike paracrine (local diffusion to neighbors), synaptic (neurotransmitter across a synapse), or direct contact between adjacent plasma membranes.",
         "whyCorrect": "The four panels contrast modes of cell signaling. Endocrine signaling (panel C) uses hormones released into the bloodstream to reach distant targets, unlike paracrine (local diffusion to neighbors), synaptic (neurotransmitter across a synapse), or direct contact between adjacent plasma membranes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Juxtacrine signaling requires direct membrane-to-membrane contact between neighboring cells, with no bloodstream transport.",
+          "B": "Paracrine signals diffuse locally to nearby cells; this panel shows hormone carried in a blood vessel to distant targets.",
+          "D": "Synaptic signaling releases neurotransmitter across a narrow synaptic cleft onto a single target cell, not into the circulation.",
+          "E": "Autocrine signals act on the same cell that released them, rather than traveling through the blood to distant cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-176_25_p5_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Lipid-soluble (hydrophobic) hormones such as steroids and thyroxine cross the plasma membrane and bind intracellular or nuclear receptors, directly modulating gene transcription. Water-soluble (hydrophilic) hormones like insulin and epinephrine bind surface receptors and act via second messengers.",
         "whyCorrect": "Lipid-soluble (hydrophobic) hormones such as steroids and thyroxine cross the plasma membrane and bind intracellular or nuclear receptors, directly modulating gene transcription. Water-soluble (hydrophilic) hormones like insulin and epinephrine bind surface receptors and act via second messengers.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Surface receptors with second messengers are used by the water-soluble hormones on the left, which cannot cross the lipid bilayer.",
+          "B": "Synaptic vesicle storage and exocytosis apply to neurotransmitters and peptide hormones; steroids are made on demand and diffuse out, not stored in vesicles.",
+          "C": "Lipid-soluble hormones readily enter cells by crossing the plasma membrane; this describes the opposite of their behavior.",
+          "D": "Gap junctions pass small ions and metabolites between adjacent cells; circulating hormones like cortisol travel through blood to distant targets."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-177_25_p9_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "This is the canonical Wnt/beta-catenin pathway. Normally the destruction complex phosphorylates beta-catenin for degradation. When Wnt activates Dishevelled and inhibits the complex, beta-catenin escapes degradation, accumulates, enters the nucleus, and partners with transcription factors to activate target genes.",
         "whyCorrect": "This is the canonical Wnt/beta-catenin pathway. Normally the destruction complex phosphorylates beta-catenin for degradation. When Wnt activates Dishevelled and inhibits the complex, beta-catenin escapes degradation, accumulates, enters the nucleus, and partners with transcription factors to activate target genes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcium release and PKC activation belong to the Gq-PLC pathway (and the noncanonical Wnt/Ca2+ branch), not the β-catenin destruction-complex mechanism shown.",
+          "B": "Phosphorylation and proteasomal degradation of β-catenin is what the active destruction complex does in the absence of Wnt; inhibiting the complex prevents it.",
+          "D": "Receptor internalization is not the direct outcome described; the key effect of inhibiting the destruction complex is β-catenin accumulation.",
+          "E": "STAT dimerization and translocation belong to cytokine JAK-STAT signaling, not the Wnt/Frizzled pathway."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-178_26_p14_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "UV-induced DNA damage drives p53-dependent POMC processing to alpha-MSH, which binds melanocyte MC1R. The resulting cAMP/MITF signaling upregulates melanin synthesis, and melanosomes are transferred to keratinocytes, shielding nuclei from further UV damage.",
         "whyCorrect": "UV-induced DNA damage drives p53-dependent POMC processing to alpha-MSH, which binds melanocyte MC1R. The resulting cAMP/MITF signaling upregulates melanin synthesis, and melanosomes are transferred to keratinocytes, shielding nuclei from further UV damage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "α-MSH binding MC1R raises cAMP and MITF activity, increasing rather than decreasing melanin synthesis (tanning).",
+          "C": "Epidermal thickening can follow UV, but the MC1R-cAMP-MITF pathway shown acts on melanocytes to make and transfer pigment.",
+          "D": "MITF signaling promotes melanocyte survival and pigment production; it does not trigger melanocyte apoptosis.",
+          "E": "UV erythema reflects dermal vasodilation from inflammatory mediators, not the protective MC1R-driven melanin response."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-179_26_p22_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Cytokine binding dimerizes the receptor, activating associated Janus kinases (JAK) that phosphorylate receptor tyrosines. STAT proteins are recruited, phosphorylated, dimerize, translocate to the nucleus, and bind promoter STAT-binding sequences to drive transcription of cytokine-responsive genes.",
         "whyCorrect": "Cytokine binding dimerizes the receptor, activating associated Janus kinases (JAK) that phosphorylate receptor tyrosines. STAT proteins are recruited, phosphorylated, dimerize, translocate to the nucleus, and bind promoter STAT-binding sequences to drive transcription of cytokine-responsive genes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "GPCR-cAMP-PKA signaling uses a seven-transmembrane receptor, G protein and adenylyl cyclase, not receptor-associated kinases phosphorylating latent cytoplasmic transcription factors.",
+          "C": "Wnt signaling works by stabilizing β-catenin through inhibition of a destruction complex, not by tyrosine phosphorylation and dimerization of latent transcription factors.",
+          "D": "TGF-β receptors are serine/threonine kinases that phosphorylate SMADs, not cytokine receptors using associated tyrosine kinases.",
+          "E": "RTK-Ras-MAPK uses an intrinsic receptor kinase and a Ras-initiated kinase relay, rather than receptor-associated kinases directly phosphorylating cytoplasmic proteins that then dimerize."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-180_26_p3_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "In normoxia, prolyl hydroxylase (PHD) uses O2 to hydroxylate HIF-alpha, allowing von Hippel-Lindau (VHL) protein to bind and target it for ubiquitination and proteasomal degradation. In hypoxia, hydroxylation fails, HIF-alpha is stabilized, dimerizes with HIF-beta, and activates genes for erythropoiesis, angiogenesis, and metabolism.",
         "whyCorrect": "In normoxia, prolyl hydroxylase (PHD) uses O2 to hydroxylate HIF-alpha, allowing von Hippel-Lindau (VHL) protein to bind and target it for ubiquitination and proteasomal degradation. In hypoxia, hydroxylation fails, HIF-alpha is stabilized, dimerizes with HIF-beta, and activates genes for erythropoiesis, angiogenesis, and metabolism.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "HIF-α is not cleaved into angiogenic peptides; it promotes angiogenesis only when stabilized in hypoxia, by transcribing genes such as VEGF.",
+          "B": "Stabilization and nuclear translocation occur in hypoxia, when proline hydroxylation fails and VHL cannot bind.",
+          "D": "VHL binding leads to HIF-α destruction, which reduces erythropoietin transcription; EPO rises only when HIF-α escapes degradation in hypoxia.",
+          "E": "HIF-α is an intracellular transcription factor subunit and is never secreted into the bloodstream as a hormone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-181_26_p5_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "This is the NF-kB pathway. IKK phosphorylates IkB, marking it for polyubiquitination and proteasomal degradation. Freed p50/p65 (NF-kB) then translocates to the nucleus to activate immune and inflammatory response genes.",
         "whyCorrect": "This is the NF-kB pathway. IKK phosphorylates IkB, marking it for polyubiquitination and proteasomal degradation. Freed p50/p65 (NF-kB) then translocates to the nucleus to activate immune and inflammatory response genes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Phosphorylated IκB is not dephosphorylated and rebound; it is destroyed, permanently releasing NF-κB.",
+          "C": "IκB masks the nuclear localization signal of NF-κB, so NF-κB can enter the nucleus only after IκB is removed.",
+          "D": "IκB is a cytoplasmic protein removed by the ubiquitin-proteasome system, not secreted by exocytosis.",
+          "E": "IκB is degraded by the proteasome, not cleaved into a second messenger."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-182_26_p9_1.png",

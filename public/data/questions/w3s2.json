@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Fructokinase phosphorylates fructose to fructose 1-phosphate. In hereditary fructose intolerance, aldolase B deficiency prevents further metabolism, so fructose 1-phosphate accumulates and traps phosphate, depleting ATP and causing hypoglycemia, jaundice, and hepatomegaly.",
         "whyCorrect": "Fructokinase phosphorylates fructose to fructose 1-phosphate. In hereditary fructose intolerance, aldolase B deficiency prevents further metabolism, so fructose 1-phosphate accumulates and traps phosphate, depleting ATP and causing hypoglycemia, jaundice, and hepatomegaly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Glucokinase phosphorylates glucose in liver and beta cells; its deficiency causes MODY-type hyperglycemia, not fruit-triggered hypoglycemia with liver injury.",
+          "B": "Galactokinase deficiency causes galactitol cataracts after milk ingestion, with no fructose involvement and little systemic illness.",
+          "C": "GALT deficiency (classic galactosemia) is triggered by lactose in milk, causing galactose-1-phosphate buildup, not a reaction to fruit.",
+          "E": "Fructokinase deficiency (essential fructosuria) is benign: fructose is simply excreted in urine without hypoglycemia or liver damage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-055_21_p13_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The figure depicts gluconeogenesis, using glucose-6-phosphatase, fructose-1,6-bisphosphatase, PEP carboxykinase, and pyruvate carboxylase to circumvent glycolytic irreversible steps. A low insulin/glucagon ratio (fasting) drives this pathway to keep blood glucose stable.",
         "whyCorrect": "The figure depicts gluconeogenesis, using glucose-6-phosphatase, fructose-1,6-bisphosphatase, PEP carboxykinase, and pyruvate carboxylase to circumvent glycolytic irreversible steps. A low insulin/glucagon ratio (fasting) drives this pathway to keep blood glucose stable.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NADPH for reductive biosynthesis comes from the oxidative pentose phosphate pathway (G6PD), not from the gluconeogenic bypass enzymes.",
+          "C": "Glycogen storage after a meal occurs under a high insulin/glucagon ratio via glycogen synthase, the opposite of the fasting state described.",
+          "D": "Ribose-5-phosphate is made by the pentose phosphate pathway, not by reversing glycolysis with bypass enzymes.",
+          "E": "Ketone production comes from fatty acid β-oxidation and HMG-CoA synthase, not from the glycolytic bypass enzymes shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-140_20_p12_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Cytosolic NADH generated in glycolysis cannot cross the inner mitochondrial membrane. Shuttle systems (malate-aspartate or glycerol-3-phosphate) transfer the reducing equivalents into the matrix so electrons reach the ETC while regenerating cytosolic NAD+.",
         "whyCorrect": "Cytosolic NADH generated in glycolysis cannot cross the inner mitochondrial membrane. Shuttle systems (malate-aspartate or glycerol-3-phosphate) transfer the reducing equivalents into the matrix so electrons reach the ETC while regenerating cytosolic NAD+.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NADH is stable in the cytosol and is used there constantly, as by lactate dehydrogenase; the issue is membrane permeability, not instability.",
+          "B": "The ETC readily accepts electrons from mitochondrial NADH at complex I and from FADH2 via CoQ; it only needs the electrons delivered to the matrix side.",
+          "C": "Cytosolic NAD+ can be regenerated, notably by lactate dehydrogenase during anaerobic glycolysis.",
+          "D": "Glycolysis occurs in the cytosol, which is precisely why its NADH must be shuttled into the mitochondrial matrix."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-141_20_p13_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The glycerol-3-phosphate shuttle transfers electrons to mitochondrial FAD, forming FADH2 that enters the chain at complex II/CoQ. This bypasses complex I, pumping fewer protons and yielding less ATP per cytosolic NADH than the malate-aspartate shuttle.",
         "whyCorrect": "The glycerol-3-phosphate shuttle transfers electrons to mitochondrial FAD, forming FADH2 that enters the chain at complex II/CoQ. This bypasses complex I, pumping fewer protons and yielding less ATP per cytosolic NADH than the malate-aspartate shuttle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "FADH2 enters the ETC at coenzyme Q and still drives ATP synthesis (about 1.5 ATP), just less than NADH.",
+          "B": "Each cytosolic NADH yields one FADH2 via this shuttle, and FADH2 gives less ATP than NADH, so yield falls rather than doubles.",
+          "C": "Bypassing complex I means fewer protons are pumped, which lowers ATP yield rather than raising it.",
+          "D": "The glycerol-3-phosphate shuttle delivers electrons to CoQ, bypassing complex I; only the malate-aspartate shuttle feeds complex I through matrix NADH."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-142_20_p15_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Pyruvate sits at a metabolic crossroads. When oxygen is limited, LDH reduces pyruvate to lactate while oxidizing NADH to NAD+, replenishing the NAD+ needed for glyceraldehyde-3-phosphate dehydrogenase so glycolysis can continue.",
         "whyCorrect": "Pyruvate sits at a metabolic crossroads. When oxygen is limited, LDH reduces pyruvate to lactate while oxidizing NADH to NAD+, replenishing the NAD+ needed for glyceraldehyde-3-phosphate dehydrogenase so glycolysis can continue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pyruvate carboxylase converts pyruvate to oxaloacetate for gluconeogenesis and TCA anaplerosis, consuming ATP and producing no NAD+.",
+          "C": "ALT transaminates pyruvate to alanine, transferring an amino group without oxidizing NADH.",
+          "D": "PDH converts pyruvate to acetyl-CoA in mitochondria, generating NADH rather than regenerating NAD+, and requires aerobic conditions to keep running.",
+          "E": "Acetyl-CoA carboxylase makes malonyl-CoA for fatty acid synthesis and does not act on pyruvate or regenerate NAD+."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-143_20_p17_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "High ATP, acetyl-CoA, and NADH indicate abundant energy and reducing equivalents. These activate PDH kinase, phosphorylating the complex to its inactive form and slowing conversion of pyruvate to acetyl-CoA, sparing pyruvate for gluconeogenesis.",
         "whyCorrect": "High ATP, acetyl-CoA, and NADH indicate abundant energy and reducing equivalents. These activate PDH kinase, phosphorylating the complex to its inactive form and slowing conversion of pyruvate to acetyl-CoA, sparing pyruvate for gluconeogenesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Without oxygen, NADH would build up, but ATP would fall; high ATP plus acetyl-CoA signals abundant energy, not anaerobic stress.",
+          "B": "Insulin activates PDH phosphatase and promotes the active, dephosphorylated complex; the inactivating signals here are product and energy buildup.",
+          "D": "An energy-depleted cell would have high ADP, AMP, pyruvate and NAD+, which activate PDH; high acetyl-CoA means it does not need more.",
+          "E": "Calcium in muscle activates PDH phosphatase, but low calcium alone does not explain the accumulation of ATP, acetyl-CoA and NADH."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-144_20_p20_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The investment phase uses 2 ATP; the production phase makes 4 ATP and 2 NADH. The net is therefore 2 ATP and 2 NADH per glucose, along with 2 pyruvate that can feed acetyl-CoA production for the TCA cycle.",
         "whyCorrect": "The investment phase uses 2 ATP; the production phase makes 4 ATP and 2 NADH. The net is therefore 2 ATP and 2 NADH per glucose, along with 2 pyruvate that can feed acetyl-CoA production for the TCA cycle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The payoff phase makes 4 ATP against 2 invested, so the net is 2 ATP, not zero.",
+          "B": "Four ATP is the gross yield of the payoff phase, before subtracting 2 ATP invested, and glyceraldehyde-3-phosphate dehydrogenase makes only 2 NADH per glucose.",
+          "C": "Net ATP is 2, but only 2 NADH form per glucose, one for each glyceraldehyde-3-phosphate oxidized.",
+          "E": "Six ATP far exceeds the 4 gross ATP made in glycolysis; the net is 2 ATP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-145_20_p3_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "PFK-1 catalyzes the committed, rate-limiting step of glycolysis. It is allosterically activated by AMP and fructose-2,6-bisphosphate and inhibited by ATP and citrate, making it the principal control point of the pathway.",
         "whyCorrect": "PFK-1 catalyzes the committed, rate-limiting step of glycolysis. It is allosterically activated by AMP and fructose-2,6-bisphosphate and inhibited by ATP and citrate, making it the principal control point of the pathway.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hexokinase phosphorylates glucose in most tissues but is not the committed step; glucose-6-phosphate can still enter glycogen or the pentose phosphate pathway, and it is not activated by fructose-2,6-bisphosphate.",
+          "B": "Glucokinase is the liver and beta-cell glucose sensor regulated by glucokinase regulatory protein, not the committed glycolytic step activated by fructose-2,6-bisphosphate.",
+          "C": "Pyruvate kinase is the final irreversible glycolytic step and is feed-forward activated by fructose-1,6-bisphosphate, not fructose-2,6-bisphosphate.",
+          "E": "Pyruvate carboxylase is a gluconeogenic enzyme in mitochondria, activated by acetyl-CoA, and is not one of the glycolytic irreversible steps."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-146_20_p5_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "In the polyol pathway aldose reductase converts glucose to sorbitol using NADPH; sorbitol is poorly membrane-permeable and osmotically active, so its accumulation (e.g., in the lens) draws in water and causes osmotic stress leading to cataracts. NADPH consumption separately promotes oxidative stress by limiting GSH regeneration.",
         "whyCorrect": "In the polyol pathway aldose reductase converts glucose to sorbitol using NADPH; sorbitol is poorly membrane-permeable and osmotically active, so its accumulation (e.g., in the lens) draws in water and causes osmotic stress leading to cataracts. NADPH consumption separately promotes oxidative stress by limiting GSH regeneration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "NADPH depletion and impaired glutathione recycling contribute to oxidative injury, but lens swelling itself is driven by osmotically trapped sorbitol.",
+          "B": "Polyol pathway flux consumes NADPH and does not accelerate the pentose phosphate pathway into causing osmotic lens damage.",
+          "D": "Non-enzymatic glycation (AGEs) causes long-term protein crosslinking and vascular damage, but it is not the osmotic mechanism of lens swelling.",
+          "E": "Sorbitol dehydrogenase converts sorbitol to fructose; fructose is not converted back to glucose to cause cataracts, and slow sorbitol clearance is the problem."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-147_21_p10_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Fructokinase (low Km, high Vmax) rapidly traps fructose as fructose 1-phosphate, which aldolase B splits into triose phosphates downstream of PFK-1. Because it bypasses the rate-limiting PFK-1 control point, fructose flux is unregulated and readily feeds lipogenesis.",
         "whyCorrect": "Fructokinase (low Km, high Vmax) rapidly traps fructose as fructose 1-phosphate, which aldolase B splits into triose phosphates downstream of PFK-1. Because it bypasses the rate-limiting PFK-1 control point, fructose flux is unregulated and readily feeds lipogenesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hepatic fructose is phosphorylated by fructokinase, which has a low Km and high Vmax; hexokinase plays only a minor role in liver fructose metabolism.",
+          "B": "Fructose-1-phosphate actually releases glucokinase from its regulatory protein, promoting glucose uptake rather than inhibiting it.",
+          "D": "Fructose is not converted into galactose; it is split by aldolase B into DHAP and glyceraldehyde, which enter glycolysis directly.",
+          "E": "Fructose enters liver via GLUT2 and gut via GLUT5, both insulin-independent; GLUT4 is the insulin-dependent glucose transporter of muscle and fat."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-148_21_p3_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Glycolysis is regulated at PFK-1, which is inhibited by ATP/citrate to shunt intermediates elsewhere. Fructose enters distal to PFK-1, so it bypasses this feedback control and continuously supplies carbons for fatty acid and lipid synthesis.",
         "whyCorrect": "Glycolysis is regulated at PFK-1, which is inhibited by ATP/citrate to shunt intermediates elsewhere. Fructose enters distal to PFK-1, so it bypasses this feedback control and continuously supplies carbons for fatty acid and lipid synthesis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fructose entering at the triose level is directed toward pyruvate, acetyl-CoA and lipid in the fed liver; bypassing PFK-1 does not route it directly into glycogen.",
+          "B": "Fructose does not activate PFK-1; its key feature is that it enters below this step and escapes its control entirely.",
+          "C": "Unregulated entry speeds triglyceride synthesis, which is why high fructose intake drives hepatic lipogenesis and steatosis.",
+          "E": "Fructose-derived citrate is readily exported and cleaved by citrate lyase to supply acetyl-CoA for fatty acid synthesis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-149_21_p5_1.png",

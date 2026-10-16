@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Dark tea/cola-colored urine after exertion in disorders such as McArdle disease (muscle glycogen phosphorylase deficiency) reflects myoglobin released during rhabdomyolysis. Myoglobin is filtered and can precipitate in tubules, risking acute kidney injury; unlike hematuria, the urine is pigment-positive but shows few or no intact red cells on microscopy.",
         "whyCorrect": "Dark tea/cola-colored urine after exertion in disorders such as McArdle disease (muscle glycogen phosphorylase deficiency) reflects myoglobin released during rhabdomyolysis. Myoglobin is filtered and can precipitate in tubules, risking acute kidney injury; unlike hematuria, the urine is pigment-positive but shows few or no intact red cells on microscopy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alkaptonuric urine darkens gradually on standing as homogentisate oxidizes, unrelated to exercise or glycogen metabolism.",
+          "B": "Acute intermittent porphyria can darken urine with porphobilinogen, but attacks are triggered by drugs and fasting, not muscle exertion in a glycogenolysis defect.",
+          "C": "Conjugated bilirubinuria gives dark tea-colored urine in biliary obstruction, but would not be triggered by exercise in a muscle enzyme defect.",
+          "D": "Gross hematuria from a bladder tumor is typically painless and shows intact red cells on microscopy, not exertion-linked pigmenturia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-035_37_p13_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Glycogen phosphorylase cannot cleave near branch points, so the bifunctional debranching enzyme has 4-alpha-glucanotransferase activity (moves a set of glucose units to a neighboring chain) and alpha-1,6-glucosidase activity (hydrolyzes the exposed branch linkage), freeing the residues for continued phosphorylase action.",
         "whyCorrect": "Glycogen phosphorylase cannot cleave near branch points, so the bifunctional debranching enzyme has 4-alpha-glucanotransferase activity (moves a set of glucose units to a neighboring chain) and alpha-1,6-glucosidase activity (hydrolyzes the exposed branch linkage), freeing the residues for continued phosphorylase action.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cleaving α-1,4 bonds to release glucose-1-phosphate is the action of glycogen phosphorylase, not the debranching enzyme.",
+          "B": "Creating α-1,6 branch points is the function of the branching enzyme during glycogen synthesis.",
+          "C": "Adding UDP-glucose to form α-1,4 linkages is the action of glycogen synthase.",
+          "D": "Glucose residues are phosphorylated by phosphorolysis via glycogen phosphorylase; debranching enzyme transfers and hydrolyzes rather than phosphorylates."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-243_37_p10_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Glycogen phosphorylase can only cleave alpha-1,4 bonds until roughly four glucose units remain before an alpha-1,6 branch, producing the truncated limit dextrin. Further breakdown then depends on the debranching enzyme, illustrating why its deficiency (Cori disease) causes abnormal glycogen with short outer branches.",
         "whyCorrect": "Glycogen phosphorylase can only cleave alpha-1,4 bonds until roughly four glucose units remain before an alpha-1,6 branch, producing the truncated limit dextrin. Further breakdown then depends on the debranching enzyme, illustrating why its deficiency (Cori disease) causes abnormal glycogen with short outer branches.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The limit dextrin is cytosolic and is degraded further by cytosolic debranching enzyme, not a lysosomal form of glycogen.",
+          "B": "Branching enzyme acts during glycogen synthesis to create new α-1,6 branches, not on the limit dextrin formed during breakdown.",
+          "C": "Glycogen is never exported intact into blood; the liver releases free glucose after glucose-6-phosphatase action.",
+          "E": "The stalled structure is a breakdown intermediate (limit dextrin), not a signal that synthesis is complete."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-244_37_p10_2.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Loss of G6PD reduces NADPH, so glutathione cannot be regenerated to detoxify peroxides, and hemoglobin oxidizes into Heinz bodies. Splenic macrophages pluck these inclusions from the membrane, leaving bite cells. Hemolysis is episodic and triggered by oxidant drugs, infections, or fava beans.",
         "whyCorrect": "Loss of G6PD reduces NADPH, so glutathione cannot be regenerated to detoxify peroxides, and hemoglobin oxidizes into Heinz bodies. Splenic macrophages pluck these inclusions from the membrane, leaving bite cells. Hemolysis is episodic and triggered by oxidant drugs, infections, or fava beans.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sickle cells result from HbS polymerization in sickle cell disease, not oxidative injury in G6PD deficiency.",
+          "B": "Schistocytes are fragmented red cells from mechanical shearing in microangiopathic hemolysis such as TTP or DIC.",
+          "C": "Target cells are seen in thalassemia, liver disease and hemoglobin C, reflecting excess membrane relative to volume, not oxidative hemolysis.",
+          "E": "Spherocytes can appear in G6PD deficiency, but the characteristic morphology from splenic removal of Heinz bodies is the bite cell; spherocytes typify hereditary spherocytosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-245_37_p16_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Pyruvate kinase deficiency is autosomal recessive. Because mature RBCs lack mitochondria, they depend on glycolysis for ATP; without pyruvate kinase, ATP falls, membrane ion pumps fail, and cells become rigid, echinocytic, and prone to extravascular hemolysis. (Contrast with X-linked recessive G6PD deficiency.)",
         "whyCorrect": "Pyruvate kinase deficiency is autosomal recessive. Because mature RBCs lack mitochondria, they depend on glycolysis for ATP; without pyruvate kinase, ATP falls, membrane ion pumps fail, and cells become rigid, echinocytic, and prone to extravascular hemolysis. (Contrast with X-linked recessive G6PD deficiency.)",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "X-linked dominant inheritance would make every daughter of an affected father affected; pyruvate kinase is encoded by the autosomal PKLR gene.",
+          "C": "Pyruvate kinase deficiency arises from a nuclear gene defect; mitochondrial inheritance applies to mtDNA-encoded genes, and mature red cells lack mitochondria.",
+          "D": "Pyruvate kinase deficiency requires two defective alleles; heterozygous carriers are typically asymptomatic.",
+          "E": "X-linked recessive inheritance describes G6PD deficiency, the other classic red cell enzyme defect, not pyruvate kinase deficiency."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-246_37_p18_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The Rapoport-Luebering shunt diverts 1,3-BPG to 2,3-bisphosphoglycerate via bisphosphoglycerate mutase, at the cost of net ATP from that step. 2,3-BPG binds deoxyhemoglobin and stabilizes the T state, shifting the oxygen dissociation curve rightward to enhance oxygen delivery to tissues, especially at altitude or in chronic anemia.",
         "whyCorrect": "The Rapoport-Luebering shunt diverts 1,3-BPG to 2,3-bisphosphoglycerate via bisphosphoglycerate mutase, at the cost of net ATP from that step. 2,3-BPG binds deoxyhemoglobin and stabilizes the T state, shifting the oxygen dissociation curve rightward to enhance oxygen delivery to tissues, especially at altitude or in chronic anemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Methemoglobin is reduced by NADH-cytochrome b5 reductase, not by the product of the Rapoport-Luebering shunt.",
+          "B": "The shunt bypasses an ATP-generating step (phosphoglycerate kinase), so it costs rather than produces ATP.",
+          "C": "NADPH for antioxidant defense comes from the pentose phosphate pathway via G6PD, not from the Rapoport-Luebering shunt.",
+          "D": "Lactate production by lactate dehydrogenase regenerates NAD+ at the end of glycolysis, separate from the 1,3-BPG side branch."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-247_37_p20_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Enzyme (1) is glucose-6-phosphatase, the only step allowing the liver to release free glucose from both glycogenolysis and gluconeogenesis. Its deficiency (von Gierke, type I) causes severe fasting hypoglycemia, hepatomegaly, lactic acidosis, hyperuricemia, and hyperlipidemia, since glucose 6-phosphate cannot be dephosphorylated for export.",
         "whyCorrect": "Enzyme (1) is glucose-6-phosphatase, the only step allowing the liver to release free glucose from both glycogenolysis and gluconeogenesis. Its deficiency (von Gierke, type I) causes severe fasting hypoglycemia, hepatomegaly, lactic acidosis, hyperuricemia, and hyperlipidemia, since glucose 6-phosphate cannot be dephosphorylated for export.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cori disease (type III) is debranching enzyme deficiency, causing milder hypoglycemia with abnormal short-branched glycogen and normal lactate.",
+          "B": "McArdle disease (type V) is muscle glycogen phosphorylase deficiency, causing exercise intolerance and myoglobinuria, not fasting hypoglycemia.",
+          "C": "Andersen disease (type IV) is branching enzyme deficiency, causing abnormal long-chain glycogen and early cirrhosis.",
+          "D": "Pompe disease (type II) is lysosomal acid α-glucosidase deficiency, causing cardiomegaly and hypotonia without hypoglycemia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-248_37_p4_1.png",

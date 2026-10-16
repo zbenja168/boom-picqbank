@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "First-degree relatives (parents, siblings, children) share ~50% of genes, second-degree ~25%, third-degree ~12.5%, and so on. Labeling relatives by degree relative to the proband is used to assess recurrence risk and inheritance pattern.",
         "whyCorrect": "First-degree relatives (parents, siblings, children) share ~50% of genes, second-degree ~25%, third-degree ~12.5%, and so on. Labeling relatives by degree relative to the proband is used to assess recurrence risk and inheritance pattern.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Birth order is shown by left-to-right placement of siblings, not by degree symbols.",
+          "B": "The number of affected offspring is shown by shaded symbols, not by degree labels on relatives.",
+          "C": "Generations are marked with Roman numerals on the left of a pedigree, not degree symbols.",
+          "E": "Age at diagnosis is written as a notation below a symbol, such as 'dx 45y', not as a degree symbol."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-047_46_p9_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
         "whyCorrect": "Vertical transmission through every generation with both sexes affected and each affected individual having an affected parent is the hallmark of autosomal dominant inheritance. Male-to-male transmission would further exclude X-linkage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Autosomal recessive traits typically skip generations and appear in offspring of unaffected carrier parents.",
+          "B": "X-linked recessive traits affect mostly males, transmitted through unaffected carrier mothers, without vertical male-to-male transmission.",
+          "C": "Mitochondrial traits pass only from affected mothers, never from affected fathers to their children.",
+          "D": "X-linked dominant inheritance would show affected fathers passing the trait to all daughters and no sons, not equal transmission to both sexes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-271_46_p11_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
         "whyCorrect": "Two unaffected heterozygous carriers producing affected children, with the trait skipping generations and affecting both sexes, is characteristic of autosomal recessive inheritance. Carrier status (dot) is emphasized because heterozygotes are clinically silent.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Mitochondrial inheritance passes from an affected mother to all her children, and carrier status is not marked this way.",
+          "C": "Autosomal dominant traits appear in every generation with an affected parent, not in children of two unaffected parents.",
+          "D": "Y-linked traits affect only males and pass from father to son, unlike this pattern involving both sexes.",
+          "E": "X-linked dominant traits require an affected parent and appear in every generation, not in one sibship of unaffected parents."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-272_46_p13_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
         "whyCorrect": "An affected male passes his single X to every daughter and his Y to every son, so in X-linked dominant inheritance all daughters and no sons of an affected father are affected. Absence of male-to-male transmission is the key clue.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Autosomal dominant inheritance would allow an affected father to pass the trait to about half of sons and daughters, including male-to-male transmission.",
+          "C": "Autosomal recessive traits do not pass from an affected father to every daughter; the children would usually be unaffected carriers.",
+          "D": "Y-linked traits pass from father to every son and never to daughters, the reverse of this pattern.",
+          "E": "In X-linked recessive inheritance, daughters of an affected father become unaffected carriers rather than being affected themselves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-273_46_p15_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
         "whyCorrect": "In X-linked recessive inheritance an affected male makes all daughters obligate carriers; those carrier daughters then transmit the allele to affected sons. The disorder predominantly affects males and skips through unaffected carrier females, with no male-to-male transmission.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitochondrial disorders pass only from mothers; an affected male would not transmit through his daughters.",
+          "B": "Autosomal dominant traits would make about half of an affected male's children affected, including sons, and carriers would show the trait.",
+          "C": "In X-linked dominant inheritance all daughters of an affected male would be affected, not unaffected carriers.",
+          "D": "Autosomal recessive traits do not show this consistent male predominance transmitted through carrier daughters of affected males."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-274_46_p17_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
         "whyCorrect": "Heteroplasmy is the presence of both mutant and wild-type mtDNA in one cell. Random segregation during division changes the mutant load; disease appears only once the mutant fraction exceeds a tissue-specific threshold for phenotypic expression, as shown by the disease vs normal phenotype branches.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anticipation is worsening severity or earlier onset in successive generations, typical of trinucleotide repeat disorders.",
+          "B": "Homoplasmy means all mitochondrial genomes in a cell are identical, either all mutant or all normal.",
+          "D": "Genomic imprinting is parent-of-origin-specific expression of nuclear genes, not a mix of mitochondrial genotypes.",
+          "E": "Locus heterogeneity means mutations in different genes cause the same phenotype, not mixed mtDNA within a cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-275_46_p7_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Phenylalanine hydroxylase deficiency causes phenylalanine accumulation, producing the classic mousy/musty odor, intellectual disability, microcephaly, seizures, eczema, and hypopigmentation. Management is dietary phenylalanine restriction.",
         "whyCorrect": "Phenylalanine hydroxylase deficiency causes phenylalanine accumulation, producing the classic mousy/musty odor, intellectual disability, microcephaly, seizures, eczema, and hypopigmentation. Management is dietary phenylalanine restriction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Homocystinuria presents with lens dislocation, marfanoid habitus and thrombosis, not a mousy odor with eczema.",
+          "B": "Tyrosinemia type I presents with liver failure, renal tubular dysfunction and a cabbage-like odor, not mousy odor and eczema.",
+          "C": "Maple syrup urine disease presents with sweet-smelling urine, poor feeding and encephalopathy in the newborn period.",
+          "E": "Alkaptonuria causes urine that darkens on standing and later ochronosis and arthritis, with no developmental delay or mousy odor."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-081_47_p8_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "A stretch that keeps a copy number of 2 yet loses heterozygosity indicates both homologs came from one parent (uniparental isodisomy), i.e., copy-neutral LOH. This can unmask a recessive JAK3 mutation by making it homozygous without any change in total copy number.",
         "whyCorrect": "A stretch that keeps a copy number of 2 yet loses heterozygosity indicates both homologs came from one parent (uniparental isodisomy), i.e., copy-neutral LOH. This can unmask a recessive JAK3 mutation by making it homozygous without any change in total copy number.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A hemizygous deletion would lower the total copy number to 1, but the trace stays at 2.",
+          "B": "A balanced reciprocal translocation does not alter copy number or allele balance across a region on SNP array.",
+          "C": "Trisomy 19 would raise the copy number to 3 with allelic ratios shifted to 2:1, not a loss of heterozygosity at copy number 2.",
+          "E": "A segmental duplication would raise the local copy number above 2, which is not seen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-048_48_p2_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "PCR cycles between ~95 C denaturation, annealing, and extension. Taq polymerase, from the thermophile Thermus aquaticus, withstands the denaturation heat, so fresh enzyme need not be added each cycle. This enables the automated thermal cycling shown.",
         "whyCorrect": "PCR cycles between ~95 C denaturation, annealing, and extension. Taq polymerase, from the thermophile Thermus aquaticus, withstands the denaturation heat, so fresh enzyme need not be added each cycle. This enables the automated thermal cycling shown.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Taq polymerase works optimally near 72 °C and survives about 95 °C; working only at 37 °C would make it useless in thermal cycling.",
+          "B": "Taq polymerase synthesizes DNA, not RNA; RNA synthesis requires an RNA polymerase.",
+          "C": "Taq lacks 3'-to-5' proofreading exonuclease activity, which is why it has a relatively high error rate.",
+          "E": "Like all DNA polymerases, Taq requires primers with a free 3'-OH to begin synthesis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-049_48_p6_1.png",

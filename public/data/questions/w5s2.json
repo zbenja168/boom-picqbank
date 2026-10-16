@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "In OTC deficiency, carbamoyl phosphate accumulates and spills into the pyrimidine pathway, raising orotic acid, while citrulline is low because it cannot be made. CPS I deficiency also gives low citrulline but with normal/low orotic acid, distinguishing the two.",
         "whyCorrect": "In OTC deficiency, carbamoyl phosphate accumulates and spills into the pyrimidine pathway, raising orotic acid, while citrulline is low because it cannot be made. CPS I deficiency also gives low citrulline but with normal/low orotic acid, distinguishing the two.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Argininosuccinate lyase deficiency causes elevated citrulline and argininosuccinic acid, not low citrulline.",
+          "B": "Arginase deficiency causes high arginine with progressive spastic diplegia, and citrulline is not low.",
+          "C": "Argininosuccinate synthetase deficiency (citrullinemia) causes markedly elevated citrulline, the opposite of low or absent citrulline.",
+          "E": "CPS I deficiency also lowers citrulline, but orotic acid stays normal or low because carbamoyl phosphate is not produced to overflow."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-030_33_p16_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Phenylacetate conjugates with glutamine to form phenylacetylglutamine, which is excreted renally and removes two nitrogen atoms per molecule, providing an alternate nitrogen-disposal route when the urea cycle is defective.",
         "whyCorrect": "Phenylacetate conjugates with glutamine to form phenylacetylglutamine, which is excreted renally and removes two nitrogen atoms per molecule, providing an alternate nitrogen-disposal route when the urea cycle is defective.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Reducing urease-producing gut bacteria is the role of antibiotics such as rifaximin or neomycin, not of phenylbutyrate conjugation chemistry.",
+          "C": "Arginine supplementation replenishes urea cycle intermediates; this pathway instead bypasses the cycle by excreting nitrogen as phenylacetylglutamine.",
+          "D": "Phenylacetate removes nitrogen by covalent conjugation with glutamine and renal excretion, not by chelating ammonium for bile.",
+          "E": "Phenylbutyrate does not inhibit glutaminase; it removes existing glutamine nitrogen through conjugation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-091_33_p21_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Benzoate combines with glycine to form hippurate (benzoylglycine), which is excreted in urine; this consumes glycine's nitrogen and serves as an ammonia-scavenging therapy in urea cycle disorders.",
         "whyCorrect": "Benzoate combines with glycine to form hippurate (benzoylglycine), which is excreted in urine; this consumes glycine's nitrogen and serves as an ammonia-scavenging therapy in urea cycle disorders.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Glutamine is the conjugation partner of phenylacetate (forming phenylacetylglutamine), not of benzoate.",
+          "B": "Arginine is a urea cycle intermediate used as supplementation, not a conjugate of benzoyl-CoA.",
+          "D": "Alanine carries nitrogen from muscle to liver in the glucose-alanine cycle but does not conjugate with benzoate.",
+          "E": "Aspartate donates the second urea nitrogen in the urea cycle; benzoate conjugates with glycine to form hippurate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-092_33_p21_2.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Glutamine synthetase in muscle and peripheral tissue fixes NH4+ onto glutamate to form glutamine, the main nontoxic carrier of nitrogen in blood. In the liver, mitochondrial glutaminase releases the ammonia again for urea production, while in the kidney it supports acid-base balance.",
         "whyCorrect": "Glutamine synthetase in muscle and peripheral tissue fixes NH4+ onto glutamate to form glutamine, the main nontoxic carrier of nitrogen in blood. In the liver, mitochondrial glutaminase releases the ammonia again for urea production, while in the kidney it supports acid-base balance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Urea is made in the liver, not in muscle; peripheral tissues send nitrogen to the liver for urea synthesis.",
+          "C": "Free ammonium is toxic, and peripheral tissues fix it onto glutamate as glutamine before release into blood.",
+          "D": "Aspartate supplies nitrogen to the urea cycle inside the liver but is not the major interorgan nitrogen carrier from muscle.",
+          "E": "α-Ketoglutarate contains no nitrogen; it accepts amino groups to become glutamate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-210_32_p10_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Intestinal bacteria express urease, which hydrolyzes urea into two molecules of ammonia plus CO2 (source 2). This gut-derived ammonia is a major contributor to the systemic pool, which is why nonabsorbable antibiotics and lactulose are used to lower ammonia in hepatic encephalopathy.",
         "whyCorrect": "Intestinal bacteria express urease, which hydrolyzes urea into two molecules of ammonia plus CO2 (source 2). This gut-derived ammonia is a major contributor to the systemic pool, which is why nonabsorbable antibiotics and lactulose are used to lower ammonia in hepatic encephalopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Adenosine deaminase deaminates adenosine during purine catabolism, a human enzyme with no bacterial urease involvement.",
+          "C": "Histidine and threonine deamination releases ammonia directly through tissue enzymes, not bacterial urea hydrolysis.",
+          "D": "Glutamate dehydrogenase releases ammonia by oxidative deamination in hepatic mitochondria, not via bacterial urease.",
+          "E": "The purine nucleotide cycle in muscle generates ammonia from AMP deamination, independent of urea and bacteria."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-211_32_p12_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "As ammonia rises, glutamine synthetase consumes glutamate (and ATP) to fix NH3 into glutamine. GDH is pushed toward glutamate formation to replenish it, at the expense of alpha-ketoglutarate, slowing the TCA cycle. The ongoing diversion of glutamate lowers the pool available for neurotransmission.",
         "whyCorrect": "As ammonia rises, glutamine synthetase consumes glutamate (and ATP) to fix NH3 into glutamine. GDH is pushed toward glutamate formation to replenish it, at the expense of alpha-ketoglutarate, slowing the TCA cycle. The ongoing diversion of glutamate lowers the pool available for neurotransmission.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "GDH running toward glutamate consumes rather than generates NAD(P)H, and the problem is depletion of α-ketoglutarate and glutamate, not reducing-equivalent excess.",
+          "B": "Hyperammonemia drives glutamine synthesis from glutamate, depleting rather than flooding the synapse with glutamate.",
+          "D": "Ammonia is not a direct glutamate receptor blocker; its effect on neurotransmission comes from diversion of glutamate into glutamine.",
+          "E": "Neurons lack a complete urea cycle, so ammonia cannot be converted to urea in the brain, and acetylcholine is not consumed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-212_32_p14_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "After transamination/deamination, the liberated nitrogen enters the urea cycle to form urea for excretion. The carbon skeleton is used for energy or storage, while the nitrogen atoms can also be reused to build nitrogen-containing biomolecules such as heme and nucleotide bases.",
         "whyCorrect": "After transamination/deamination, the liberated nitrogen enters the urea cycle to form urea for excretion. The carbon skeleton is used for energy or storage, while the nitrogen atoms can also be reused to build nitrogen-containing biomolecules such as heme and nucleotide bases.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amino acid carbon skeletons can be converted to fatty acids, but the nitrogen group cannot be stored that way.",
+          "B": "Nitrogen can be reused to build heme and nucleotide bases, but excess amino nitrogen is ultimately disposed of as urea.",
+          "D": "Ammonia is not excreted in bile; it is toxic and is converted to urea for renal excretion.",
+          "E": "Carbon skeletons are stored or oxidized for energy after the nitrogen is removed; nitrogen itself is not incorporated into fuel stores."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-213_32_p4_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Transaminases transfer an amino group between an amino acid and an alpha-keto acid and depend on pyridoxal phosphate (PLP, from vitamin B6). Glutamate dehydrogenase uses NAD(P)+, glutamine synthetase uses ATP, and glutaminase simply hydrolyzes glutamine.",
         "whyCorrect": "Transaminases transfer an amino group between an amino acid and an alpha-keto acid and depend on pyridoxal phosphate (PLP, from vitamin B6). Glutamate dehydrogenase uses NAD(P)+, glutamine synthetase uses ATP, and glutaminase simply hydrolyzes glutamine.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Glutaminase simply hydrolyzes glutamine's amide to release ammonia and needs no PLP.",
+          "B": "Glutamate dehydrogenase uses NAD+ or NADP+ for oxidative deamination, not PLP.",
+          "C": "CPS I uses ATP and bicarbonate and is allosterically activated by N-acetylglutamate; it is not PLP-dependent.",
+          "D": "Glutamine synthetase uses ATP to fix ammonia onto glutamate and does not require PLP."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-214_32_p6_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Glucagon, released during fasting, stimulates hepatic amino acid degradation. The carbon skeletons feed gluconeogenesis to release glucose, while the liberated nitrogen (NH4+) is channeled into the urea cycle for disposal. Insulin would promote the opposite, anabolic state.",
         "whyCorrect": "Glucagon, released during fasting, stimulates hepatic amino acid degradation. The carbon skeletons feed gluconeogenesis to release glucose, while the liberated nitrogen (NH4+) is channeled into the urea cycle for disposal. Insulin would promote the opposite, anabolic state.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Cortisol also promotes gluconeogenesis and protein breakdown, but it acts slowly via gene expression and mainly mobilizes muscle protein, not the acute fasting hepatic response.",
+          "C": "Epinephrine acts in acute stress, mainly on glycogenolysis and lipolysis, rather than driving hepatic amino acid catabolism during fasting.",
+          "D": "Insulin is anabolic and suppresses amino acid degradation and gluconeogenesis, the opposite of what is shown.",
+          "E": "Growth hormone is anabolic for protein, promoting amino acid uptake and synthesis rather than hepatic amino acid degradation and urea production."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-215_33_p10_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
         "whyCorrect": "In the glucose-alanine (Cahill) cycle, muscle transaminates pyruvate to alanine using ALT, exporting both carbon and nitrogen to the liver. The liver reconverts alanine to pyruvate for gluconeogenesis and channels the nitrogen into urea. This differs from the Cori cycle, which shuttles lactate rather than alanine and carries no nitrogen.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The Cori cycle shuttles lactate from muscle to liver and back as glucose; lactate carries no nitrogen, so it cannot export muscle nitrogen.",
+          "C": "The urea cycle is a hepatic pathway that converts ammonia to urea; it does not shuttle carbon and nitrogen between muscle and liver.",
+          "D": "The citric acid cycle oxidizes acetyl-CoA within mitochondria of a single cell and is not an interorgan exchange of alanine and glucose.",
+          "E": "The malate-aspartate shuttle moves reducing equivalents across the inner mitochondrial membrane within one cell, not between muscle and liver."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-216_33_p11_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The Cahill cycle shuttles alanine, carrying the nitrogen (N) group along with a three-carbon skeleton from muscle to the liver, where the nitrogen enters urea. The Cori cycle instead shuttles lactate and moves no nitrogen. Both return glucose to the muscle.",
         "whyCorrect": "The Cahill cycle shuttles alanine, carrying the nitrogen (N) group along with a three-carbon skeleton from muscle to the liver, where the nitrogen enters urea. The Cori cycle instead shuttles lactate and moves no nitrogen. Both return glucose to the muscle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Nitrogen moves from muscle to liver in the Cahill cycle, where it enters urea; the liver returns glucose, not nitrogen, to muscle.",
+          "C": "Anaerobic glycolysis is linked to the Cori cycle and lactate; the Cahill cycle operates whenever muscle degrades amino acids, as in fasting.",
+          "D": "Alanine reaching the liver is converted to pyruvate and then to glucose through gluconeogenesis, so the cycle depends on gluconeogenesis rather than bypassing it.",
+          "E": "Transporting lactate defines the Cori cycle; the Cahill cycle carries alanine, an amino acid that also carries nitrogen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-217_33_p12_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "In ornithine transcarbamylase (OTC) deficiency the blocked urea cycle raises carbamoyl phosphate, which diverts into pyrimidine synthesis and appears as orotic acid; unlike hereditary orotic aciduria it produces hyperammonemia and lacks megaloblastic anemia.",
         "whyCorrect": "In ornithine transcarbamylase (OTC) deficiency the blocked urea cycle raises carbamoyl phosphate, which diverts into pyrimidine synthesis and appears as orotic acid; unlike hereditary orotic aciduria it produces hyperammonemia and lacks megaloblastic anemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Elevated uric acid is not a distinguishing feature of either OTC deficiency or hereditary orotic aciduria, both of which involve pyrimidine rather than purine overflow.",
+          "B": "Megaloblastic anemia responsive to uridine is the feature of hereditary orotic aciduria, the comparison disorder, not of OTC deficiency.",
+          "C": "OTC deficiency is managed with protein restriction, nitrogen scavengers and arginine or citrulline supplementation, so it is not unresponsive to dietary therapy.",
+          "E": "The problem in OTC deficiency is carbamoyl phosphate overflow into de novo pyrimidine synthesis, not a defect in pyrimidine salvage enzymes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-218_33_p18_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The pool is in constant flux: inputs (protein turnover and dietary intake) are balanced by outputs (protein synthesis, nonprotein nitrogen compounds, and catabolism to fuels and urea), so its concentration stays stable despite ongoing exchange.",
         "whyCorrect": "The pool is in constant flux: inputs (protein turnover and dietary intake) are balanced by outputs (protein synthesis, nonprotein nitrogen compounds, and catabolism to fuels and urea), so its concentration stays stable despite ongoing exchange.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pool is not a one-way flow; amino acids enter from diet and protein turnover and leave for synthesis, nitrogen compounds and catabolism.",
+          "B": "The pool contains both essential and nonessential amino acids and is supplied largely by endogenous protein turnover, not diet alone.",
+          "C": "Many amino acids are interconverted through transamination and other reactions, and the pool exchanges constantly rather than being fixed.",
+          "D": "The body has no dedicated amino acid storage organelle; in starvation amino acids come from breakdown of functional proteins, mainly muscle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-219_33_p3_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Ornithine transcarbamylase deficiency is the only X-linked urea cycle disorder; it produces hyperammonemia with elevated orotic acid and no megaloblastic anemia.",
         "whyCorrect": "Ornithine transcarbamylase deficiency is the only X-linked urea cycle disorder; it produces hyperammonemia with elevated orotic acid and no megaloblastic anemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "No urea cycle disorder is Y-linked; Y-linked inheritance would affect only males and pass father to son, which OTC deficiency does not.",
+          "B": "OTC is a mitochondrial enzyme but is encoded by a nuclear gene on the X chromosome, so it is not maternally inherited through mtDNA.",
+          "C": "Most other urea cycle defects, such as CPS I and argininosuccinate synthetase deficiency, are autosomal recessive, but OTC is the X-linked exception.",
+          "D": "No major urea cycle enzyme deficiency follows autosomal dominant inheritance; OTC deficiency is X-linked, though some heterozygous females show symptoms."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-220_33_p6_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Fumarate from the urea cycle enters the TCA cycle and is converted to malate then oxaloacetate; transamination by AST regenerates aspartate, which donates the second nitrogen of urea, coupling the two cycles.",
         "whyCorrect": "Fumarate from the urea cycle enters the TCA cycle and is converted to malate then oxaloacetate; transamination by AST regenerates aspartate, which donates the second nitrogen of urea, coupling the two cycles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pyrimidine synthesis connects to the urea cycle through carbamoyl phosphate overflow, not through fumarate.",
+          "B": "The pentose phosphate pathway branches from glucose-6-phosphate to make NADPH and ribose; fumarate does not enter it.",
+          "C": "Beta-oxidation breaks down fatty acyl-CoA to acetyl-CoA and does not use fumarate as an input.",
+          "D": "Fumarate is a four-carbon TCA intermediate; it reaches glucose only via malate and oxaloacetate in gluconeogenesis, not by entering glycolysis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-221_33_p8_1.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Sulfonylureas close the ATP-sensitive K+ channel, mimicking the effect of high intracellular ATP. The resulting depolarization opens voltage-gated Ca2+ channels, and the calcium influx triggers insulin granule fusion and exocytosis.",
         "whyCorrect": "Sulfonylureas close the ATP-sensitive K+ channel, mimicking the effect of high intracellular ATP. The resulting depolarization opens voltage-gated Ca2+ channels, and the calcium influx triggers insulin granule fusion and exocytosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sulfonylureas do not increase mitochondrial ATP production; they mimic the effect of high ATP by closing K-ATP channels directly.",
+          "B": "Glucose uptake through GLUT2 is not enhanced by sulfonylureas; the drug acts downstream at the SUR1 subunit of the K-ATP channel.",
+          "C": "Voltage-gated Ca2+ channels open secondarily, in response to depolarization after K-ATP channel closure, not by direct drug binding.",
+          "D": "Insulin exocytosis triggered by sulfonylureas still depends on calcium influx; the drug does not bypass the calcium step."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-089_28_p3_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Adipose tissue lacks glycerol kinase, so glycerol released during lipolysis travels to the liver, the only major site of glycerol kinase. There it is phosphorylated to glycerol 3-phosphate, which can feed gluconeogenesis (via DHAP) when glucose is scarce or triglyceride synthesis when glucose is abundant.",
         "whyCorrect": "Adipose tissue lacks glycerol kinase, so glycerol released during lipolysis travels to the liver, the only major site of glycerol kinase. There it is phosphorylated to glycerol 3-phosphate, which can feed gluconeogenesis (via DHAP) when glucose is scarce or triglyceride synthesis when glucose is abundant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Glycerol 3-phosphate dehydrogenase converts glycerol 3-phosphate to DHAP, not glycerol to glucose, and muscle is not a significant gluconeogenic tissue.",
+          "C": "Muscle has little glycerol kinase and does not export glycerol 3-phosphate into blood; glycerol itself travels to the liver.",
+          "D": "The kidney does have some glycerol kinase, but the figure restricts it to the liver, the main site where glycerol enters gluconeogenesis.",
+          "E": "Adipocytes lack significant glycerol kinase, which is why lipolysis-released glycerol must be sent to the liver for use."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-183_27_p10_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The figure depicts the fed-state anabolic program: hepatic glycogen and fatty acid synthesis, muscle glucose uptake via GLUT4 with glycogen and protein synthesis, and adipocyte triglyceride storage. This coordinated fuel-storage response is the signature of insulin.",
         "whyCorrect": "The figure depicts the fed-state anabolic program: hepatic glycogen and fatty acid synthesis, muscle glucose uptake via GLUT4 with glycogen and protein synthesis, and adipocyte triglyceride storage. This coordinated fuel-storage response is the signature of insulin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Glucagon is a fasting hormone that drives glycogenolysis, gluconeogenesis and lipolysis, the opposite of the fed-state storage shown.",
+          "B": "Epinephrine is a catabolic stress hormone that mobilizes glycogen and fat rather than storing them.",
+          "D": "Cortisol is catabolic in muscle (proteolysis) and promotes gluconeogenesis, rather than driving protein synthesis and fuel storage across all three tissues.",
+          "E": "Growth hormone promotes protein synthesis but is lipolytic and anti-insulin in adipose tissue, so it does not drive triglyceride storage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-184_27_p12_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Skeletal muscle lacks glucagon receptors, so it does not respond to glucagon. Glucagon acts mainly on the liver (glycogenolysis, gluconeogenesis) and adipose tissue (lipolysis) to raise blood glucose during fasting, exactly the selective pattern shown.",
         "whyCorrect": "Skeletal muscle lacks glucagon receptors, so it does not respond to glucagon. Glucagon acts mainly on the liver (glycogenolysis, gluconeogenesis) and adipose tissue (lipolysis) to raise blood glucose during fasting, exactly the selective pattern shown.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thyroxine raises metabolic rate in nearly all tissues, including skeletal muscle, so it would not spare muscle.",
+          "C": "Insulin promotes fuel storage rather than mobilization, and skeletal muscle is a major insulin target via GLUT4.",
+          "D": "Epinephrine acts strongly on skeletal muscle through β2 receptors, triggering glycogenolysis, so muscle would respond.",
+          "E": "Cortisol acts on skeletal muscle to promote proteolysis and amino acid release, so muscle would not be unresponsive."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-185_27_p14_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Glucagon raises cAMP and activates PKA, which phosphorylates and activates hormone-sensitive lipase to break TG into glycerol and fatty acids. Insulin opposes this by activating protein phosphatase, dephosphorylating and inactivating the lipase, so lipolysis is suppressed and fat is stored.",
         "whyCorrect": "Glucagon raises cAMP and activates PKA, which phosphorylates and activates hormone-sensitive lipase to break TG into glycerol and fatty acids. Insulin opposes this by activating protein phosphatase, dephosphorylating and inactivating the lipase, so lipolysis is suppressed and fat is stored.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Raising cAMP and activating PKA is the glucagon and catecholamine mechanism; insulin lowers cAMP via phosphodiesterase activation.",
+          "B": "Insulin increases GLUT4 translocation in adipocytes, promoting glycerol 3-phosphate production for triglyceride storage.",
+          "C": "Phosphorylation activates hormone-sensitive lipase, but that is PKA's action; insulin promotes dephosphorylation and inactivation.",
+          "D": "Insulin does activate lipoprotein lipase, but LPL hydrolyzes circulating lipoprotein triglyceride outside the cell and does not regulate hormone-sensitive lipase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-186_27_p16_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Reciprocal regulation lets a single covalent modification switch the cell between storage and breakdown. Glucagon (cAMP/PKA) phosphorylates glycogen synthase to inactivate it (stopping synthesis) while phosphorylating phosphorylase kinase to activate the cascade that turns on glycogen phosphorylase (promoting degradation). Insulin's protein phosphatase reverses both.",
         "whyCorrect": "Reciprocal regulation lets a single covalent modification switch the cell between storage and breakdown. Glucagon (cAMP/PKA) phosphorylates glycogen synthase to inactivate it (stopping synthesis) while phosphorylating phosphorylase kinase to activate the cascade that turns on glycogen phosphorylase (promoting degradation). Insulin's protein phosphatase reverses both.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Phosphorylation activates phosphorylase kinase but inactivates glycogen synthase, so it shuts down, rather than doubles, glycogen synthesis.",
+          "B": "If both were inactivated, glucagon could not drive glycogenolysis; phosphorylation turns the breakdown cascade on.",
+          "C": "Both glycogen synthase and phosphorylase kinase are phosphorylated by PKA; the opposite effects come from how each enzyme responds.",
+          "E": "Insulin acts mainly through protein phosphatase-1 to dephosphorylate these enzymes, opposing rather than duplicating glucagon's effect."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-187_27_p18_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Epinephrine mobilizes fuels during acute stress regardless of blood glucose: it drives hepatic and muscle glycogenolysis, adipose lipolysis, and shifts pancreatic islet output toward glucagon while suppressing insulin. Note muscle glycogen yields pyruvate/lactate (muscle lacks glucose-6-phosphatase), a hallmark distinguishing it from a purely glucose-exporting response.",
         "whyCorrect": "Epinephrine mobilizes fuels during acute stress regardless of blood glucose: it drives hepatic and muscle glycogenolysis, adipose lipolysis, and shifts pancreatic islet output toward glucagon while suppressing insulin. Note muscle glycogen yields pyruvate/lactate (muscle lacks glucose-6-phosphatase), a hallmark distinguishing it from a purely glucose-exporting response.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Glucagon cannot act on skeletal muscle because muscle lacks glucagon receptors, and it does not itself regulate glucagon secretion.",
+          "C": "Cortisol mobilizes fuel through slower transcriptional effects and is not the acute hormone that suppresses insulin while stimulating glucagon release.",
+          "D": "Insulin promotes fuel storage and suppresses mobilization from liver, muscle and fat, the opposite of the pattern shown.",
+          "E": "Aldosterone regulates sodium and potassium handling in the kidney and does not mobilize glycogen or fat."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-188_27_p20_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "During an overnight fast insulin falls and glucagon rises (low ratio). Glucagon/PKA activates hormone-sensitive lipase and phosphorylates glycogen synthase (inactivating it). Dietary fat is absent so chylomicrons fall, and PFK-2 kinase activity is inhibited (phosphatase favored), slowing hepatic glycolysis. Only row B shows all of these trends.",
         "whyCorrect": "During an overnight fast insulin falls and glucagon rises (low ratio). Glucagon/PKA activates hormone-sensitive lipase and phosphorylates glycogen synthase (inactivating it). Dietary fat is absent so chylomicrons fall, and PFK-2 kinase activity is inhibited (phosphatase favored), slowing hepatic glycolysis. Only row B shows all of these trends.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "One pattern does match fasting: low insulin:glucagon, active HSL, phosphorylated (inactive) glycogen synthase, low chylomicrons and low PFK-2 kinase.",
+          "C": "A high insulin:glucagon ratio with high chylomicrons is a fed state, and active HSL contradicts insulin's suppression of lipolysis.",
+          "D": "High insulin:glucagon, low HSL, active glycogen synthase, high chylomicrons and high PFK-2 kinase describe the fed, absorptive state.",
+          "E": "Low HSL activity contradicts the low insulin:glucagon ratio of fasting, and high chylomicrons would not be present after an overnight fast."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-189_27_p27_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Rising AMP (energy depletion), Ca2+-calmodulin (from the nerve impulse triggering contraction), and epinephrine (cAMP/PKA to phosphorylase kinase) all activate glycogen phosphorylase. This ensures glycogenolysis matches contractile energy demand, releasing glucose-1-phosphate for glycolysis within the muscle; insulin promotes the reverse (inactivation).",
         "whyCorrect": "Rising AMP (energy depletion), Ca2+-calmodulin (from the nerve impulse triggering contraction), and epinephrine (cAMP/PKA to phosphorylase kinase) all activate glycogen phosphorylase. This ensures glycogenolysis matches contractile energy demand, releasing glucose-1-phosphate for glycolysis within the muscle; insulin promotes the reverse (inactivation).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Muscle lacks glucose-6-phosphatase, so glucose from glycogenolysis stays in the muscle cell and cannot be exported to raise blood glucose.",
+          "C": "Glycogen phosphorylase and glycogen synthase are separate enzymes; signals change phosphorylase activity but do not convert one enzyme into the other.",
+          "D": "Activating glycogenolysis feeds glycolysis to support contraction; it does not block glycolysis, and lactate can rise during intense exercise.",
+          "E": "All three inputs activate glycogen phosphorylase during contraction; inactivation at rest is promoted by insulin and falling AMP and calcium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-190_27_p6_1.png",
@@ -357,7 +402,7 @@
       "id": "bopic-191",
       "topicId": "boom-cell-signaling-in-context-fed-and-fasting-metabolic-state",
       "topicName": "BOOM: Cell Signaling in Context: Fed and Fasting Metabolic State",
-      "stem": "The enzyme shown catalyzes a reversible reaction between glycerol and glycerol 3-phosphate. Under which hormonal condition is the RIGHTWARD (glycerol 3-phosphate-forming) direction favored?",
+      "stem": "The enzyme shown phosphorylates glycerol to glycerol 3-phosphate in the liver. Flux through this enzyme supplies the liver with a gluconeogenic substrate chiefly under which condition?",
       "choices": [
         {
           "label": "A",
@@ -382,9 +427,14 @@
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "Glycerol kinase drives glycerol toward glycerol 3-phosphate when glucagon predominates and ATP is high from beta-oxidation; hormone-sensitive lipase releases glycerol from adipocyte triglyceride, pushing the reaction rightward. Insulin and high DHAP favor the reverse (glycerol-forming) direction.",
-        "whyCorrect": "Glycerol kinase drives glycerol toward glycerol 3-phosphate when glucagon predominates and ATP is high from beta-oxidation; hormone-sensitive lipase releases glycerol from adipocyte triglyceride, pushing the reaction rightward. Insulin and high DHAP favor the reverse (glycerol-forming) direction.",
-        "whyWrongByChoice": {}
+        "summary": "In the glucagon-dominant fasting state, hormone-sensitive lipase releases glycerol from adipose triglyceride. Adipocytes lack glycerol kinase, so the glycerol travels to the liver, where glycerol kinase (an ATP-driven, effectively one-way step) forms glycerol 3-phosphate, which is oxidized to DHAP and fed into gluconeogenesis.",
+        "whyCorrect": "In the glucagon-dominant fasting state, hormone-sensitive lipase releases glycerol from adipose triglyceride. Adipocytes lack glycerol kinase, so the glycerol travels to the liver, where glycerol kinase (an ATP-driven, effectively one-way step) forms glycerol 3-phosphate, which is oxidized to DHAP and fed into gluconeogenesis.",
+        "whyWrongByChoice": {
+          "A": "Skeletal muscle has very little glycerol kinase, and high glycolytic flux consumes glucose; it does not feed glycerol into hepatic gluconeogenesis.",
+          "C": "Glycerol kinase consumes ATP, and DHAP is downstream of glycerol 3-phosphate; neither high DHAP nor low ATP drives glycerol into gluconeogenesis.",
+          "D": "After a meal with an insulin surge, the liver stores rather than makes glucose; hepatic glycerol 3-phosphate then goes to triglyceride synthesis, not gluconeogenesis.",
+          "E": "In the insulin-dominant fed state lipolysis is suppressed, so little glycerol reaches the liver and gluconeogenesis is turned down; any glycerol 3-phosphate is used to build triglycerides."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-191_27_p9_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Because ATP concentrations are large and AMP concentrations are tiny, adenylate kinase amplifies energy deficits: a modest ATP drop yields a large proportional AMP increase, making AMP a sensitive low-energy sensor that stimulates PFK-1, glycogen phosphorylase, and AMPK.",
         "whyCorrect": "Because ATP concentrations are large and AMP concentrations are tiny, adenylate kinase amplifies energy deficits: a modest ATP drop yields a large proportional AMP increase, making AMP a sensitive low-energy sensor that stimulates PFK-1, glycogen phosphorylase, and AMPK.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "AMP has only one phosphate, joined by a low-energy ester bond, so it cannot serve as a high-energy phosphate donor.",
+          "B": "ATPases hydrolyze ATP, not AMP; AMP is the most dephosphorylated product and carries no usable phosphoanhydride bond.",
+          "D": "AMP activates PFK-1 and glycolysis to generate ATP; it does not inhibit glycolysis.",
+          "E": "A rise in AMP signals energy depletion and activates AMPK to turn off storage pathways, the opposite of an energy-replete signal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-192_28_p10_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "During exercise, ATP is buffered and only drops modestly, but the small absolute pools of ADP and AMP rise noticeably. This disproportionate AMP increase serves as a sensitive signal that activates energy-generating pathways.",
         "whyCorrect": "During exercise, ATP is buffered and only drops modestly, but the small absolute pools of ADP and AMP rise noticeably. This disproportionate AMP increase serves as a sensitive signal that activates energy-generating pathways.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Exercise consumes ATP, so ATP does not rise; the falling energy charge is reflected by rising ADP and AMP.",
+          "C": "ATP falls slightly during exercise rather than rising, while the small ADP and AMP pools rise disproportionately.",
+          "D": "ADP and AMP rise noticeably during exercise even though ATP is buffered by creatine phosphate and adenylate kinase.",
+          "E": "AMP rises during exercise via adenylate kinase, and ATP does not increase."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-193_28_p11_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "After blood glucose rises, glucose enters the beta-cell via GLUT2, is oxidatively catabolized to raise ATP, which inhibits K+ channels, depolarizes the membrane, opens Ca2+ channels, and triggers insulin secretion. GLUT2 uptake is the first step in this ordered cascade.",
         "whyCorrect": "After blood glucose rises, glucose enters the beta-cell via GLUT2, is oxidatively catabolized to raise ATP, which inhibits K+ channels, depolarizes the membrane, opens Ca2+ channels, and triggers insulin secretion. GLUT2 uptake is the first step in this ordered cascade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Calcium channels open only after ATP rises, K-ATP channels close and the membrane depolarizes, several steps later.",
+          "C": "ATP rises only after glucose has entered via GLUT2 and been metabolized, so it is not the immediate next event.",
+          "D": "K-ATP channel inhibition requires the ATP rise from glucose metabolism and comes after GLUT2 uptake.",
+          "E": "Depolarization follows closure of K-ATP channels, well after glucose has entered the beta cell."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-194_28_p5_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Preproinsulin loses its signal sequence to become proinsulin; proteolytic cleavage of proinsulin removes the connecting C-peptide, yielding mature insulin (chains A and B joined by disulfide bonds). C-peptide is co-secreted and used to gauge endogenous insulin production.",
         "whyCorrect": "Preproinsulin loses its signal sequence to become proinsulin; proteolytic cleavage of proinsulin removes the connecting C-peptide, yielding mature insulin (chains A and B joined by disulfide bonds). C-peptide is co-secreted and used to gauge endogenous insulin production.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The disulfide bonds linking the A and B chains are preserved in mature insulin and are not released as a byproduct.",
+          "C": "Chain A is part of mature insulin, held to chain B by disulfide bonds, and is not discarded.",
+          "D": "The signal sequence is removed in the ER when preproinsulin becomes proinsulin, the earlier step, and has no clinical use as a marker.",
+          "E": "Chain B is part of active insulin; glucagon is a separate peptide from alpha cells, derived from proglucagon."
+        }
       },
       "difficulty": "medium",
       "imageRef": "bopic-195_28_p6_1.png",
